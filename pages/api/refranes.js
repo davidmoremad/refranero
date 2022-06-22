@@ -1,17 +1,5 @@
-import fs from 'fs'
+import ReadJsonFile from '../../utils/reader';
 
-export function ReadJsonFile(filePath) {
-    return new Promise((resolve, reject) => {
-        fs.readFile(filePath, (err, data) => {
-            if (err) {
-                reject(err);
-            } else {
-                return resolve(JSON.parse(data));
-            }
-        });
-    });
-  }
-  
 export default function handler(req, res) {
     const quotes = ReadJsonFile('refranes.json');
     quotes
