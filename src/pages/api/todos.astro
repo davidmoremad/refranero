@@ -1,0 +1,8 @@
+---
+import { refranero } from "../../constants/refranes.js";
+
+const refranes = refranero;
+return new Response(JSON.stringify(refranes), {
+    headers: { "content-type": "application/json; charset=utf-8" },
+});
+---

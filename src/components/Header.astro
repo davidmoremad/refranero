@@ -1,0 +1,23 @@
+---
+import HeaderButton from "./HeaderButton.astro";
+---
+
+<header class="py-8 px-4 mx-auto max-w-3xl 1g:py-16 lg:px-6">
+    <div class="mx-auto text-center mb-8 lg:mb-16">
+        <section class="my-10">
+            <h2 class="mb-4 text-6xl tracking-tight font-extrabold text-black">
+                Refranero Español
+            </h2>
+            <p class="font-light Otext-gray-500 sm:text-lg Udark:text-gray-400">
+                Toda la herencia y sabiduría popular en unas pocas palabras.
+            </p>
+        </section>
+
+        <nav
+            class="mt-5 flex flex-col items-center justify-center gap-5 w-full text-center md:flex-row"
+        >
+            <HeaderButton href="/todos" text="Todos los refranes" />
+            <HeaderButton href="/aleatorio" text="Refrán aleatorio" />
+        </nav>
+    </div>
+</header>

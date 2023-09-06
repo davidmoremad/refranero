@@ -1,0 +1,9 @@
+---
+import { refranero } from "../../constants/refranes.js";
+
+const refranes = refranero;
+const random = refranes[Math.floor(Math.random() * refranes.length)];
+return new Response(JSON.stringify(random), {
+    headers: { "content-type": "application/json; charset=utf-8" },
+});
+---
