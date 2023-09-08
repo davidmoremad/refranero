@@ -1,10 +1,26 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import BigQuote from "../components/BigQuote.astro";
+import Quote from "../components/Quote.astro";
+import type { Proverb } from "../types/proverb.ts";
+import { PROVERBS_DATA } from "../data/proverbs.js";
 
-const res = await fetch("http://localhost:4321/api/aleatorio");
-const refran = await res.json().then((data) => data["refran"]);
+const refranes = PROVERBS_DATA.slice(0, 4) as Proverb[];
 ---
 
-<Layout title="Refranero Popular Español" />
-<BigQuote>{refran}</BigQuote>
+<Layout title="Refranero Popular Español">
+    <main class="container max-w-3xl mx-auto">
+        {
+            refranes.map((refran) => (
+                <Quote
+                    tags={refran.tags}
+                    meaning={refran.meaning}
+                    type={refran.proverb_type}
+                    usable={refran.usable}
+                    href={`/refran/${refran.id}`}
+                >
+                    {refran.proverb}
+                </Quote>
+            ))
+        }
+    </main>
+</Layout>

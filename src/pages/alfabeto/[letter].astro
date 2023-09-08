@@ -1,0 +1,43 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import Quote from "../../components/Quote.astro";
+import type { Proverb } from "../../types/proverb";
+import { PROVERBS_DATA } from "../../data/proverbs.js";
+
+const refranes = PROVERBS_DATA as Proverb[];
+const { letter } = Astro.params as { letter: string };
+
+const refranesByLetter = refranes.filter((refran) => {
+    const firstLetter = refran.proverb.charAt(0).toUpperCase();
+    return firstLetter === letter;
+});
+
+// Generate static paths for all tags
+export function getStaticPaths() {
+    const alphabet = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ'.split('');
+    return alphabet.map((character) => ({ params: { letter: character } }));
+}
+---
+
+<Layout title="Refranero Popular Español">
+<main class="container max-w-3xl mx-auto">
+    <h1 class="text-7xl lg:text-8xl font-black text-center text-stone-700 mt-3 mb-12">
+        <span class="font-thin text-stone-300">&#123;</span>
+        {letter}
+        <span class="font-thin text-stone-300">&#125;</span>
+    </h1>
+    {
+        refranesByLetter.map((refran) => (
+            <Quote
+                tags={refran.tags}
+                meaning={refran.meaning}
+                type={refran.proverb_type}
+                usable={refran.usable}
+                href={`/refran/${refran.id}`}
+            >
+                {refran.proverb}
+            </Quote>
+        ))
+    }
+</main>
+</Layout>

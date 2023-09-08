@@ -1,0 +1,35 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import BigQuote from "../../components/BigQuote.astro";
+import type { Proverb } from "../../types/proverb";
+import { PROVERBS_DATA } from "../../data/proverbs.js";
+
+const refranes = PROVERBS_DATA as Proverb[];
+const { id } = Astro.params as { id: string };
+
+const refran = refranes.find((refran) => refran.id === id);
+if (!refran) {
+    throw new Error(`Refran ${id} not found`);
+}
+
+// Generate static paths for all tags
+export function getStaticPaths() {
+    const allIds = PROVERBS_DATA.map((refran) => refran.id);
+    return allIds.map((id) => ({ params: { id: id } }));
+}
+---
+
+<Layout title="Refranero Popular Español">
+<main class="container max-w-3xl mx-auto">
+    <BigQuote
+        tags={refran.tags}
+        meaning={refran.meaning}
+        type={refran.proverb_type}
+        usable={refran.usable}
+        comments={refran.comments}
+        observations={refran.observations}
+    >
+        {refran.proverb}
+    </BigQuote>
+</main>
+</Layout>

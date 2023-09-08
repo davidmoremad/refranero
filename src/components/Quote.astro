@@ -1,7 +1,32 @@
-<figure class="text-center max-w-lg mx-auto my-10">
-    <blockquote class="italic font-semibold text-gray-900">
-        <p class="text-stone-700 text-xl">
-            <slot />
-        </p>
-    </blockquote>
-</figure>
+---
+import TagButton from "./TagButton.astro";
+const { tags, meaning, href } = Astro.props;
+---
+
+<article
+    class="w-auto mx-7 p-10 my-6 bg-white border border-gray-200 rounded-lg shadow-lg shadow-stone-400/50"
+>
+    <section class="flex flex-row gap-2 flex-wrap justify-center items-center">
+        {
+            tags.map((tag) => (
+                <TagButton href={`/etiqueta/${tag}`} text={tag} theme="light" />
+            )) ?? ""
+        }
+    </section>
+    <h1
+        class="my-6 text-2xl font-bold tracking-tight text-center text-stone-900"
+    >
+        {
+            href ? (
+                <a href={href}>
+                    <slot />
+                </a>
+            ) : (
+                <slot />
+            )
+        }
+    </h1>
+    <p class="mb-3 font-normal text-neutral-600">
+        {meaning}
+    </p>
+</article>

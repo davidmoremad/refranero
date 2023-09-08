@@ -1,0 +1,31 @@
+---
+import Layout from "../layouts/Layout.astro";
+import Quote from "../components/Quote.astro";
+import type { Proverb } from "../types/proverb.ts";
+import { PROVERBS_DATA } from "../data/proverbs.js";
+
+const refranes = PROVERBS_DATA.slice(0, 4) as Proverb[];
+const alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
+---
+
+<Layout title="Refranero Popular Español">
+    
+    <main class="container max-w-3xl mx-auto">
+        <div class="flex justify-center">
+            <ul class="flex flex-wrap justify-center mx-5">
+                {
+                    alfabeto.map((letra) => (
+                        <li class="mt-5 hover:text-stone-400 hover:scale-150 duration-100">
+                            <a
+                                class="px-1 text-2xl font-black text-stone-700 hover:text-stone-800"
+                                href={`/alfabeto/${letra}`}
+                            >
+                                {letra}
+                            </a>
+                        </li>
+                    ))
+                }
+            </ul>
+        </div>
+    </main>
+</Layout>

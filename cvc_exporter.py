@@ -7,7 +7,7 @@ BASE_URL = DOMAIN + "/lengua/refranero/"
 URL_PROVERB_LIST = BASE_URL + "listado.aspx?letra={letter}"
 URL_PROVERB_BY_ID = BASE_URL + "ficha.aspx?Par={refran_id}&Lng=0"
 PROVERB_LIST_LETTERS = "ABCDEFGHIJLMNOPQRSTUVYZ"
-OUTPUT_PATH = "./src/constants/proverbs.json"
+OUTPUT_PATH = "./src/data/proverbs.json"
 
 
 headers = {
@@ -20,7 +20,7 @@ def get_soup(url):
     return BeautifulSoup(r.text, "html.parser")
 
 
-def get_proverbs_from_letter(letter):
+def list_proverbs_by_char(letter):
     url = URL_PROVERB_LIST.format(letter=letter)
     soup = get_soup(url)
     # find all //ol[@id="lista_az"]/li/a
@@ -30,45 +30,63 @@ def get_proverbs_from_letter(letter):
     ]
 
 
-def _parse_proverb_info(proverb_info):
+def _parse_proverb_info(proverb_info, url):
     parser = {
-        "proverb_type": 0,
-        "language": 1,
-        "proverb": 2,
-        "keys": 3,
-        "meaning": 4,
-        "usable": 5,
-        "observations": 6,
+        "proverb_type": "Tipo: ",
+        "language": "Idioma: ",
+        "proverb": "Enunciado: ",
+        "tags": "Ideas clave: ",
+        "meaning": "Significado: ",
+        "usable": "Marcador de uso: ",
+        "observations": "Observaciones: ",
+        "comments": "Comentario al marcador de uso: ",
     }
-    proverb = {}
-    for key, value in parser.items():
-        if len(proverb_info) > value:
-            proverb[key] = proverb_info[value].text.split(":")[1].strip()
+    output = {}
+    for key, field_text in parser.items():
+        # Find strong by text
+        strong = proverb_info.find("strong", string=field_text)
+        if strong:
+            # Remove strong tag and get text from parent
+            p = strong.parent
+            p.strong.decompose()
+            output[key] = p.text.strip()
+
+            if key == "tags":
+                output[key] = [k.strip() for k in output[key].split("-")]
         else:
-            proverb[key] = ""
-    return proverb
+            output[key] = ""
+
+    output["url"] = url
+    output["id"] = url.split("Par=")[1].split("&")[0]
+
+    return output
 
 
-def get_proverb_info(url):
+def get_proverb(url):
     soup = get_soup(url)
-    proverb_info_div = soup.find_all("div", class_="tabbertab")[0].find_all("p")
-    proverb = _parse_proverb_info(proverb_info_div)
+    proverb_info_div = soup.find("div", class_="tabbertab")
+    proverb = _parse_proverb_info(proverb_info_div, url)
+
+    # Some proverbs urls are empty (https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59628&Lng=0)
+    if "proverb" not in proverb.keys():
+        print(f'[X] Refrán vacío:"{url}"')
+        return None
     return proverb
 
 
 def save_to_json(proverbs):
-    with open(OUTPUT_PATH, "w") as f:
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(proverbs, f, ensure_ascii=False)
 
 
 proverbs = []
 for letter in PROVERB_LIST_LETTERS:
-    print(f"Obteniendo refranes para la letra {letter}")
-    proverbs_urls = get_proverbs_from_letter(letter)
-    for proverb_url in proverbs_urls:
-        print(f"Obteniendo refran {proverb_url}")
-        proverb = get_proverb_info(proverb_url)
-        if proverb["proverb"]:
+    print(f"[+] Obteniendo refranes para la letra {letter}")
+    for proverb_url in list_proverbs_by_char(letter):
+        print(f'[ ] Obteniendo refrán "{proverb_url}"')
+        proverb = get_proverb(proverb_url)
+        if proverb:
             proverbs.append(proverb)
 
 save_to_json(proverbs)
+print(f"[+] Exportado a {OUTPUT_PATH}")
