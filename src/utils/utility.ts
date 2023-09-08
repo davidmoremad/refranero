@@ -38,5 +38,5 @@ export const tagsByFrequency = () => {
       tagsByFrequency[index][1]++
     }
   })
-  return tagsByFrequency
+  return tagsByFrequency.sort((a, b) => a[0].localeCompare(b[0]))
 }

@@ -3,12 +3,8 @@ import Layout from "../layouts/Layout.astro";
 import Quote from "../components/Quote.astro";
 import type { Proverb } from "../types/proverb.ts";
 import { PROVERBS_DATA } from "../data/proverbs.js";
-
 import { getAllTags, tagsByFrequency } from "../utils/utility.ts";
-
 import TagButton from "../components/TagButton.astro";
-
-const etiquetas = getAllTags();
 
 const etiquetasTuples = tagsByFrequency();
 ---
