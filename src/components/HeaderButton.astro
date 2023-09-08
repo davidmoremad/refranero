@@ -6,5 +6,5 @@ const { href, text, classes } = Astro.props;
     href={href}
     class={`bg-stone-300 text-stone-800 rounded px-5 p-2.5 hover:scale-110 flex-grow ${classes}`}
 >
-    {text}
+    <slot>{text}</slot>
 </a>
