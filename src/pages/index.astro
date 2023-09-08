@@ -4,23 +4,35 @@ import Quote from "../components/Quote.astro";
 import type { Proverb } from "../types/proverb.ts";
 import { PROVERBS_DATA } from "../data/proverbs.js";
 
-const refranes = PROVERBS_DATA.slice(0, 4) as Proverb[];
+const refranes = PROVERBS_DATA as Proverb[];
+
+// Thx stackoverflow :D
+var intQuoteCount = refranes.length; // The number of quotes in your library
+var dtNow = new Date();
+var intTZOffset = dtNow.getTimezoneOffset() * 60000; // automatically adjust for user timezone
+var intNow = dtNow.getTime() - intTZOffset;
+var intDay = Math.floor(intNow / 86400000); // The number of 'local' days since Jan 1, 1970
+var intQuoteToDisplay = intDay % intQuoteCount;
+
+const refran = refranes[intQuoteToDisplay];
 ---
 
 <Layout title="Refranero Popular Español">
     <main class="container max-w-3xl mx-auto">
-        {
-            refranes.map((refran) => (
-                <Quote
-                    tags={refran.tags}
-                    meaning={refran.meaning}
-                    type={refran.proverb_type}
-                    usable={refran.usable}
-                    href={`/refran/${refran.id}`}
-                >
-                    {refran.proverb}
-                </Quote>
-            ))
-        }
+        <div class="relative z-10">
+            <h1 class="text-5xl -mb-8 md:text-6xl md:-mb-9 font-black text-stone-300 text-center mx-8">Refrán del día</h1>
+        </div>
+        <div class="relative z-20 rotate-3">
+
+            <Quote
+            tags={refran.tags}
+            meaning={refran.meaning}
+            type={refran.proverb_type}
+            usable={refran.usable}
+            href={`/refran/${refran.id}`}
+            >
+            {refran.proverb}
+        </Quote>
+    </div>
     </main>
 </Layout>
