@@ -9,7 +9,7 @@ import TagButton from "../components/TagButton.astro";
 const etiquetasTuples = tagsByFrequency();
 ---
 
-<Layout title="Refranero Popular Español">
+<Layout title="Refranero Español - Temática" description="Busca refranes según la temática que trate.">
     <main class="container max-w-2xl mx-auto">
         <section
             class="flex flex-row gap-2 flex-wrap justify-center items-center mb-10 mx-3 lg:mx-0"
@@ -48,9 +48,7 @@ const etiquetasTuples = tagsByFrequency();
             <TagButton theme="dark" href="/etiqueta/Oficios" text="Oficios" />
         </section>
 
-        <section
-            class="flex flex-row gap-4 flex-wrap justify-center items-center mx-3 lg:mx-0"
-        >
+        <section class="flex flex-row gap-4 flex-wrap justify-center items-center mx-3 lg:mx-0" role="list">
             {
                 etiquetasTuples.map((etiqueta: [string, number]) => (
                     <TagButton

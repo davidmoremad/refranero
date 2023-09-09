@@ -5,34 +5,37 @@ const { tags, meaning, href, comments, observations, type, usable } = Astro.prop
 
 <article class="w-auto mx-2 p-10 my-6 bg-white border-b-2 border-stone-400 rounded-lg shadow-2xl shadow-stone-400/90" transition:name=`card${href}`>
 
-    <!-- Button to go back to last page-->
-    <a href="javascript:history.back()" class="-mt-3 -mr-6 flex flex-row items-center justify-end gap-2 text-stone-300 hover:text-stone-500 duration-150 text-xl">
-        <!-- X Close svg -->
+    <!-- Close button-->
+    <a href="javascript:history.back()" tabindex="-1" class="-mt-3 -mr-6 flex flex-row items-center justify-end gap-2 text-stone-300 hover:text-stone-500 duration-150 text-xl">
         <svg x="0px" y="0px" width="25" height="25" color="" viewBox="0 0 50 50" fill="currentColor">
             <path d="M 7 4 C 6.744125 4 6.4879687 4.0974687 6.2929688 4.2929688 L 4.2929688 6.2929688 C 3.9019687 6.6839688 3.9019687 7.3170313 4.2929688 7.7070312 L 11.585938 15 L 4.2929688 22.292969 C 3.9019687 22.683969 3.9019687 23.317031 4.2929688 23.707031 L 6.2929688 25.707031 C 6.6839688 26.098031 7.3170313 26.098031 7.7070312 25.707031 L 15 18.414062 L 22.292969 25.707031 C 22.682969 26.098031 23.317031 26.098031 23.707031 25.707031 L 25.707031 23.707031 C 26.098031 23.316031 26.098031 22.682969 25.707031 22.292969 L 18.414062 15 L 25.707031 7.7070312 C 26.098031 7.3170312 26.098031 6.6829688 25.707031 6.2929688 L 23.707031 4.2929688 C 23.316031 3.9019687 22.682969 3.9019687 22.292969 4.2929688 L 15 11.585938 L 7.7070312 4.2929688 C 7.5115312 4.0974687 7.255875 4 7 4 z"></path>
         </svg>
     </a>
 
+    <!-- Tags sections -->
+    <header id="article-header">
     <section class="flex flex-row gap-2 flex-wrap justify-center items-center">
         {tags.map((tag) => (
             <TagButton href={`/etiqueta/${tag}`} text={tag} theme="light" />
             ))
-        ?? ""}
+            ?? ""}
     </section>
-
+    
+    <!-- Title -->
     <h1 class="my-10 text-3xl font-bold tracking-tight text-center text-stone-900" transition:name=`title${href}`>
-        {href ? ( <a href={href}><slot /></a>) : (<slot />)}
+        {href ? ( <a href={href} tabindex="10"><slot /></a>) : (<slot />)}
     </h1>
+    </header>
 
-    <p class="font-normal text-neutral-600 border-b-2 pb-7 mb-7 border-stone-200">
+    <!-- Content -->
+    <p id="article-content" class="font-normal text-neutral-600 border-b-2 pb-7 mb-7 border-stone-200">
         {meaning}
+        <section class="flex flex-col gap-2 text-neutral-700">
+            {type ? <p><strong class="font-bold">Tipo: </strong>{type}</p> : ""}
+            {usable ? <p><strong class="font-bold">Uso: </strong>{usable}</p> : ""}
+            {comments ? <p><strong class="font-bold">Comentarios: </strong>{comments}</p> : ""}
+            {observations ? <p><strong class="font-bold">Observaciones: </strong>{observations}</p> : ""}
+        </section>
     </p>
-
-    <section class="flex flex-col gap-2 text-stone-600">
-        {type ? <p><strong class="font-bold">Tipo: </strong>{type}</p> : ""}
-        {usable ? <p><strong class="font-bold">Uso: </strong>{usable}</p> : ""}
-        {comments ? <p><strong class="font-bold">Comentarios: </strong>{comments}</p> : ""}
-        {observations ? <p><strong class="font-bold">Observaciones: </strong>{observations}</p> : ""}
-    </section>
 
 </article>

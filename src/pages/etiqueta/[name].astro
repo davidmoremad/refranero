@@ -17,8 +17,8 @@ export function getStaticPaths() {
 }
 ---
 
-<Layout title="Refranero Popular Español">
-<main class="container max-w-3xl mx-auto">
+<Layout title={`Refranes de ${name}`} description={filtered[0].proverb}>
+    <main class="container max-w-3xl mx-auto">
     
     <h1 class="text-4xl lg:text-6xl font-black text-center text-stone-700 mt-3 mb-12">
         <span class="font-thin text-stone-300 px-2">&#123;</span>

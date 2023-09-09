@@ -10,7 +10,7 @@ const { tags, meaning, href } = Astro.props;
         )) ?? ""}
     </section>
     <h1 class="my-6 text-2xl font-bold tracking-tight text-center text-stone-900" transition:name=`title${href}`>
-        {href ? (<a href={href}><slot /></a>) : (<slot />)}
+        {href ? (<a href={href} tabindex="10"><slot /></a>) : (<slot />)}
     </h1>
     <p class="mb-3 font-normal text-neutral-600">
         {meaning}
