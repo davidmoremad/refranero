@@ -26,18 +26,24 @@ export function getStaticPaths() {
         {letter}
         <span class="font-thin text-stone-300">&#125;</span>
     </h1>
-    {
-        refranesByLetter.map((refran) => (
-            <Quote
-                tags={refran.tags}
-                meaning={refran.meaning}
-                type={refran.proverb_type}
-                usable={refran.usable}
-                href={`/refran/${refran.id}`}
-            >
-                {refran.proverb}
-            </Quote>
-        ))
-    }
+
+    {refranesByLetter.length === 0 && (
+        <p class="text-center text-stone-500 text-2xl font-thin mx-10">
+            No hay refranes que empiecen por la letra <span class="font-black">{letter}</span>
+        </p>
+    )}
+
+    {refranesByLetter.map((refran) => (
+        <Quote
+            tags={refran.tags}
+            meaning={refran.meaning}
+            type={refran.proverb_type}
+            usable={refran.usable}
+            href={`/refran/${refran.id}`}>
+
+            {refran.proverb}
+
+        </Quote>
+    ))}
 </main>
 </Layout>

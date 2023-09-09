@@ -3,6 +3,9 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { ViewTransitions } from "astro:transitions";
 
+import faviconico from '../public/favicon.ico';
+import siteWebmanifest from '../public/site.webmanifest';
+
 interface Props {
 	title: string;
 }
@@ -16,10 +19,15 @@ const { title } = Astro.props;
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<!-- Favicons -->
+		<link rel="icon" type="image/x-icon" href={faviconico} />
+		<link rel="icon" type="image/png" sizes="16x16" href="/src/public/favicon-16x16.png" />
+		<link rel="icon" type="image/png" sizes="32x32" href="/src/public/favicon-32x32.png" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/src/public/apple-touch-icon.png" />
+		<link rel="manifest" href={siteWebmanifest} />
+
 		<ViewTransitions />
 	</head>
 	<body class="font-serif bg-stone-200">

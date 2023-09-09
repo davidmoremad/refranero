@@ -3,30 +3,14 @@ import TagButton from "./TagButton.astro";
 const { tags, meaning, href } = Astro.props;
 ---
 
-<article
-    class="w-auto mx-7 p-10 my-6 bg-white border border-gray-200 rounded-lg shadow-lg shadow-stone-400/50"
-    transition:name="card"
->
+<article class="w-auto mx-7 p-10 my-6 bg-white border border-gray-200 rounded-lg shadow-lg shadow-stone-400/50" transition:name=`card${href}`>
     <section class="flex flex-row gap-2 flex-wrap justify-center items-center">
-        {
-            tags.map((tag) => (
+        {tags.map((tag) => (
                 <TagButton href={`/etiqueta/${tag}`} text={tag} theme="light" />
-            )) ?? ""
-        }
+        )) ?? ""}
     </section>
-    <h1
-        class="my-6 text-2xl font-bold tracking-tight text-center text-stone-900"
-        transition:name="title"
-    >
-        {
-            href ? (
-                <a href={href}>
-                    <slot />
-                </a>
-            ) : (
-                <slot />
-            )
-        }
+    <h1 class="my-6 text-2xl font-bold tracking-tight text-center text-stone-900" transition:name=`title${href}`>
+        {href ? (<a href={href}><slot /></a>) : (<slot />)}
     </h1>
     <p class="mb-3 font-normal text-neutral-600">
         {meaning}
