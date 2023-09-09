@@ -6,6 +6,11 @@ import { ViewTransitions } from "astro:transitions";
 import faviconico from '../public/favicon.ico';
 import siteWebmanifest from '../public/site.webmanifest';
 
+import favicon16x16 from '../public/favicon-16x16.png';
+import favicon32x32 from '../public/favicon-32x32.png';
+import appleTouchIcon from '../public/apple-touch-icon.png';
+import og_image from '../public/og_image.png';
+
 interface Props {
 	title: string;
 	description: string;
@@ -22,27 +27,33 @@ const { title, description } = Astro.props;
 		<meta name="description" content={description} />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<meta name="generator" content={Astro.generator} />
-		<meta name="author" content="David Amrani Hernandez" />
+		<meta name="author" content="David Amrani (@davidmoremad)" />
 		<meta name="keywords" content="refran, refranero, refranes, proverbio, lenguaje, idioma, español, castellano, dichos, citas, popular" />
 		<meta name="canonical" content={Astro.url} />
 
 		<title>{title}</title>
+
 		<!-- Favicons -->
 		<link rel="icon" type="image/x-icon" href={faviconico} />
-		<link rel="icon" type="image/png" sizes="16x16" href="/src/public/favicon-16x16.png" />
-		<link rel="icon" type="image/png" sizes="32x32" href="/src/public/favicon-32x32.png" />
-		<link rel="apple-touch-icon" sizes="180x180" href="/src/public/apple-touch-icon.png" />
+		<link rel="icon" type="image/png" sizes="16x16" href={favicon16x16.src} />
+		<link rel="icon" type="image/png" sizes="32x32" href={favicon32x32.src} />
+		<link rel="apple-touch-icon" sizes="180x180" href={appleTouchIcon.src} />
 		<link rel="manifest" href={siteWebmanifest} />
 
 		<meta name="theme-color" media="(prefers-color-scheme: light)" content="white" />
 
+		<meta property="og:title" content={title} />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content={Astro.url} />
+		<meta property="og:image" content={og_image.src} />
+		<meta property="og:description" content={description} />
 
 		<ViewTransitions />
 	</head>
 	<body class="font-serif bg-stone-200">
 		<Header />
 		<slot />
-		<Footer />
+		<Footer />		
 		<style is:global>
 			:root {
 				--accent: 136, 58, 234;
