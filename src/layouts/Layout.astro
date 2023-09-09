@@ -9,7 +9,7 @@ import siteWebmanifest from '../public/site.webmanifest';
 import favicon16x16 from '../public/favicon-16x16.png';
 import favicon32x32 from '../public/favicon-32x32.png';
 import appleTouchIcon from '../public/apple-touch-icon.png';
-import og_image from '../public/og_image.png';
+import metaimage from '../public/metaimage.png';
 
 interface Props {
 	title: string;
@@ -45,7 +45,7 @@ const { title, description } = Astro.props;
 		<meta property="og:title" content={title} />
 		<meta property="og:type" content="article" />
 		<meta property="og:url" content={Astro.url} />
-		<meta property="og:image" content={og_image.src} />
+		<meta property="og:image" content={metaimage.src} />
 		<meta property="og:description" content={description} />
 
 		<ViewTransitions />
