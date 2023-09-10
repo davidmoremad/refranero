@@ -23295,7 +23295,8 @@ export const PROVERBS_DATA = [
     meaning: 'Viene a decir que quien tiene miedo debe afrontarlos con atrevimiento, con buenas ganas. Alude a la alegría que produce cantar y a la que se siente al escucharlo.',
     usable: 'En desuso',
     observations: '—Antes he yo oído decir —dijo don Quijote— que quien canta sus males espanta. —Acá es al revés —dijo el galeote—, que quien canta una vez llora toda la vida. —No lo entiendo —dijo don Quijote. (Capt. XXII)',
-    comments: ''
+    comments: '',
+    id: '1'
   },
   {
     proverb_type: 'Refrán',
@@ -23307,7 +23308,8 @@ export const PROVERBS_DATA = [
     meaning: 'Se emplea para indicar que conviene ser claro, poco ambiguo y sincero en las explicaciones, y no andarse con rodeos.',
     usable: 'Muy usado',
     observations: '',
-    comments: ''
+    comments: '',
+    id: '2'
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -23320,7 +23322,8 @@ export const PROVERBS_DATA = [
     meaning: 'Se emplea para indicar que no se debe caer en excesos, ni por exceso ni por defecto.',
     usable: 'Muy usado',
     observations: '',
-    comments: ''
+    comments: '',
+    id: '3'
   },
   {
     proverb_type: 'Refrán',
@@ -23334,7 +23337,8 @@ export const PROVERBS_DATA = [
     meaning: 'Se emplea para indicar que, cuando se trata a alguien con excesiva cortesía, es que se le quiere engañar o perjudicar.',
     usable: 'Poco usado',
     observations: '',
-    comments: 'Se puede decir enunciando sólo la primera parte: Cuando al soldado lo llaman de usted...'
+    comments: 'Se puede decir enunciando sólo la primera parte: Cuando al soldado lo llaman de usted...',
+    id: '4'
   },
   {
     proverb_type: 'Refrán',
@@ -23347,7 +23351,8 @@ export const PROVERBS_DATA = [
     meaning: 'Se emplea para indicar que, cuando se tiene un deseo muy fuerte, se hace lo que sea para conseguirlo.',
     usable: 'Poco usado',
     observations: '',
-    comments: 'Se puede decir enunciando sólo la primera parte: Cuando las ganas de joder aprietan...'
+    comments: 'Se puede decir enunciando sólo la primera parte: Cuando las ganas de joder aprietan...',
+    id: '5'
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -23359,7 +23364,8 @@ export const PROVERBS_DATA = [
     meaning: 'Se emplea para indicar que, cuando en enero hace buen tiempo, no durará mucho.',
     usable: 'Poco usado',
     observations: 'Mes muy frío y seco, de poco sol. Enero suele ser el mes del año con la temperatura media más baja, con fuertes heladas nocturnas.',
-    comments: ''
+    comments: '',
+    id: '6'
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -23371,7 +23377,8 @@ export const PROVERBS_DATA = [
     meaning: 'Se emplea para indicar que, en diciembre, el frío es tan intenso que hasta los más resistentes lo sufren.',
     usable: 'En desuso',
     observations: '',
-    comments: ''
+    comments: '',
+    id: '7'
   },
   {
     proverb_type: 'Aforismo',
@@ -23384,7 +23391,8 @@ export const PROVERBS_DATA = [
     meaning: 'Habla de la importancia de ser bondadoso sin tener en cuenta cómo es la persona a quien se le presta ayuda o se hace un favor. Se trata de hacer el bien de forma desinteresada y sin buscar nada a cambio.',
     usable: 'En desuso',
     observations: '',
-    comments: ''
+    comments: '',
+    id: '8'
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -23395,6 +23403,7 @@ export const PROVERBS_DATA = [
     meaning: 'Se emplea para indicar que, cuando a uno le queda poco tiempo para disfrutar de algo, no le importa hacer lo que le apetece, aunque sea incorrecto.',
     usable: 'Muy usado',
     observations: '',
-    comments: 'Se puede decir enunciando sólo la primera parte: Para lo que me queda en el convento...'
+    comments: 'Se puede decir enunciando sólo la primera parte: Para lo que me queda en el convento...',
+    id: '9'
   }
 ]

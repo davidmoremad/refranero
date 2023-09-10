@@ -9,7 +9,10 @@ const search = Astro.url.searchParams.get('consulta')! || '';
 
 function searchProverbs(query: string) {
     const results = PROVERBS_DATA.filter((proverb) => {
-        return proverb.proverb.toLowerCase().includes(query.toLowerCase());
+        // Remove commas & lowercase & remove accents
+        const proverbText = proverb.proverb.replace(/,/g, '').toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        const queryText = query.replace(/,/g, '').toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        return proverbText.includes(queryText);
     });
     return results;
 }
