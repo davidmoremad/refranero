@@ -3,55 +3,15 @@ import { ViewTransitions } from "astro:transitions";
 
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+import BaseHead from "../components/BaseHead.astro";
 
-import faviconico from '../public/favicon.ico';
-import favicon16x16 from '../public/favicon-16x16.png';
-import favicon32x32 from '../public/favicon-32x32.png';
-import appleTouchIcon from '../public/apple-touch-icon.png';
-import siteWebmanifest from '../public/site.webmanifest';
-import metaimage from '../public/metaimage.png';
-
-interface Props {
-	title: string;
-	description: string;
-}
-
-const { title, description } = Astro.props;
+const { title = "Refranero Español", description = "Listado de refranes y proverbios españoles" } = Astro.props;
 ---
 
 <!doctype html>
 <html lang="es">
 	<head>
-		<meta charset="UTF-8" />
-		<meta name="description" content={description} />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="generator" content={Astro.generator} />
-		<meta name="author" content="David Amrani (@davidmoremad)" />
-		<meta name="keywords" content="refran, refranero, refranes, proverbio, lenguaje, idioma, español, castellano, dichos, citas, popular" />
-		<meta name="canonical" content={`https://refranero-espanol.vercel.app${Astro.url.pathname}`} />
-
-		<title>{title}</title>
-
-		<!-- Favicons -->
-		<link rel="icon" type="image/x-icon" href={faviconico} />
-		<link rel="icon" type="image/png" sizes="16x16" href={favicon16x16.src} />
-		<link rel="icon" type="image/png" sizes="32x32" href={favicon32x32.src} />
-		<link rel="apple-touch-icon" sizes="180x180" href={appleTouchIcon.src} />
-		<link rel="manifest" href={siteWebmanifest} />
-
-		<meta name="theme-color" media="(prefers-color-scheme: light)" content="white" />
-
-		<meta property="og:title" content={title} />
-		<meta property="og:type" content="article" />
-		<meta property="og:url" content={`https://refranero-espanol.vercel.app${Astro.url.pathname}`} />
-		<meta property="og:image" content={metaimage.src} />
-		<meta property="og:description" content={description} />
-
-		<meta name="twitter:image" content={metaimage.src} />
-		<meta name="twitter:card" content="summary_large_image" />
-		<meta name="twitter:title" content={title} />
-		<meta name="twitter:description" content={description} />
-
+		<BaseHead title={title} description={description} />
 		<ViewTransitions />
 	</head>
 	<body class="font-serif bg-stone-200">
