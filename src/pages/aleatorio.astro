@@ -1,4 +1,6 @@
 ---
+export const prerender = true;
+
 import Layout from "../layouts/Layout.astro";
 import Quote from "../components/Quote.astro";
 import type { Proverb } from "../types/proverb.ts";
@@ -18,7 +20,7 @@ const refran = refranes[Math.floor(Math.random() * refranes.length)];
             href={`/refran/${refran.id}`}>
 
             {refran.proverb}
-            
+
         </Quote>
     </main>
 </Layout>
