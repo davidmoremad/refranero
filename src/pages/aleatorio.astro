@@ -8,16 +8,17 @@ const refranes = PROVERBS_DATA as Proverb[];
 const refran = refranes[Math.floor(Math.random() * refranes.length)];
 ---
 
-<Layout title="Refranero Español" description="">
+<Layout title="Refranero Español" description="Aprende un refran aleatorio">
     <main class="container max-w-3xl mx-auto">
         <Quote
             tags={refran.tags}
             meaning={refran.meaning}
             type={refran.proverb_type}
             usable={refran.usable}
-            href={`/refran/${refran.id}`}
-        >
+            href={`/refran/${refran.id}`}>
+
             {refran.proverb}
+            
         </Quote>
     </main>
 </Layout>

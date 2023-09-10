@@ -29,7 +29,7 @@ const { title, description } = Astro.props;
 		<meta name="generator" content={Astro.generator} />
 		<meta name="author" content="David Amrani (@davidmoremad)" />
 		<meta name="keywords" content="refran, refranero, refranes, proverbio, lenguaje, idioma, español, castellano, dichos, citas, popular" />
-		<meta name="canonical" content={Astro.url} />
+		<meta name="canonical" content={`https://refranero-espanol.vercel.app${Astro.url.pathname}`} />
 
 		<title>{title}</title>
 
@@ -44,9 +44,14 @@ const { title, description } = Astro.props;
 
 		<meta property="og:title" content={title} />
 		<meta property="og:type" content="article" />
-		<meta property="og:url" content={Astro.url} />
+		<meta property="og:url" content={`https://refranero-espanol.vercel.app${Astro.url.pathname}`} />
 		<meta property="og:image" content={metaimage.src} />
 		<meta property="og:description" content={description} />
+
+		<meta name="twitter:image" content={metaimage.src} />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content={title} />
+		<meta name="twitter:description" content={description} />
 
 		<ViewTransitions />
 	</head>
