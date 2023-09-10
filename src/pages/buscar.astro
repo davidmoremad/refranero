@@ -1,0 +1,68 @@
+---
+export const prerender = true
+
+import Layout from "../layouts/Layout.astro";
+import Quote from "../components/Quote.astro";
+import { PROVERBS_DATA } from "../data/proverbs.js";
+
+const search = Astro.url.searchParams.get('consulta')! || '';
+
+function searchProverbs(query: string) {
+    const results = PROVERBS_DATA.filter((proverb) => {
+        return proverb.proverb.toLowerCase().includes(query.toLowerCase());
+    });
+    return results;
+}
+
+var results = []
+if (search) {
+    results = searchProverbs(search);
+}
+
+---
+
+<Layout title="Refranero Español - Alfabético" description="Busca refranes por la letra por la que comienzan.">
+    <main class="container max-w-3xl mx-auto">
+        
+        <form class="mx-8 md:mx-28 font-sans">
+            <div class="flex mt-5">
+                <div class="relative w-full">
+                    <input
+                        type="search"
+                        id="search-dropdown"
+                        autocomplete="off"
+                        class="block py-2 pl-5 mr-96 w-full text-xl text-left font-light text-stone-700 bg-white rounded-md border border-stone-300
+                        focus:shadow-xl focus:shadow-stone-400 focus:border-stone-400 duration-150
+                        placeholder:text-stone-400 placeholder:font-light outline-none"
+                        placeholder="Ej: En boca cerrada"
+                        value={search}
+                        tabindex="1"
+                        required />
+                    <button
+                        type="submit"
+                        class="absolute top-0 right-0 px-3 text-md font-light h-full text-white bg-stone-600 rounded-r-md border border-stone-700 hover:bg-stone-700 focus:ring-4 focus:outline-none focus:ring-stone-400"
+                        onclick="event.preventDefault(); const query = document.getElementById('search-dropdown').value; window.location.href = '/buscar?consulta=' + query;"
+                        >
+                        
+                        <span class="">Buscar</span>
+
+                    </button>
+                </div>
+            </div>
+        </form>
+
+        {results.map((refran) =>
+            <Quote
+                tags={refran.tags}
+                meaning={refran.meaning}
+                type={refran.proverb_type}
+                usable={refran.usable}
+                href={`/refran/${refran.id}`}>
+
+                {refran.proverb}
+                
+            </Quote>
+        )}
+
+    </main>
+</Layout>
