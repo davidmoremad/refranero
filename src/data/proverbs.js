@@ -1566,7 +1566,7 @@ export const PROVERBS_DATA = [
   {
     proverb_type: 'Refrán meteorológico',
     language: 'Español',
-    proverb: 'Abril, aguas mil',
+    proverb: 'En Abril, aguas mil',
     tags: [
       'Meteorología'
     ],
@@ -6754,7 +6754,7 @@ export const PROVERBS_DATA = [
   {
     proverb_type: 'Refrán',
     language: 'Español',
-    proverb: 'Del dicho al hecho hay gran trecho',
+    proverb: 'Del dicho al hecho hay un trecho',
     tags: [
       'Promesa'
     ],
@@ -8167,7 +8167,7 @@ export const PROVERBS_DATA = [
     id: '58584'
   },
   {
-    proverb_type: 'Cliché',
+    proverb_type: 'Refran',
     language: 'Español',
     proverb: 'El burro delante, para que no se espante',
     tags: [
@@ -18507,7 +18507,7 @@ export const PROVERBS_DATA = [
   {
     proverb_type: 'Refrán',
     language: 'Español',
-    proverb: 'Piensa el ladrón que todos son de su condición',
+    proverb: 'Cree el ladrón que todos son de su condición',
     tags: [
       'Apreciación'
     ],
@@ -19919,7 +19919,7 @@ export const PROVERBS_DATA = [
     id: '59391'
   },
   {
-    proverb_type: 'Apotegma',
+    proverb_type: 'Aforismo',
     language: 'Español',
     proverb: 'Quien entra Papa sale cardenal',
     tags: [
@@ -23283,5 +23283,118 @@ export const PROVERBS_DATA = [
     comments: 'En los súltimos años se ha aumentado su uso al coincidir el oficio con el apellido de un político.',
     url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59627&Lng=0',
     id: '59627'
+  },
+  {
+    proverb_type: 'Refrán',
+    language: 'Español',
+    proverb: 'Quien canta, su mal espanta',
+    tags: [
+      'Alegria',
+      'Felicidad'
+    ],
+    meaning: 'Viene a decir que quien tiene miedo debe afrontarlos con atrevimiento, con buenas ganas. Alude a la alegría que produce cantar y a la que se siente al escucharlo.',
+    usable: 'En desuso',
+    observations: '—Antes he yo oído decir —dijo don Quijote— que quien canta sus males espanta. —Acá es al revés —dijo el galeote—, que quien canta una vez llora toda la vida. —No lo entiendo —dijo don Quijote. (Capt. XXII)',
+    comments: ''
+  },
+  {
+    proverb_type: 'Refrán',
+    language: 'Español',
+    proverb: 'Las cosas claras y el chocolate espeso',
+    tags: [
+      'Franqueza'
+    ],
+    meaning: 'Se emplea para indicar que conviene ser claro, poco ambiguo y sincero en las explicaciones, y no andarse con rodeos.',
+    usable: 'Muy usado',
+    observations: '',
+    comments: ''
+  },
+  {
+    proverb_type: 'Refrán dialogado',
+    language: 'Español',
+    proverb: 'Ni tanto, ni tan calvo',
+    tags: [
+      'Equidad',
+      'Exceso'
+    ],
+    meaning: 'Se emplea para indicar que no se debe caer en excesos, ni por exceso ni por defecto.',
+    usable: 'Muy usado',
+    observations: '',
+    comments: ''
+  },
+  {
+    proverb_type: 'Refrán',
+    language: 'Español',
+    proverb: 'Cuando al soldado lo llaman de usted, o lo han jodido o lo quieren joder',
+    tags: [
+      'Desigualdad',
+      'Oficio',
+      'Dificultad'
+    ],
+    meaning: 'Se emplea para indicar que, cuando se trata a alguien con excesiva cortesía, es que se le quiere engañar o perjudicar.',
+    usable: 'Poco usado',
+    observations: '',
+    comments: 'Se puede decir enunciando sólo la primera parte: Cuando al soldado lo llaman de usted...'
+  },
+  {
+    proverb_type: 'Refrán',
+    language: 'Español',
+    proverb: 'Cuando las ganas de joder aprietan, ni el culo de los muertos se respeta',
+    tags: [
+      'Deseo',
+      'Sexualidad'
+    ],
+    meaning: 'Se emplea para indicar que, cuando se tiene un deseo muy fuerte, se hace lo que sea para conseguirlo.',
+    usable: 'Poco usado',
+    observations: '',
+    comments: 'Se puede decir enunciando sólo la primera parte: Cuando las ganas de joder aprietan...'
+  },
+  {
+    proverb_type: 'Refrán meteorológico',
+    language: 'Español',
+    proverb: 'Sol de Enero, poco duradero',
+    tags: [
+      'Meteorología'
+    ],
+    meaning: 'Se emplea para indicar que, cuando en enero hace buen tiempo, no durará mucho.',
+    usable: 'Poco usado',
+    observations: 'Mes muy frío y seco, de poco sol. Enero suele ser el mes del año con la temperatura media más baja, con fuertes heladas nocturnas.',
+    comments: ''
+  },
+  {
+    proverb_type: 'Refrán meteorológico',
+    language: 'Español',
+    proverb: 'En diciembre no hay valiente que no tiemble',
+    tags: [
+      'Meteorología'
+    ],
+    meaning: 'Se emplea para indicar que, en diciembre, el frío es tan intenso que hasta los más resistentes lo sufren.',
+    usable: 'En desuso',
+    observations: '',
+    comments: ''
+  },
+  {
+    proverb_type: 'Aforismo',
+    language: 'Español',
+    proverb: 'Haz el bien sin mirar a quién',
+    tags: [
+      'Bondad',
+      'Generosidad'
+    ],
+    meaning: 'Habla de la importancia de ser bondadoso sin tener en cuenta cómo es la persona a quien se le presta ayuda o se hace un favor. Se trata de hacer el bien de forma desinteresada y sin buscar nada a cambio.',
+    usable: 'En desuso',
+    observations: '',
+    comments: ''
+  },
+  {
+    proverb_type: 'Refrán dialogado',
+    language: 'Español',
+    proverb: 'Para lo que me queda en el convento, me cago dentro',
+    tags: [
+    ],
+    meaning: 'Se emplea para indicar que, cuando a uno le queda poco tiempo para disfrutar de algo, no le importa hacer lo que le apetece, aunque sea incorrecto.',
+    usable: 'Muy usado',
+    observations: '',
+    comments: 'Se puede decir enunciando sólo la primera parte: Para lo que me queda en el convento...'
   }
 ]
