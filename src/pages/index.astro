@@ -19,20 +19,18 @@ const refran = refranes[intQuoteToDisplay];
 
 <Layout title="Refranero Español - Refrán del día" description={refran.proverb}>
     <main class="container max-w-3xl mx-auto">
-        <div class="relative z-10">
-            <h1 class="text-5xl -mb-8 md:text-6xl md:-mb-9 font-black text-stone-300 text-center mx-8">Refrán del día</h1>
-        </div>
-        <div class="relative z-20 rotate-3">
-
+        <h1 class="relative z-10 text-5xl -mb-8 md:text-6xl md:-mb-9 font-black text-stone-300 text-center mx-8">Refrán del día</h1>
+        <section class="relative z-20 rotate-3">
             <Quote
             tags={refran.tags}
             meaning={refran.meaning}
             type={refran.proverb_type}
             usable={refran.usable}
-            href={`/refran/${refran.id}`}
-            >
-            {refran.proverb}
-        </Quote>
-    </div>
+            href={`/refran/${refran.slug}`}>
+
+                {refran.proverb}
+            
+            </Quote>
+        </section>
     </main>
 </Layout>

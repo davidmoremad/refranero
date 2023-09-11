@@ -1,21 +1,20 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import BigQuote from "../../components/BigQuote.astro";
-import type { Proverb } from "../../types/proverb";
+import type { Proverb } from "../../types/proverb.js";
 import { PROVERBS_DATA } from "../../data/proverbs.js";
 
 const refranes = PROVERBS_DATA as Proverb[];
-const { id } = Astro.params as { id: string };
+const { slug } = Astro.params as { slug: string };
 
-const refran = refranes.find((refran) => refran.id === id);
+const refran = refranes.find((refran) => refran.slug === slug);
 if (!refran) {
-    throw new Error(`Refran ${id} not found`);
+    throw new Error(`Refran not found`);
 }
 
-// Generate static paths for all tags
 export function getStaticPaths() {
-    const allIds = PROVERBS_DATA.map((refran) => refran.id);
-    return allIds.map((id) => ({ params: { id: id } }));
+    const allSlugs = PROVERBS_DATA.map((refran) => refran.slug);
+    return allSlugs.map((slug) => ({ params: { slug: slug } }));
 }
 ---
 

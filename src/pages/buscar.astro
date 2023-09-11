@@ -54,23 +54,23 @@ if (search) {
             </div>
         </form>
 
-        {results.length !== 0 ? results.map((refran) =>
+        {results.length !== 0 && results.map((refran) =>
             <Quote
                 tags={refran.tags}
                 meaning={refran.meaning}
                 type={refran.proverb_type}
                 usable={refran.usable}
-                href={`/refran/${refran.id}`}>
+                href={`/refran/${refran.slug}`}>
 
                 {refran.proverb}
                 
             </Quote>
-        ): ''}
+        )}
 
-        {results.length === 0 && search !== '' ? 
+        {results.length === 0 && search !== '' &&
             <h1 class="text-center mt-16 mx-10 text-4xl font-black text-stone-500">¡Cáspita!</h1>
-            <h3 class="text-center mt-4 mx-10 text-2xl text-stone-400">No pude encontrar ningún refrán con <strong>{search}</strong></h3>
-        : ''}
+            <p class="text-center mt-4 mx-10 text-2xl text-stone-400">No pude encontrar ningún refrán con <strong>{search}</strong></p>
+        }
 
     </main>
 </Layout>

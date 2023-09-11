@@ -11,9 +11,7 @@ const etiquetasTuples = tagsByFrequency();
 
 <Layout title="Refranero Español - Temática" description="Busca refranes según la temática que trate.">
     <main class="container max-w-2xl mx-auto">
-        <section
-            class="flex flex-row gap-2 flex-wrap justify-center items-center mb-10 mx-3 lg:mx-0"
-        >
+        <section class="flex flex-row gap-2 flex-wrap justify-center items-center mb-10 mx-3 lg:mx-0">
             <svg
                 class="icon icon-tabler icon-tabler-pinned-filled text-stone-700"
                 width="25"
@@ -23,8 +21,7 @@ const etiquetasTuples = tagsByFrequency();
                 stroke="#2c3e50"
                 fill="none"
                 stroke-linecap="round"
-                stroke-linejoin="round"
-            >
+                stroke-linejoin="round">
                 <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                 <path
                     d="M16 3a1 1 0 0 1 .117 1.993l-.117 .007v4.764l1.894 3.789a1 1 0 0 1 .1 .331l.006 .116v2a1 1 0 0 1 -.883 .993l-.117 .007h-4v4a1 1 0 0 1 -1.993 .117l-.007 -.117v-4h-4a1 1 0 0 1 -.993 -.883l-.007 -.117v-2a1 1 0 0 1 .06 -.34l.046 -.107l1.894 -3.791v-4.762a1 1 0 0 1 -.117 -1.993l.117 -.007h8z"
@@ -33,32 +30,22 @@ const etiquetasTuples = tagsByFrequency();
             </svg>
             <TagButton theme="dark" href="/etiqueta/Amor" text="Amor" />
             <TagButton theme="dark" href="/etiqueta/Amistad" text="Amistad" />
-            <TagButton
-                theme="dark"
-                href="/etiqueta/Felicidad"
-                text="Felicidad"
-            />
-            <TagButton
-                theme="dark"
-                href="/etiqueta/Educación"
-                text="Educación"
-            />
+            <TagButton theme="dark" href="/etiqueta/Felicidad" text="Felicidad"/>
+            <TagButton theme="dark" href="/etiqueta/Educación" text="Educación"/>
             <TagButton theme="dark" href="/etiqueta/Salud" text="Salud " />
             <TagButton theme="dark" href="/etiqueta/Tiempo" text="Tiempo" />
             <TagButton theme="dark" href="/etiqueta/Oficios" text="Oficios" />
         </section>
 
         <section class="flex flex-row gap-4 flex-wrap justify-center items-center mx-3 lg:mx-0" role="list">
-            {
-                etiquetasTuples.map((etiqueta: [string, number]) => (
-                    <TagButton
-                        href={`/etiqueta/${etiqueta[0]}`}
-                        text={etiqueta[0]}
-                        subtext={etiqueta[1]}
-                        theme="neutral"
-                    />
-                ))
-            }
+            {etiquetasTuples.map((etiqueta: [string, number]) => (
+                <TagButton
+                    href={`/etiqueta/${etiqueta[0]}`}
+                    text={etiqueta[0]}
+                    subtext={etiqueta[1]}
+                    theme="neutral"
+                />
+            ))}
         </section>
     </main>
 </Layout>

@@ -13,8 +13,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '¿Adónde irá el buey que no are? (La Celestina IV 154; Valdés 13). El buey, considerado en algunas zonas animal útil para el trabajo del campo, no puede esperar otra suerte. Véase el trabajo de José Manuel Pedrosa «¿Dónde irá el buey que no are? De Santillana y La Celestina a la tradición oral de España, Portugal e Hispanoamérica (intertextualidad, intergenerismo y multiculturalismo de un refrán», Paremia, 10: 41-47.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58028&Lng=0',
-    id: '58028'
+    slug: 'adonde-ira-el-buey-que-no-are',
+    id: 58028
   },
   {
     proverb_type: 'Refrán',
@@ -28,8 +28,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58029&Lng=0',
-    id: '58029'
+    slug: 'adonde-va-la-lengua-adonde-duelen-las-muelas',
+    id: 58029
   },
   {
     proverb_type: 'Refrán',
@@ -42,8 +42,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese Ojos que no ven, corazón que no siente.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58033&Lng=0',
-    id: '58033'
+    slug: 'a-amor-mal-correspondido-ausencia-y-olvido',
+    id: 58033
   },
   {
     proverb_type: 'Refrán',
@@ -57,8 +57,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Se menciona de manera indirecta una experiencia común, identificando el intestino con el proceso de la digestión y el corazón con el órgano en que se asientan las emociones. El refrán Tripas llevan corazón, que no corazón tripas tiene una variante con la palabra «pies»: Tripas llevas pies, que no los pies tripas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58034&Lng=0',
-    id: '58034'
+    slug: 'a-barriga-llena-corazon-contento',
+    id: 58034
   },
   {
     proverb_type: 'Refrán',
@@ -72,8 +72,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58035&Lng=0',
-    id: '58035'
+    slug: 'a-bien-obrar-bien-pagar',
+    id: 58035
   },
   {
     proverb_type: 'Refrán',
@@ -86,8 +86,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58036&Lng=0',
-    id: '58036'
+    slug: 'a-boda-ni-bautizo-no-vayas-sin-ser-llamado',
+    id: 58036
   },
   {
     proverb_type: 'Refrán',
@@ -101,8 +101,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Pocas palabras cumplen al buen entendedor (Libro de Buen Amor 1610). A buen entendedor... (La Celestina VIII 23). Al buen entendedor, pocas palabras (El Quijote II 37. Terreros). En latín: Intelligenti pauca.',
     comments: 'Por lo general se cita la primera parte de un refrán. Este es uno de los pocos refranes en los que se se dice con frecuencia la primera parte: A buen entendedor... o la segunda: pocas palabras bastan.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58037&Lng=0',
-    id: '58037'
+    slug: 'a-buen-entendedor-pocas-palabras-bastan',
+    id: 58037
   },
   {
     proverb_type: 'Refrán',
@@ -116,8 +116,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58038&Lng=0',
-    id: '58038'
+    slug: 'a-buen-gato-buen-rato',
+    id: 58038
   },
   {
     proverb_type: 'Refrán',
@@ -132,8 +132,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58039&Lng=0',
-    id: '58039'
+    slug: 'a-buen-hambre-no-hay-pan-duro',
+    id: 58039
   },
   {
     proverb_type: 'Refrán',
@@ -146,8 +146,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58040&Lng=0',
-    id: '58040'
+    slug: 'a-buen-servicio-mal-galardon',
+    id: 58040
   },
   {
     proverb_type: 'Refrán',
@@ -160,8 +160,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58041&Lng=0',
-    id: '58041'
+    slug: 'a-buen-sueno-no-hay-mala-cama',
+    id: 58041
   },
   {
     proverb_type: 'Refrán',
@@ -175,25 +175,25 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Existía desde la Edad Media la Santa Hermandad como cuerpo de soldados que iban en cuadrillas y que debían velar por los delitos que se cometían fuera del recinto de las ciudades. Si no actuaban a tiempo, los malhechores quedaban impunes, por lo que su retraso llegó a ser objeto de crítica y lamento proverbial. Como su uniforme llevaba las mangas de color verde, dio lugar a la mención expresada en la paremia.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58042&Lng=0',
-    id: '58042'
+    slug: 'a-buenas-horas-mangas-verdes',
+    id: 58042
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'A buey viejo, cencerro nuevo',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Matrimonio',
       'Vejez',
-      'Desproporción'
+      'Exceso'
     ],
     meaning: 'Se emplea cuando alguien pretende destacar sin mérito, cuando se estima que alguien o algo tiene una importancia que no merece o cuando se compone y adorna a alguien o algo para darle mejor apariencia, una apariencia juvenil. Alude a los viejos que resultan ridículos por arreglarse como si fueran jóvenes, algo impropio para su edad. En sentido general, se refiere a lo que resulta inadecuado o desproporcionado. Se aplica también a la mercancía que se va a vender y a la conveniencia de darle una buena apariencia. También puede aplicarse al matrimonio entre personas de edades muy diferentes.',
     usable: 'En desuso',
     observations: 'Correas (A46) explica otro sentido del refrán: «[...] aconseja que el hombre se case con moza, y no con vieja».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58043&Lng=0',
-    id: '58043'
+    slug: 'a-buey-viejo-cencerro-nuevo',
+    id: 58043
   },
   {
     proverb_type: 'Refrán',
@@ -207,8 +207,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58044&Lng=0',
-    id: '58044'
+    slug: 'a-burro-muerto-la-cebada-al-rabo',
+    id: 58044
   },
   {
     proverb_type: 'Refrán',
@@ -224,8 +224,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'Los comentaristas de fútbol emplean bastantes refranes y suelen jugar con la forma clásica de los refranes, como sucede con A entrenador nuevo, goleada segura (escuchado el 09-02-2009, con el objeto de aludir a la valía de un entrenador).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58045&Lng=0',
-    id: '58045'
+    slug: 'a-caballero-nuevo-caballo-viejo',
+    id: 58045
   },
   {
     proverb_type: 'Refrán',
@@ -241,8 +241,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58046&Lng=0',
-    id: '58046'
+    slug: 'a-caballo-nuevo-jinete-viejo',
+    id: 58046
   },
   {
     proverb_type: 'Refrán',
@@ -257,8 +257,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'El referente de este refrán se encuentra en las ferias de ganado, en las que el comprador comprueba la edad y la salud del caballo por el estado de su dentadura.',
     comments: 'De uso actual, se emplea con frecuencia sólo la primera parte (A caballo regalado...).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58047&Lng=0',
-    id: '58047'
+    slug: 'a-caballo-regalado-no-le-mires-el-diente',
+    id: 58047
   },
   {
     proverb_type: 'Refrán',
@@ -272,8 +272,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Su San Martín se le llegará como a cada puerco (El Quijote, II 62). En torno al 11 de noviembre, festividad de este obispo francés que ha gozado de mucha devoción, era ya tiempo de hacer la matanza del cerdo. En los pueblos, era habitual cebar uno, dos o tres cerdos, sacrificarlos por estas fechas para tener carne durante el invierno. Se sigue haciendo en algunas localidades para consumo personal e,incluso, como atracción turística. Otros refranes aluden al veranillo de San Martín: El verano de San Martín dura tres días ¡y fin! El verano de San Martino, son tres días y un poquito. En Colombia, se dice A cada pavo le llega su Nochebuena (Sergio Sandoval, Bogotá, 18/09/1985).',
     comments: 'En la actualidad, se está imponiendo la forma A cada uno le llega su San Martín, pues, como un número importante de hablantes desconoce el referente cultural de este refrán (la matanza), considera un insulto la forma con «cerdo» o «puerco».',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58048&Lng=0',
-    id: '58048'
+    slug: 'a-cada-cerdo-le-llega-su-san-martin',
+    id: 58048
   },
   {
     proverb_type: 'Refrán',
@@ -287,8 +287,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Se utiliza con frecuencia para referirse a que cada persona encuentra pareja que encaja con su personalidad. La homogeneidad suele ser el acomodo más lógico y con más probabilidad de acierto. En sentido figurado, la cobertera alude a la alcahueta que facilitaba las relaciones clandestinas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58049&Lng=0',
-    id: '58049'
+    slug: 'a-cada-olla-su-cobertera',
+    id: 58049
   },
   {
     proverb_type: 'Refrán',
@@ -303,8 +303,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Gloria Estefan lo incluye en su canción Refranes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58050&Lng=0',
-    id: '58050'
+    slug: 'a-cada-pajarillo-le-gusta-su-nidillo',
+    id: 58050
   },
   {
     proverb_type: 'Refrán',
@@ -318,8 +318,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Correas incluye en glosa las palabras que han quedado sobreentendidas: la barra y la limpie y explica el primer sentido del refrán: «[...] que cada una mire por su casa, y no se vaya por las vecinas, y cada uno acuda a su obligación».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58051&Lng=0',
-    id: '58051'
+    slug: 'a-cada-puerta-su-duena',
+    id: 58051
   },
   {
     proverb_type: 'Refrán',
@@ -332,8 +332,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Esta paremia conoce una réplica. A cada uno lo suyo, y a Dios lo de todos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58052&Lng=0',
-    id: '58052'
+    slug: 'a-cada-uno-lo-suyo',
+    id: 58052
   },
   {
     proverb_type: 'Refrán',
@@ -347,8 +347,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58053&Lng=0',
-    id: '58053'
+    slug: 'a-camino-largo-paso-corto',
+    id: 58053
   },
   {
     proverb_type: 'Refrán',
@@ -362,8 +362,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58054&Lng=0',
-    id: '58054'
+    slug: 'a-canas-honradas-no-hay-puertas-cerradas',
+    id: 58054
   },
   {
     proverb_type: 'Refrán',
@@ -377,8 +377,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Dado que en otro tiempo eran habituales los ataques del lobo al rebaño, era necesario tener un perro lo suficientemente fuerte y valiente para enfrentarse a él; de ahí surge la contraposición entre el lobo y el perro, que sirve para simbolizar el peligro o una situación sumamente difícil y los medios para afrontarlo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58055&Lng=0',
-    id: '58055'
+    slug: 'a-carne-de-lobo-diente-de-perro',
+    id: 58055
   },
   {
     proverb_type: 'Refrán',
@@ -393,8 +393,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El refrán La mucha confianza es causa de menosprecio advierte de lo que provoca el abuso de confianza. Gloria Estefan incluye en su canción Refranes la forma A casa de tu hermano no irás cada verano.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58056&Lng=0',
-    id: '58056'
+    slug: 'a-casa-de-tu-tia-mas-no-cada-dia',
+    id: 58056
   },
   {
     proverb_type: 'Refrán',
@@ -407,8 +407,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58057&Lng=0',
-    id: '58057'
+    slug: 'a-chico-pajarillo-chico-nidillo',
+    id: 58057
   },
   {
     proverb_type: 'Refrán',
@@ -423,8 +423,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Gloria Estefan lo incluye en su canción Refranes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58058&Lng=0',
-    id: '58058'
+    slug: 'a-cualquier-dolencia-es-remedio-la-paciencia',
+    id: 58058
   },
   {
     proverb_type: 'Refrán',
@@ -437,8 +437,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58059&Lng=0',
-    id: '58059'
+    slug: 'a-cuerpo-debil-larga-vida',
+    id: 58059
   },
   {
     proverb_type: 'Refrán',
@@ -452,8 +452,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58060&Lng=0',
-    id: '58060'
+    slug: 'a-dineros-pagados-brazos-quebrados',
+    id: 58060
   },
   {
     proverb_type: 'Refrán',
@@ -466,8 +466,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se juega con la forma clásica para emplearse con sentido irónico: A Dios rogando, y negociando, según explica Rodríguez Marín (1929): «Díjose de muchos eclesiásticos, más atentos a lo temporal que a lo de la otra vida». También podemos encontrar alterada la forma del refrán, de modo que se fusiona con el discurso: «Me parece bien rogar, pero con el mazo dando» (fuente oral).',
     comments: 'Este refrán se dice en la actualidad con sentidos muy diversos e incluso irónicos, para lo que se juega con la forma clásica (Véase el apartado Observaciones).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58061&Lng=0',
-    id: '58061'
+    slug: 'a-dios-rogando-y-con-el-mazo-dando',
+    id: 58061
   },
   {
     proverb_type: 'Refrán',
@@ -481,8 +481,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El Gran Capitán, Gonzalo Fernández de Córdoba (1453-1515), utilizaba este refrán como máxima militar. Recuérdese De los enemigos, los menos. Dice también el refrán un personaje en la película de José Luis Cuerda Amanece que no es poco (1988).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58062&Lng=0',
-    id: '58062'
+    slug: 'a-enemigo-que-huye-puente-de-plata',
+    id: 58062
   },
   {
     proverb_type: 'Refrán',
@@ -490,15 +490,15 @@ export const PROVERBS_DATA = [
     proverb: 'A escudero pobre, taza de plata y olla de cobre',
     tags: [
       'Precaución',
-      'Oficios',
+      'Oficio',
       'Ostentación'
     ],
     meaning: 'Se dice de quien presume de una riqueza que no tiene a costa de pasar privaciones. Este refrán también alude a quien puede pasar con la correspondiente decencia a su estado si se modera en los gastos y no aparenta ser hidalgo o noble. Parece que el primer sentido recomienda la precaución de comprar utensilios de material durarero, para que no se rompan y haya que hacer gasto con frecuencia al adquirir otros, precisamente porque no se dispone de mucho dinero. Estaría relacionado, pues, con la paremia Lo barato sale caro.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58063&Lng=0',
-    id: '58063'
+    slug: 'a-escudero-pobre-taza-de-plata-y-olla-de-cobre',
+    id: 58063
   },
   {
     proverb_type: 'Refrán',
@@ -511,8 +511,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El pan ha sido durante mucho tiempo el alimento básico y, en circunstancias de escasez, casi el único. La torta se hace también con masa de harina, cocida lentamente al horno, pero puede llevar otros ingredientes. De forma redonda, hay tortas saladas y dulces.  El refrán A falta de polla, pan y cebolla tiene una variante en la que se observan ciertos cambios formales por motivos rítmicos: A falta de capón, pan y cebollón. Santillana 106 y Terreros registran una variante antigua de este último refrán: A mengua de carne, buenos son pollos con tocino.',
     comments: 'El esquema A falta de...bueno-a es/buenos/-as son... ha originado muchos refranes: A falta de caldo, buena es la carne. A falta de faisán, buenos son rábanos con pan. A falta de vaca, buenos son pollos con tocino.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58064&Lng=0',
-    id: '58064'
+    slug: 'a-falta-de-pan-buenas-son-tortas',
+    id: 58064
   },
   {
     proverb_type: 'Refrán',
@@ -525,8 +525,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58065&Lng=0',
-    id: '58065'
+    slug: 'a-gran-huesped-gran-plato',
+    id: 58065
   },
   {
     proverb_type: 'Refrán',
@@ -540,8 +540,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58066&Lng=0',
-    id: '58066'
+    slug: 'a-gran-prisa-gran-vagar',
+    id: 58066
   },
   {
     proverb_type: 'Refrán',
@@ -555,8 +555,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'De muy alto, grandes caída se dan (La Celestina, XIII 120).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58067&Lng=0',
-    id: '58067'
+    slug: 'a-gran-salto-gran-quebranto',
+    id: 58067
   },
   {
     proverb_type: 'Refrán',
@@ -571,8 +571,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese Post tenebras, spero lucem [Después de las tinieblas, espero la luz] (Job 17, 12).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58068&Lng=0',
-    id: '58068'
+    slug: 'a-gran-seca-gran-mojada',
+    id: 58068
   },
   {
     proverb_type: 'Refrán',
@@ -586,13 +586,13 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58069&Lng=0',
-    id: '58069'
+    slug: 'a-gran-subida-gran-caida',
+    id: 58069
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
-    proverb: 'A grandes males, grandes remedios',
+    proverb: 'A grandes males, grandes remedio',
     tags: [
       'Esfuerzo',
       'Proporción',
@@ -602,8 +602,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Paremia procedente del aforismo de Hipócrates (469 a. C.-377 a. C.) Ad extremos morbos, extrema remedia exquisite optima (aforismo 61, sección 10).',
     comments: 'Refrán en uso, en especial en 2009 con motivo de la crisis económica. En la actualidad, se dice también A grandes males, grandes soluciones.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58070&Lng=0',
-    id: '58070'
+    slug: 'a-grandes-males-grandes-remedio',
+    id: 58070
   },
   {
     proverb_type: 'Refrán',
@@ -617,8 +617,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La mula y el asno eran muy empleados como animales de carga. En la actualidad, resulta muy difícil verlos en los campos. El asno es una especie protegida e, incluso, está considerada, una expecie a extinguir. La mula, el caballo y el buey eran muy utilizados como animales de tiro.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58071&Lng=0',
-    id: '58071'
+    slug: 'a-la-bestia-cargada-el-sobornal-la-mata',
+    id: 58071
   },
   {
     proverb_type: 'Refrán',
@@ -631,8 +631,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Recuérdese el dicho No te acostarás nigún día sin haber aprendido algo nuevo ni levantarte sin dolerte algo, proporcionado por la informante Mª Josefa Muñoz Huertas (Toledo).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58072&Lng=0',
-    id: '58072'
+    slug: 'a-la-cama-no-te-iras-sin-saber-una-cosa-mas',
+    id: 58072
   },
   {
     proverb_type: 'Refrán',
@@ -646,8 +646,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58073&Lng=0',
-    id: '58073'
+    slug: 'a-la-corta-o-a-la-larga-el-tiempo-todo-lo-alcanza',
+    id: 58073
   },
   {
     proverb_type: 'Refrán',
@@ -660,8 +660,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58074&Lng=0',
-    id: '58074'
+    slug: 'a-la-fuerza-ahorcan',
+    id: 58074
   },
   {
     proverb_type: 'Refrán',
@@ -674,8 +674,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58075&Lng=0',
-    id: '58075'
+    slug: 'a-la-larga-el-galgo-a-la-liebre-mata',
+    id: 58075
   },
   {
     proverb_type: 'Refrán',
@@ -689,8 +689,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58076&Lng=0',
-    id: '58076'
+    slug: 'a-la-luz-de-la-vela-no-hay-mujer-fea',
+    id: 58076
   },
   {
     proverb_type: 'Refrán',
@@ -704,8 +704,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58077&Lng=0',
-    id: '58077'
+    slug: 'a-la-mujer-y-al-mar-has-de-respetar',
+    id: 58077
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -718,8 +718,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Autoridades («arrebol») registra un refrán en esta línea temática con una referencia geográfica: Arreboles de Aragón a la noche con agua son, y arreboles de Portugal a la mañana sol serán.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58078&Lng=0',
-    id: '58078'
+    slug: 'a-la-noche-arreboles-a-la-manana-habra-soles',
+    id: 58078
   },
   {
     proverb_type: 'Refrán',
@@ -733,8 +733,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58080&Lng=0',
-    id: '58080'
+    slug: 'a-la-olla-que-hierve-ninguna-mosca-se-atreve',
+    id: 58080
   },
   {
     proverb_type: 'Refrán',
@@ -747,8 +747,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58081&Lng=0',
-    id: '58081'
+    slug: 'a-la-red-del-que-duerme-los-peces-vienen',
+    id: 58081
   },
   {
     proverb_type: 'Refrán',
@@ -761,8 +761,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Parece que proviene de pruebas de lucha en las que el triunfo se daba como obtenido después de tres derribos. A tres me parece que va la vencida (La Celestina XIX 3)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58082&Lng=0',
-    id: '58082'
+    slug: 'a-la-tercera-va-la-vencida',
+    id: 58082
   },
   {
     proverb_type: 'Refrán',
@@ -776,8 +776,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58083&Lng=0',
-    id: '58083'
+    slug: 'a-la-vejez-aladares-de-pez',
+    id: 58083
   },
   {
     proverb_type: 'Refrán',
@@ -792,8 +792,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'La viruela, con erupción de numerosas pústulas contagiosas que dejan señal si uno se rasca la piel, es una enfermedad propia de la infancia. Es el título de una comedia de Bretón de los Herreros (1824).',
     comments: 'Para aludir a la polimedicación existente actualmente, una cadena televisiva recurrió, en marzo de 2013, a este refrán alterando su forma: A la vejez, pastillas.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58084&Lng=0',
-    id: '58084'
+    slug: 'a-la-vejez-viruelas',
+    id: 58084
   },
   {
     proverb_type: 'Refrán',
@@ -807,8 +807,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Antiguamente, la jornada coincidía en gran parte con las horas de luz, y la hora de acostarse era más temprana, no mucho después de anochecer, lo cual era lógico pues no había luz eléctrica sino la luz de las velas, los candiles y la lumbre. La llegada de la luz eléctrica hace que se retrase la hora de acostarse. Así muchos españoles lo hacen en torno a la medianoche. Cabe señalar que los españoles tienen fama de acostarse muy tarde, al menos entre los occidentales.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58085&Lng=0',
-    id: '58085'
+    slug: 'a-las-diez-en-la-cama-estes',
+    id: 58085
   },
   {
     proverb_type: 'Refrán',
@@ -823,8 +823,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Otro refrán recomienda olvidar lo que no tiene remedio: En lo que no cabe remedio, olvidar es el mejor medio.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58086&Lng=0',
-    id: '58086'
+    slug: 'a-lo-hecho-no-hay-remedio-y-a-lo-por-hacer-consejo',
+    id: 58086
   },
   {
     proverb_type: 'Refrán',
@@ -839,8 +839,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58087&Lng=0',
-    id: '58087'
+    slug: 'a-lo-hecho-pecho',
+    id: 58087
   },
   {
     proverb_type: 'Refrán',
@@ -851,8 +851,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59633&Lng=0',
-    id: '59633'
+    slug: 'a-lo-mas-oscuro-amanece-dios',
+    id: 59633
   },
   {
     proverb_type: 'Refrán',
@@ -866,8 +866,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58088&Lng=0',
-    id: '58088'
+    slug: 'a-lo-que-esta-de-moda-todo-el-mundo-se-acomoda',
+    id: 58088
   },
   {
     proverb_type: 'Refrán',
@@ -880,8 +880,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58089&Lng=0',
-    id: '58089'
+    slug: 'a-los-amigos-hay-que-cuidarlos',
+    id: 58089
   },
   {
     proverb_type: 'Proverbio',
@@ -895,8 +895,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Proverbio procedente de la paremia latina Audaces fortuna juvat (Virgilio, Eneida 10284).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58090&Lng=0',
-    id: '58090'
+    slug: 'a-los-osados-favorece-la-fortuna',
+    id: 58090
   },
   {
     proverb_type: 'Refrán',
@@ -909,8 +909,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'De luengas vías, luengas mentiras (Valdés 53). De largas vías, cercanas mentiras (El Criticón, III 370).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58091&Lng=0',
-    id: '58091'
+    slug: 'a-luengas-vias-luengas-mentiras',
+    id: 58091
   },
   {
     proverb_type: 'Refrán',
@@ -924,8 +924,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'En ocasiones, se dice en forma de locución verbal: Poner a mal tiempo buena cara. Algunos han decidido poner a mal tiempo buena cara (mayo de 2013). Ha decidido poner a mal tiempo buena cara (junio de 2013). Hemos tenido que poner a mal tiempo buena cara (junio de 2013). Hay que ponerle buena cara al mal tiempo (septiembre de 2013, con motivo de la no elección de Madrid como sede olímpica para 2020). También se puede trastocar la estructura clásica con el objeto de convertirla en una frase más: Han puesto buena cara a un mal tiempo, o para llamar la atención sobre un producto, como el colorete: A mal tiempo, mejillas sonrosadas (www.elmundo.es, 13/02/2014. Recuérdese la locución Hacer de tripas corazón. Se puede jugar con la forma del refrán para llegar a un sentido muy distinto, como sucede con estos eslóganes empleados en la primavera de 2023: A buen tiempo, buenísima cas, A buen tiempo, jardín y terraza.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58092&Lng=0',
-    id: '58092'
+    slug: 'a-mal-tiempo-buena-cara',
+    id: 58092
   },
   {
     proverb_type: 'Refrán',
@@ -940,8 +940,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La mocedad ociosa acarrea la vejez arrepentida y trabajosa (La Celestina VII 262).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58093&Lng=0',
-    id: '58093'
+    slug: 'a-mocedad-ociosa-vejez-trabajosa',
+    id: 58093
   },
   {
     proverb_type: 'Refrán',
@@ -955,8 +955,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán A todo pardal viejo no lo toman en todas redes aparece citado en Libro de Buen Amor (644), así como el refrán sinónimo Bien sabe las paranzas quien pasó por las losas (644). El refrán A perro viejo, nunca cuz cuz tiene variantes como la siguiente: A perro viejo no hay tus tús. Santillana 267 registra un refrán en el que aparecen nuevamente las palabras moro y algarabía: En casa del moro, no hables algarabía, con lo que se recomienda no opinar ante un experto quien es profano en la materia.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58094&Lng=0',
-    id: '58094'
+    slug: 'a-moro-viejo-no-aprendas-algarabia',
+    id: 58094
   },
   {
     proverb_type: 'Refrán',
@@ -964,15 +964,15 @@ export const PROVERBS_DATA = [
     proverb: 'A mucha cortesía, mayor cuidado',
     tags: [
       'Educación',
-      'Apariencias',
+      'Apariencia',
       'Precaución'
     ],
     meaning: 'Aconseja desconfiar de quienes emplean modales excesivamente amables o se deshacen en elogios y obsequios, porque seguramente quieren burlarse o aprovecharse.',
     usable: 'En desuso',
     observations: 'A mucha cortesía, mayor cuidado (El Guzmán de Alfarache II 171).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58095&Lng=0',
-    id: '58095'
+    slug: 'a-mucha-cortesia-mayor-cuidado',
+    id: 58095
   },
   {
     proverb_type: 'Refrán',
@@ -988,8 +988,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'A muertos y a idos... (La Celestina II 213).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58096&Lng=0',
-    id: '58096'
+    slug: 'a-muertos-y-a-idos-no-hay-amigos',
+    id: 58096
   },
   {
     proverb_type: 'Frase proverbial',
@@ -1002,8 +1002,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'Aparece en una canción del año 2009 con la forma alterada: Un dulce a nadie le amarga.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58097&Lng=0',
-    id: '58097'
+    slug: 'a-nadie-le-amarga-un-dulce',
+    id: 58097
   },
   {
     proverb_type: 'Frase proverbial',
@@ -1018,8 +1018,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'No hay padre ni madre a quien sus hijos parezcan feos (El Quijote II 18).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58098&Lng=0',
-    id: '58098'
+    slug: 'a-nadie-le-parecieron-sus-hijos-feos',
+    id: 58098
   },
   {
     proverb_type: 'Refrán',
@@ -1032,8 +1032,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58099&Lng=0',
-    id: '58099'
+    slug: 'a-nuevos-tiempos-nuevas-costumbres',
+    id: 58099
   },
   {
     proverb_type: 'Refrán',
@@ -1046,8 +1046,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado en El Quijote I 32. Aparece citado en dos ocasiones en la canción Tortura de Shakira, de la que transcribimos las dos estrofas: «Sólo de errores se aprende / Y hoy sé que es tuyo mi corazón / Mejor te guardas todo eso / A otro perro con ese hueso / Y nos decimos adiós [...] Hoy sé que es tuyo mi corazón / Mejor te guardas eso / A otro perro con ese hueso / Y nos decimos adiós (Ay dame dame damelo)». En la misma canción figura otra paremia: No solo de pan vive el hombre.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58100&Lng=0',
-    id: '58100'
+    slug: 'a-otro-perro-con-ese-hueso',
+    id: 58100
   },
   {
     proverb_type: 'Refrán',
@@ -1061,8 +1061,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En ocasiones, se emplean refranes del tipo Padre comerciante, hijo caballero, nieto pordiosero. De padres jornaleros, hijos caballeros y nietos mendrugueros cuando la segunda generación ha vivido en la abundancia y la tercera pasa penurias.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58101&Lng=0',
-    id: '58101'
+    slug: 'a-padre-guardador-hijo-gastador',
+    id: 58101
   },
   {
     proverb_type: 'Refrán',
@@ -1075,8 +1075,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58102&Lng=0',
-    id: '58102'
+    slug: 'a-pajaro-durmiente-tarde-le-entra-el-cebo-en-el-vientre',
+    id: 58102
   },
   {
     proverb_type: 'Refrán',
@@ -1090,8 +1090,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58103&Lng=0',
-    id: '58103'
+    slug: 'a-palabras-necias-oidos-sordos',
+    id: 58103
   },
   {
     proverb_type: 'Refrán',
@@ -1104,8 +1104,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'A pan de quince días, hambre de dos semanas (Libro de Buen Amor 149; Valdés 7).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58104&Lng=0',
-    id: '58104'
+    slug: 'a-pan-de-quince-dias-hambre-de-tres-semanas',
+    id: 58104
   },
   {
     proverb_type: 'Refrán',
@@ -1121,8 +1121,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58105&Lng=0',
-    id: '58105'
+    slug: 'a-pan-duro-diente-agudo',
+    id: 58105
   },
   {
     proverb_type: 'Refrán',
@@ -1135,8 +1135,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58106&Lng=0',
-    id: '58106'
+    slug: 'a-perro-flaco-todo-son-pulgas',
+    id: 58106
   },
   {
     proverb_type: 'Refrán',
@@ -1150,8 +1150,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'A perro viejo no cuz cuz (La Celestina XII). ¡Yo soy perro viejo, y no hay conmigo tus, tus! (El Quijote II 69). Hernán Núñez (746) explica que no hace falta llamar al perro viejo porque «va tras su dueño y no es menester llamarle como al nuevo, que se pierde si no le llaman». Existe la locución Ser (un) perro viejo, para aludir a la persona que sabe mucho de la vida.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58107&Lng=0',
-    id: '58107'
+    slug: 'a-perro-viejo-no-hay-tus-tus',
+    id: 58107
   },
   {
     proverb_type: 'Refrán',
@@ -1165,8 +1165,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58108&Lng=0',
-    id: '58108'
+    slug: 'a-pillo-pillo-y-medio',
+    id: 58108
   },
   {
     proverb_type: 'Refrán',
@@ -1180,8 +1180,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La barba incipiente simboliza la corta edad del joven, su escasa prudencia, lo que contrasta con la sensatez, más propia de hombres maduros. La barba ha sido tradicionalmente un símbolo de la respetabilidad de las personas maduras.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58109&Lng=0',
-    id: '58109'
+    slug: 'a-poca-barba-poca-verguenza',
+    id: 58109
   },
   {
     proverb_type: 'Refrán',
@@ -1189,14 +1189,14 @@ export const PROVERBS_DATA = [
     proverb: 'A poco caudal, poca ganancia',
     tags: [
       'Proporción',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Señala la correspondencia inexistente entre los fines y los medios: una escasa inversión suele acarrear poco beneficio.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58110&Lng=0',
-    id: '58110'
+    slug: 'a-poco-caudal-poca-ganancia',
+    id: 58110
   },
   {
     proverb_type: 'Refrán',
@@ -1209,8 +1209,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58111&Lng=0',
-    id: '58111'
+    slug: 'a-poco-viento-remos-sin-cuento',
+    id: 58111
   },
   {
     proverb_type: 'Refrán',
@@ -1223,8 +1223,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58112&Lng=0',
-    id: '58112'
+    slug: 'a-presurosa-demanda-espaciosa-respuesta',
+    id: 58112
   },
   {
     proverb_type: 'Refrán',
@@ -1237,8 +1237,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien la miel trata, siempre se le pega de ella (La Celestina IX 29). Quien menea la miel, panales o miel come (La Lozana Andaluza 142).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58113&Lng=0',
-    id: '58113'
+    slug: 'a-quien-anda-con-miel-miel-se-le-pega',
+    id: 58113
   },
   {
     proverb_type: 'Refrán',
@@ -1251,8 +1251,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe un refrán con la primera parte idéntica: A quien cueze, y amassa, no le hurtes hogaza (Vallés 290). También lo registran Horozco (A quien cuece y amasa, no le hurtes la hogaza, nº 208) y Correas (A quien cuece y amasa, no le hurtes hogaza, A654).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58114&Lng=0',
-    id: '58114'
+    slug: 'a-quien-cuece-y-amasa-de-todo-le-pasa',
+    id: 58114
   },
   {
     proverb_type: 'Refrán',
@@ -1266,8 +1266,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien pide no escoge (Libro de Buen Amor 956).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58115&Lng=0',
-    id: '58115'
+    slug: 'a-quien-dan-no-escoge',
+    id: 58115
   },
   {
     proverb_type: 'Refrán',
@@ -1280,8 +1280,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'A quien dices tu secreto, das tu libertad (La Celestina II 120). El refrán Di tu secreto a tu amigo y serás su cautivo tiene otra variante digna de mencionar: Di a tu amigo tu secreto, y tenerte ha el pie en el pescuezo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58116&Lng=0',
-    id: '58116'
+    slug: 'a-quien-dices-tu-secreto-das-tu-libertad-y-estas-sujeto',
+    id: 58116
   },
   {
     proverb_type: 'Refrán',
@@ -1295,8 +1295,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Los sobrinos son el ejemplo prototípico de herederos indeseados, por su poco amor en vida al heredado.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58117&Lng=0',
-    id: '58117'
+    slug: 'a-quien-dios-no-le-da-hijos-el-diablo-le-da-sobrinos',
+    id: 58117
   },
   {
     proverb_type: 'Refrán',
@@ -1309,8 +1309,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'A quien Dios quiere bien, la casa le sabe (El Quijote II 43). Lisboa, la capital, y Santarem son dos ciudades muy próximas.',
     comments: 'Ha conocido gran fortuna el esquema sintáctico que se inicia con A quien Dios quiere bien..., como se puede apreciar en el número de sinónimos',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58118&Lng=0',
-    id: '58118'
+    slug: 'a-quien-dios-quiere-bien-la-perra-le-pare-lechones',
+    id: 58118
   },
   {
     proverb_type: 'Refrán',
@@ -1323,8 +1323,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'A quien Dios se la dio, San Pedro se la bendiga (El Quijote I 45). Pues Dios nuestro Señor se la dio, San Pedro se la bendiga (El Quijote II 56). A quien Dios se la diere, San Pedro se la bendiga (El Quijote II 64).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58119&Lng=0',
-    id: '58119'
+    slug: 'a-quien-dios-se-la-de-san-pedro-se-la-bendiga',
+    id: 58119
   },
   {
     proverb_type: 'Refrán',
@@ -1338,8 +1338,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58120&Lng=0',
-    id: '58120'
+    slug: 'a-quien-labora-dios-lo-mejora',
+    id: 58120
   },
   {
     proverb_type: 'Refrán',
@@ -1353,8 +1353,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se emplea más la locución proverbial Dar la mano y tomar el brazo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59630&Lng=0',
-    id: '59630'
+    slug: 'a-quien-le-dan-el-pie-se-toma-la-mano',
+    id: 59630
   },
   {
     proverb_type: 'Refrán',
@@ -1368,8 +1368,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58121&Lng=0',
-    id: '58121'
+    slug: 'a-quien-lo-quiere-celeste-que-le-cueste',
+    id: 58121
   },
   {
     proverb_type: 'Refrán',
@@ -1382,8 +1382,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado en El Lazarillo de Tormes 106. El que no madruga con el sol no goza del día (El Quijote, II 43).',
     comments: 'Este refrán conoce varias adiciones a modo de réplica: A quien madruga, Dios le ayuda, si se levanta con buen fin. A quien madruga, Dios le ayuda, si se levanta con buen pie. La réplica puede consistir en frases o en otro refrán: A quien madruga, Dios le ayuda. Uno que madrugó un duró se encontró; pero más madrugó el que lo perdió. A quien madruga, Dios le ayuda. Un costal encontró el que madrugó; pero más madrugó el que lo perdió.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58122&Lng=0',
-    id: '58122'
+    slug: 'a-quien-madruga-dios-le-ayuda',
+    id: 58122
   },
   {
     proverb_type: 'Refrán',
@@ -1397,8 +1397,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese el refrán Labrador de capa negra, poco medra. La capa negra era signo de cierto nivel social, por lo que el refrán se refiere a que al labrador que se conduce como un caballero no le suelen ir bien las cosas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58123&Lng=0',
-    id: '58123'
+    slug: 'a-quien-no-le-sobra-pan-no-crie-can',
+    id: 58123
   },
   {
     proverb_type: 'Refrán',
@@ -1412,8 +1412,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El referente de este refrán es la matanza del cerdo, actividad muy habitual en los pueblos hace algunos decenios; cada familia solía cebar uno o dos cerdos. En la matanza no sólo se preparaba la carne para poder comerla durante el invierno sino que también se hacían embutidos: chorizo y morcilla. El chorizo es muy rojo por la cantidad de pimentón que contiene. La morcilla es negra porque está hecha con la sangre del cerdo cocida y mezclada con cebolla y especias; a veces, se incluye arroz y piñones. Las hay saladas y con cierto sabor dulce, por el azúcar, las pasas u otros ingredientes con que se elaboran. La envoltura del chorizo y la morcilla era antes una tripa, ahora con frecuencia es artificial.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58124&Lng=0',
-    id: '58124'
+    slug: 'a-quien-no-mata-puerco-no-le-dan-morcilla',
+    id: 58124
   },
   {
     proverb_type: 'Refrán',
@@ -1427,8 +1427,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58125&Lng=0',
-    id: '58125'
+    slug: 'a-quien-su-mujer-ayuda-camino-ve-de-fortuna',
+    id: 58125
   },
   {
     proverb_type: 'Refrán',
@@ -1441,8 +1441,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Al raposo durmiente, no le amanece la gallina en el vientre (Valdés 19). Existen paremias que aluden tanto a la pereza como a la idea contraria: Avíades de madrugar más para tomar la páxara en el nido; dormísteos, hallástesle vazío (Núñez nº 1009). Habíades de madrugar más para tomar la pájara en el nido; y hallástele vacío (Correas1627 H22). Quien madruga, halla al pájaro en el nido, y quien se duerme, hállalo vacío; forma ya registrada por Vallés y Correas: Quien madruga / halla / la paxara en el nido : el que / se duerme : hallale / vazio (Vallés1549 nº 3418 y Correas1627 Q424).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58126&Lng=0',
-    id: '58126'
+    slug: 'a-raposo-durmiente-no-le-amanece-la-gallina-en-el-vientre',
+    id: 58126
   },
   {
     proverb_type: 'Refrán',
@@ -1456,8 +1456,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'En los últimos años se emplea bastante en el ámbito deportivo, especialmente cuando se destituye a un entrenador y enseguida se encuentra un sustituto. Si bien en español existe la fórmula El rey ha muerto. ¡Viva el rey!, no tiene el mismo campo de aplicación que A rey muerto, rey puesto, de empleo mucho más frecuente y en contextos muy variados.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58127&Lng=0',
-    id: '58127'
+    slug: 'a-rey-muerto-rey-puesto',
+    id: 58127
   },
   {
     proverb_type: 'Refrán',
@@ -1465,14 +1465,14 @@ export const PROVERBS_DATA = [
     proverb: 'A río revuelto, ganancia de pescadores',
     tags: [
       'Beneficio',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Del mismo modo que aparece más pesca cuando las aguas de un río se revuelven, en las situaciones confusas o cuando se producen cambios o desavenencias, hay quienes sacan beneficio aprovechando tales circunstancias.',
     usable: 'Muy usado',
     observations: 'A río vuelto, ganancia de pescadores (La Celestina II 126; Valdés 10; La Lozana Andaluza, 241; La Pícara Justina, I 109). Se emplea en la lengua actual.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58128&Lng=0',
-    id: '58128'
+    slug: 'a-rio-revuelto-ganancia-de-pescadores',
+    id: 58128
   },
   {
     proverb_type: 'Frase proverbial',
@@ -1485,8 +1485,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'A salvo está quien repica (La Celestina XI). En salvo está el que repica (Valdés 81). A buen salvo está el que repica (El Quijote II 31 y II 43). En salvo está el que repica (El Quijote II 36).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58129&Lng=0',
-    id: '58129'
+    slug: 'a-salvo-esta-el-que-repica',
+    id: 58129
   },
   {
     proverb_type: 'Refrán',
@@ -1500,8 +1500,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El referente agrícola de este refrán es muy significativo: ni las uvas ni las brevas maduran una vez arrancadas, de modo que, si se toman antes de tiempo, no se logra saborearlas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58130&Lng=0',
-    id: '58130'
+    slug: 'a-su-tiempo-maduran-las-brevas',
+    id: 58130
   },
   {
     proverb_type: 'Refrán',
@@ -1514,15 +1514,15 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58131&Lng=0',
-    id: '58131'
+    slug: 'a-tal-senor-tal-honor',
+    id: 58131
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Abogado joven, pleito perdido',
     tags: [
-      'Oficios',
+      'Oficio',
       'Juventud',
       'Inexperiencia'
     ],
@@ -1530,23 +1530,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refranero también encarece la necesidad de la experiencia en la profesión de médico: El médico, viejo, y el barbero, joven.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58132&Lng=0',
-    id: '58132'
+    slug: 'abogado-joven-pleito-perdido',
+    id: 58132
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Abogado, juez y doctor, cuanto más lejos mejor',
     tags: [
-      'Precaución',
-      'Oficios'
+      'Oficio',
+      'Rechazo'
     ],
     meaning: 'Este refrán recomienda alejarse de quienes ejercen la abogacía, la medicina y la justicia, porque no siempre tienen honorarios altos y no es raro que prolonguen su intervención para beneficio propio.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58133&Lng=0',
-    id: '58133'
+    slug: 'abogado-juez-y-doctor-cuanto-mas-lejos-mejor',
+    id: 58133
   },
   {
     proverb_type: 'Aforismo',
@@ -1560,8 +1560,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58134&Lng=0',
-    id: '58134'
+    slug: 'aborrece-y-seras-aborrecido-quiere-con-amor-de-verdad-y-seras-correspondido',
+    id: 58134
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -1574,8 +1574,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Estas lluvias resultan beneficiosas para el campo.',
     comments: 'Este refrán conoce la forma Abril, aguas mil, y todas en un barril, para indicar que lluvia es muy escasa en este mes contrariando el tópico. Se emplea con frecuencia la forma En abril, aguas mil.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58135&Lng=0',
-    id: '58135'
+    slug: 'en-abril-aguas-mil',
+    id: 58135
   },
   {
     proverb_type: 'Refrán',
@@ -1589,8 +1589,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Este refrán parece construido sobre el esquema de la paremia aplicada a frutas como el melón o la naranja: Por la mañana es oro, por la tarde, plata y por la noche, mata. De hecho, existe una variante empleada en Extremadura para referirse al momento más adecuado para comer el melón: El melón, por la mañana, oro, al mediodía, plata, por la noche mata (paremia proporcionada por una fuente oral, Carlos Montero Ruitiña).\r\nLa aceituna fue alimento modesto y popular en otros tiempos. Sin embargo, no estaban bien consideradas por los médicos en la creencia de que causaban melancolía. En la actualidad se toman de aperitivo o adornan ensaladas, pero en otros tiempos se tomaban de postre, como recuerda el refrán Quien es diligente, llega antes de comenzar el banquete; quien se descuida, llega a la hora de las aceitunas, esto es, a los postres. Por esta costumbre, cuando se quería dar a entender que alguien llegaba tarde, se decía que «llegaba a las aceitunas».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58136&Lng=0',
-    id: '58136'
+    slug: 'aceituna-una-es-oro-dos-plata-y-la-tercera-mata',
+    id: 58136
   },
   {
     proverb_type: 'Refrán',
@@ -1603,8 +1603,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Mete el gallo en tu muladar, y saldrá heredero (Santillana 429).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58137&Lng=0',
-    id: '58137'
+    slug: 'acogi-al-raton-en-mi-agujero-y-volvioseme-heredero',
+    id: 58137
   },
   {
     proverb_type: 'Refrán',
@@ -1618,8 +1618,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58138&Lng=0',
-    id: '58138'
+    slug: 'acostarse-temprano-y-levantarse-temprano-hacen-al-hombre-sano',
+    id: 58138
   },
   {
     proverb_type: 'Refrán',
@@ -1633,8 +1633,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese la copla del folclore popular que dice: «Dices que no la quieres/ni vas a verla, pero la veredita/no cría hierba».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58139&Lng=0',
-    id: '58139'
+    slug: 'adonde-el-corazon-se-inclina-el-pie-camina',
+    id: 58139
   },
   {
     proverb_type: 'Refrán',
@@ -1648,8 +1648,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58140&Lng=0',
-    id: '58140'
+    slug: 'afeites-de-mujer-y-cielo-aborregado-duran-lo-que-un-nublado',
+    id: 58140
   },
   {
     proverb_type: 'Refrán',
@@ -1663,8 +1663,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58141&Lng=0',
-    id: '58141'
+    slug: 'aficion-ciega-razon',
+    id: 58141
   },
   {
     proverb_type: 'Refrán',
@@ -1678,8 +1678,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58142&Lng=0',
-    id: '58142'
+    slug: 'afortunado-en-el-juego-desgraciado-en-amores',
+    id: 58142
   },
   {
     proverb_type: 'Refrán',
@@ -1692,8 +1692,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58143&Lng=0',
-    id: '58143'
+    slug: 'agachate-y-entraras',
+    id: 58143
   },
   {
     proverb_type: 'Refrán',
@@ -1707,8 +1707,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Otro refrán recuerda que estamos en la recogida de las mieses y en la vendimia: Agosto madura y septiembre vendimia la uva.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58144&Lng=0',
-    id: '58144'
+    slug: 'agosto-y-septiembre-no-duran-siempre',
+    id: 58144
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -1722,8 +1722,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58145&Lng=0',
-    id: '58145'
+    slug: 'agosto-y-vendimia-no-es-cada-dia-y-si-cada-ano-unos-con-ganancia-y-otros-con-dano',
+    id: 58145
   },
   {
     proverb_type: 'Refrán',
@@ -1736,8 +1736,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58146&Lng=0',
-    id: '58146'
+    slug: 'agua-corriente-no-mata-a-la-gente',
+    id: 58146
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -1750,8 +1750,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En tiempos en que el pan era alimento básico, una buena cosecha de cereal era una seguridad para no pasar hambre.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58147&Lng=0',
-    id: '58147'
+    slug: 'agua-de-mayo-pan-para-todo-el-ano',
+    id: 58147
   },
   {
     proverb_type: 'Refrán',
@@ -1765,8 +1765,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El agua procedente de fuentes y no de pozos ha de circular para no emponzoñarse. El refranero recomienda evitar, en parte, tal riesgo, hirviendo el agua: Agua hervida es media vida. Sin embargo, a veces ni con eso es suficiente: Agua mala, hervida y colada.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58148&Lng=0',
-    id: '58148'
+    slug: 'agua-estancada-agua-envenenada',
+    id: 58148
   },
   {
     proverb_type: 'Refrán',
@@ -1779,8 +1779,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El pan caliente y la bebida fría pueden ser dañinos también por separados.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58149&Lng=0',
-    id: '58149'
+    slug: 'agua-fria-y-pan-caliente-mata-la-gente',
+    id: 58149
   },
   {
     proverb_type: 'Refrán',
@@ -1794,8 +1794,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'En mayo de 2011, se revitalizó el uso de este refrán por parte de un político con una ligera modificación morfológica (Agua pasada no mueve molinos).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58150&Lng=0',
-    id: '58150'
+    slug: 'agua-pasada-no-mueve-molino',
+    id: 58150
   },
   {
     proverb_type: 'Refrán',
@@ -1810,8 +1810,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58151&Lng=0',
-    id: '58151'
+    slug: 'agua-que-corre-nunca-mal-coge',
+    id: 58151
   },
   {
     proverb_type: 'Refrán',
@@ -1824,8 +1824,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Lo que no quieres, ¿para qué lo requieres? (Correas A1369). Forma parte del estribillo de un antiguo cuplé, que popularizó Sara Montiel.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58152&Lng=0',
-    id: '58152'
+    slug: 'agua-que-no-has-de-beber-dejala-correr',
+    id: 58152
   },
   {
     proverb_type: 'Refrán',
@@ -1839,8 +1839,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refranero retoma la imagen del agua vertida en la paremia Del agua vertida, alguna cogida (Autoridades, «agua»), empleada cuando se ha sufrido una pérdida para recomendar que se recoja lo que se pueda con el objeto de no perder todo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58153&Lng=0',
-    id: '58153'
+    slug: 'agua-vertida-no-toda-cogida',
+    id: 58153
   },
   {
     proverb_type: 'Refrán',
@@ -1854,8 +1854,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán Adonde te quieren mucho no vayas a menudo está documentado en refraneros de los siglos XV y XVI: A do te quieren mucho, no vayas a menudo (Santillana nº 10), A do te quieren mucho, no vayas a menudo (Vallés1549 nº 54). Do te quieren mucho, no entres a menudo (Vallés1549 nº 1179). El refrán La mucha confianza es causa de menosprecio advierte de otra consecuencia del abuso de confianza.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58154&Lng=0',
-    id: '58154'
+    slug: 'al-amigo-y-al-caballo-no-cansallo',
+    id: 58154
   },
   {
     proverb_type: 'Refrán',
@@ -1868,8 +1868,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58155&Lng=0',
-    id: '58155'
+    slug: 'al-amigo-con-su-vicio',
+    id: 58155
   },
   {
     proverb_type: 'Refrán',
@@ -1882,8 +1882,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La paremia antónima Árbol que nace/crece torcido nunca su rama endereza tiene mucha difusión en hispanoamérica, en la que hay muchsa variantes: Àrbol que crece torcido nunca endereza. Árbol que nace torcido, nunca su rama endereza. Árbol que crece torcido, ya nunca se endereza. Árbol que nace torcido jamás su tronco endereza',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58156&Lng=0',
-    id: '58156'
+    slug: 'al-arbolito-desde-chiquito',
+    id: 58156
   },
   {
     proverb_type: 'Refrán',
@@ -1896,8 +1896,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58157&Lng=0',
-    id: '58157'
+    slug: 'al-ausente-hincarle-el-diente',
+    id: 58157
   },
   {
     proverb_type: 'Refrán',
@@ -1910,8 +1910,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58158&Lng=0',
-    id: '58158'
+    slug: 'al-bosque-no-vaya-quien-de-las-hojas-miedo-haya',
+    id: 58158
   },
   {
     proverb_type: 'Frase proverbial',
@@ -1924,8 +1924,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'A buen callar llaman sancho (Valdés 1). Al buen callar llaman Sancho (El Quijote II 43; El Criticón III 203). Algunos autores, como José Mª Sbarbi, relacionan este refrán con el episodio protagonizado por Sancho II de Castilla, con ocasión del reparto del reino de su padre Fernando I el Magno en 1065. Sancho guardó silencio ante el reparto hecho por su padre, quien le dejó Castilla; León a Alfonso, y Galicia a García.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58159&Lng=0',
-    id: '58159'
+    slug: 'al-buen-callar-llaman-sancho',
+    id: 58159
   },
   {
     proverb_type: 'Refrán',
@@ -1938,8 +1938,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Cuando viene el bien, mételo en tu casa (El Quijote II 4).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58160&Lng=0',
-    id: '58160'
+    slug: 'al-buen-dia-metelo-en-casa',
+    id: 58160
   },
   {
     proverb_type: 'Refrán',
@@ -1952,8 +1952,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en El Quijote II 14, II 30, II 59 y II 71.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58161&Lng=0',
-    id: '58161'
+    slug: 'al-buen-pagador-no-le-duelen-prendas',
+    id: 58161
   },
   {
     proverb_type: 'Refrán',
@@ -1967,8 +1967,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Antes de que llegara la maquinaria pesada a la agricultura, se hacía la siega con hoces o guadañas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58162&Lng=0',
-    id: '58162'
+    slug: 'al-buen-segador-nunca-se-le-olvida-la-hoz',
+    id: 58162
   },
   {
     proverb_type: 'Refrán',
@@ -1981,8 +1981,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En tiempos, la formalidad era estimada y la palabra que se daba obligaba a cumplirla; de esa forma se era estimado como «hombre de palabra». Aunque actualmente el comportamiento de las personas no siempre se ajusta a ese patrón, lo cierto es que podemos ser emplazados o censurados por lo que hemos dicho o lo que hemos prometido.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58163&Lng=0',
-    id: '58163'
+    slug: 'al-buey-por-el-asta-y-al-hombre-por-la-palabra',
+    id: 58163
   },
   {
     proverb_type: 'Refrán',
@@ -1996,8 +1996,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Es una recomendación que hacían los mayores sobre todo. No es el único refrán que considera el vino un remedio: Vino por fuera, vino por dentro, cura todos los males. Se refiere a las fricciones con vino caliente y a los beneficios del vino tomado con moderación, como indica el refrán El agua, como buey, y el vino, como rey. En la actualidad, algunos médicos recomiendan tomar una copa de vino diaria, pues resulta muy conveniente para las enfermedades cardiovasculares, contra el envejecimiento. Además tiene una acción antibacteriana (véanse las propiedades curativas del vino en el trabajo de Francisca Martínez Costa, «El vino en la medicina popular», Revista murciana de Antroplogía, 12, 2005: 368-372). En el mundo grecolatino, hay obras con recetas de vinos salutíferos, como la receta de vino de rosas explicada por Plinio, la cual consiste en echar al vino un ramillete atado de rosas silvestres secas, anís, azafrán y un poco de miel. Este vino es bueno para enfermos del estómago. Del mismo modo, el vino de poleo es un antídoto contra el veneno de los reptiles y para combatir el frío invernal. Se prepara cociendo poleo en el vino hasta que reduzca a un tercio (Véanse más tipos de vinos salutíferos en: http://www.historiacocina.com/especiales/articulos/geoponica/vinosmedicinales.htm [09-01-2009]). Cabe recordar también la alusión del primer amo del Lazarillo de Tormes, el ciego, a la capacidad curativa del vino.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58165&Lng=0',
-    id: '58165'
+    slug: 'al-catarro-con-el-jarro',
+    id: 58165
   },
   {
     proverb_type: 'Refrán',
@@ -2011,8 +2011,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58166&Lng=0',
-    id: '58166'
+    slug: 'al-dolor-de-cabeza-el-comer-le-endereza',
+    id: 58166
   },
   {
     proverb_type: 'Refrán',
@@ -2025,8 +2025,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58167&Lng=0',
-    id: '58167'
+    slug: 'al-enemigo-ni-agua',
+    id: 58167
   },
   {
     proverb_type: 'Refrán',
@@ -2040,8 +2040,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58168&Lng=0',
-    id: '58168'
+    slug: 'al-escarabajo-sus-hijos-le-parecen-granos-de-oro',
+    id: 58168
   },
   {
     proverb_type: 'Frase proverbial',
@@ -2054,8 +2054,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58169&Lng=0',
-    id: '58169'
+    slug: 'al-final-todo-se-sabe',
+    id: 58169
   },
   {
     proverb_type: 'Refrán',
@@ -2068,8 +2068,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Al freír de los huevos lo verá (El Quijote I 37). Con el mismo título de la paremia, existe una farsa de Juan Cervera, inspirada en varios cuentos orientales. En su Floresta española de apotegmas y sentencias (1574=2001, ed. de Maxime Chevalier Mª Pilar Cuartero. Barcelona: Crítica), Melchor Santa Cruz de Dueñas (83) explica el origen del refrán castellano: «Vendió un carbonero una sera de carbón a una mujer, y  tomó una sartén, que estaba a mal  recaudo y echóla en la sera vacía. Preguntándole la mujer si era de encina el carbón, y si era bueno, respondió: Al freír lo veréis».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58170&Lng=0',
-    id: '58170'
+    slug: 'al-freir-sera-el-reir',
+    id: 58170
   },
   {
     proverb_type: 'Refrán',
@@ -2083,8 +2083,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Literalmente se advierte al gallo de que, si revela un secreto, lo castigarán apretándole la garganta. El modo tradicional de sacrificar a gallos, gallinas y pollos era retorciéndoles el cuello.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58171&Lng=0',
-    id: '58171'
+    slug: 'al-gallo-que-canta-le-aprietan-la-garganta',
+    id: 58171
   },
   {
     proverb_type: 'Refrán',
@@ -2097,8 +2097,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El referente empleado, la fragua, nos recuerda la importancia que ha tenido el oficio del herrero en la sociedad rural desde muy antiguo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58172&Lng=0',
-    id: '58172'
+    slug: 'al-hierro-candente-batirlo-de-repente',
+    id: 58172
   },
   {
     proverb_type: 'Refrán',
@@ -2112,8 +2112,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese esta frase: Las obras hacen linaje (La Celestina).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58173&Lng=0',
-    id: '58173'
+    slug: 'al-hombre-bueno-no-le-busques-abolengo',
+    id: 58173
   },
   {
     proverb_type: 'Refrán',
@@ -2121,14 +2121,14 @@ export const PROVERBS_DATA = [
     proverb: 'Al hombre vergonzoso el diablo le llevó a palacio',
     tags: [
       'Valor',
-      'Ocasión'
+      'Oportunidad'
     ],
     meaning: 'Para frecuentar sitios de calidad hay que ser sociable e incluso desenvuelto, con el fin de obtener beneficio de quienes se mueven en esos ambientes. Alude a las oportunidades de promoción que se desaprovechan por timidez.',
     usable: 'En desuso',
     observations: 'Aparece en La Celestina (), en El Licenciado Vidriera. Tirso de Molina compuso una comedia palaciega de asunto amoroso titulada El vergonzoso en palacio, incluida con posterioridad en la obra miscelánea titulada Los cigarrales de Toledo (1624). El móvil del enredo dramático es el amor desigual entre una dama noble y un pastor al que ella nombra secretario. Refleja también el contraste entre el mundo cortesano y el de la aldea. Sólo en parte evoca el mensaje contenido por el refrán.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58174&Lng=0',
-    id: '58174'
+    slug: 'al-hombre-vergonzoso-el-diablo-le-llevo-a-palacio',
+    id: 58174
   },
   {
     proverb_type: 'Refrán',
@@ -2142,8 +2142,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58175&Lng=0',
-    id: '58175'
+    slug: 'al-hombre-viejo-mudale-de-tierra-y-dara-el-pellejo',
+    id: 58175
   },
   {
     proverb_type: 'Refrán',
@@ -2157,8 +2157,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58176&Lng=0',
-    id: '58176'
+    slug: 'al-loco-y-al-aire-darle-calle',
+    id: 58176
   },
   {
     proverb_type: 'Refrán',
@@ -2172,30 +2172,30 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Rodríguez Marín recuerda la copla siguiente: «Los pillos son los qu eviven; / los hombres de bien perecen; no sé qué tienen los pillos, / que todo se lo merecen».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58177&Lng=0',
-    id: '58177'
+    slug: 'al-mas-ruin-puerco-la-mejor-bellota',
+    id: 58177
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Al médico, confesor y letrado, hablarles claro',
     tags: [
-      'Oficios',
+      'Oficio',
       'Franqueza'
     ],
     meaning: 'Recomienda decir la verdad a quienes nos han de aconsejar y ayudar.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58178&Lng=0',
-    id: '58178'
+    slug: 'al-medico-confesor-y-letrado-hablarles-claro',
+    id: 58178
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Al mejor cazador, se le va la liebre',
     tags: [
-      'Oficios',
+      'Oficio',
       'Error',
       'Experiencia'
     ],
@@ -2203,8 +2203,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58179&Lng=0',
-    id: '58179'
+    slug: 'al-mejor-cazador-se-le-va-la-liebre',
+    id: 58179
   },
   {
     proverb_type: 'Refrán',
@@ -2217,8 +2217,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58180&Lng=0',
-    id: '58180'
+    slug: 'al-miedoso-los-dedos-se-le-antojan-huespedes',
+    id: 58180
   },
   {
     proverb_type: 'Refrán',
@@ -2232,8 +2232,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58181&Lng=0',
-    id: '58181'
+    slug: 'al-nino-mientras-crece-y-al-enfermo-mientras-adolece',
+    id: 58181
   },
   {
     proverb_type: 'Refrán',
@@ -2246,8 +2246,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58182&Lng=0',
-    id: '58182'
+    slug: 'al-pajarillo-que-se-ha-de-perder-alillas-le-han-de-nacer',
+    id: 58182
   },
   {
     proverb_type: 'Refrán',
@@ -2260,8 +2260,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58183&Lng=0',
-    id: '58183'
+    slug: 'al-pan-pan-y-al-vino-vino',
+    id: 58183
   },
   {
     proverb_type: 'Refrán',
@@ -2274,8 +2274,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Es peor meneallo (El Quijote I 47 y II 12). Peor es meneallo (El Quijote, I 20).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58184&Lng=0',
-    id: '58184'
+    slug: 'al-perro-que-duerme-no-lo-despiertes',
+    id: 58184
   },
   {
     proverb_type: 'Refrán',
@@ -2288,8 +2288,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58185&Lng=0',
-    id: '58185'
+    slug: 'al-que-de-ajeno-se-viste-en-la-calle-le-desnudan',
+    id: 58185
   },
   {
     proverb_type: 'Refrán',
@@ -2302,8 +2302,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58186&Lng=0',
-    id: '58186'
+    slug: 'al-que-le-pique-que-se-rasque',
+    id: 58186
   },
   {
     proverb_type: 'Refrán',
@@ -2317,8 +2317,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese frase atribuida a Sócrates: La buena conciencia es la mejor almohada para dormir.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58187&Lng=0',
-    id: '58187'
+    slug: 'al-que-mal-vive-el-miedo-le-sigue',
+    id: 58187
   },
   {
     proverb_type: 'Refrán',
@@ -2331,8 +2331,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58188&Lng=0',
-    id: '58188'
+    slug: 'al-que-no-esta-hecho-a-bragas-las-costuras-le-hacen-llagas',
+    id: 58188
   },
   {
     proverb_type: 'Refrán',
@@ -2345,8 +2345,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se suele aludir al refrán simplemente diciendo dos tazas: «No quieres esto, dos tazas».',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59528&Lng=0',
-    id: '59528'
+    slug: 'al-que-no-quiere-caldo-dos-tazas',
+    id: 59528
   },
   {
     proverb_type: 'Refrán',
@@ -2359,8 +2359,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58189&Lng=0',
-    id: '58189'
+    slug: 'al-que-quiere-bailar-poco-son-es-menester',
+    id: 58189
   },
   {
     proverb_type: 'Refrán',
@@ -2373,8 +2373,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58190&Lng=0',
-    id: '58190'
+    slug: 'al-que-tiene-cama-y-duerme-en-el-suelo-no-hay-que-tenerle-duelo',
+    id: 58190
   },
   {
     proverb_type: 'Refrán',
@@ -2388,8 +2388,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58191&Lng=0',
-    id: '58191'
+    slug: 'al-que-yerra-perdonale-una-vez-mas-no-despues',
+    id: 58191
   },
   {
     proverb_type: 'Refrán',
@@ -2403,8 +2403,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Actualmente se dice A quien le das la mano te toma el brazo',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58192&Lng=0',
-    id: '58192'
+    slug: 'al-villano-dadle-el-dedo-y-se-tomara-la-mano',
+    id: 58192
   },
   {
     proverb_type: 'Refrán',
@@ -2417,8 +2417,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Encontramos un esquema parecido en el refrán Alábate, cesto, que venderte quiero. Antes era habitual tener pavos, en particular con vistas a la comida de Navidad, pues constituye el plato principal, muy común en Andalucía, junto con el cochinillo y el cordero, preparados en Castilla-La Mancha y Castilla y León , o el besugo. Sabrosos son también los capones gallegos. No obstante, la celebración de la Nochebuena y el día de Navidad ha venido experimentando cambios y se celebra con otros alimentos, por tomarse con menos frecuencia o por ser en esa época del año cuando están en su mejor momento (como el cordero, el besugo, algunos mariscos, etc.). También se deba a que se preparan alimentos más selectos o costosos para obsequiar y poner de relieve la importancia de tal festividad cristiana.\nTanto el pavo, como el capón o el faisán han sido consideradas aves selectas, que no estaban al alcance de todas las economías.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58193&Lng=0',
-    id: '58193'
+    slug: 'alabate-pavo-que-manana-te-pelan',
+    id: 58193
   },
   {
     proverb_type: 'Refrán',
@@ -2431,8 +2431,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refranero recuerda que, en ocasiones, no hace falta poner tanto empeño para llegar a lo que se desea, pues: Quien menos procura alcanza más bien (Autoridades, «alcanzar»), esto es, en ocasiones, «las muchas diligencias dañan para conseguir lo que se solicita».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58194&Lng=0',
-    id: '58194'
+    slug: 'alcanza-quien-no-cansa',
+    id: 58194
   },
   {
     proverb_type: 'Refrán',
@@ -2445,8 +2445,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El contento del ánimo es inestable y fugaz en la vida, como declara el siguiente refrán: Alegrías, antruejo, que mañana serás ceniza (Autoridades «alegría»). Antruejo proviene del latín introito y son los tres días que preceden a la Cuaresma; «voz baja y vulgar» (Autoridades).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58195&Lng=0',
-    id: '58195'
+    slug: 'alegrias-y-pesares-te-vendran-sin-que-los-buscares',
+    id: 58195
   },
   {
     proverb_type: 'Frase proverbial',
@@ -2460,8 +2460,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58196&Lng=0',
-    id: '58196'
+    slug: 'algo-tendra-el-agua-cuando-la-bendicen',
+    id: 58196
   },
   {
     proverb_type: 'Frase proverbial',
@@ -2474,8 +2474,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en El Quijote I 47. Mucho va de Pedro a Pedro (La Celestina VII 240). La hispanista Margit Frenk dedica un estudio al refrán “Mucho va de Pedro a Pedro: (polisemia de un personaje proverbial)”, en Scripta philologica: in honorem Juan M. Lope Blanch, coord. por Elisabeth Luna Traill, 3, 1991 , pp. 203-220. Señala que Pedro es un nombre corriente entre los personajes proverbiales que puede designar hombre cualquier, criado, pastor, holgazán, mozo ruin, cornudo, bueno, tonto, etc.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58197&Lng=0',
-    id: '58197'
+    slug: 'algo-va-de-pedro-a-pedro',
+    id: 58197
   },
   {
     proverb_type: 'Frase proverbial',
@@ -2489,23 +2489,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58198&Lng=0',
-    id: '58198'
+    slug: 'alla-miran-ojos-donde-quieren-bien',
+    id: 58198
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'Allá va Sancho con su rocino',
     tags: [
-      'Amistad',
-      'Semejanza'
+      'Amistad'
     ],
     meaning: 'Alude a la amistad que existe entre quienes están constantemente juntos. Se emplea irónicamente para referirse a dos personas inseparables, generalmente amigos, que van siempre juntos.',
     usable: 'En desuso',
     observations: 'Una expresión contiene los mismos personajes: Encontrar Sancho con su rocín. Se dice para referirse al hecho de que alguien encuentra a otra persona semejante con la que se entiende.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58199&Lng=0',
-    id: '58199'
+    slug: 'alla-va-sancho-con-su-rocino',
+    id: 58199
   },
   {
     proverb_type: 'Refrán',
@@ -2519,23 +2518,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Allá van leyes, do quieren reyes (Valdés 22). «Con más o menos razón -comenta Jesús Cantera, 2005: 54-, se ha visto el origen de esta paremia en la imposición del rito romano en la España cristiana medieval en sustitución del mozárabe por decisión del rey Alfonso VI en Toledo, cediendo a la influencia de su esposa de origen francés doña Constanza y a las presiones de los monjes cluniacenses».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58200&Lng=0',
-    id: '58200'
+    slug: 'alla-van-leyes-do-quieren-reyes',
+    id: 58200
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Allégate a los buenos y serás uno de ellos',
     tags: [
-      'Compañías',
+      'Compañía',
       'Influencia'
     ],
     meaning: 'Recomienda elegir buenas compañías porque el trato asemeja a las personas, por el beneficio y provecho que se obtiene de ellas, por el buen ejemplo que dan.',
     usable: 'En desuso',
     observations: 'Allégate a los buenos, y serás uno de ellos (Valdés 24).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58201&Lng=0',
-    id: '58201'
+    slug: 'allegate-a-los-buenos-y-seras-uno-de-ellos',
+    id: 58201
   },
   {
     proverb_type: 'Refrán',
@@ -2548,8 +2547,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58202&Lng=0',
-    id: '58202'
+    slug: 'amen-amen-al-cielo-llega',
+    id: 58202
   },
   {
     proverb_type: 'Refrán',
@@ -2562,8 +2561,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Existe la forma Amigo de bares, amigo de nadie, aportada por un informante oral, para referirse a la falsa que es la amistad nacida en una noche de juerga.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58203&Lng=0',
-    id: '58203'
+    slug: 'amigo-de-muchos-amigo-de-ninguno',
+    id: 58203
   },
   {
     proverb_type: 'Refrán',
@@ -2576,8 +2575,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58204&Lng=0',
-    id: '58204'
+    slug: 'amigo-de-santo-tomas-siempre-tomas-y-nunca-das',
+    id: 58204
   },
   {
     proverb_type: 'Refrán',
@@ -2590,8 +2589,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58205&Lng=0',
-    id: '58205'
+    slug: 'amigo-del-buen-tiempo-mudase-con-el-viento',
+    id: 58205
   },
   {
     proverb_type: 'Refrán',
@@ -2606,8 +2605,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe la locución Ser un mirlo blanco para aludir a quien es de una rareza extraordinaria y positiva, porque los mirlos son negros.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58206&Lng=0',
-    id: '58206'
+    slug: 'amigo-leal-y-franco-mirlo-blanco',
+    id: 58206
   },
   {
     proverb_type: 'Refrán',
@@ -2621,8 +2620,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refranero concede una especial atención a la amistad o al amor por interés: Por el amor, te quiero, Andrés. Correas alude también al Amigo de pelillo (Correas1627 A1684) y al Amigo de taza de vino (Correas1627 A1685)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58207&Lng=0',
-    id: '58207'
+    slug: 'amigo-por-interes-no-dura-porque-no-lo-es',
+    id: 58207
   },
   {
     proverb_type: 'Refrán',
@@ -2636,8 +2635,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58208&Lng=0',
-    id: '58208'
+    slug: 'amigo-que-no-da-y-cuchillo-que-no-corta-si-se-pierden-poco-importa',
+    id: 58208
   },
   {
     proverb_type: 'Refrán',
@@ -2650,8 +2649,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58209&Lng=0',
-    id: '58209'
+    slug: 'amigo-reconciliado-enemigo-doblado',
+    id: 58209
   },
   {
     proverb_type: 'Refrán',
@@ -2664,8 +2663,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Este refrán contiene dos referentes muy conocidos en la sociedad rural española: el vino y el tocino. España es un país vitícola por excelencia y un gran consumidor de los productos derivados del cerdo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58210&Lng=0',
-    id: '58210'
+    slug: 'amigo-viejo-tocino-y-vino-anejos',
+    id: 58210
   },
   {
     proverb_type: 'Refrán',
@@ -2673,14 +2672,14 @@ export const PROVERBS_DATA = [
     proverb: 'Amigos al prestar, enemigos al devolver',
     tags: [
       'Amistad',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Cuando nos dan, ponemos buen gesto; pero, cuano toca devolver, ya es otra cosa. No es fácil conciliar amistad y cumplimiento de lo que obliga un préstamo. Por eso, advierte este refrán lo peligroso que resulta prestar a los amigos, porque pueden tardar en devolver lo prestado o directamente no hacerlo, tomando como excusa la amistad.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58211&Lng=0',
-    id: '58211'
+    slug: 'amigos-al-prestar-enemigos-al-devolver',
+    id: 58211
   },
   {
     proverb_type: 'Refrán',
@@ -2694,8 +2693,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en Valdés 26',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58212&Lng=0',
-    id: '58212'
+    slug: 'amigos-y-mulas-fallecen-a-las-duras',
+    id: 58212
   },
   {
     proverb_type: 'Refrán',
@@ -2708,8 +2707,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Cuando se fuera de casa, conviene hallar amigos o parientes, como indica el refrán Adonde quiera que vayas, de los tuyos hayas (Valdés, 62).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58213&Lng=0',
-    id: '58213'
+    slug: 'amigos-hasta-en-el-infierno',
+    id: 58213
   },
   {
     proverb_type: 'Refrán',
@@ -2723,8 +2722,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La escasa duración del sol de invierno aparece en otros refranes, como: Sol de invierno, sale tarde y se pone presto; este refrán se dice para aludir a un bien tardío y de corta duración.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58214&Lng=0',
-    id: '58214'
+    slug: 'amistad-de-yerno-sol-de-invierno',
+    id: 58214
   },
   {
     proverb_type: 'Refrán',
@@ -2737,8 +2736,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58215&Lng=0',
-    id: '58215'
+    slug: 'amor-con-amor-se-paga',
+    id: 58215
   },
   {
     proverb_type: 'Refrán',
@@ -2752,8 +2751,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58216&Lng=0',
-    id: '58216'
+    slug: 'amor-de-nino-agua-en-cestillo',
+    id: 58216
   },
   {
     proverb_type: 'Refrán',
@@ -2767,8 +2766,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58217&Lng=0',
-    id: '58217'
+    slug: 'amor-de-padre-que-todo-lo-demas-es-aire',
+    id: 58217
   },
   {
     proverb_type: 'Refrán',
@@ -2781,8 +2780,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58218&Lng=0',
-    id: '58218'
+    slug: 'amor-loco-yo-por-vos-y-vos-por-otro',
+    id: 58218
   },
   {
     proverb_type: 'Refrán',
@@ -2796,8 +2795,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58219&Lng=0',
-    id: '58219'
+    slug: 'amor-trompero-cuantas-veo-tantas-quiero',
+    id: 58219
   },
   {
     proverb_type: 'Refrán',
@@ -2810,8 +2809,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58220&Lng=0',
-    id: '58220'
+    slug: 'amor-y-celos-hermanos-gemelos',
+    id: 58220
   },
   {
     proverb_type: 'Refrán',
@@ -2825,8 +2824,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58221&Lng=0',
-    id: '58221'
+    slug: 'amor-y-dinero-nunca-fueron-companeros',
+    id: 58221
   },
   {
     proverb_type: 'Refrán',
@@ -2839,8 +2838,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Hay hablantes que, al no recordar la forma completa del refrán La mancha de la mora, con otra verde se quita, dicen una forma simplificada, como Una mancha de mora con otra se quita (Escuchada en la radio, 12-01-2007).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58222&Lng=0',
-    id: '58222'
+    slug: 'amores-nuevos-olvidan-viejos',
+    id: 58222
   },
   {
     proverb_type: 'Refrán',
@@ -2853,8 +2852,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Recuérdese Del amor al odio hay un paso.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58223&Lng=0',
-    id: '58223'
+    slug: 'amores-renidos-son-los-mas-queridos',
+    id: 58223
   },
   {
     proverb_type: 'Refrán',
@@ -2868,8 +2867,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58224&Lng=0',
-    id: '58224'
+    slug: 'amores-dolores-y-dineros-no-pueden-estar-secretos',
+    id: 58224
   },
   {
     proverb_type: 'Locución proverbial',
@@ -2884,23 +2883,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58225&Lng=0',
-    id: '58225'
+    slug: 'andar-toda-la-noche-y-amanecer-en-la-posada',
+    id: 58225
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Ande yo caliente, y ríase la gente',
     tags: [
-      'Preferencias',
+      'Preferencia',
       'Crítica'
     ],
     meaning: 'Se dice cuando uno prefiere su gusto o comodidad a someterse a la opinión de los demás o a los convencionalismos sociales. También se emplea para recomendar actuar rectamente y de acuerdo con la propia conciencia, sin tener en cuenta la opinión de los demás.',
     usable: 'De uso actual',
     observations: 'Ande yo caliente y ríase la gente (Valdés, 28). ¡Ándeme yo caliente, y ríase la gente! (El Quijote II 50). Esta paremia constituye el estribillo de una conocida letrilla de Góngora. En ocasiones, se juega con la forma clásica: Ande yo caliente, denúncieme la gente (Martes y trece, TVE, 31 de diciembre de 2006).',
     comments: 'Se puede decir solo la primera parte: Ande yo caliente...',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58226&Lng=0',
-    id: '58226'
+    slug: 'ande-yo-caliente-y-riase-la-gente',
+    id: 58226
   },
   {
     proverb_type: 'Refrán',
@@ -2913,8 +2912,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58236&Lng=0',
-    id: '58236'
+    slug: 'ano-bisiesto-ano-siniestro',
+    id: 58236
   },
   {
     proverb_type: 'Refrán',
@@ -2927,8 +2926,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58237&Lng=0',
-    id: '58237'
+    slug: 'ano-de-brevas-nunca-lo-veas',
+    id: 58237
   },
   {
     proverb_type: 'Refrán',
@@ -2941,8 +2940,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58238&Lng=0',
-    id: '58238'
+    slug: 'ano-de-heladas-ano-de-parvas',
+    id: 58238
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -2955,8 +2954,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Este refrán es válido para tierras de cereal como Castilla. Este refrán se dijo mucho el día 9 de enero de 2009, com motivo de la nevada caída en Madrid, que cubrió la capital de España con una capa de 5 a 15 centímetros. No había nevado tanto desde hacía treinta años.',
     comments: 'Los campesinos utilizan este refrán «porque se empapa y sazona la tierra con las nieves y heladas, y se queman las malas hierbas» (Correas A2014)',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58239&Lng=0',
-    id: '58239'
+    slug: 'ano-de-nieves-ano-de-bienes',
+    id: 58239
   },
   {
     proverb_type: 'Refrán',
@@ -2969,8 +2968,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58240&Lng=0',
-    id: '58240'
+    slug: 'ano-nuevo-vida-nueva',
+    id: 58240
   },
   {
     proverb_type: 'Refrán',
@@ -2983,20 +2982,23 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'El verbo está elidido. En ocasiones, se menciona la forma verbal: Ante el vicio de pedir, está la virtud de no dar.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58379&Lng=0',
-    id: '58379'
+    slug: 'ante-el-vicio-de-pedir-la-virtud-de-no-dar',
+    id: 58379
   },
   {
     proverb_type: 'Aforismo',
     language: 'Español',
     proverb: 'Ante la duda, abstente',
-    tags: [],
+    tags: [
+      'Precaución',
+      'Incertidumbre'
+    ],
     meaning: 'Es preferible no tomar una decisión si no sabemos a ciencia cierta que nos conviene.',
     usable: 'Poco usado',
     observations: 'Procede del latím In dubio / dubiis, abstine',
     comments: 'El ámbito habitual de uso del aforismo es el jurídico. También se dice En la duda, abstente, forma más próxima a la forma latina.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58227&Lng=0',
-    id: '58227'
+    slug: 'ante-la-duda-abstente',
+    id: 58227
   },
   {
     proverb_type: 'Refrán',
@@ -3009,8 +3011,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se emplea más la segunda parte: Consúltalo con la almohada. Lo consultaré con la almohada, por lo que se podría pensar que la locución consultar con la almohada es el origen de este refrán.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58228&Lng=0',
-    id: '58228'
+    slug: 'antes-de-hacer-nada-consultalo-con-la-almohada',
+    id: 58228
   },
   {
     proverb_type: 'Refrán',
@@ -3024,8 +3026,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En esta misma línea temática se encuentra la locución No cantar victoria antes de tiempo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58229&Lng=0',
-    id: '58229'
+    slug: 'antes-de-que-acabes-no-te-alabes',
+    id: 58229
   },
   {
     proverb_type: 'Refrán',
@@ -3039,8 +3041,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58230&Lng=0',
-    id: '58230'
+    slug: 'antes-de-que-te-cases-mira-lo-que-haces',
+    id: 58230
   },
   {
     proverb_type: 'Refrán',
@@ -3053,8 +3055,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58231&Lng=0',
-    id: '58231'
+    slug: 'antes-es-la-obligacion-que-la-devocion',
+    id: 58231
   },
   {
     proverb_type: 'Refrán',
@@ -3067,8 +3069,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En primavera, cuando florecen los almendros, hay a veces heladas que echan a perder el fruto. Por el contrario, el moral, que madura avanzado el verano, no tiene ese inconveniente.\r\nEs un tópico del barroco la oposición entre el almendro, símbolo de la locura y la precipitación, frente al moral, que lo es de la prudencia. Hay muchas muestras literarias, como el auto sacramental de Calderón de La humildad coronada de las plantas, donde el almendro y el moral aparecen como personajes (Frederick A. de Armas, «Los ‘naturales secretos’ del almendro», Actas VIII AIH , 1983) http://cvc.cervantes.es/obref/aih/pdf/08/aih_08_1_047.pdf).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58232&Lng=0',
-    id: '58232'
+    slug: 'antes-moral-tardio-que-almendro-florido',
+    id: 58232
   },
   {
     proverb_type: 'Refrán',
@@ -3082,8 +3084,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Una popular ministra hizo famosa la versión andaluza del refrán : Antes quebrá que doblá.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58233&Lng=0',
-    id: '58233'
+    slug: 'antes-quebrar-que-doblar',
+    id: 58233
   },
   {
     proverb_type: 'Refrán',
@@ -3096,8 +3098,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Toman antes al mentiroso que al que coxquea (La Celestina XVII). Recuérdese el refrán Para ser mentiroso hay que ser memorioso. La paremia La mentira tiene los pies cotos tiene variantes como La mentira tiene las patas muy cortas o La mentira tiene cortas las piernas (Correas1627 L432).',
     comments: 'Actualmente también se emplea bastante la forma Se pilla antes a un mentiroso que a un cojo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58234&Lng=0',
-    id: '58234'
+    slug: 'antes-se-coge-al-mentiroso-que-al-cojo',
+    id: 58234
   },
   {
     proverb_type: 'Refrán',
@@ -3110,8 +3112,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Este refrán conoce bastantes variantes. No se emplea tanto como antes.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58235&Lng=0',
-    id: '58235'
+    slug: 'antes-son-mis-dientes-que-mis-parientes',
+    id: 58235
   },
   {
     proverb_type: 'Refrán',
@@ -3126,8 +3128,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Las combinaciones saber perder y tener buen perder no denotan exactamente lo mismo que este refrán, sino más bien la capacidad de aceptar ecuánimemente las derrotas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58241&Lng=0',
-    id: '58241'
+    slug: 'aprende-a-perder-y-aprenderas-a-ganar-y-a-triunfar',
+    id: 58241
   },
   {
     proverb_type: 'Refrán',
@@ -3140,8 +3142,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Este refrán se mueve en la línea temática de los múltiples existentes en defensa del silencio. Algunos enunciados sentenciosos se ha hecho famosos por estar en una canción (Soy dueño de mi silencio y esclavo de mis palabras, del grupo Jarabe de palo) o por haberlo proferido un periodista (Valgo más por lo que callo que por lo que digo, del periodista Jaime Peñafiel).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58242&Lng=0',
-    id: '58242'
+    slug: 'aprended-a-bien-callar-para-que-sepais-bien-hablar',
+    id: 58242
   },
   {
     proverb_type: 'Refrán',
@@ -3149,15 +3151,15 @@ export const PROVERBS_DATA = [
     proverb: 'Aprendiz de mucho, maestro de nada',
     tags: [
       'Inconstancia',
-      'Oficios',
+      'Oficio',
       'Aprendizaje'
     ],
     meaning: 'No conseguirá nada quien no acaba de decidirse por un oficio y le falta constancia y espíritu de sacrificio para prepararse convenientemente. Recrimina a quien pretende abarcar demasiadas actividades profesionales, lo que desemboca en ser incapaz de desempeñar una bien.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58243&Lng=0',
-    id: '58243'
+    slug: 'aprendiz-de-mucho-maestro-de-nada',
+    id: 58243
   },
   {
     proverb_type: 'Refrán',
@@ -3170,8 +3172,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58244&Lng=0',
-    id: '58244'
+    slug: 'aquel-es-tu-amigo-que-te-quita-de-ruidos',
+    id: 58244
   },
   {
     proverb_type: 'Refrán',
@@ -3185,8 +3187,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado La Celestina.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58245&Lng=0',
-    id: '58245'
+    slug: 'aquel-va-mas-sano-que-anda-por-lo-llano',
+    id: 58245
   },
   {
     proverb_type: 'Refrán',
@@ -3200,8 +3202,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58246&Lng=0',
-    id: '58246'
+    slug: 'aquella-ave-es-mala-que-en-su-nido-se-ensucia',
+    id: 58246
   },
   {
     proverb_type: 'Refrán',
@@ -3214,8 +3216,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58247&Lng=0',
-    id: '58247'
+    slug: 'aquella-es-bien-casada-que-ni-tiene-suegra-ni-cunada',
+    id: 58247
   },
   {
     proverb_type: 'Refrán',
@@ -3228,8 +3230,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58248&Lng=0',
-    id: '58248'
+    slug: 'aquellos-son-ricos-que-tienen-amigos',
+    id: 58248
   },
   {
     proverb_type: 'Refrán',
@@ -3237,27 +3239,31 @@ export const PROVERBS_DATA = [
     proverb: 'Ara con niños, segarás cadillos',
     tags: [
       'Niñez',
-      'Compañías',
+      'Compañía',
       'Inexperiencia'
     ],
     meaning: 'Los niños carecen de conocimiento y de la fuerza suficiente para realizar labores agrícolas, como la de arar la tierra. El niño simboliza el obrero inexperto. En sentido general, no se obtienen beneficios si se elige un colaborador inexperto, por ahorrarse un dinero al pagar un sueldo bajo o por no seleccionar bien a los que van a ayudar. También se utiliza para aconsejar la conveniencia de mantener a distancia a los niños.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58249&Lng=0',
-    id: '58249'
+    slug: 'ara-con-ninos-segaras-cadillos',
+    id: 58249
   },
   {
     proverb_type: 'Dialogismo',
     language: 'Español',
     proverb: "'Aramos', dijo la mosca. Y estaba en el cuerno del buey",
-    tags: [],
+    tags: [
+      'Crítica',
+      'Interés',
+      'Esfuerzo'
+    ],
     meaning: 'Critica a quienes se jactan de realizar el trabajo que otros hacen.',
     usable: 'En desuso',
     observations: "Se emplea también una forma abreviada: 'Aramos', dijo la mosca al buey. Se consigue el  tono humorístico al elegir de protagonista el mosquito, insecto que, como la mosca, suele mortificar a las caballerías y animales de trabajo, como el buey, de modo que no son de ayuda, sino que causan pesadumbre a estos animales.",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58250&Lng=0',
-    id: '58250'
+    slug: 'aramos-dijo-la-mosca-y-estaba-en-el-cuerno-del-buey',
+    id: 58250
   },
   {
     proverb_type: 'Refrán',
@@ -3271,15 +3277,15 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58251&Lng=0',
-    id: '58251'
+    slug: 'arrieros-somos-y-en-el-camino-nos-encontraremos',
+    id: 58251
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Asno callado, por sabio es contado',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Necedad',
       'Silencio'
     ],
@@ -3287,8 +3293,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58252&Lng=0',
-    id: '58252'
+    slug: 'asno-callado-por-sabio-es-contado',
+    id: 58252
   },
   {
     proverb_type: 'Refrán',
@@ -3301,8 +3307,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Un asno cargado de oro sube ligero por una montaña (El Quijote II 35). Un asno cubierto de oro parece mejor que un caballo enalbardado (El Quijote II 20).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58253&Lng=0',
-    id: '58253'
+    slug: 'asno-con-oro-alcanzalo-todo',
+    id: 58253
   },
   {
     proverb_type: 'Refrán',
@@ -3315,8 +3321,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se menciona el asno en calidad de animal servil, apreciado sólo por las ventajas que proporciona, y el lobo, por su voracidad.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58254&Lng=0',
-    id: '58254'
+    slug: 'asno-de-muchos-lobos-lo-comen',
+    id: 58254
   },
   {
     proverb_type: 'Refrán',
@@ -3329,8 +3335,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58255&Lng=0',
-    id: '58255'
+    slug: 'asno-rudo-aguijon-agudo',
+    id: 58255
   },
   {
     proverb_type: 'Refrán',
@@ -3343,8 +3349,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Correas también cita un refrán sinónimo: Aún no asamos, y ya empringamos (Correas1627 A2298).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58256&Lng=0',
-    id: '58256'
+    slug: 'aun-no-ensillamos-y-ya-cabalgamos',
+    id: 58256
   },
   {
     proverb_type: 'Refrán',
@@ -3357,15 +3363,15 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En la actualidad, se emplea sólo la primera parte del refrán y la segunda cambia según el propósito.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58257&Lng=0',
-    id: '58257'
+    slug: 'aun-no-ha-salido-del-cascaron-y-ya-tiene-espolon',
+    id: 58257
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Aunque la mona se vista de seda, mona se queda',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Belleza',
       'Herencia genética'
     ],
@@ -3373,8 +3379,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Dado que la mención de la mona puede resultar ofensivo, en ocasiones se cita la primera parte del conocido refrán eliminando este animal: Aunque se vista de seda.... Así sucedió en un medio televisivo para anunciar la noticia de una de  las mujeres famosas peor vestidas en el año 2007. Se trata de un refrán muy empleado.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58258&Lng=0',
-    id: '58258'
+    slug: 'aunque-la-mona-se-vista-de-seda-mona-se-queda',
+    id: 58258
   },
   {
     proverb_type: 'Refrán',
@@ -3389,8 +3395,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58259&Lng=0',
-    id: '58259'
+    slug: 'aunque-seas-muy-sabio-y-viejo-no-desdenes-el-consejo',
+    id: 58259
   },
   {
     proverb_type: 'Refrán',
@@ -3403,8 +3409,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58260&Lng=0',
-    id: '58260'
+    slug: 'aunque-todo-sea-barro-no-es-lo-mismo-tinaja-que-jarro',
+    id: 58260
   },
   {
     proverb_type: 'Refrán',
@@ -3417,8 +3423,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58261&Lng=0',
-    id: '58261'
+    slug: 'ave-que-vuela-a-la-cazuela',
+    id: 58261
   },
   {
     proverb_type: 'Refrán',
@@ -3431,37 +3437,37 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Ayúdate, y ayudarate Dios (Valdés 30).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58262&Lng=0',
-    id: '58262'
+    slug: 'ayudate-y-te-ayudare',
+    id: 58262
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Ayunar, o comer trucha',
     tags: [
-      'Extremosidad'
+      'Exceso'
     ],
     meaning: 'Se dice de quien no se conforma con la medianía, sino que aspira a  algo de más calidad. Con este refrán, se recrimina a quien es extremado: o todo o nada; o logra lo que anhela o renuncia a todo. Pero, puede suceder que, por esperar algo mejor, pierda una oportunidad razonable.',
     usable: 'En desuso',
     observations: 'El refrán Cuando la vieja no tiene dinero, no tiene carne el carnero alude a quien desprecia injustamente cuando uno no tiene lo que desea (Autoridades, «carnero»). La frase O perdiz, o no comerla recomienda poner la mira en lo más útil cuando se pretenden las cosas con razón (Autoridades «perdiz»). En la literatura del Siglo de Oro (Cervantes, Tirso de Molina), la trucha era una comida distinguida, que se oponía a veces al bacalao, mucho más barato y poco valorado por los médicos (Gran Enciclopedia Cervantina. Alcalá de Henares: Centro de Estudios Cervantinos, Editorial Castalia, 200, II, pp. 1039-1040).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58263&Lng=0',
-    id: '58263'
+    slug: 'ayunar-o-comer-trucha',
+    id: 58263
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Bajo la miel, está la hiel',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Hipocresía'
     ],
     meaning: 'Este refrán contiene una advertencia contra las falsas apariencias o la hipocresía. Recomienda desconfiar de los que esconden su verdadera condición bajo una apariencia falsamente complaciente y virtuosa.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58264&Lng=0',
-    id: '58264'
+    slug: 'bajo-la-miel-esta-la-hiel',
+    id: 58264
   },
   {
     proverb_type: 'Refrán',
@@ -3475,8 +3481,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Corderica mansa mama a su madre y a la ajena (La Celestina XI 76).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58265&Lng=0',
-    id: '58265'
+    slug: 'becerrilla-mansa-a-su-madre-y-a-la-ajena-mama',
+    id: 58265
   },
   {
     proverb_type: 'Refrán',
@@ -3490,8 +3496,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58266&Lng=0',
-    id: '58266'
+    slug: 'besos-y-abrazos-no-hacen-chiquillos-pero-tocan-a-visperas',
+    id: 58266
   },
   {
     proverb_type: 'Refrán',
@@ -3504,8 +3510,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'La variante Mala hierba nunca muere aparece, en el año 2008, en un anuncio publicitario de un producto contra los hongos de los pies.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58267&Lng=0',
-    id: '58267'
+    slug: 'bicho-malo-nunca-muere',
+    id: 58267
   },
   {
     proverb_type: 'Refrán',
@@ -3519,8 +3525,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Bien canta Marta después de harta (El Criticón III 205). El refrán Tripas llevan corazón, que no corazón tripas tiene una variante con la palabra «pies»: Tripas llevas pies, que no los pies tripas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58268&Lng=0',
-    id: '58268'
+    slug: 'bien-canta-marta-despues-de-harta',
+    id: 58268
   },
   {
     proverb_type: 'Refrán',
@@ -3534,8 +3540,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58269&Lng=0',
-    id: '58269'
+    slug: 'bien-esta-cada-piedra-en-su-agujero',
+    id: 58269
   },
   {
     proverb_type: 'Refrán',
@@ -3548,8 +3554,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58270&Lng=0',
-    id: '58270'
+    slug: 'bien-esta-lo-que-bien-acaba',
+    id: 58270
   },
   {
     proverb_type: 'Refrán',
@@ -3562,8 +3568,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58271&Lng=0',
-    id: '58271'
+    slug: 'bien-juega-quien-mira',
+    id: 58271
   },
   {
     proverb_type: 'Refrán',
@@ -3577,8 +3583,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Existe la variante aragonesa de Mucho te quiero, perrito, pero pan, poquito: Te quiero perrico, pero pan poquico.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58272&Lng=0',
-    id: '58272'
+    slug: 'bien-me-quieres-bien-te-quiero-mas-no-te-doy-mi-dinero',
+    id: 58272
   },
   {
     proverb_type: 'Refrán',
@@ -3591,8 +3597,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en el Quijote II 20.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58273&Lng=0',
-    id: '58273'
+    slug: 'bien-predica-quien-bien-vive',
+    id: 58273
   },
   {
     proverb_type: 'Refrán',
@@ -3605,8 +3611,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Bien venga el mal, si viene solo (La Lozana Andaluza 191).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58274&Lng=0',
-    id: '58274'
+    slug: 'bien-vengas-mal-si-vienes-solo',
+    id: 58274
   },
   {
     proverb_type: 'Refrán',
@@ -3619,8 +3625,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58275&Lng=0',
-    id: '58275'
+    slug: 'bienes-mal-adquiridos-a-nadie-han-enriquecido',
+    id: 58275
   },
   {
     proverb_type: 'Refrán',
@@ -3633,8 +3639,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58276&Lng=0',
-    id: '58276'
+    slug: 'boca-dulce-y-bolsa-abierta-te-abriran-todas-las-puertas',
+    id: 58276
   },
   {
     proverb_type: 'Refrán',
@@ -3648,8 +3654,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58277&Lng=0',
-    id: '58277'
+    slug: 'bodas-hacen-bodas',
+    id: 58277
   },
   {
     proverb_type: 'Refrán',
@@ -3662,8 +3668,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58278&Lng=0',
-    id: '58278'
+    slug: 'bondad-merma-autoridad',
+    id: 58278
   },
   {
     proverb_type: 'Refrán',
@@ -3676,8 +3682,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58279&Lng=0',
-    id: '58279'
+    slug: 'borracho-no-tiene-cura',
+    id: 58279
   },
   {
     proverb_type: 'Refrán',
@@ -3692,8 +3698,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Buen esfuerzo vence a la mala ventura (El Libro de Buen Amor 160).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58280&Lng=0',
-    id: '58280'
+    slug: 'buen-corazon-quebranta-mala-ventura',
+    id: 58280
   },
   {
     proverb_type: 'Refrán',
@@ -3707,8 +3713,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58281&Lng=0',
-    id: '58281'
+    slug: 'buena-es-la-nieve-que-en-su-tiempo-viene',
+    id: 58281
   },
   {
     proverb_type: 'Refrán',
@@ -3722,8 +3728,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Refleja la misma advertencia que el proverbio latino Festina lente.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58282&Lng=0',
-    id: '58282'
+    slug: 'buena-es-la-tardanza-que-hace-la-carrera-segura',
+    id: 58282
   },
   {
     proverb_type: 'Refrán',
@@ -3738,8 +3744,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58283&Lng=0',
-    id: '58283'
+    slug: 'buey-viejo-surco-derecho',
+    id: 58283
   },
   {
     proverb_type: 'Refrán',
@@ -3752,8 +3758,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: "Correas ofrece la siguiente explicación: «`Burla burlando' es muy usada frase, para decir: en modo de burla, y envía de juego, con disimulación, y como sin echarlo de ver». Sbarbi lo equipara con estas expresiones: «Sin advertirlo osin darse cuenta de ello. Disimuladamente o como quien no quiere la cosa».",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58284&Lng=0',
-    id: '58284'
+    slug: 'burla-burlando-vase-el-lobo-al-asno',
+    id: 58284
   },
   {
     proverb_type: 'Refrán',
@@ -3767,8 +3773,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'En ocasiones, se emplea sólo la primera parte y la segunda queda sobreentendida: Caballo grande...',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58285&Lng=0',
-    id: '58285'
+    slug: 'caballo-grande-ande-o-no-ande',
+    id: 58285
   },
   {
     proverb_type: 'Refrán',
@@ -3781,8 +3787,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58286&Lng=0',
-    id: '58286'
+    slug: 'caballo-que-vuela-no-quiere-espuela',
+    id: 58286
   },
   {
     proverb_type: 'Refrán',
@@ -3795,8 +3801,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La sangre se hereda, y la virtud se aquista [se adquiere] (El Quijote II 42).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58287&Lng=0',
-    id: '58287'
+    slug: 'cabra-por-vina-cual-la-madre-tal-la-hija',
+    id: 58287
   },
   {
     proverb_type: 'Refrán',
@@ -3811,8 +3817,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán Cada cual case con su igual tiene una forma abreviada: Cada uno, con su igual y otra más larga: Cada uno con su igual trate y se case.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58288&Lng=0',
-    id: '58288'
+    slug: 'cada-asno-con-su-tamano',
+    id: 58288
   },
   {
     proverb_type: 'Refrán',
@@ -3825,24 +3831,24 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58289&Lng=0',
-    id: '58289'
+    slug: 'cada-bota-huele-al-vino-que-tiene',
+    id: 58289
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'Cada buhonero alaba sus agujas',
     tags: [
-      'Negocios',
+      'Negocio',
       'Presunción',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Si se quiere vender algo, se suele tratar de convencer a los posibles compradores de que su mercancía es la mejor. En sentido amplio, cada cual suele encarecer lo propio y presenta lo suyo como lo más perfecto. En ocasiones, se emplea con un sentido irónico para criticar a quien presume de sus méritos.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58290&Lng=0',
-    id: '58290'
+    slug: 'cada-buhonero-alaba-sus-agujas',
+    id: 58290
   },
   {
     proverb_type: 'Refrán',
@@ -3856,8 +3862,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Cada cosa en su tiempo (La Pícara Justina I 63). A su tiempo, nabos en Adviento (La Dorotea V 387).',
     comments: 'La paremia Cada cosa a su tiempo suele llevar agregada la coletilla y los nabos en Adviento no sólo para conseguir un efecto rítmico sino también porque el mes de diciembre es la mejor época para los nabos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58291&Lng=0',
-    id: '58291'
+    slug: 'cada-cosa-a-su-tiempo',
+    id: 58291
   },
   {
     proverb_type: 'Refrán',
@@ -3870,8 +3876,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58292&Lng=0',
-    id: '58292'
+    slug: 'cada-cosa-en-su-sitio-y-un-sitio-para-cada-cosa',
+    id: 58292
   },
   {
     proverb_type: 'Refrán',
@@ -3885,8 +3891,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Cada uno case con su igual (El Quijote II 18). Casadla con su igual (El Quijote II 5). Cada cual con su cada cual (Seniloquium 84). Ruin con ruin, que así casan en Dueñas (Santillana, 638).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58293&Lng=0',
-    id: '58293'
+    slug: 'cada-cual-case-con-su-igual',
+    id: 58293
   },
   {
     proverb_type: 'Refrán',
@@ -3901,8 +3907,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58294&Lng=0',
-    id: '58294'
+    slug: 'cada-dia-gallina-amarga-la-cocina',
+    id: 58294
   },
   {
     proverb_type: 'Refrán',
@@ -3915,8 +3921,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58295&Lng=0',
-    id: '58295'
+    slug: 'cada-dia-que-amanece-el-numero-de-los-tontos-crece',
+    id: 58295
   },
   {
     proverb_type: 'Frase proverbial',
@@ -3929,8 +3935,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Alusión al Evangelio de San Mateo 6, 34 (Cada día tiene bastante con su propio mal).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58296&Lng=0',
-    id: '58296'
+    slug: 'cada-dia-trae-su-afan',
+    id: 58296
   },
   {
     proverb_type: 'Frase proverbial',
@@ -3944,8 +3950,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Cada gallo cante en su muladar (Valdés 36).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58297&Lng=0',
-    id: '58297'
+    slug: 'cada-gallo-canta-en-su-muladar',
+    id: 58297
   },
   {
     proverb_type: 'Frase proverbial',
@@ -3959,37 +3965,37 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58298&Lng=0',
-    id: '58298'
+    slug: 'cada-hormiga-tiene-su-ira',
+    id: 58298
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Cada loco con su tema',
     tags: [
-      'Preferencias'
+      'Preferencia'
     ],
     meaning: "Cada uno siente apego por una cosa aunque no siempre de manera racional, lo que puede convertirse en una obsesión o una manía. Denota que cada persona tiene sus propias preferencias, sus propias manías, su manera de 'ser loco' para quien no comparta sus aficiones o aspiraciones.",
     usable: 'De uso actual',
     observations: 'Citado en La Pícara Justina I 125.',
     comments: 'En ocasiones, se reemplaza una parte para acentuar el tono irónico: Cada tonto con su tema.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58299&Lng=0',
-    id: '58299'
+    slug: 'cada-loco-con-su-tema',
+    id: 58299
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Cada maestrillo tiene su librillo',
     tags: [
-      'Oficios',
-      'Preferencias'
+      'Oficio',
+      'Preferencia'
     ],
     meaning: 'Se alude a la distinta manera de actuar y de pensar que tiene cada persona.',
     usable: 'De uso actual',
     observations: 'Esta paremia, cuyos elementos léxicos siguen el orden propio de una frase proverbial, posee una estructura bimembre marcada por la rima consonante, lo que la sitúa en el grupo de los refranes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58300&Lng=0',
-    id: '58300'
+    slug: 'cada-maestrillo-tiene-su-librillo',
+    id: 58300
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4003,8 +4009,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Esta paremia está basada en el carácter alegre que se atribuye al domingo, por ser un día festivo en la cultura cristiana, y en el carácter menos alegre que tiene el martes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58301&Lng=0',
-    id: '58301'
+    slug: 'cada-martes-tiene-su-domingo',
+    id: 58301
   },
   {
     proverb_type: 'Refrán',
@@ -4017,8 +4023,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58302&Lng=0',
-    id: '58302'
+    slug: 'cada-mochuelo-a-su-olivo',
+    id: 58302
   },
   {
     proverb_type: 'Refrán',
@@ -4033,8 +4039,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58303&Lng=0',
-    id: '58303'
+    slug: 'cada-oveja-con-su-pareja',
+    id: 58303
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4047,8 +4053,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se refiere a las velas de una nave, sujetas cada una al palo que le corresponde. Puede tener un sentido exhortativo y emplearse para excusarse por no ayuda a alguien.',
     comments: 'Por lo general, se dice precedido de «que»: Que cada palo aguante su vela. Su uso ha aumentado en los medios de comunicación desde enero de 2013 con motivo de algunos casos de corrupción: «—Que cada palo aguante su vela. \n—Hay muchos palos que aguantar» (escuchado en un programa televisivo, en julio de 2013).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58304&Lng=0',
-    id: '58304'
+    slug: 'cada-palo-aguante-su-vela',
+    id: 58304
   },
   {
     proverb_type: 'Refrán',
@@ -4063,8 +4069,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58305&Lng=0',
-    id: '58305'
+    slug: 'cada-par-con-su-par',
+    id: 58305
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4077,8 +4083,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58306&Lng=0',
-    id: '58306'
+    slug: 'cada-santo-pide-por-su-ermita',
+    id: 58306
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4091,8 +4097,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58307&Lng=0',
-    id: '58307'
+    slug: 'cada-sendero-tiene-su-atolladero',
+    id: 58307
   },
   {
     proverb_type: 'Refrán',
@@ -4105,8 +4111,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58308&Lng=0',
-    id: '58308'
+    slug: 'cada-uno-donde-es-nacido-y-bien-se-esta-el-pajaro-en-su-nido',
+    id: 58308
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4120,8 +4126,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58309&Lng=0',
-    id: '58309'
+    slug: 'cada-uno-en-su-casa-es-rey',
+    id: 58309
   },
   {
     proverb_type: 'Refrán',
@@ -4135,8 +4141,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58310&Lng=0',
-    id: '58310'
+    slug: 'cada-uno-en-su-casa-y-dios-en-la-de-todos',
+    id: 58310
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4150,8 +4156,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Dice cada uno habla de la feria según le va en ella (La Celestina IV 166). El refrán No dice más la lengua que lo que siente el corazón manifiesta que cada uno habla según sus afectos e inclinaciones.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58311&Lng=0',
-    id: '58311'
+    slug: 'cada-uno-habla-de-la-feria-como-le-va-en-ella',
+    id: 58311
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4165,8 +4171,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58312&Lng=0',
-    id: '58312'
+    slug: 'cada-uno-lleva-su-cruz',
+    id: 58312
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4179,8 +4185,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58313&Lng=0',
-    id: '58313'
+    slug: 'cada-uno-sabe-donde-le-aprieta-el-zapato',
+    id: 58313
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4193,8 +4199,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Cada uno es hijo de sus obras (El Quijote I 4 y I 47).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58314&Lng=0',
-    id: '58314'
+    slug: 'cada-uno-se-conoce-por-sus-obras',
+    id: 58314
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4207,8 +4213,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58315&Lng=0',
-    id: '58315'
+    slug: 'cada-uno-tiene-lo-que-se-merece',
+    id: 58315
   },
   {
     proverb_type: 'Frase proverbial',
@@ -4221,8 +4227,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58316&Lng=0',
-    id: '58316'
+    slug: 'cada-uno-ve-con-los-ojos-que-dios-le-ha-dado',
+    id: 58316
   },
   {
     proverb_type: 'Refrán',
@@ -4235,8 +4241,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58317&Lng=0',
-    id: '58317'
+    slug: 'callen-barbas-y-hablen-cartas',
+    id: 58317
   },
   {
     proverb_type: 'Refrán',
@@ -4249,8 +4255,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Esta paremia, de origen latino, fue empleada por Bacon en su De dignitate et augmentis scientiarum.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58318&Lng=0',
-    id: '58318'
+    slug: 'calumnia-que-algo-queda',
+    id: 58318
   },
   {
     proverb_type: 'Refrán',
@@ -4263,8 +4269,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58319&Lng=0',
-    id: '58319'
+    slug: 'camaron-que-se-duerme-se-lo-lleva-la-corriente',
+    id: 58319
   },
   {
     proverb_type: 'Refrán',
@@ -4277,8 +4283,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58320&Lng=0',
-    id: '58320'
+    slug: 'caminante-cansado-subira-en-asno-si-no-encuentra-caballo',
+    id: 58320
   },
   {
     proverb_type: 'Refrán',
@@ -4291,8 +4297,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58321&Lng=0',
-    id: '58321'
+    slug: 'camino-de-roma-ni-mula-coja-ni-bolsa-floja',
+    id: 58321
   },
   {
     proverb_type: 'Refrán',
@@ -4306,8 +4312,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58322&Lng=0',
-    id: '58322'
+    slug: 'canta-la-rana-y-no-tiene-pelo-ni-lana',
+    id: 58322
   },
   {
     proverb_type: 'Refrán',
@@ -4320,8 +4326,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58323&Lng=0',
-    id: '58323'
+    slug: 'cantar-mal-y-porfiar',
+    id: 58323
   },
   {
     proverb_type: 'Refrán',
@@ -4334,8 +4340,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58324&Lng=0',
-    id: '58324'
+    slug: 'cantar-pense-y-por-cantar-llore',
+    id: 58324
   },
   {
     proverb_type: 'Refrán',
@@ -4348,8 +4354,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58325&Lng=0',
-    id: '58325'
+    slug: 'canto-el-cuquillo-y-descubrio-su-nidillo',
+    id: 58325
   },
   {
     proverb_type: 'Refrán',
@@ -4362,8 +4368,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58326&Lng=0',
-    id: '58326'
+    slug: 'cara-de-beato-y-unas-de-gato',
+    id: 58326
   },
   {
     proverb_type: 'Refrán',
@@ -4376,36 +4382,36 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58327&Lng=0',
-    id: '58327'
+    slug: 'caridad-y-amor-sin-tambor',
+    id: 58327
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Carne, carne cría; y peces, agua fría',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Este refrán da a entender que la carne es alimento más sustancioso que el pescado.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58328&Lng=0',
-    id: '58328'
+    slug: 'carne-carne-cria-y-peces-agua-fria',
+    id: 58328
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Carnero, comer de caballero',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Se elogia la carne de carnero.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58329&Lng=0',
-    id: '58329'
+    slug: 'carnero-comer-de-caballero',
+    id: 58329
   },
   {
     proverb_type: 'Refrán',
@@ -4420,8 +4426,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El arraigo de este refrán en la cultura tradicional española se refleja en la discusión entre Sancho Panza y su mujer Teresa acerca del matrimonio de su hija Sanchica con Lope Tocho, hijo de un igual (Quijote II, V). En el razonamiento de Teresa se manejan refranes como Mejor parece la hija mal casada que bien abarraganada o Al hijo de tu vecino, límpiale las narices y métele en tu casa.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58330&Lng=0',
-    id: '58330'
+    slug: 'casa-al-hijo-con-tu-igual-y-de-ti-no-diran-mal',
+    id: 58330
   },
   {
     proverb_type: 'Refrán',
@@ -4435,8 +4441,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58331&Lng=0',
-    id: '58331'
+    slug: 'casa-cerrada-casa-arruinada',
+    id: 58331
   },
   {
     proverb_type: 'Refrán',
@@ -4449,8 +4455,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Todo te haré, mas casa con dos puertas no te guardaré (Santillana nº 698). P. Calderón de la Barca utilizó el refrán como título de una comedia, fechada en 1629.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58332&Lng=0',
-    id: '58332'
+    slug: 'casa-con-dos-puertas-mala-es-de-guardar',
+    id: 58332
   },
   {
     proverb_type: 'Refrán',
@@ -4463,8 +4469,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58333&Lng=0',
-    id: '58333'
+    slug: 'casa-convidada-pobre-y-denostada',
+    id: 58333
   },
   {
     proverb_type: 'Refrán',
@@ -4477,8 +4483,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58334&Lng=0',
-    id: '58334'
+    slug: 'casa-en-canton-y-vina-en-rincon',
+    id: 58334
   },
   {
     proverb_type: 'Refrán',
@@ -4491,8 +4497,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Este refrán alude a la creencia antigua de que el anciano que estrena una casa muere pronto.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58335&Lng=0',
-    id: '58335'
+    slug: 'casa-hecha-sepultura-abierta',
+    id: 58335
   },
   {
     proverb_type: 'Refrán',
@@ -4506,8 +4512,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58336&Lng=0',
-    id: '58336'
+    slug: 'casa-mia-casa-mia-por-pequena-que-tu-seas-me-pareces-una-abadia',
+    id: 58336
   },
   {
     proverb_type: 'Refrán',
@@ -4520,8 +4526,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'También existe el refrán Casa sin varón, plaza sin guarnición para aludir a la necesidad de que en la casa haya un hombre. . Este refrán se basa en la connotación positiva que tenía en la cultura tradicional «el ama de casa», frente a los tiempos actual en los que despectivamente se califica a la mujer que solo se ocupa de atender a su familia como «maruja».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58337&Lng=0',
-    id: '58337'
+    slug: 'casa-sin-mujer-y-barco-sin-timon-lo-mismo-son',
+    id: 58337
   },
   {
     proverb_type: 'Refrán',
@@ -4534,8 +4540,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Este refrán conecta con la línea temática del cuento XXXV de El Conde Lucanor de D. Juan Manuel «De lo que aconteció a un mancebo que casó con una mujer muy fuerte y muy brava», en el que una mujer imposible al final es convertida en una mujer obediente por un marido que sabe dominarla. La comedia de Shakespeare «La fierecilla domada» es una muestra posterior.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58338&Lng=0',
-    id: '58338'
+    slug: 'casaras-y-amansaras',
+    id: 58338
   },
   {
     proverb_type: 'Refrán',
@@ -4548,8 +4554,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Come poco y cena más poco; que la salud de todo el cuerpo se fragua en la oficina del estómago (El Quijote II 43).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58339&Lng=0',
-    id: '58339'
+    slug: 'cena-poco-come-mas-duerme-en-alto-y-viviras',
+    id: 58339
   },
   {
     proverb_type: 'Refrán',
@@ -4562,8 +4568,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58340&Lng=0',
-    id: '58340'
+    slug: 'cerezas-y-males-traen-detras-otros-tales',
+    id: 58340
   },
   {
     proverb_type: 'Refrán',
@@ -4577,8 +4583,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58342&Lng=0',
-    id: '58342'
+    slug: 'coces-de-yegua-amor-es-para-el-rocin',
+    id: 58342
   },
   {
     proverb_type: 'Refrán',
@@ -4592,8 +4598,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58343&Lng=0',
-    id: '58343'
+    slug: 'comer-hasta-enfermar-y-ayunar-hasta-sanar',
+    id: 58343
   },
   {
     proverb_type: 'Refrán',
@@ -4608,8 +4614,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El pan comido y la compañía deshecha (El Quijote II 7; Autoridades, «pan»).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58344&Lng=0',
-    id: '58344'
+    slug: 'comida-acabada-amistad-terminada',
+    id: 58344
   },
   {
     proverb_type: 'Refrán',
@@ -4622,8 +4628,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58345&Lng=0',
-    id: '58345'
+    slug: 'comida-fria-y-bebida-caliente-no-hacen-buen-vientre',
+    id: 58345
   },
   {
     proverb_type: 'Refrán',
@@ -4637,8 +4643,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Si bien canta el cura, no le va en zaga el monacillo (El Quijote II 25). A mal abad, mal monescillo (Santllana 27).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58346&Lng=0',
-    id: '58346'
+    slug: 'como-canta-el-abad-responde-el-monacillo',
+    id: 58346
   },
   {
     proverb_type: 'Refrán',
@@ -4652,8 +4658,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58347&Lng=0',
-    id: '58347'
+    slug: 'como-es-el-pan-sera-la-sopa',
+    id: 58347
   },
   {
     proverb_type: 'Refrán',
@@ -4667,8 +4673,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58348&Lng=0',
-    id: '58348'
+    slug: 'como-se-vive-se-muere',
+    id: 58348
   },
   {
     proverb_type: 'Refrán',
@@ -4682,8 +4688,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El Guzmán de Alfarache cita varios sinónimos documentados en el refranero de Correas: Siembra buenas obras, cogerás fruto de elllas documentado en Correas S745 (Siembra obras buenas, cogerás fruto de ellas y a buenas obras pagan buenas palabras, cuando no hay otra moneda (Correas1627 A45)',
     comments: 'Esta forma es poco usada. En cambio, actualmente se emplean más otras formas, como recogemos lo que sembramos. Asimismo, esta forma se adapta con frecuencia al contexto: Como habréis sembrado generosidad, recogéis generosidad.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58349&Lng=0',
-    id: '58349'
+    slug: 'como-siembres-recogeras',
+    id: 58349
   },
   {
     proverb_type: 'Refrán',
@@ -4691,14 +4697,14 @@ export const PROVERBS_DATA = [
     proverb: 'Compañía de dos, compañía de Dios',
     tags: [
       'Matrimonio',
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Da a entender que, en un asunto o negocio, se avienen mejor dos que muchas personas. También es una manera de hablar del matrimonio.',
     usable: 'En desuso',
     observations: 'Un desarrollo de este refrán es Dos son compañía, tres son multitud.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58350&Lng=0',
-    id: '58350'
+    slug: 'compania-de-dos-compania-de-dios',
+    id: 58350
   },
   {
     proverb_type: 'Refrán',
@@ -4712,23 +4718,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58351&Lng=0',
-    id: '58351'
+    slug: 'compartir-es-vivir',
+    id: 58351
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Compón el sapillo, parecerá bonillo',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Belleza'
     ],
     meaning: 'La fealdad puede quedar encubierta con la ropa y el arreglo personal. El atractivo físico se puede mejorar con ayuda de elementos accidentales, como la ropa o los adornos.',
     usable: 'En desuso',
     observations: 'Un palo compuesto no parece palo (El Quijote II 51).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58352&Lng=0',
-    id: '58352'
+    slug: 'compon-el-sapillo-parecera-bonillo',
+    id: 58352
   },
   {
     proverb_type: 'Aforismo',
@@ -4742,8 +4748,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58353&Lng=0',
-    id: '58353'
+    slug: 'compra-lo-que-no-has-menester-y-venderas-lo-que-no-podrias-excusar',
+    id: 58353
   },
   {
     proverb_type: 'Refrán',
@@ -4756,8 +4762,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58354&Lng=0',
-    id: '58354'
+    slug: 'compuesta-no-hay-mujer-fea',
+    id: 58354
   },
   {
     proverb_type: 'Refrán',
@@ -4771,8 +4777,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El encantador malo saca la culebra del forado (Libro de Buen Amor 868).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58355&Lng=0',
-    id: '58355'
+    slug: 'con-ajena-mano-sacar-la-culebra-del-horado',
+    id: 58355
   },
   {
     proverb_type: 'Refrán',
@@ -4786,23 +4792,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Pan y vino son los dos alimentos tradicionales españoles. De ahí el refrán Con pan y vino se anda el camino.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58356&Lng=0',
-    id: '58356'
+    slug: 'con-buen-pan-y-buen-vino-no-te-faltaran-amigos',
+    id: 58356
   },
   {
     proverb_type: 'Aforismo',
     language: 'Español',
     proverb: 'Con buen traje se entra y encubre el ruin linaje',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Vestimenta'
     ],
     meaning: 'Ir bien vestido abre puertas, pero también puede encubrir al que lleva mala intención.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58357&Lng=0',
-    id: '58357'
+    slug: 'con-buen-traje-se-entra-y-encubre-el-ruin-linaje',
+    id: 58357
   },
   {
     proverb_type: 'Refrán',
@@ -4815,8 +4821,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'No hay burlas con el amor (1650) es el título de una comedia de Pedro Calderón de la Barca.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58358&Lng=0',
-    id: '58358'
+    slug: 'con-el-amor-no-se-juega',
+    id: 58358
   },
   {
     proverb_type: 'Refrán',
@@ -4829,8 +4835,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Actuamente se emplea más en la lengua hablada: El roce hace el cariño. Presente en los refraneros del siglo XX, esta forma corresponde a una frase proverbial.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58359&Lng=0',
-    id: '58359'
+    slug: 'con-el-roce-nace-el-carino',
+    id: 58359
   },
   {
     proverb_type: 'Refrán',
@@ -4843,22 +4849,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Los cestos solían hacerse de mimbre, recogidos de las mimbreras existentes en las orillas de los ríos. Gracias a  la poda anual que realizaban los cesteros, la planta seguía viva. La cestería de mimbre es un oficio artesano tradicional cuyos orígenes parecen estar vinculados a dos zonas que destacan por crecer esta planta: Cuenca y Guadalajara. Se trataba de un oficio eminentemente masculino y constituía un complemento económico a la actividad agrícola, motivo por el cual la dedicación era parcial pero regular. En la actualidad, la cestería ha reducido muchísimo su producción, principalmente por la llegada del plástico y los productos industriales frente a los artesanos. Las mimbreras han sufrido un abandono en los últimos años, dejaron de podarse anualmente y empezó a faltar el agua en las zonas de mimbreras, lo que obliga a los cesteros a desplazarse a zonas muy alejadas de sus talleres para poder conseguir el mimbre. Los cestos de mimbre ya no se usan como antes, ahora tienen por lo general una función meramente ornamental.',
     comments: 'No suele escucharse la forma completa del refrán sino solo su inicio: con estos mimbres.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58360&Lng=0',
-    id: '58360'
+    slug: 'con-estos-mimbres-no-se-puede-hacer-mas-que-este-cesto',
+    id: 58360
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Con gente bulliciosa, poca cosa',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Recomienda alejarse de las personas demasiado parlanchinas.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58361&Lng=0',
-    id: '58361'
+    slug: 'con-gente-bulliciosa-poca-cosa',
+    id: 58361
   },
   {
     proverb_type: 'Refrán',
@@ -4871,8 +4877,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58362&Lng=0',
-    id: '58362'
+    slug: 'con-hermosura-sola-no-se-pone-la-olla',
+    id: 58362
   },
   {
     proverb_type: 'Refrán',
@@ -4885,8 +4891,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se refiere a la matanza, cuando en los meses más fríos del invierno –noviembre o diciembre- se mataba el cerdo que se había cebado durante meses y así se tenían embutidos para el invierno. Se trata de una costumbre cada vez menos generalizada. Se compran uno o dos lechones en febrero o marzo y se los alimenta hasta que pesen unos 200 kilos. Los productos de la matanza son muy variados y diferentes en función de la región: botillo (León), butifarrones (Mallorca), chicharrones, chorizos, jamones, lomo conservados en orzas, longanizas, morcillas, sobrasada.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58363&Lng=0',
-    id: '58363'
+    slug: 'con-la-ayuda-del-vecino-mato-mi-padre-un-cochino',
+    id: 58363
   },
   {
     proverb_type: 'Refrán',
@@ -4899,8 +4905,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Para los moralistas, la intención es el principal factor determinante de la moralidad concreta de un acto humano. También en Derecho, la intención (dolo) de cometer un delito es la forma principal y más grave de culpa, por tanto, de condena.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58364&Lng=0',
-    id: '58364'
+    slug: 'con-la-intencion-basta',
+    id: 58364
   },
   {
     proverb_type: 'Proverbio',
@@ -4913,20 +4919,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Esta paremia tiene un origen bíblico: In qua mensura mensi fueritis, remetietur vobis (San Marcos 4, 24; muy semejante a San Mateo 7, 2).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58365&Lng=0',
-    id: '58365'
+    slug: 'con-la-medida-con-que-midais-sereis-medidos',
+    id: 58365
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Con la verdad se llega a todas partes',
-    tags: [],
+    tags: [
+      'Franqueza'
+    ],
     meaning: 'Recomienda la vía de la verdad en cualquier circunstancia.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59646&Lng=0',
-    id: '59646'
+    slug: 'con-la-verdad-se-llega-a-todas-partes',
+    id: 59646
   },
   {
     proverb_type: 'Refrán',
@@ -4939,8 +4947,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Ciertamente resulta exagerada la comparación entre el ladrón y el gato, porque el gato doméstico resulta útil eliminar ratones. Su carácter puede resultar arisco, pues por instinto no se privan de arañar incluso a las personas que los cuidan y miman. No siempre arañan a quien o a lo que les causa disgusto, sino que lo hacen para marcar su territorio, para liberar energía, para mantener adecuadamente sus uñas, o también porque no desean que se les acaricie en ese momento, de acuerdo con su condición solitaria y más independiente que la de otros animales.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58366&Lng=0',
-    id: '58366'
+    slug: 'con-ladrones-y-gatos-poco-trato',
+    id: 58366
   },
   {
     proverb_type: 'Refrán',
@@ -4953,8 +4961,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58367&Lng=0',
-    id: '58367'
+    slug: 'con-las-glorias-se-olvidan-las-memorias',
+    id: 58367
   },
   {
     proverb_type: 'Refrán',
@@ -4968,8 +4976,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: "Citado en El Quijote II 7. Esta paremia está relacionada con un cuento, tal como explica Correas (C931): «Dicen este cuento: que un salteador partía por mitad con los que robaba; una vez, siendo lso reales nones y en plata, púsose a partir por medio el non; el pasajero dijo que se le llevase entero; respondió el ladrón: 'No, hermano, con lo mío me haga Dios bien'». La variante citada por Correas, Con lo mío me haga Dios bien. Y era hurtado, se decía para recriminar a quienes usurpan bienes ajenos y se justifican con razones aparentes.",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58368&Lng=0',
-    id: '58368'
+    slug: 'con-lo-mio-me-ayude-dios',
+    id: 58368
   },
   {
     proverb_type: 'Refrán',
@@ -4983,8 +4991,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Con lo que Pedro sana, Domingo adolece (Valdés, 44). Con lo que Sancho sana, Domingo adolece (Santillana 149). Con lo que Sancha sana, Marta cae mala (Núñez 1554; Correas). Existe un refrán de forma muy similar: Con lo que sana el hígado, enferma la bolsa, citado por La Celestina IX 30 y por Valdés 45; pero de significado distinto, pues manifiesta que, del mismo modo que las enfermedades ocasionan bastantes gastos, las cosas importantes sólo se consiguen con esfuerzo y dinero.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58369&Lng=0',
-    id: '58369'
+    slug: 'con-lo-que-sana-el-higado-enferma-el-bazo',
+    id: 58369
   },
   {
     proverb_type: 'Refrán',
@@ -4998,8 +5006,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58370&Lng=0',
-    id: '58370'
+    slug: 'con-mi-duro-cuento-yo-con-mi-amigo-quizas-no',
+    id: 58370
   },
   {
     proverb_type: 'Refrán',
@@ -5012,8 +5020,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En latín: Necesitas caret lege. Recuérdese: La necesidad tiene cara de perro (Colombia, fuente oral).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58371&Lng=0',
-    id: '58371'
+    slug: 'con-necesidad-no-hay-ley',
+    id: 58371
   },
   {
     proverb_type: 'Refrán',
@@ -5027,37 +5035,37 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La paciencia todo lo alcanza es un verso  que se encuentra en una letrilla registrada en el breviario de Santa Teresa de Jesús: «Nada te turbe,/ Nada te espante,/ todo se pasa./ Dios no se muda./ La paciencia/ todo lo alcanza. Quien a Dios tiene/ nada le falta,/ solo Dios basta […]» («Para pedir paciencia en las adversidades», Obras Completas, A. Barrientos (dir.). Madrid: Espiritualidad, 1984, p. 1183). La paciencia teresiana se refiere a toda contrariedad, de cualquier tipo, que surge en la vida. En este caso, prima la espera sin desesperación puesto que -como se dice en el poema- «solo Dios basta».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58372&Lng=0',
-    id: '58372'
+    slug: 'con-paciencia-todo-se-logra',
+    id: 58372
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Con pan y vino se anda el camino',
     tags: [
-      'Alimentos',
+      'Alimento',
       'Proporción'
     ],
     meaning: 'Para soportar las fatigas del camino, son necesarias una alimentación y una bebida adecuadas. Contando con lo básico para estar alimentado, se puede emprender viaje. En un sentido amplio se aplica al trabajo, pues el refrán enseña que, para hacer un buen trabajo, se debe contar con los medios adecuados. Si se pasa hambre, mal se puede trabajar. Alude también a la conveniencia de cuidar del sustento de quienes trabajan, para que cumplan satisfactoriamente sus obligaciones.',
     usable: 'Poco usado',
     observations: '',
     comments: 'Un informante ha aportado una réplica a esta paremia: ... y con pan y agua también se andaFuentes:  Covarrubias («pan») y en Autoridades («pan»)',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58373&Lng=0',
-    id: '58373'
+    slug: 'con-pan-y-vino-se-anda-el-camino',
+    id: 58373
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Conforme ven el traje tratan al paje',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'El trato y atención a las personas puede verse influido por su apariencia externa, aunque hay decepciones y engaños. Aconseja cuidar la compostura y la manera de vestir para favorecer una acogida favorable por parte de la sociedad.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58374&Lng=0',
-    id: '58374'
+    slug: 'conforme-ven-el-traje-tratan-al-paje',
+    id: 58374
   },
   {
     proverb_type: 'Aforismo',
@@ -5070,8 +5078,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Aunque modernamente es corriente atribuir esta frase a Sócrates porque la cita en varios de los diálogos de Platón, la sentencia era bastante más antigua. Se dice que estaba inscrita en el templo de Apolo en Delfos y se atribuye a alguno de los Siete Sabios o al propio Apolo, que la habría dado como respuesta cuando Quilón (uno de los Siete Sabios) preguntó al oráculo de Delfos qué era lo mejor que podían aprender los hombres. Fuera cual fuera su origen, la sentencia Nosce te ipsum tuvo una gran difusión y prestigio en la antigüedad, y su fama dura hasta nuestros días. Es uno de los consejos de Don Quijote a Sancho (II-XLII).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58375&Lng=0',
-    id: '58375'
+    slug: 'conocete-a-ti-mismo',
+    id: 58375
   },
   {
     proverb_type: 'Refrán',
@@ -5084,8 +5092,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58376&Lng=0',
-    id: '58376'
+    slug: 'consejo-no-pedido-consejo-mal-recibido',
+    id: 58376
   },
   {
     proverb_type: 'Refrán',
@@ -5099,8 +5107,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Seguramente el refrán cuyo protagonista es el alcaraván debe su origen a la costumbre que se le atribuye cuando aparece un peligro, pues el alcaraván permanece quieto mientras lanza agudos gritos para alertar a las demás aves de la presencia de un cazador o de un ave de rapiña. Sin embargo, a él le dan caza.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58377&Lng=0',
-    id: '58377'
+    slug: 'consejos-vendo-y-para-mi-no-tengo',
+    id: 58377
   },
   {
     proverb_type: 'Refrán',
@@ -5113,8 +5121,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se trata de una frase tópica con la que los enamorados declaran preferir el amor a las riquezas. Manuel Eduardo de Gorostiza publicó una comedia con este título en 1833. La cebolla ha sido tradicionalmente un alimento para simbolizar la pobreza, como confirman las Nanas de la cebolla de Miguel Hernández, quien las dedicó a su hijo a raíz de recibir una carta de su mujer, en la que le comentaba que no comía más que pan y cebolla. La primera estrofa de las nanas es así: «La cebolla es escarcha / cerrada y pobre. / Escarcha de tus días / y de mis noches. / Hambre y cebolla, / hielo negro y escarcha / grande y redonda».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58378&Lng=0',
-    id: '58378'
+    slug: 'contigo-pan-y-cebolla',
+    id: 58378
   },
   {
     proverb_type: 'Refrán',
@@ -5128,8 +5136,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58380&Lng=0',
-    id: '58380'
+    slug: 'corazon-alegre-hombre-sano',
+    id: 58380
   },
   {
     proverb_type: 'Refrán',
@@ -5142,8 +5150,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58381&Lng=0',
-    id: '58381'
+    slug: 'cortesia-de-boca-mucho-vale-y-poco-cuesta',
+    id: 58381
   },
   {
     proverb_type: 'Refrán',
@@ -5156,8 +5164,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58382&Lng=0',
-    id: '58382'
+    slug: 'cosa-fea-ni-se-haga-ni-se-aprenda',
+    id: 58382
   },
   {
     proverb_type: 'Refrán',
@@ -5170,8 +5178,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En la misma línea temática se encuentran las combinaciones estables: Tener palabra y Ser una persona de palabra / de honor.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58383&Lng=0',
-    id: '58383'
+    slug: 'cosa-prometida-es-medio-debida',
+    id: 58383
   },
   {
     proverb_type: 'Refrán',
@@ -5185,8 +5193,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58384&Lng=0',
-    id: '58384'
+    slug: 'costumbres-y-dineros-hacen-a-los-hijos-caballeros',
+    id: 58384
   },
   {
     proverb_type: 'Refrán',
@@ -5199,8 +5207,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58385&Lng=0',
-    id: '58385'
+    slug: 'costurera-sin-dedal-cose-poco-y-cose-mal',
+    id: 58385
   },
   {
     proverb_type: 'Refrán',
@@ -5213,8 +5221,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Cabe recordar el refrán Por un perro que maté, mataperros me llamaron.',
     comments: 'De las distintas formas, una de las más empleadas es Cría fama y échate a dormir',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58341&Lng=0',
-    id: '58341'
+    slug: 'cria-buena-fama-y-echate-a-dormir',
+    id: 58341
   },
   {
     proverb_type: 'Refrán',
@@ -5227,8 +5235,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Cría cuervo y sacárate el ojo (Valdés 47). ¡Ay, abuelo, sembraste alazor y naciónos anapelo! (Covarrubias)',
     comments: 'La paremia puede sufrir alteraciones formales para conseguir un efecto cómico: Cría cuervos y tendrás muchos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58386&Lng=0',
-    id: '58386'
+    slug: 'cria-cuervos-y-te-sacaran-los-ojos',
+    id: 58386
   },
   {
     proverb_type: 'Refrán',
@@ -5241,8 +5249,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58387&Lng=0',
-    id: '58387'
+    slug: 'cual-el-ano-tal-el-jarro',
+    id: 58387
   },
   {
     proverb_type: 'Refrán',
@@ -5255,8 +5263,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se suele emplear para explicar la condición negativa de alguien, con frecuencia fruto de la herencia y del ejemplo de padres o maestros. En latín: Malum ovum, mali corvi.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58388&Lng=0',
-    id: '58388'
+    slug: 'cual-el-cuervo-tal-el-huevo',
+    id: 58388
   },
   {
     proverb_type: 'Refrán',
@@ -5270,8 +5278,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58389&Lng=0',
-    id: '58389'
+    slug: 'cual-el-rey-tal-la-grey',
+    id: 58389
   },
   {
     proverb_type: 'Refrán',
@@ -5284,8 +5292,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Tal el tiempo, tal el tiento (El Quijote II 50).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58390&Lng=0',
-    id: '58390'
+    slug: 'cual-el-tiempo-tal-el-tiento',
+    id: 58390
   },
   {
     proverb_type: 'Refrán',
@@ -5298,8 +5306,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58391&Lng=0',
-    id: '58391'
+    slug: 'cual-es-la-madre-asi-las-hijas-salen',
+    id: 58391
   },
   {
     proverb_type: 'Refrán',
@@ -5312,8 +5320,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58392&Lng=0',
-    id: '58392'
+    slug: 'cual-mas-cual-menos-todos-por-que-callar-tenemos',
+    id: 58392
   },
   {
     proverb_type: 'Frase proverbial',
@@ -5326,8 +5334,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Este refrán se emplea todavía en el siglo XXI, incluso aparece en la letra de algunas canciones, con la forma Cualquier pasado fue mejor.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58393&Lng=0',
-    id: '58393'
+    slug: 'cualquier-tiempo-pasado-fue-mejor',
+    id: 58393
   },
   {
     proverb_type: 'Refrán',
@@ -5341,8 +5349,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58394&Lng=0',
-    id: '58394'
+    slug: 'cuando-atruena-en-marzo-apareja-las-cubas-y-el-mazo',
+    id: 58394
   },
   {
     proverb_type: 'Refrán',
@@ -5356,8 +5364,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Cuando amanece, para todo el mundo amanece (La Lozana Andaluza 240). El refrán El sol sale para todos tiene, entre otras, la variante Cuando el sol sale, para todos sale y señala que muchos son las ocasiones y los bienes de los que pueden disfrutar todos.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58395&Lng=0',
-    id: '58395'
+    slug: 'cuando-dios-amanece-para-todos-amanece',
+    id: 58395
   },
   {
     proverb_type: 'Refrán',
@@ -5370,23 +5378,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58396&Lng=0',
-    id: '58396'
+    slug: 'cuando-el-diablo-no-tiene-que-hacer-con-el-rabo-mata-moscas',
+    id: 58396
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Cuando el diablo reza, engañar te quiere',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Hipocresía'
     ],
     meaning: 'Recrimina a los hipócritas y, por lo general, a quienes ocultan su dañina intención con buenas apariencias.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58397&Lng=0',
-    id: '58397'
+    slug: 'cuando-el-diablo-reza-enganar-te-quiere',
+    id: 58397
   },
   {
     proverb_type: 'Refrán',
@@ -5399,8 +5407,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58398&Lng=0',
-    id: '58398'
+    slug: 'cuando-el-gato-no-esta-los-ratones-bailan',
+    id: 58398
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -5413,8 +5421,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'En ocasiones se escucha solo la primera parte: Cuando el grajo vuela bajo...',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58399&Lng=0',
-    id: '58399'
+    slug: 'cuando-el-grajo-vuela-bajo-hace-un-frio-del-carajo',
+    id: 58399
   },
   {
     proverb_type: 'Refrán',
@@ -5427,8 +5435,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se puede decir la primera parte y dejar sobreentendida la segunda: Cuando el río suena....',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58400&Lng=0',
-    id: '58400'
+    slug: 'cuando-el-rio-suena-agua-lleva',
+    id: 58400
   },
   {
     proverb_type: 'Aforismo',
@@ -5442,8 +5450,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Aforismo atribuido por algunos al general espartano Lisandro (s. IV a.C.).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58401&Lng=0',
-    id: '58401'
+    slug: 'cuando-falta-la-piel-del-leon-es-preciso-tomar-la-de-la-zorra',
+    id: 58401
   },
   {
     proverb_type: 'Refrán',
@@ -5456,8 +5464,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58402&Lng=0',
-    id: '58402'
+    slug: 'cuando-fueres-por-camino-no-digas-mal-de-tu-enemigo',
+    id: 58402
   },
   {
     proverb_type: 'Refrán',
@@ -5470,8 +5478,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en El Quijote II 2. Paremia de origen latino:Cum igitur caput doluit, omnia membra debilia sunt.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58403&Lng=0',
-    id: '58403'
+    slug: 'cuando-la-cabeza-duele-todo-el-cuerpo-duele',
+    id: 58403
   },
   {
     proverb_type: 'Refrán',
@@ -5485,8 +5493,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58404&Lng=0',
-    id: '58404'
+    slug: 'cuando-la-pobreza-entra-por-la-puerta-el-amor-sale-por-la-finestra',
+    id: 58404
   },
   {
     proverb_type: 'Refrán',
@@ -5499,23 +5507,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58405&Lng=0',
-    id: '58405'
+    slug: 'cuando-la-zorra-anda-a-caza-de-grillos-mal-para-ella-y-peor-para-sus-hijos',
+    id: 58405
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Cuando la zorra predica no están seguros los pollos',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Peligro'
     ],
     meaning: 'Hemos de prevenirnos ante el comportamiento inusual de una persona, porque muy probablemente obedece a una intención velada que nos afectará negativamente.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58406&Lng=0',
-    id: '58406'
+    slug: 'cuando-la-zorra-predica-no-estan-seguros-los-pollos',
+    id: 58406
   },
   {
     proverb_type: 'Refrán',
@@ -5530,8 +5538,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Antiguamente, se consideraba una gran afrenta cortar la barba a un hombre.',
     comments: 'Como la forma del refrán es larga, se suele aludir a él (las barbas del vecino) o mencionar la primera parte (Como las barbas del vecino).  Se puede alterar la forma canónica del refrán para obtener un efecto cómico. como ha hecho un humorista en 2013 con motivo del rescate de Chipre: Cuando los ahorros de  los chipriotas veas merkelear saca los tuyos del banco y ponlos bajo el sofá.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58407&Lng=0',
-    id: '58407'
+    slug: 'cuando-las-barbas-de-tu-vecino-veas-pelar-pon-las-tuyas-a-remojar',
+    id: 58407
   },
   {
     proverb_type: 'Refrán',
@@ -5544,8 +5552,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58408&Lng=0',
-    id: '58408'
+    slug: 'cuando-marzo-mayea-mayo-marcea',
+    id: 58408
   },
   {
     proverb_type: 'Refrán',
@@ -5559,8 +5567,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El refrán Cuando pasan rábanos, comprarlos alude seguramente a la venta ambulante de frutas y hortalizas. Si bien en la actualidad, todavía se ven vendedores ambulantes que pasan por los pueblos, en particular los pueblos pequeños carentes de tiendas, se suele ir a comprar, con el coche particular, a los pueblos cercanos. En muchos pueblos, un día a la semana, por lo general el sábado, hay mercado o mercadillo, en particular de productos textiles, frutas y hortalizas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58409&Lng=0',
-    id: '58409'
+    slug: 'cuando-te-dieren-el-anillo-pon-el-dedillo',
+    id: 58409
   },
   {
     proverb_type: 'Refrán',
@@ -5574,8 +5582,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58410&Lng=0',
-    id: '58410'
+    slug: 'cuando-un-lobo-come-a-otro-no-hay-que-comer-en-el-soto',
+    id: 58410
   },
   {
     proverb_type: 'Refrán',
@@ -5589,8 +5597,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Cuando una puerta se cierra, otra suele abrir la fortuna (La Celestina XV 150). Donde una puerta se cierra, otra se abre (El Quijote I 21).',
     comments: 'La primera parte suele quedar estable, mientras que la segunda sufre bastantes alteraciones. Por ejemplo: Cuando una puerta se cierra, en algún lugar, otra se abre',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58411&Lng=0',
-    id: '58411'
+    slug: 'cuando-una-puerta-se-cierra-otra-se-abre',
+    id: 58411
   },
   {
     proverb_type: 'Refrán',
@@ -5603,8 +5611,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El esquema de este refrán aparece también en: Cuanto más amigos, más claros.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58412&Lng=0',
-    id: '58412'
+    slug: 'cuanta-mas-grandeza-mas-llaneza',
+    id: 58412
   },
   {
     proverb_type: 'Refrán',
@@ -5612,14 +5620,14 @@ export const PROVERBS_DATA = [
     proverb: 'Cuanto más amigos, más claridad',
     tags: [
       'Amistad',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'La franqueza en las opiniones y la exactitud en las cuentas son medios para mantener la amistad.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58413&Lng=0',
-    id: '58413'
+    slug: 'cuanto-mas-amigos-mas-claridad',
+    id: 58413
   },
   {
     proverb_type: 'Refrán',
@@ -5632,8 +5640,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese Entre más canas, más ganas (Colombia, fuente oral).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58414&Lng=0',
-    id: '58414'
+    slug: 'cuanto-mas-viejo-mas-pellejo',
+    id: 58414
   },
   {
     proverb_type: 'Refrán',
@@ -5646,8 +5654,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe una forma jocosa del refrán: Tantas cabezas, tantas calabazas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58415&Lng=0',
-    id: '58415'
+    slug: 'cuantos-hombres-tantos-pareceres',
+    id: 58415
   },
   {
     proverb_type: 'Refrán',
@@ -5661,8 +5669,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58416&Lng=0',
-    id: '58416'
+    slug: 'cuenta-tu-pena-a-quien-sabe-de-ella',
+    id: 58416
   },
   {
     proverb_type: 'Refrán',
@@ -5670,14 +5678,14 @@ export const PROVERBS_DATA = [
     proverb: 'Cuenta y razón, conservan amistad',
     tags: [
       'Amistad',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Muestra que debe haber seriedad en las cuentas incluso entre grandes amigos.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58417&Lng=0',
-    id: '58417'
+    slug: 'cuenta-y-razon-conservan-amistad',
+    id: 58417
   },
   {
     proverb_type: 'Refrán',
@@ -5691,22 +5699,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58418&Lng=0',
-    id: '58418'
+    slug: 'cuerpo-descansado-dinero-vale',
+    id: 58418
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Cuida bien lo que haces, no te fíes de rapaces',
     tags: [
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Advierte que uno no debe encomendarse a jóvenes inexpertos cuando se trata de asuntos o negocios de importancia.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58419&Lng=0',
-    id: '58419'
+    slug: 'cuida-bien-lo-que-haces-no-te-fies-de-rapaces',
+    id: 58419
   },
   {
     proverb_type: 'Refrán',
@@ -5719,8 +5727,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Cuidado ajeno de pelo cuelga (Covarrubias). En esta misma línea temática se encuentra la locución Meterse donde no te llaman, utilizada con frecuencia como fórmula: ¡No te metas donde no te llaman!',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58420&Lng=0',
-    id: '58420'
+    slug: 'cuida-de-tus-duelos-y-deja-los-ajenos',
+    id: 58420
   },
   {
     proverb_type: 'Refrán',
@@ -5733,8 +5741,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Cuidados ajenos matan al asno (El Quijote II 13).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58421&Lng=0',
-    id: '58421'
+    slug: 'cuidados-ajenos-mataron-al-asno',
+    id: 58421
   },
   {
     proverb_type: 'Refrán',
@@ -5748,8 +5756,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese la locución ser (un) culo de mal asiento, con la que se denota a quien es inquieto y no está a gusto en ninguna parte.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58422&Lng=0',
-    id: '58422'
+    slug: 'culo-de-mal-asiento-no-acaba-cosa-ninguna-y-empieza-ciento',
+    id: 58422
   },
   {
     proverb_type: 'Refrán',
@@ -5762,23 +5770,22 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Sbarbi («culo») registra una variante que juega con la forma clásica: culo vi, culo quisí.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58423&Lng=0',
-    id: '58423'
+    slug: 'culo-veo-culo-quiero',
+    id: 58423
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: '¿Dónde va Vicente? Donde va la gente',
     tags: [
-      'Opinión',
-      'Gregarismo'
+      'Opinión'
     ],
     meaning: 'Se critica a las personas carentes de criterio personal que imitan el comportamiento de otros.',
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58030&Lng=0',
-    id: '58030'
+    slug: 'donde-va-vicente-donde-va-la-gente',
+    id: 58030
   },
   {
     proverb_type: 'Refrán',
@@ -5792,8 +5799,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Da Dios habas al que no tiene quijadas (La Celestina I 106). El elevado número de sinónimos permite apreciar la gran fortuna que conoce el esquema Da Dios...al que no tiene.',
     comments: 'Se escucha con cierta frecuencia Da Dios / Dios da mocos a quien no tiene pañuelo',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58425&Lng=0',
-    id: '58425'
+    slug: 'da-dios-almendras-al-que-no-tiene-muelas',
+    id: 58425
   },
   {
     proverb_type: 'Refrán',
@@ -5806,8 +5813,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58426&Lng=0',
-    id: '58426'
+    slug: 'da-y-ten-y-haras-bien',
+    id: 58426
   },
   {
     proverb_type: 'Refrán',
@@ -5815,14 +5822,14 @@ export const PROVERBS_DATA = [
     proverb: 'Dádivas quebrantan peñas',
     tags: [
       'Poder',
-      'Regalo'
+      'Venta'
     ],
     meaning: 'Lo que parece imposible de vencer suele ceder con obsequios.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58427&Lng=0',
-    id: '58427'
+    slug: 'dadivas-quebrantan-penas',
+    id: 58427
   },
   {
     proverb_type: 'Refrán',
@@ -5835,8 +5842,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Hasta hace algún tiempo, la belleza iba emparejada con algunos kilos de más.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58428&Lng=0',
-    id: '58428'
+    slug: 'dame-gordura-darte-he-hermosura',
+    id: 58428
   },
   {
     proverb_type: 'Refrán',
@@ -5849,8 +5856,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58429&Lng=0',
-    id: '58429'
+    slug: 'dame-pan-y-dime-tonto',
+    id: 58429
   },
   {
     proverb_type: 'Refrán',
@@ -5863,8 +5870,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58430&Lng=0',
-    id: '58430'
+    slug: 'dame-y-te-dare',
+    id: 58430
   },
   {
     proverb_type: 'Refrán',
@@ -5878,8 +5885,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58431&Lng=0',
-    id: '58431'
+    slug: 'dando-gracias-por-agravios-negocian-los-hombres-sabios',
+    id: 58431
   },
   {
     proverb_type: 'Refrán',
@@ -5892,22 +5899,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Una continua gotera horaca una piedra (La Celestina VIII 14).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58432&Lng=0',
-    id: '58432'
+    slug: 'dando-la-gotera-hace-senal-la-piedra',
+    id: 58432
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Dar al César lo que es del César y a Dios lo que es de Dios',
     tags: [
-      'Sentencia'
+      'Justicia'
     ],
     meaning: 'Conviene dar a cada uno lo que corresponde.',
     usable: 'Poco usado',
     observations: 'Paremia de origen bíblico (San Marcos 12, 17. San Mateo 22, 21. San Lucas 20, 25).',
     comments: 'Se puede decir sin el verbo dar o solo una parte: (Dar) al César lo que es del César.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58433&Lng=0',
-    id: '58433'
+    slug: 'dar-al-cesar-lo-que-es-del-cesar-y-a-dios-lo-que-es-de-dios',
+    id: 58433
   },
   {
     proverb_type: 'Refrán',
@@ -5920,8 +5927,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se puede encontrar con forma de locución: Dar coces contra el aguijón (Correas D79). Dar/Disparar/Tirar coces contra el aguijón (Sbarbi, «coz»). Samaniego recoge la locución en la fábula La serpiente y la lima: «Quien pretenda sin razón, / al más fuerte derribar,/ no consigue sino dar/ coces contra el aguijón». Toma como fuente la fábula de Esopo, imitada también por Fedro y La Fontaine. Coces contra el aguijón es el título en español de las memorias de Alexander Solzhenitsyn, escritor ruso y Premio Nobel de Literatura. En los Hechos de los apóstoles, dice S. Pablo: «Dura cosa te es dar coces contra el aguijón» (Hch, 9).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58434&Lng=0',
-    id: '58434'
+    slug: 'dar-coces-contra-el-aguijon-es-poca-discrecion',
+    id: 58434
   },
   {
     proverb_type: 'Refrán',
@@ -5935,8 +5942,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58435&Lng=0',
-    id: '58435'
+    slug: 'date-prisa-despacio-y-llegaras-a-palacio',
+    id: 58435
   },
   {
     proverb_type: 'Refrán',
@@ -5949,8 +5956,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58436&Lng=0',
-    id: '58436'
+    slug: 'de-alegria-tambien-se-llora',
+    id: 58436
   },
   {
     proverb_type: 'Refrán',
@@ -5964,8 +5971,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'De amigo a amigo, agraz en el ojo (El Quijote II 12).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58437&Lng=0',
-    id: '58437'
+    slug: 'de-amigo-a-amigo-sangre-en-el-ojo',
+    id: 58437
   },
   {
     proverb_type: 'Refrán',
@@ -5980,8 +5987,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Si bien es escaso el uso de este refrán en el habla, aparece frecuentemente en los textos periodísticos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58438&Lng=0',
-    id: '58438'
+    slug: 'de-aquellos-polvos-vienen-estos-lodos',
+    id: 58438
   },
   {
     proverb_type: 'Refrán',
@@ -5996,8 +6003,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58439&Lng=0',
-    id: '58439'
+    slug: 'de-buen-vino-buen-vinagre',
+    id: 58439
   },
   {
     proverb_type: 'Refrán',
@@ -6010,8 +6017,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58440&Lng=0',
-    id: '58440'
+    slug: 'de-buena-casa-buena-brasa',
+    id: 58440
   },
   {
     proverb_type: 'Refrán',
@@ -6025,20 +6032,23 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se suele citar la primera parte: De casta le viene al galgo....',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58441&Lng=0',
-    id: '58441'
+    slug: 'de-casta-le-viene-al-galgo-el-ser-rabilargo',
+    id: 58441
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'De cuñado, nunca buen bocado',
-    tags: [],
+    tags: [
+      'Familia',
+      'Precaución'
+    ],
     meaning: 'Alude a la mala relación que puede existir con el cuñado, pues, al pertenecer a la familia política, se considera que pueden diferir en gustos y actitudes.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59636&Lng=0',
-    id: '59636'
+    slug: 'de-cunado-nunca-buen-bocado',
+    id: 59636
   },
   {
     proverb_type: 'Refrán',
@@ -6051,8 +6061,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58442&Lng=0',
-    id: '58442'
+    slug: 'de-desagradecidos-esta-el-infierno-lleno',
+    id: 58442
   },
   {
     proverb_type: 'Refrán',
@@ -6065,8 +6075,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58443&Lng=0',
-    id: '58443'
+    slug: 'de-dinero-y-calidad-la-mitad-de-la-mitad',
+    id: 58443
   },
   {
     proverb_type: 'Refrán',
@@ -6079,8 +6089,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se puede decir solo la primera parte: De donde no hay...',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58444&Lng=0',
-    id: '58444'
+    slug: 'de-donde-no-hay-no-se-puede-sacar',
+    id: 58444
   },
   {
     proverb_type: 'Refrán',
@@ -6093,8 +6103,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe la locución verbal volverse loco de amor. El refrán recuerda la oposición que aparece en el Libro de buen amor de Juan Ruiz, arcipreste de Hita, entre el buen amor (propio del sabio y que representa el amor a Dios) y el loco amor (propio del joven e inexperto y que representa el deseo sexual).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58445&Lng=0',
-    id: '58445'
+    slug: 'de-enamorado-a-loco-va-muy-poco',
+    id: 58445
   },
   {
     proverb_type: 'Refrán',
@@ -6107,8 +6117,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Entrar por la manga y salir por el cabezón (Covarrubias). Recuérdese el refrán: Otro vendrá que bueno me hará (Correas1627 0206; fuente oral)',
     comments: 'El pronombre puede ser sustituido por otro pronombre: te, me.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58446&Lng=0',
-    id: '58446'
+    slug: 'de-fuera-vendra-quien-de-casa-nos-echara',
+    id: 58446
   },
   {
     proverb_type: 'Refrán',
@@ -6122,8 +6132,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58447&Lng=0',
-    id: '58447'
+    slug: 'de-grandes-cenas-estan-las-sepulturas-llenas',
+    id: 58447
   },
   {
     proverb_type: 'Refrán',
@@ -6131,14 +6141,14 @@ export const PROVERBS_DATA = [
     proverb: 'De herrero a herrero, no pasa dinero',
     tags: [
       'Beneficio',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Quienes son de un mismo oficio no suelen cobrarse entre sí, pues, por lo general, hay buena correspondencia entre las personas de un mismo gremio.',
     usable: 'En desuso',
     observations: 'En el refranero del Marqués Santillana (235) y en La Celestina VII 260 figuran la forma De cosario a cosario no se pierden sino los barriles.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58448&Lng=0',
-    id: '58448'
+    slug: 'de-herrero-a-herrero-no-pasa-dinero',
+    id: 58448
   },
   {
     proverb_type: 'Refrán',
@@ -6152,8 +6162,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Malo es errar, y peor es perseverar (Valdés 102). De los hombres es errar, y bestial es la porfía (La Celestina I 110). Recuérdese la paremia latina Errare humanum est.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58449&Lng=0',
-    id: '58449'
+    slug: 'de-hombres-es-errar-de-bestias-en-el-error-perseverar',
+    id: 58449
   },
   {
     proverb_type: 'Refrán',
@@ -6166,8 +6176,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: "Con ese título fue conocida la película norteamericana Miracle on 34th Street [Milagro en la calle 34], considerada un clásico del cine navideño. Fue dirigida por George Seaton y recibió varios Oscar en 1947. El argumento trata de un hombre (el actor Edmund Gwenn) que es contratado para hacer de Santa Claus en los famosos almacenes Macy's de Nueva Cork y resulta convincente como la verdadera figura inspirada en San Nicolás de Bari, quien trae regalos a los niños en Navidad. Al parecer, esta tradición llegó a Estados Unidos con inmigrantes holandeses y se ha generalizado por otras partes del mundo desde el siglo XIX.",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58450&Lng=0',
-    id: '58450'
+    slug: 'de-ilusion-tambien-se-vive',
+    id: 58450
   },
   {
     proverb_type: 'Refrán',
@@ -6180,8 +6190,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en El Quijote II 12. Esta paremia es de origen bíblico, responde a la latina de la Vulgata: Ex abundantia cordis loquitur lingua (San Mateo 12, 34; San Lucas 6, 45).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58451&Lng=0',
-    id: '58451'
+    slug: 'de-la-abundancia-del-corazon-habla-la-lengua',
+    id: 58451
   },
   {
     proverb_type: 'Refrán',
@@ -6194,8 +6204,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: "Esta paremia recuerda la práctica tomista de la disputatio, ya que la empleaban los universitarios del siglo XIII; «la luz para la discusión, es la Verdad, que hace libres a los hombres, decimos los neo-tomistas» (José Antonio Estrada Sámano, «Sto. Tomás de Aquino y la Encíclica sobre 'Fe y razón' de S.S. Juan Pablo II», Congresso Tomista Internazionale L’Umanesimo cristiano nell III millennio: prospettiva di Tommaso d'Aquino [Roma, 21-25 settembre 2003] p. 4, http://www.e-aquinas.net/pdf/estrada.pdf).",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58452&Lng=0',
-    id: '58452'
+    slug: 'de-la-discusion-nace-la-luz',
+    id: 58452
   },
   {
     proverb_type: 'Refrán',
@@ -6209,8 +6219,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58453&Lng=0',
-    id: '58453'
+    slug: 'de-la-mano-a-la-boca-se-pierde-la-sopa',
+    id: 58453
   },
   {
     proverb_type: 'Refrán',
@@ -6224,8 +6234,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58454&Lng=0',
-    id: '58454'
+    slug: 'de-la-panza-sale-la-danza',
+    id: 58454
   },
   {
     proverb_type: 'Refrán',
@@ -6239,8 +6249,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58455&Lng=0',
-    id: '58455'
+    slug: 'de-la-puerta-cerrada-el-diablo-se-vuelve',
+    id: 58455
   },
   {
     proverb_type: 'Refrán',
@@ -6253,8 +6263,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58456&Lng=0',
-    id: '58456'
+    slug: 'de-la-risa-al-duelo-un-pelo',
+    id: 58456
   },
   {
     proverb_type: 'Refrán',
@@ -6267,8 +6277,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado por Valdés 51. En latín: Non curat numerum lupus.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58457&Lng=0',
-    id: '58457'
+    slug: 'de-lo-contado-come-el-lobo',
+    id: 58457
   },
   {
     proverb_type: 'Refrán',
@@ -6282,8 +6292,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58458&Lng=0',
-    id: '58458'
+    slug: 'de-lo-que-no-cuesta-lleno-la-cesta',
+    id: 58458
   },
   {
     proverb_type: 'Refrán',
@@ -6296,22 +6306,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58459&Lng=0',
-    id: '58459'
+    slug: 'de-lo-que-no-veas-ni-la-mitad-te-creas',
+    id: 58459
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'De lo que se come se cría',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'El refrán apunta a que uno es lo que come. Suele emplearse irónicamente.',
     usable: 'De uso actual',
     observations: 'Parece que esta paremia tiene su origen en el hecho de que Fernando V de Aragón era un asiduo consumidor de criadillas de toro, porque creía que era una forma de fortalecerse y aumentar su virilidad.',
     comments: 'De este refrán se conoce la réplica siguiente: De lo que se come se cría. Y criadillas comía.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58460&Lng=0',
-    id: '58460'
+    slug: 'de-lo-que-se-come-se-cria',
+    id: 58460
   },
   {
     proverb_type: 'Refrán',
@@ -6319,15 +6329,15 @@ export const PROVERBS_DATA = [
     proverb: 'De los amigos me guarde Dios, que de los enemigos me guardo yo',
     tags: [
       'Amistad',
-      'Apariencias',
+      'Apariencia',
       'Precaución'
     ],
     meaning: 'La falsa amistad puede ser más peligrosa que la maldad de un enemigo porque nos pilla desprevenidos.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58461&Lng=0',
-    id: '58461'
+    slug: 'de-los-amigos-me-guarde-dios-que-de-los-enemigos-me-guardo-yo',
+    id: 58461
   },
   {
     proverb_type: 'Refrán',
@@ -6340,8 +6350,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se hace una comparación entre los amores y la fiesta de las cañas: así como en la fiesta de las cañas el principio es muy vistoso, en el amor se produce una pasión inicial que puede no mantenerse. En cuanto a la fiesta de las cañas, esta demostración hípica ya era practicada por los romanos y parece tener su origen en los etruscos. El juego de cañas junto con los toros eran las fiestas más frecuentes de España. Los moriscos impulsaron las nuevas reglas para convertir los torneos de actividad guerrera en un deporte en el que se demostraba la fuerza corporal y las habilidades. Era un juego aristocrático tanto en el ámbito morisco y cristiano; perduró hasta finales del siglo XVII  («Del Torneo Medieval al Juego de Cañas», Manuel Hernández Vázquez, Diana Belén Ruiz Vicente, Gema Rizo Estrada, Matilde Parra Arroyo y Juan Antonio Rodríguez Menéndez). El Diccionario de Autoridades describe el juego de cañas, como una fiesta a caballo introducida en España por los moros en la que varias cuadrillas (por lo general ocho, compuestas de cuatro, seis u ocho caballeros montados en fillas de gineta y pertrechados con adargas) se enfrentan entre sí con espadas. En un segundo encuentro empuñan cañas de tres a cuatro varas para golpear a sus rivales.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58462&Lng=0',
-    id: '58462'
+    slug: 'de-los-amores-y-las-canas-las-entradas',
+    id: 58462
   },
   {
     proverb_type: 'Refrán',
@@ -6355,8 +6365,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En otra época, una persona con cuarenta años era considerada muy mayor, porque la esperanza de vida era mucho más corta que en la sociedad actual.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58463&Lng=0',
-    id: '58463'
+    slug: 'de-los-cuarenta-para-arriba-no-te-mojes-la-barriga',
+    id: 58463
   },
   {
     proverb_type: 'Refrán',
@@ -6370,8 +6380,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en La Celestina XII 111. Recuérdese Enemigo que huye, puente de plata.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58464&Lng=0',
-    id: '58464'
+    slug: 'de-los-enemigos-los-menos',
+    id: 58464
   },
   {
     proverb_type: 'Refrán',
@@ -6385,8 +6395,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'De los escarmentados se levantan los arteros (Valdés 52). La Celestina (V 195) relaciona el escarmiento y la experiencia en el refrán La experiencia y escarmiento hace los hombres arteros, para significar que no sólo los desengaños vuelven a alguien cauteloso y desconfiado, pues el paso de los años también hace que lo sea.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58465&Lng=0',
-    id: '58465'
+    slug: 'de-los-escarmentados-nacen-los-avisados',
+    id: 58465
   },
   {
     proverb_type: 'Refrán',
@@ -6400,8 +6410,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58466&Lng=0',
-    id: '58466'
+    slug: 'de-mal-cuervo-mal-huevo',
+    id: 58466
   },
   {
     proverb_type: 'Refrán',
@@ -6415,8 +6425,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58467&Lng=0',
-    id: '58467'
+    slug: 'de-mi-te-reiras-pero-de-mi-dinero-no',
+    id: 58467
   },
   {
     proverb_type: 'Refrán',
@@ -6429,22 +6439,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58468&Lng=0',
-    id: '58468'
+    slug: 'de-musico-poeta-y-loco-todos-tenemos-un-poco',
+    id: 58468
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'De noche, todos los gatos son pardos',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Con la oscuridad de la noche o la falta la luz, resulta fácil disimular las tachas de lo que se vende, no se perciben los defectos de quien se presenta.',
     usable: 'Muy usado',
     observations: 'Se equipara con frecuencia el color pardo a un tipo de marrón como el de los hábitos de los monjes. Se trata de un color que resulta de la mezcla de los colores verde, gris y miel. Existe el gato pardo, esto es, el gato atigrado.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58469&Lng=0',
-    id: '58469'
+    slug: 'de-noche-todos-los-gatos-son-pardos',
+    id: 58469
   },
   {
     proverb_type: 'Refrán',
@@ -6457,8 +6467,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58470&Lng=0',
-    id: '58470'
+    slug: 'de-padre-santo-hijo-diablo',
+    id: 58470
   },
   {
     proverb_type: 'Refrán',
@@ -6471,8 +6481,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58471&Lng=0',
-    id: '58471'
+    slug: 'de-padres-gatos-hijos-michinos',
+    id: 58471
   },
   {
     proverb_type: 'Refrán',
@@ -6485,8 +6495,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58472&Lng=0',
-    id: '58472'
+    slug: 'de-paja-o-heno-el-vientre-lleno',
+    id: 58472
   },
   {
     proverb_type: 'Refrán',
@@ -6499,8 +6509,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'De chica centella nace gran llama de fuego (Libro de Buen Amor 734). De un grano de agraz se hace mucha dentera (Libro de Buen Amor 907). El refrán Soplará el odrero, y alborotarse ha Toledo, citado por Núñez 7623 y Correas 917, aparece también en la obra de Valdés (164) con la forma Soplará el odrero, y levántase Toledo; este refrán tiene su origen en un suceso histórico: la recaudación de fondos en Toledo ordenada por Don Álvaro de luna en 1449 que ocasionó un motín en la ciudad. Parece que uno de los promotores fue un odrero.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58473&Lng=0',
-    id: '58473'
+    slug: 'de-pequena-centella-grande-hoguera',
+    id: 58473
   },
   {
     proverb_type: 'Refrán',
@@ -6513,15 +6523,15 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Parece que esta frase proviene de las batallas, cuando en otros tiempos la principal maniobra para derrotar al enemigo consistía en empujarlo hasta que llegase a orillas del río. Así, al tener a su espalda el río, se reduciría su capacidad de maniobra y perdería la batalla, pues o se tiraban al río si no querían morir o se rendían.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58474&Lng=0',
-    id: '58474'
+    slug: 'de-perdidos-al-rio',
+    id: 58474
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'De potro sarnoso, caballo hermoso',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Belleza',
       'Fealdad'
     ],
@@ -6529,8 +6539,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58475&Lng=0',
-    id: '58475'
+    slug: 'de-potro-sarnoso-caballo-hermoso',
+    id: 58475
   },
   {
     proverb_type: 'Refrán',
@@ -6544,8 +6554,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'No se cree al mentiroso, incluso cuando dice la verdad, como advierte el refrán Quien siempre me miente, nunca me engaña.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58476&Lng=0',
-    id: '58476'
+    slug: 'de-quien-mucho-miente-huye-la-gente',
+    id: 58476
   },
   {
     proverb_type: 'Refrán',
@@ -6558,8 +6568,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58477&Lng=0',
-    id: '58477'
+    slug: 'de-rabo-de-puerco-nunca-buen-virote',
+    id: 58477
   },
   {
     proverb_type: 'Refrán',
@@ -6572,8 +6582,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58478&Lng=0',
-    id: '58478'
+    slug: 'de-tal-cabeza-tal-sentencia',
+    id: 58478
   },
   {
     proverb_type: 'Refrán',
@@ -6587,8 +6597,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58479&Lng=0',
-    id: '58479'
+    slug: 'de-tal-cepa-tal-vino',
+    id: 58479
   },
   {
     proverb_type: 'Refrán',
@@ -6601,8 +6611,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'José María de Pereda (1833-1906) eligió este refrán como título de una de sus obras, publicada en 1885.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58480&Lng=0',
-    id: '58480'
+    slug: 'de-tal-palo-tal-astilla',
+    id: 58480
   },
   {
     proverb_type: 'Proverbio',
@@ -6615,8 +6625,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'De origen bíblico: Isaías 5,1-7.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58481&Lng=0',
-    id: '58481'
+    slug: 'de-todo-hay-en-la-vina-del-senor',
+    id: 58481
   },
   {
     proverb_type: 'Refrán',
@@ -6629,8 +6639,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58482&Lng=0',
-    id: '58482'
+    slug: 'de-trigo-y-avena-mi-casa-llena',
+    id: 58482
   },
   {
     proverb_type: 'Refrán',
@@ -6643,8 +6653,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58483&Lng=0',
-    id: '58483'
+    slug: 'de-una-cebolla-no-nace-una-rosa',
+    id: 58483
   },
   {
     proverb_type: 'Refrán',
@@ -6657,8 +6667,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58484&Lng=0',
-    id: '58484'
+    slug: 'de-una-nuez-chica-gran-arbol-de-noguera',
+    id: 58484
   },
   {
     proverb_type: 'Refrán',
@@ -6671,23 +6681,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Valdés 58 cita la forma antónima Dezir y hazer comen a mi mesa, para manifestar que las palabras que uno dice se corresponden con sus obras.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58485&Lng=0',
-    id: '58485'
+    slug: 'decir-y-hacer-no-comen-a-una-mesa',
+    id: 58485
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Del agua mansa líbreme Dios, que de la brava me libraré yo',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Precaución'
     ],
     meaning: 'Un río aparentemente tranquilo puede esconder remolinos y hoyas, por lo que resulta más temible que un río de corriente violenta. Aplicado a las personas, este refrán da a entender que las personas de carácter tranquilo pueden mostrarse sumamente irascibles, cuando se enojan, con la consiguiente sorpresa para quienes tenían otra impresión de ellas.',
     usable: 'De uso actual',
     observations: '',
     comments: 'La forma clásica puede sufrir alteraciones: Fíate tú de las aguas mansas, que de las bravas me cuido yo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58486&Lng=0',
-    id: '58486'
+    slug: 'del-agua-mansa-libreme-dios-que-de-la-brava-me-librare-yo',
+    id: 58486
   },
   {
     proverb_type: 'Refrán',
@@ -6701,8 +6711,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Estudios científicos corroboran la constatación de este refrán: «las respuestas cerebrales en ambos casos se encuentran enlazadas [...] una delgada línea separa el sentimiento de amor del odio. [...] Escáneres cerebrales realizados a sujetos participantes en un estudio, y que aseguraban sentir odio, mostraban una actividad neurológica muy similar al sentimiento contrario» (www.eleconomista.es [10-01-2009]). Recuérdese Amores reñidos son los más queridos.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58487&Lng=0',
-    id: '58487'
+    slug: 'del-amor-al-odio-hay-un-paso',
+    id: 58487
   },
   {
     proverb_type: 'Refrán',
@@ -6718,8 +6728,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'En la actualidad se emplea más la locución Hacer leña del árbol caído. Se utiliza en sentido directo cuando el viento derriba árboles y ya sólo se puede hacer leña del árbol caído. Se utiliza también para significar que criticar a alguien no es hacer leña de ningún árbol caído (adn, martes 27 de enero de 2009, p. 9).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58488&Lng=0',
-    id: '58488'
+    slug: 'del-arbol-caido-todos-hacen-lena',
+    id: 58488
   },
   {
     proverb_type: 'Refrán',
@@ -6734,22 +6744,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58489&Lng=0',
-    id: '58489'
+    slug: 'del-bien-al-mal-no-hay-un-canto-de-real',
+    id: 58489
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Del cuero salen las correas',
     tags: [
-      'Esencial y accesorio'
+      'Oficio',
+      'Dependencia'
     ],
     meaning: 'La evidencia de que es necesario tener la materia prima para confeccionar artículos de dicho material sirve para afirmar que, si se tiene lo principal, todo está resuelto, pues resulta más fácil conseguir lo secundario o accesorio.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58490&Lng=0',
-    id: '58490'
+    slug: 'del-cuero-salen-las-correas',
+    id: 58490
   },
   {
     proverb_type: 'Refrán',
@@ -6762,8 +6773,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Citado en El Quijote II 34 y II 64. En latín: Loqui  facile, praestari difficile.',
     comments: 'Existe también una forma en la que se ha suprimido el verbo: Del dicho al hecho, gran trecho (Fuente oral).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58491&Lng=0',
-    id: '58491'
+    slug: 'del-dicho-al-hecho-hay-un-trecho',
+    id: 58491
   },
   {
     proverb_type: 'Refrán',
@@ -6777,22 +6788,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Del mal, tomar lo menos (Libro de Buen Amor 1617). Del mal, lo menos (La Pícara Justina I 31). Estos refranes aconsejan elegir el mal menor de dos males, pero ciertamente resulta difícil escoger entre dos cosas igualmente malas, como indica el refrán Entre pupa y durujón, Dios escoja lo mejor.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58492&Lng=0',
-    id: '58492'
+    slug: 'del-mal-el-menos',
+    id: 58492
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Del mar, el mero; de la tierra, el cordero',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Afirma que la carne de estos animales resulta más apetitosa que la de los demás.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58493&Lng=0',
-    id: '58493'
+    slug: 'del-mar-el-mero-de-la-tierra-el-cordero',
+    id: 58493
   },
   {
     proverb_type: 'Refrán',
@@ -6805,8 +6816,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58494&Lng=0',
-    id: '58494'
+    slug: 'del-que-jura-teme-la-impostura',
+    id: 58494
   },
   {
     proverb_type: 'Refrán',
@@ -6820,8 +6831,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58495&Lng=0',
-    id: '58495'
+    slug: 'del-viejo-el-consejo',
+    id: 58495
   },
   {
     proverb_type: 'Refrán',
@@ -6834,8 +6845,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58164&Lng=0',
-    id: '58164'
+    slug: 'dentro-de-cien-anos-todos-calvos',
+    id: 58164
   },
   {
     proverb_type: 'Refrán',
@@ -6849,8 +6860,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En luengo camino y en cama angosta se conocen los amigos (Santillana 258).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58496&Lng=0',
-    id: '58496'
+    slug: 'desdichas-y-caminos-hacen-amigos',
+    id: 58496
   },
   {
     proverb_type: 'Refrán',
@@ -6858,14 +6869,15 @@ export const PROVERBS_DATA = [
     proverb: 'Desgracia compartida, menos sentida',
     tags: [
       'Desgracia',
-      'Confidencia'
+      'Compañía',
+      'Ayuda'
     ],
     meaning: 'Cuando tenemos una preocupación o una pena, podemos aliviarlas contándosela a otra persona, de quien puede venir consuelo, comprensión y, tal vez, ayuda efectiva.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58497&Lng=0',
-    id: '58497'
+    slug: 'desgracia-compartida-menos-sentida',
+    id: 58497
   },
   {
     proverb_type: 'Refrán',
@@ -6879,8 +6891,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58498&Lng=0',
-    id: '58498'
+    slug: 'desgraciado-en-el-juego-afortunado-en-amores',
+    id: 58498
   },
   {
     proverb_type: 'Locución proverbial',
@@ -6893,8 +6905,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58499&Lng=0',
-    id: '58499'
+    slug: 'desnudar-un-santo-para-vestir-otro',
+    id: 58499
   },
   {
     proverb_type: 'Refrán',
@@ -6908,8 +6920,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Ctiado en El Quijote I 25, II 8 y II 53. Entré desnudo en el gobierno y salgo desnudo (El Quijote II 57). Entré desnudo, y desnudo me hallo: ni pierdo ni gano (El Quijote II 55). Parece participar del mismo espíritu que la cita de Job: «Desnudo nací del vientre de mi madre y desnudo volveré allí» (Job 1, 21).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58500&Lng=0',
-    id: '58500'
+    slug: 'desnudo-naci-desnudo-me-hallo-ni-pierdo-ni-gano',
+    id: 58500
   },
   {
     proverb_type: 'Refrán',
@@ -6922,22 +6934,23 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Alude a los tiempos en los que se hacían caligrafías. Antonio Machado, en su libro Proverbios y Cantares incluye con el n.º XXIV este cantar: «Despacito y buena letra: / El hacer las cosas bien / importa más que el hacerlas».',
     comments: 'Actualmente se emplea la primera parte: Despacio y buena letra y Despacito y buena letra.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58501&Lng=0',
-    id: '58501'
+    slug: 'despacio-y-buena-letra-dice-el-maestro-en-la-escuela',
+    id: 58501
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Después de beber, cada uno dice su parecer',
     tags: [
-      'Exceso'
+      'Exceso',
+      'Bebida'
     ],
     meaning: 'Resulta difícil guardar un secreto tras haber abusado de la bebida.',
     usable: 'En desuso',
     observations: 'En latín, existe la paremia In vino veritas [En el vino está la verdad].',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58502&Lng=0',
-    id: '58502'
+    slug: 'despues-de-beber-cada-uno-dice-su-parecer',
+    id: 58502
   },
   {
     proverb_type: 'Refrán',
@@ -6951,22 +6964,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Este refrán alude indirectamente a la siesta. Se asocia la siesta con la cultura española, si bien un gran número de españoles no la practican. El vocablo «siesta» procede de la expresión latina hora sexta, esto es, el tiempo del día comprendido entre las 12 y las 15 horas aproximadamente, momento en que se hacía una pausa para descansar y reponer fuerzas. En efecto, el objetivo es recuperar fuerzas para el resto de la jornada y está recomendada por el médico, siempre que no sea muy larga (unos 20 o 30 minutos). Después de la comida, en especial si se trata de una comida copiosa o si se está en un país caluroso como es España, se produce el descenso de la sangre del sistema nervioso al digestivo porque se necesiat mucha sangre para digerir los alimentos, lo que causa cierta somnolencia.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58503&Lng=0',
-    id: '58503'
+    slug: 'despues-de-comer-ni-un-sobre-leer',
+    id: 58503
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Después de la leche, nada eches',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Recomendación dietética para evitar que la leche siente mal y puedan producirse vómitos.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58504&Lng=0',
-    id: '58504'
+    slug: 'despues-de-la-leche-nada-eches',
+    id: 58504
   },
   {
     proverb_type: 'Refrán',
@@ -6981,8 +6994,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'Se utiliza tanto esta forma como esta otra variante: Tras la tempestad viene la calma. En ocasiones, se rompe la estructura clásica del refrán con el objeto de añadir una objeción al contenido de refrán, al tiempo que se insertar el refrán en el discurso como si fuera otra frase más. Así, se escucha Llega la tempestad, pero no la calma. En otras, se incluye un elemento léxico para reforzar el sentido: Después de la tormenta siempre viene la calma, como se cita en una canción en 2008 o en Tras la tempestad siempre viene la calma para referirse a la evolución del IBEX 35 en febrero de 2012. Se puede citar el refrán con la forma ligeramente modificada para adaptarla a la situación: Después de la tempestad, empieza a llegar la calma, con motivo del paso del huracán Irene por Nueva York en agosto de 2011. También se puede cambiar la segunda parte del refrán: Después de la tormenta, siempre llega la remontada; esta forma se dijo en televisión, en jun',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59577&Lng=0',
-    id: '59577'
+    slug: 'despues-de-la-tempestad-viene-la-calma',
+    id: 59577
   },
   {
     proverb_type: 'Refrán',
@@ -6995,23 +7008,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58505&Lng=0',
-    id: '58505'
+    slug: 'despues-de-los-anos-mil-vuelven-las-aguas-a-su-carril',
+    id: 58505
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Después de pera comer, bebe vino si no quieres fenecer',
     tags: [
-      'Alimentos',
+      'Alimento',
       'Salud'
     ],
     meaning: 'Alude a la creencia popular de que el agua sienta mal si se bebe después de haber comido fruta.',
     usable: 'En desuso',
     observations: 'Peras con vino es un postre clásico, para el que suelen aprovecharse restos de vino de calidad.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58506&Lng=0',
-    id: '58506'
+    slug: 'despues-de-pera-comer-bebe-vino-si-no-quieres-fenecer',
+    id: 58506
   },
   {
     proverb_type: 'Refrán',
@@ -7025,8 +7038,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58507&Lng=0',
-    id: '58507'
+    slug: 'despues-de-vendimias-cuevanos',
+    id: 58507
   },
   {
     proverb_type: 'Refrán',
@@ -7039,8 +7052,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en El Quijote II 33 y II 47. Tras la cruz está el diablo (El Quijote I 6).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58508&Lng=0',
-    id: '58508'
+    slug: 'detras-de-la-cruz-esta-el-diablo',
+    id: 58508
   },
   {
     proverb_type: 'Refrán',
@@ -7054,8 +7067,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58509&Lng=0',
-    id: '58509'
+    slug: 'di-tu-razon-y-no-senales-autor',
+    id: 58509
   },
   {
     proverb_type: 'Refrán',
@@ -7068,8 +7081,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En la actualidad, la festividad de Santa Lucía es el 13 de diciembre, pero, antes de la reforma del calendario realizada por el Papa Gregorio XII en 1582, esta festividad coincidía con el solsticio de invierno. Esta reforma consistió en eliminar 10 días, lo que afectó a la mayoría de refranes hagiográficos, por ser su creación anteriores a este año.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58510&Lng=0',
-    id: '58510'
+    slug: 'dia-de-santa-lucia-mengua-la-noche-y-crece-el-dia',
+    id: 58510
   },
   {
     proverb_type: 'Refrán temporal',
@@ -7083,8 +7096,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58511&Lng=0',
-    id: '58511'
+    slug: 'dias-de-mayo-dias-del-diablo-no-amanece-cuando-ya-oscurece',
+    id: 58511
   },
   {
     proverb_type: 'Refrán',
@@ -7097,8 +7110,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58512&Lng=0',
-    id: '58512'
+    slug: 'dias-de-mucho-visperas-de-nada',
+    id: 58512
   },
   {
     proverb_type: 'Refrán',
@@ -7111,8 +7124,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58513&Lng=0',
-    id: '58513'
+    slug: 'dicha-que-tarda-con-mas-gozo-se-aguarda',
+    id: 58513
   },
   {
     proverb_type: 'Refrán',
@@ -7125,23 +7138,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En latín: Dictum, factumque.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58514&Lng=0',
-    id: '58514'
+    slug: 'dicho-y-hecho',
+    id: 58514
   },
   {
     proverb_type: 'Refrán temporal',
     language: 'Español',
     proverb: 'Dichoso mes, que empieza con los Santos y acaba con San Andrés',
     tags: [
-      'Calendario',
-      'Santoral'
+      'Calendario'
     ],
     meaning: 'Alabanza del mes de noviembre.',
     usable: 'En desuso',
     observations: 'Se celebra el último día del mes de noviembre la festividad del apóstol discípulo de Juan Bautista y hermano de San Pedro, en memoria de su martirio, que ha sido representado por diversos maestros de  la pintura, como Murillo, Ribera o Rubens.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58515&Lng=0',
-    id: '58515'
+    slug: 'dichoso-mes-que-empieza-con-los-santos-y-acaba-con-san-andres',
+    id: 58515
   },
   {
     proverb_type: 'Refrán',
@@ -7155,8 +7167,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Por las verdades se pierden los amigos, y por las no decir se hacen desamigos (Libro del Buen Amor 165).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58516&Lng=0',
-    id: '58516'
+    slug: 'diciendo-las-verdades-se-pierden-amistades',
+    id: 58516
   },
   {
     proverb_type: 'Dialogismo',
@@ -7169,8 +7181,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58517&Lng=0',
-    id: '58517'
+    slug: 'dijo-el-asno-al-mulo-anda-para-alla-orejudo',
+    id: 58517
   },
   {
     proverb_type: 'Dialogismo',
@@ -7183,20 +7195,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58518&Lng=0',
-    id: '58518'
+    slug: 'dijo-el-cuervo-a-la-graja-quitate-alla-negra',
+    id: 58518
   },
   {
     proverb_type: 'Dialogismo',
     language: 'Español',
     proverb: "Dijo la leche al vino: 'Seáis bienvenido, amigo'",
-    tags: [],
+    tags: [
+      'Bebida',
+      'Precaución'
+    ],
     meaning: 'Alude a la creencia popular de que no conviene beber agua después de haber tomado leche. Lo aconsejable es hacerlo al revés.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58519&Lng=0',
-    id: '58519'
+    slug: 'dijo-la-leche-al-vino-seais-bienvenido-amigo',
+    id: 58519
   },
   {
     proverb_type: 'Dialogismo',
@@ -7209,25 +7224,25 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se suele decir Como dijo la sartén al cazo o Le dijo la sartén al cazo',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58520&Lng=0',
-    id: '58520'
+    slug: 'dijo-la-sarten-al-cazo-quitate-de-ahi-que-me-tiznas-ojinegra',
+    id: 58520
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Dime con quién andas, y te diré quién eres',
     tags: [
-      'Compañías',
+      'Compañía',
       'Conocimiento',
       'Influencia',
-      'Preferencias'
+      'Preferencia'
     ],
     meaning: 'Se puede deducir los gustos y aficiones de alguien por los amigos y ambientes que frecuenta. Del mismo modo, este refrán advierte de la gran influencia que ejerce en el comportamiento o en las costumbres de alguien las compañías de los demás, ya sean buenas o malas.',
     usable: 'Muy usado',
     observations: 'Dime con quién andas, decirte he quién eres (El Quijote II 10 y 23).',
     comments: 'Este es uno de lo refranes que más alteraciones formales sufre, en particular la primera parte. Por ejemplo: Dime cómo dedicas [...], en la Feria del Libro, Madrid, 2010. Dime qué cantabas antes y te diré qué piensas ahora (Qué!, 14/09/2010, p. 15). Dime cómo duermes [...] (www.es.tendencias.yahoo.com, 08/03/2011). Dime lo que vales [...] (ABC cultural, 31/12/2011, p. 18). Dime cuánto dinero tienes y te diré qué tableta puedes comprarte (www.expansion.com, 18/07/2014). Dime lo que gastas y te diré cómo eres(en un noticiario televisivo con motivo de las preferentes, 13/03/2015). Dime cómo discuten y te diré cómo gobiernas (campaña electoral en marzo de 2015). Dime lo que sueñas, [...]. Dime lo que comes, [...]. Dime cómo suena y te diré qué bus es. Dime cómo exportas y te diré cómo eres. Dime qué zapatos llevas [...]. Dime cómo vistes (y cómo te cuidas) y te diré cómo eres. En ocasio',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58521&Lng=0',
-    id: '58521'
+    slug: 'dime-con-quien-andas-y-te-dire-quien-eres',
+    id: 58521
   },
   {
     proverb_type: 'Refrán',
@@ -7240,8 +7255,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58522&Lng=0',
-    id: '58522'
+    slug: 'dime-de-que-presumes-y-te-dire-de-que-careces',
+    id: 58522
   },
   {
     proverb_type: 'Refrán',
@@ -7254,8 +7269,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58523&Lng=0',
-    id: '58523'
+    slug: 'dinero-en-mano-todo-es-llano',
+    id: 58523
   },
   {
     proverb_type: 'Refrán',
@@ -7268,8 +7283,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En Autoridades («dinero»), se explica otro sentido: alude a quien «la fortuna empezó à hacer rico, le favorece regularmente en la misma espécie, y las mas veces sin merecerlo».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58524&Lng=0',
-    id: '58524'
+    slug: 'dinero-llama-dinero',
+    id: 58524
   },
   {
     proverb_type: 'Refrán',
@@ -7282,8 +7297,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58525&Lng=0',
-    id: '58525'
+    slug: 'dineros-son-calidad',
+    id: 58525
   },
   {
     proverb_type: 'Refrán',
@@ -7297,8 +7312,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se puede alterar la forma clásica en función de la situación. Durante la Feria del libro de 2014, una entrevistada para los informativos de televisión, comenta que no puede comprar muchos libros, porque Cuando Dios aprieta, ahoga pero bien.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58526&Lng=0',
-    id: '58526'
+    slug: 'dios-aprieta-pero-no-ahoga',
+    id: 58526
   },
   {
     proverb_type: 'Refrán',
@@ -7311,8 +7326,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Dios sufre a los malos, pero no para siempre (El Quijote II 40).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58527&Lng=0',
-    id: '58527'
+    slug: 'dios-consiente-mas-no-para-siempre',
+    id: 58527
   },
   {
     proverb_type: 'Refrán',
@@ -7327,22 +7342,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'No tiene más frío nadie que la ropa que trae (La Dorotea II 191).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58528&Lng=0',
-    id: '58528'
+    slug: 'dios-da-el-frio-conforme-la-ropa',
+    id: 58528
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Dios los cría, y ellos se juntan',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Alude con cierta ironía a la inclinación natural que lleva a juntarse a los de un mismo genio y temperamento. Se aplica más bien a personas de conducta censurable.',
     usable: 'Muy usado',
     observations: 'El codicioso y el tramposo, fácilmente se conciertan (Covarrubias)',
     comments: 'Al estar en uso, se suele mencionar solo la primera parte.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58529&Lng=0',
-    id: '58529'
+    slug: 'dios-los-cria-y-ellos-se-juntan',
+    id: 58529
   },
   {
     proverb_type: 'Refrán',
@@ -7355,8 +7370,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58530&Lng=0',
-    id: '58530'
+    slug: 'dios-me-de-contienda-con-quien-me-entienda',
+    id: 58530
   },
   {
     proverb_type: 'Refrán',
@@ -7370,8 +7385,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58531&Lng=0',
-    id: '58531'
+    slug: 'dios-que-da-la-llaga-da-el-remedio',
+    id: 58531
   },
   {
     proverb_type: 'Aforismo',
@@ -7384,8 +7399,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Es una frase de Julio César (Divide et impera), en la que se refleja una hábil estrategia para derrotar al enemigo. Con esa denominación se conoce también una técnica para diseñar algoritmos, que «consiste en resolver un problema a partir de la solución de subproblemas del mismo tipo, pero de menor tamaño (http://www.lcc.uma.es/~av/Libro/CAP3.pdf, página consultada el 18 de agosto de 2007).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58532&Lng=0',
-    id: '58532'
+    slug: 'divide-y-venceras',
+    id: 58532
   },
   {
     proverb_type: 'Refrán',
@@ -7393,14 +7408,15 @@ export const PROVERBS_DATA = [
     proverb: 'Do entra beber, sale saber',
     tags: [
       'Exceso',
-      'Perjuicio'
+      'Perjuicio',
+      'Bebida'
     ],
     meaning: 'Manifiesta el daño que causa en el entendimiento el exceso de bebida alcohólica.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58533&Lng=0',
-    id: '58533'
+    slug: 'do-entra-beber-sale-saber',
+    id: 58533
   },
   {
     proverb_type: 'Refrán',
@@ -7414,8 +7430,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Donde fuerza viene, derecho se pierde (Valdés).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58534&Lng=0',
-    id: '58534'
+    slug: 'do-fuerza-hay-derecho-se-pierde',
+    id: 58534
   },
   {
     proverb_type: 'Refrán',
@@ -7429,8 +7445,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58535&Lng=0',
-    id: '58535'
+    slug: 'dolencia-larga-y-muerte-al-cabo',
+    id: 58535
   },
   {
     proverb_type: 'Refrán',
@@ -7443,8 +7459,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Correas (E500) cita el refrán El dolor de cabeza, el comer le endereza indicando que su gramática es correcta e incluye otra forma cuya gramática se aleja de la norma: El dolor de cabeza, el comer la endereza (E503); una forma similar registra Vallés (577): Al dolor de la cabeça, el comer la endereça.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58536&Lng=0',
-    id: '58536'
+    slug: 'dolor-de-cabeza-quiere-manjar',
+    id: 58536
   },
   {
     proverb_type: 'Refrán',
@@ -7452,14 +7468,14 @@ export const PROVERBS_DATA = [
     proverb: 'Dolor de mujer muerta, dura hasta la puerta',
     tags: [
       'Sufrimiento',
-      'Viudez'
+      'Muerte'
     ],
     meaning: 'Alude a la brevedad del dolor que sienten algunos al enviudar.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58537&Lng=0',
-    id: '58537'
+    slug: 'dolor-de-mujer-muerta-dura-hasta-la-puerta',
+    id: 58537
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -7472,8 +7488,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'Se emplea bastante, en ocasiones sin llegar a terminarlo:  Donde dije digo..., precisamente porque el interlocutor lo conoce perfectamente.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58538&Lng=0',
-    id: '58538'
+    slug: 'donde-dije-digo-digo-diego',
+    id: 58538
   },
   {
     proverb_type: 'Refrán',
@@ -7486,8 +7502,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58539&Lng=0',
-    id: '58539'
+    slug: 'donde-entra-el-sol-no-entra-el-doctor',
+    id: 58539
   },
   {
     proverb_type: 'Refrán',
@@ -7500,8 +7516,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Ve do vas, y como vieres así haz (La Lozana Andaluza 114). Cuando a Roma fueres, haz como vieres (El Quijote II 53). El refrán sinónimo Cuando fueres a Roma, vive como en Roma tiene varias formas abreviadas: Vivir en Roma, como en Roma (Terreros), En Roma, como en Roma.',
     comments: 'Este refrán puede aparecer a veces en dos partes separadas por puntos suspensivos: Donde fueres.... Haz lo que vieres, con el fin de crear una mayor fuerza argumentativa.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58540&Lng=0',
-    id: '58540'
+    slug: 'donde-fueres-haz-lo-que-vieres',
+    id: 58540
   },
   {
     proverb_type: 'Refrán',
@@ -7515,8 +7531,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58541&Lng=0',
-    id: '58541'
+    slug: 'donde-hay-amor-hay-dolor',
+    id: 58541
   },
   {
     proverb_type: 'Refrán',
@@ -7529,8 +7545,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe la locución Ir por camino real para significar que se opta «por el medio más fácil, noble y seguro para la consecución de algún fin» (Sbarbi, «camino»). Otros refranes aconsejan no abandonar el camino por atajos que después no lo son: Quien deja camino y toma vereda piensa que adelanta, pero rodea (Sbarbi).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58542&Lng=0',
-    id: '58542'
+    slug: 'donde-hay-camino-real-no-te-vayas-por-el-matorral',
+    id: 58542
   },
   {
     proverb_type: 'Refrán',
@@ -7545,8 +7561,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese Cuando el hombre es celoso, molesta; cuando no lo es, irrita (Fuente oral)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58543&Lng=0',
-    id: '58543'
+    slug: 'donde-hay-celos-hay-amor-donde-hay-viejos-hay-dolor',
+    id: 58543
   },
   {
     proverb_type: 'Refrán',
@@ -7561,8 +7577,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Con frecuencia se dice solo la primera parte: Donde hay confianza... A veces se deshace la forma del refrán para convertirlo en una frase proverbial de estructura más sencilla: La confianza da asco',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58544&Lng=0',
-    id: '58544'
+    slug: 'donde-hay-confianza-da-asco',
+    id: 58544
   },
   {
     proverb_type: 'Refrán',
@@ -7575,8 +7591,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58545&Lng=0',
-    id: '58545'
+    slug: 'donde-hay-gana-hay-mana',
+    id: 58545
   },
   {
     proverb_type: 'Refrán',
@@ -7584,14 +7600,14 @@ export const PROVERBS_DATA = [
     proverb: 'Donde hay patrón, no manda marinero',
     tags: [
       'Autoridad',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'El subordinado no puede mandar si hay un jefe, pues ha de acatarse la decisión de quien detenta la autoridad, pese a la valía que puedan tener sus iniciativas propias. El subordinado suele emplear este refrán para reconocer su categoría social y el jefe suele decirlo para recordársela al subordinado.',
     usable: 'De uso actual',
     observations: '',
     comments: 'Se suele citar solo la primera parte.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58546&Lng=0',
-    id: '58546'
+    slug: 'donde-hay-patron-no-manda-marinero',
+    id: 58546
   },
   {
     proverb_type: 'Refrán',
@@ -7604,8 +7620,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58547&Lng=0',
-    id: '58547'
+    slug: 'donde-hay-saca-y-no-pon-pronto-se-acaba-el-bolson',
+    id: 58547
   },
   {
     proverb_type: 'Refrán',
@@ -7619,8 +7635,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Correas registra también algunas formas negativas: Do no hay fuego, no se levanta humo (Correas D490). Donde fuego no hay, humo no sal (Correas D556). Donde no hay fuego ninguno, no sale humo, o no se levanta humo (Correas D600).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58548&Lng=0',
-    id: '58548'
+    slug: 'donde-hubo-fuego-siempre-quedan-rescoldos',
+    id: 58548
   },
   {
     proverb_type: 'Refrán',
@@ -7633,8 +7649,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Donde las dan las toman (El Quijote II 65). Donde las dan, allí las toman (Valdés 64).  Este refrán aparece como título en obras muy diversas, entre otras: un diálogo joco-serio de Tomás Iriarte (1778), una zarzuela en un acto de Francisco Leandro Ruiz (1856), una comedia en un acto (J. V., 1849), una obra de Ramón de la Cruz (Donde las dan las toman, los zapateros y el renegado, 1816), una obra de Carlos Arniches (La venganza de la Petra o Donde las dan las toman, 1927).',
     comments: 'Suele decir este refrán quien ha recibido el daño. Existe una tercera parte (y callar es bueno) que se emplea para reforzar el sentido del refrán; la dice, en el momento de devolver el daño recibido, bien la persona que ha padecido el daño bien una tercera persona que conoce lo sucedido.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58549&Lng=0',
-    id: '58549'
+    slug: 'donde-las-dan-las-toman',
+    id: 58549
   },
   {
     proverb_type: 'Refrán',
@@ -7648,8 +7664,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Donde no piensan, salta la liebre (El Quijote II 10). Donde no se piensa, salta la liebre, y andaba sobre un tejado (La Pícara Justina II 212). Donde menos se piensa, salta la liebre (El Lazarillo de Tormes 194).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58550&Lng=0',
-    id: '58550'
+    slug: 'donde-menos-se-piensa-salta-la-liebre',
+    id: 58550
   },
   {
     proverb_type: 'Refrán',
@@ -7663,8 +7679,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58551&Lng=0',
-    id: '58551'
+    slug: 'donde-no-hay-harina-todo-es-mohina',
+    id: 58551
   },
   {
     proverb_type: 'Refrán',
@@ -7678,8 +7694,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58552&Lng=0',
-    id: '58552'
+    slug: 'donde-no-hay-olla-el-diablo-mora',
+    id: 58552
   },
   {
     proverb_type: 'Refrán',
@@ -7692,34 +7708,36 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58553&Lng=0',
-    id: '58553'
+    slug: 'donde-no-te-llaman-que-querran',
+    id: 58553
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Donde pan comen, migas quedan',
-    tags: [],
+    tags: [
+      'Causa y efecto'
+    ],
     meaning: 'Alude a las consecuencias o efectos que tienen nuestros actos.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59656&Lng=0',
-    id: '59656'
+    slug: 'donde-pan-comen-migas-quedan',
+    id: 59656
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Donde una cabra va, allá quieren ir todas',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Se emplea con un sentido irónico para afirmar que las personas a veces siguen a otras por mimetismo, no por decisión y convencimiento propios.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58554&Lng=0',
-    id: '58554'
+    slug: 'donde-una-cabra-va-alla-quieren-ir-todas',
+    id: 58554
   },
   {
     proverb_type: 'Refrán',
@@ -7733,8 +7751,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58555&Lng=0',
-    id: '58555'
+    slug: 'donde-va-mas-hondo-el-rio-hace-menos-ruido',
+    id: 58555
   },
   {
     proverb_type: 'Refrán',
@@ -7748,8 +7766,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58556&Lng=0',
-    id: '58556'
+    slug: 'dormireis-sobre-ello-y-tomareis-acuerdo',
+    id: 58556
   },
   {
     proverb_type: 'Refrán',
@@ -7762,23 +7780,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58557&Lng=0',
-    id: '58557'
+    slug: 'dos-aguas-de-abril-y-una-de-mayo-valen-los-bueyes-y-el-carro',
+    id: 58557
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Dos es compañía, tres es multitud',
     tags: [
-      'Negocios',
+      'Negocio',
       'Concordia'
     ],
     meaning: 'Se dice cuando es preferible limitar el número de personas para conseguir que reine la concordia. Se aplica a los negocios, porque resulta más fácil que haya pocos socios a muchos, por la discordancia en los distintos pareceres. También puedeaplicrase a las parejas cuando aparece una tercera persona.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58558&Lng=0',
-    id: '58558'
+    slug: 'dos-es-compania-tres-es-multitud',
+    id: 58558
   },
   {
     proverb_type: 'Refrán',
@@ -7791,8 +7809,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Cuando uno no quiere, dos no barajan (Santillana 599, Covarrubias).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58559&Lng=0',
-    id: '58559'
+    slug: 'dos-no-rinen-si-uno-no-quiere',
+    id: 58559
   },
   {
     proverb_type: 'Refrán',
@@ -7805,8 +7823,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58560&Lng=0',
-    id: '58560'
+    slug: 'dos-pajaros-en-una-espiga-hacen-mala-compania',
+    id: 58560
   },
   {
     proverb_type: 'Refrán',
@@ -7819,8 +7837,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58561&Lng=0',
-    id: '58561'
+    slug: 'dos-que-duermen-en-un-colchon-se-vuelven-de-la-misma-condicion',
+    id: 58561
   },
   {
     proverb_type: 'Refrán',
@@ -7834,23 +7852,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El abad, de do canta, de allí viste (La Celestina VI 205). El abad, de lo que canta yanta (El Quijote II 60). El abad de donde canta yanta (El Quijote II 71).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58562&Lng=0',
-    id: '58562'
+    slug: 'el-abad-de-lo-que-canta-yanta',
+    id: 58562
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El aceite de oliva todo mal quita',
     tags: [
-      'Alimentos',
+      'Alimento',
       'Salud'
     ],
     meaning: 'Alaba las excelencias del aceite de oliva, a efectos dietéticos y para preparados medicinales.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58563&Lng=0',
-    id: '58563'
+    slug: 'el-aceite-de-oliva-todo-mal-quita',
+    id: 58563
   },
   {
     proverb_type: 'Refrán',
@@ -7863,8 +7881,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58564&Lng=0',
-    id: '58564'
+    slug: 'el-agua-como-buey-y-el-vino-como-rey',
+    id: 58564
   },
   {
     proverb_type: 'Frase proverbial',
@@ -7877,8 +7895,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58565&Lng=0',
-    id: '58565'
+    slug: 'el-aguila-no-se-entretiene-en-cazar-moscas',
+    id: 58565
   },
   {
     proverb_type: 'Frase proverbial',
@@ -7891,8 +7909,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58566&Lng=0',
-    id: '58566'
+    slug: 'el-amor-es-ciego',
+    id: 58566
   },
   {
     proverb_type: 'Refrán',
@@ -7905,8 +7923,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58567&Lng=0',
-    id: '58567'
+    slug: 'el-amor-primero-jamas-se-olvida-pepita-le-queda-para-toda-la-vida',
+    id: 58567
   },
   {
     proverb_type: 'Proverbio',
@@ -7919,8 +7937,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58568&Lng=0',
-    id: '58568'
+    slug: 'el-amor-tiene-razones-que-la-razon-no-entiende',
+    id: 58568
   },
   {
     proverb_type: 'Frase proverbial',
@@ -7933,8 +7951,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58569&Lng=0',
-    id: '58569'
+    slug: 'el-amor-todo-lo-iguala',
+    id: 58569
   },
   {
     proverb_type: 'Frase proverbial',
@@ -7947,22 +7965,22 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59571&Lng=0',
-    id: '59571'
+    slug: 'el-amor-todo-lo-puede',
+    id: 59571
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El arroz, el pez y el pepino, nacen en agua y mueren en vino',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Se alude a una de las formas en las que se suele preparar estos alimentos.',
     usable: 'En desuso',
     observations: 'Se recomienda beber vino con estos productos para facilitar su digestión, por la antigua creencia de que no era saludable beber agua con estos alimentos.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58570&Lng=0',
-    id: '58570'
+    slug: 'el-arroz-el-pez-y-el-pepino-nacen-en-agua-y-mueren-en-vino',
+    id: 58570
   },
   {
     proverb_type: 'Proverbio',
@@ -7975,8 +7993,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Esta paremia alude a la sentencia de Heráclito, según la cual el asno prefiere la paja al oro.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58571&Lng=0',
-    id: '58571'
+    slug: 'el-asno-de-arcadia-lleno-de-oro-y-come-paja',
+    id: 58571
   },
   {
     proverb_type: 'Refrán',
@@ -7989,8 +8007,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El hecho de que refraneros clásicos como el de Gonzalo Correas (1627) cite por separado los refranes El avaro, cuanto más tiene, más quiere y Quien más tiene, más quiere nos ha llevado a citarlos también por separado.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58572&Lng=0',
-    id: '58572'
+    slug: 'el-avaro-cuanto-mas-tiene-mas-quiere',
+    id: 58572
   },
   {
     proverb_type: 'Refrán',
@@ -8003,8 +8021,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Otro refrán sigue este mismo esquema: La salud no es conocida hasta que es perdida.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58573&Lng=0',
-    id: '58573'
+    slug: 'el-bien-no-es-conocido-hasta-que-es-perdido',
+    id: 58573
   },
   {
     proverb_type: 'Refrán',
@@ -8017,8 +8035,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58574&Lng=0',
-    id: '58574'
+    slug: 'el-bien-o-el-mal-a-la-cara-sal',
+    id: 58574
   },
   {
     proverb_type: 'Refrán',
@@ -8031,8 +8049,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58575&Lng=0',
-    id: '58575'
+    slug: 'el-bien-suena-y-el-mal-vuela',
+    id: 58575
   },
   {
     proverb_type: 'Refrán',
@@ -8045,8 +8063,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58576&Lng=0',
-    id: '58576'
+    slug: 'el-bien-viene-andando-el-mal-volando',
+    id: 58576
   },
   {
     proverb_type: 'Refrán',
@@ -8060,23 +8078,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58577&Lng=0',
-    id: '58577'
+    slug: 'el-bien-buscarlo-y-el-mal-esperarlo',
+    id: 58577
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El buen cirujano corta por lo sano',
     tags: [
-      'Oficios',
+      'Oficio',
       'Salud'
     ],
     meaning: 'En ocasiones se debe impedir que una situación negativa vaya a más con medidas drásticas, al igual que en cirugía se ha de evitar que el mal se propague a las proximidades.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58578&Lng=0',
-    id: '58578'
+    slug: 'el-buen-cirujano-corta-por-lo-sano',
+    id: 58578
   },
   {
     proverb_type: 'Refrán',
@@ -8084,15 +8102,15 @@ export const PROVERBS_DATA = [
     proverb: 'El buen paño, en el arca se vende',
     tags: [
       'Calidad',
-      'Negocios',
+      'Negocio',
       'Reputación'
     ],
     meaning: 'Los productos con buena reputación o de excelente calidad no necesitan propaganda ni ser examinadas. Antiguamente era un modo de ensalzar un producto, pero modernamente alude más bien a la modestia y a la discreción.',
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58579&Lng=0',
-    id: '58579'
+    slug: 'el-buen-pano-en-el-arca-se-vende',
+    id: 58579
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8105,8 +8123,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En ocasiones, no se menciona el refrán sino que simplemente se alude a él con el final: Ya se sabe..., en frasco pequeño (escuchado en televisión, 12-01-2008).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58580&Lng=0',
-    id: '58580'
+    slug: 'el-buen-perfume-se-vende-en-frasco-pequeno',
+    id: 58580
   },
   {
     proverb_type: 'Refrán',
@@ -8119,8 +8137,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58581&Lng=0',
-    id: '58581'
+    slug: 'el-buen-saber-es-callar-hasta-ser-tiempo-de-hablar',
+    id: 58581
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8133,8 +8151,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58582&Lng=0',
-    id: '58582'
+    slug: 'el-buen-vino-no-ha-menester-pregonero',
+    id: 58582
   },
   {
     proverb_type: 'Refrán',
@@ -8148,8 +8166,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58583&Lng=0',
-    id: '58583'
+    slug: 'el-buey-sin-cencerro-pierdese-presto',
+    id: 58583
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8163,8 +8181,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'José María de Pereda (1833-1906) eligió para título de una de sus novelas la forma apocopada de esta frase proverbial (El buey suelto...) (1884).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58584&Lng=0',
-    id: '58584'
+    slug: 'el-buey-suelto-bien-se-lame',
+    id: 58584
   },
   {
     proverb_type: 'Refran',
@@ -8177,8 +8195,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58585&Lng=0',
-    id: '58585'
+    slug: 'el-burro-delante-para-que-no-se-espante',
+    id: 58585
   },
   {
     proverb_type: 'Refrán',
@@ -8191,8 +8209,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado en la película Luz de domingo dirigida por José Luis Garci en 2007.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58586&Lng=0',
-    id: '58586'
+    slug: 'el-casado-casa-quiere',
+    id: 58586
   },
   {
     proverb_type: 'Refrán',
@@ -8205,8 +8223,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58587&Lng=0',
-    id: '58587'
+    slug: 'el-casamiento-y-el-melon-por-ventura-son',
+    id: 58587
   },
   {
     proverb_type: 'Refrán',
@@ -8219,8 +8237,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El comenzar las cosas es tenerlas medio acabadas (El Quijote II 41).',
     comments: 'Se emplea la segunda parte (Todo es empezar) con el mismo sentido que la frase proverbial El primer paso es el que cuesta. Se puede alterar la forma del refrán para anunciar, por ejemplo, en un concurso: rascar y ganar, todo es empezar (dicho en diciembre de 2012).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58588&Lng=0',
-    id: '58588'
+    slug: 'el-comer-y-el-rascar-todo-es-empezar',
+    id: 58588
   },
   {
     proverb_type: 'Refrán',
@@ -8234,8 +8252,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58589&Lng=0',
-    id: '58589'
+    slug: 'el-conejo-ido-el-consejo-venido',
+    id: 58589
   },
   {
     proverb_type: 'Refrán',
@@ -8248,20 +8266,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El consejo de la mujer es poco, y el que no lo toma, es loco (El Quijote II 7).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58590&Lng=0',
-    id: '58590'
+    slug: 'el-consejo-de-la-mujer-es-poco-y-el-que-no-lo-toma-es-loco',
+    id: 58590
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El corazón y los ojos siempre son mozos',
-    tags: [],
+    tags: [
+      'Bondad',
+      'Belleza'
+    ],
     meaning: 'Da a entender que ambos no envejecen nunca.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58591&Lng=0',
-    id: '58591'
+    slug: 'el-corazon-y-los-ojos-siempre-son-mozos',
+    id: 58591
   },
   {
     proverb_type: 'Refrán',
@@ -8274,8 +8295,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Para dar y tener, seso es menester (El Quijote II 58).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58592&Lng=0',
-    id: '58592'
+    slug: 'el-dar-y-el-tener-seso-ha-menester',
+    id: 58592
   },
   {
     proverb_type: 'Refrán',
@@ -8288,8 +8309,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Este refrán da título a una comedia de mediados del siglo XVII del escritor y sacerdote toledano de tiempos de Felipe IV Agustín Moreto. En ella el galán se muestra desdeñoso inicialmente con la dama a la que quiere enamorar y con la que finalmente se casa.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58593&Lng=0',
-    id: '58593'
+    slug: 'el-desden-con-el-desden',
+    id: 58593
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8303,8 +8324,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58594&Lng=0',
-    id: '58594'
+    slug: 'el-deseo-vence-el-miedo',
+    id: 58594
   },
   {
     proverb_type: 'Refrán',
@@ -8317,8 +8338,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58595&Lng=0',
-    id: '58595'
+    slug: 'el-dia-de-placer-vispera-de-pesar',
+    id: 58595
   },
   {
     proverb_type: 'Refrán',
@@ -8333,8 +8354,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La aparición de la virtud en la vejez en contraposición con las diversiones habidas en la juventud inspira a la sabiduría popular a crear refranes como De mozo, a palacio; de viejo, a beato.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58596&Lng=0',
-    id: '58596'
+    slug: 'el-diablo-harto-de-carne-se-metio-a-fraile',
+    id: 58596
   },
   {
     proverb_type: 'Refrán',
@@ -8347,8 +8368,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se equipara la figura del avaro con la del pobre: El dinero del pobre dos veces se gasta.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58597&Lng=0',
-    id: '58597'
+    slug: 'el-dinero-del-avaro-dos-veces-va-al-mercado',
+    id: 58597
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8363,8 +8384,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58598&Lng=0',
-    id: '58598'
+    slug: 'el-dinero-hace-caballero',
+    id: 58598
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8378,23 +8399,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58599&Lng=0',
-    id: '58599'
+    slug: 'el-dinero-no-tiene-olor',
+    id: 58599
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El enamorado y el pez, frescos han de ser',
     tags: [
-      'Alimentos',
+      'Alimento',
       'Amor'
     ],
     meaning: 'Establece semejanza entre el pretendiente y el pescado para alimentarse. Es preferible el joven al resabiado en otros galanteos. En sentido general, alude a lo agradable que resulta la novedad.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58600&Lng=0',
-    id: '58600'
+    slug: 'el-enamorado-y-el-pez-frescos-han-de-ser',
+    id: 58600
   },
   {
     proverb_type: 'Refrán',
@@ -8408,8 +8429,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58601&Lng=0',
-    id: '58601'
+    slug: 'el-escarmentado-bien-conoce-el-vado',
+    id: 58601
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8422,8 +8443,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58602&Lng=0',
-    id: '58602'
+    slug: 'el-exceso-de-virtud-es-defecto',
+    id: 58602
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8436,8 +8457,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se emplea igualmente en forma negativa: El fin no justifica los medios',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58603&Lng=0',
-    id: '58603'
+    slug: 'el-fin-justifica-los-medios',
+    id: 58603
   },
   {
     proverb_type: 'Refrán',
@@ -8450,8 +8471,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58604&Lng=0',
-    id: '58604'
+    slug: 'el-fruto-prohibido-es-el-mas-apetecido',
+    id: 58604
   },
   {
     proverb_type: 'Refrán',
@@ -8466,36 +8487,36 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58605&Lng=0',
-    id: '58605'
+    slug: 'el-ganar-es-ventura-y-el-ahorrar-cordura',
+    id: 58605
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'El hábito hace al monje',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Se alude al poder de las apariencias, en las ocasiones en las que el adorno y el aseo ocultan parte de los defectos físicos de alguien. En este caso, se alude también al interior de la persona, a su intención, estado, etc.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58606&Lng=0',
-    id: '58606'
+    slug: 'el-habito-hace-al-monje',
+    id: 58606
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'El hábito no hace al monje',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Recomienda no juzgar a las personas por su aspecto externo, pues no siempre el exterior corresponde al interior.',
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58607&Lng=0',
-    id: '58607'
+    slug: 'el-habito-no-hace-al-monje',
+    id: 58607
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8509,8 +8530,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Esta frase proverbial puede sufrir cambios léxicos: La crisis agudiza el ingenio (adn, martes 27 de enero de 2009, p. 14).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58608&Lng=0',
-    id: '58608'
+    slug: 'el-hambre-agudiza-el-ingenio',
+    id: 58608
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8523,8 +8544,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58609&Lng=0',
-    id: '58609'
+    slug: 'el-hambre-echa-al-lobo-del-monte',
+    id: 58609
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8537,8 +8558,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58610&Lng=0',
-    id: '58610'
+    slug: 'el-hambre-es-mala-consejera',
+    id: 58610
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8551,8 +8572,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58611&Lng=0',
-    id: '58611'
+    slug: 'el-hijo-de-la-gata-ratones-mata',
+    id: 58611
   },
   {
     proverb_type: 'Proverbio',
@@ -8567,8 +8588,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58612&Lng=0',
-    id: '58612'
+    slug: 'el-hombre-es-el-unico-animal-que-tropieza-dos-veces-en-la-misma-piedra',
+    id: 58612
   },
   {
     proverb_type: 'Refrán',
@@ -8582,8 +8603,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El refranero hace la siguiente recomendación: Ni estopa con tizones, ni la mujer sola con varones.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58613&Lng=0',
-    id: '58613'
+    slug: 'el-hombre-es-fuego-la-mujer-estopa-llega-el-diablo-y-sopla',
+    id: 58613
   },
   {
     proverb_type: 'Aforismo',
@@ -8596,8 +8617,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58614&Lng=0',
-    id: '58614'
+    slug: 'el-hombre-es-un-lobo-para-el-hombre',
+    id: 58614
   },
   {
     proverb_type: 'Refrán',
@@ -8611,8 +8632,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Estamos ante una sentencia que leemos en la Imitación de Cristo: Homo proponit, sed Deus disponit (1. 19. 9.). Esta paremia recuerda la sentencia bíblica Cor hominis disponit viam suam, sed Domini est dirigere gressus eius [El hombre dispone su camino, pero al Señor corresponde disponer sus pasos] (Proverbios 16, 9).',
     comments: 'Existe una forma jocosa muy difundida :El hombre propone, Dios dispone y la mujer lo descompone y una forma adaptada al mundo taurino: El torero propone, Dios dispone y el toro lo descompone, que el torero dice cuando la faena no ha salido como espera.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58615&Lng=0',
-    id: '58615'
+    slug: 'el-hombre-propone-y-dios-dispone',
+    id: 58615
   },
   {
     proverb_type: 'Refrán',
@@ -8625,8 +8646,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Existe una alteración de la forma clásica para lograr efectos cómicos: El hombre y el oso, cuanto más feos peor para ellos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58616&Lng=0',
-    id: '58616'
+    slug: 'el-hombre-y-el-oso-cuanto-mas-feo-mas-hermoso',
+    id: 58616
   },
   {
     proverb_type: 'Refrán',
@@ -8639,8 +8660,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58617&Lng=0',
-    id: '58617'
+    slug: 'el-huesped-y-el-pez-a-los-tres-dias-hiede',
+    id: 58617
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8654,8 +8675,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se emplea más El infierno está lleno de buenas intenciones',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58618&Lng=0',
-    id: '58618'
+    slug: 'el-infierno-esta-empedrado-de-buenas-intenciones',
+    id: 58618
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -8668,8 +8689,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58619&Lng=0',
-    id: '58619'
+    slug: 'el-invierno-no-es-pasado-mientras-abril-no-es-terminado',
+    id: 58619
   },
   {
     proverb_type: 'Refrán',
@@ -8683,22 +8704,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58620&Lng=0',
-    id: '58620'
+    slug: 'el-llanto-sobre-el-difunto',
+    id: 58620
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El lloro de la mujer, no es de creer',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Previene contra el fingimiento femenino, que puede presentarse como llanto o exageradas lamentaciones.',
     usable: 'En desuso',
     observations: 'Recuérdese el refrán Lloro de hembra no te mueva, que lloro de risa presto lo engendra (Núñez 4439; Correas1627 L152)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58621&Lng=0',
-    id: '58621'
+    slug: 'el-lloro-de-la-mujer-no-es-de-creer',
+    id: 58621
   },
   {
     proverb_type: 'Refrán',
@@ -8711,8 +8732,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58622&Lng=0',
-    id: '58622'
+    slug: 'el-lloro-del-que-hereda-de-gozo-revienta',
+    id: 58622
   },
   {
     proverb_type: 'Refrán',
@@ -8725,8 +8746,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58623&Lng=0',
-    id: '58623'
+    slug: 'el-lobo-muda-el-pelo-mas-no-el-celo',
+    id: 58623
   },
   {
     proverb_type: 'Refrán',
@@ -8739,8 +8760,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58624&Lng=0',
-    id: '58624'
+    slug: 'el-lobo-do-mane-dano-no-hace',
+    id: 58624
   },
   {
     proverb_type: 'Refrán',
@@ -8753,8 +8774,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58625&Lng=0',
-    id: '58625'
+    slug: 'el-loco-por-la-pena-es-cuerdo',
+    id: 58625
   },
   {
     proverb_type: 'Refrán',
@@ -8767,8 +8788,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58626&Lng=0',
-    id: '58626'
+    slug: 'el-maestro-ciruela-que-no-sabia-leer-y-puso-escuela',
+    id: 58626
   },
   {
     proverb_type: 'Refrán',
@@ -8782,8 +8803,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58627&Lng=0',
-    id: '58627'
+    slug: 'el-mal-ajeno-del-pelo-cuelga',
+    id: 58627
   },
   {
     proverb_type: 'Refrán',
@@ -8797,23 +8818,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán Los placeres son por onzas y los males por arrobas señala que son más frecuentes las desgracias que las satisfacciones.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58628&Lng=0',
-    id: '58628'
+    slug: 'el-mal-entra-a-brazadas-y-sale-a-pulgaradas',
+    id: 58628
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El médico, viejo, y el barbero, joven',
     tags: [
-      'Oficios',
+      'Oficio',
       'Cualidad'
     ],
     meaning: 'Señala las cualidades preferibles de una y otra profesión. El médico necesita experiencia lo, que se traduce en años de ejercicio, mientras que el barbero necesita tener el pulso firme para no cortar a quienes arregla la barba o el pelo, y eso se tiene mejor cuando se es joven.',
     usable: 'En desuso',
     observations: 'Para otras ocupaciones, como la abogacía, también hace malta mucha expereincia si se desea tener éxito: Abogado joven, pleito perdido.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58629&Lng=0',
-    id: '58629'
+    slug: 'el-medico-viejo-y-el-barbero-joven',
+    id: 58629
   },
   {
     proverb_type: 'Refrán',
@@ -8826,8 +8847,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58630&Lng=0',
-    id: '58630'
+    slug: 'el-mejor-amigo-un-perro',
+    id: 58630
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8841,8 +8862,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58631&Lng=0',
-    id: '58631'
+    slug: 'el-mejor-escribano-echa-un-borron',
+    id: 58631
   },
   {
     proverb_type: 'Refrán',
@@ -8856,8 +8877,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58632&Lng=0',
-    id: '58632'
+    slug: 'el-mentiroso-ha-de-ser-memorioso',
+    id: 58632
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8870,20 +8891,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58633&Lng=0',
-    id: '58633'
+    slug: 'el-miedo-guarda-la-vina',
+    id: 58633
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El miserable y el pobre lo pagan doble',
-    tags: [],
+    tags: [
+      'Pobreza',
+      'Calidad'
+    ],
     meaning: 'Cuando no se tiene dinero, se suele comprar lo más barato y, por tanto, no siempre será un producto de la mejor calidad. Puede que se rompa al poco tiempo y no quede más remedio que comprar un segundo producto.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59639&Lng=0',
-    id: '59639'
+    slug: 'el-miserable-y-el-pobre-lo-pagan-doble',
+    id: 59639
   },
   {
     proverb_type: 'Refrán',
@@ -8896,8 +8920,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58634&Lng=0',
-    id: '58634'
+    slug: 'el-mozo-y-el-gallo-un-ano',
+    id: 58634
   },
   {
     proverb_type: 'Refrán',
@@ -8910,8 +8934,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Váyase el muerto a la sepultura y el vivo a la hogaza (El Quijote I 19). Una comedia del dramaturgo Iñigo Ramírez de Haro ofrece una forma alterada del refrán: La duquesa al hoyo y la viuda al hoyo. En invierno de 2009 se podía asistir a la representación en el teatro madrileño Muñoz Seco. Toda la trama argumental parte desde la muerte de la Duquesa de Villa Sodomia.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58635&Lng=0',
-    id: '58635'
+    slug: 'el-muerto-al-hoyo-y-el-vivo-al-bollo',
+    id: 58635
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8924,8 +8948,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58636&Lng=0',
-    id: '58636'
+    slug: 'el-mundo-es-un-panuelo',
+    id: 58636
   },
   {
     proverb_type: 'Frase proverbial',
@@ -8933,14 +8957,14 @@ export const PROVERBS_DATA = [
     proverb: 'El ojo del amo engorda el caballo',
     tags: [
       'Bienes',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'El propietario de un bien o de un negocio debe estar muy pendiente de él, si quiere que funcione bien.',
     usable: 'De uso actual',
     observations: 'No hay mejor perro que sombra de mesonero (La Pícara Justina I 101). Donde no está su dueño, está su duelo (Covarrubias)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58637&Lng=0',
-    id: '58637'
+    slug: 'el-ojo-del-amo-engorda-el-caballo',
+    id: 58637
   },
   {
     proverb_type: 'Refrán',
@@ -8953,8 +8977,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58638&Lng=0',
-    id: '58638'
+    slug: 'el-ojo-limpialo-con-el-codo',
+    id: 58638
   },
   {
     proverb_type: 'Refrán',
@@ -8968,8 +8992,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58639&Lng=0',
-    id: '58639'
+    slug: 'el-peligro-pasado-el-voto-olvidado',
+    id: 58639
   },
   {
     proverb_type: 'Refrán',
@@ -8983,8 +9007,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'De la paremia Pereza es llave de pobreza, existen variantes como Pereza es madre de pobreza y una forma en la que el verbo está sobreentendido: Pereza, llave de pobreza.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58640&Lng=0',
-    id: '58640'
+    slug: 'el-perezoso-siempre-es-menesteroso',
+    id: 58640
   },
   {
     proverb_type: 'Refrán',
@@ -8992,14 +9016,14 @@ export const PROVERBS_DATA = [
     proverb: 'El perro del hortelano, que ni come ni deja comer',
     tags: [
       'Intromisión',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Reprende a quien no disfruta de algo y además impide que otros lo hagan.',
     usable: 'De uso actual',
     observations: 'Puede que su origen sea arábigo-andaluz, pues aparece documentado en la literatura arábigo-andaluza de principios del siglo XI. Este refrán da título a una pieza teatral del Siglo de Oro, una comedia elaborada entre 1613 y 1615 por Félix Lope de Vega y Carpio (1562-1635). En 1996, Pilar Miró la llevó al cine manteniendo el castellano de la época y contando con Emma Suárez y Carmelo Gómez en los papeles principales. La película ganó siete premios Goya.',
     comments: 'Con frecuencia se dice sólo la primera parte (El perro del hortelano) y se da por sobreentendida la segunda parte; a veces se hace una mera alusión comparativa: (Es) como el perro del hortelano.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58641&Lng=0',
-    id: '58641'
+    slug: 'el-perro-del-hortelano-que-ni-come-ni-deja-comer',
+    id: 58641
   },
   {
     proverb_type: 'Refrán',
@@ -9013,8 +9037,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe la locución Ser (un) perro viejo, para aludir a la persona que sabe mucho de la vida.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58642&Lng=0',
-    id: '58642'
+    slug: 'el-perro-viejo-si-ladra-da-consejo',
+    id: 58642
   },
   {
     proverb_type: 'Refrán',
@@ -9022,28 +9046,28 @@ export const PROVERBS_DATA = [
     proverb: 'El pescador de caña más come que gana',
     tags: [
       'Pereza',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Censura la afición o el oficio de la pesca con caña porque a duras penas se puede sobrevivir con ella, apenas se consiguen beneficios tras largas horas de intentarlo. Recimina al holgazán que busca actividades de poco trabajo y escasa utilidad.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58643&Lng=0',
-    id: '58643'
+    slug: 'el-pescador-de-cana-mas-come-que-gana',
+    id: 58643
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El pez a oler mal empieza, por la cabeza',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'El aspecto de la cabeza del pescado es importante para saber si está o no fresco.',
     usable: 'En desuso',
     observations: '',
     comments: 'Se utilizan más formas sin alteraciones en el orden de las palabras, como el pescado empieza a pudrirse por la cabeza.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58644&Lng=0',
-    id: '58644'
+    slug: 'el-pez-a-oler-mal-empieza-por-la-cabeza',
+    id: 58644
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9057,8 +9081,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58645&Lng=0',
-    id: '58645'
+    slug: 'el-pez-grande-se-come-al-chico',
+    id: 58645
   },
   {
     proverb_type: 'Refrán',
@@ -9071,8 +9095,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58646&Lng=0',
-    id: '58646'
+    slug: 'el-pez-que-busca-anzuelo-busca-su-duelo',
+    id: 58646
   },
   {
     proverb_type: 'Refrán',
@@ -9080,14 +9104,14 @@ export const PROVERBS_DATA = [
     proverb: 'El pie del dueño, estiércol es para la heredad y el huerto',
     tags: [
       'Bienes',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Recomienda estar atento a los bienes o negocios propios, con el objeto de que no sufran perjuicio alguno.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58647&Lng=0',
-    id: '58647'
+    slug: 'el-pie-del-dueno-estiercol-es-para-la-heredad-y-el-huerto',
+    id: 58647
   },
   {
     proverb_type: 'Refrán',
@@ -9100,23 +9124,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58648&Lng=0',
-    id: '58648'
+    slug: 'el-pobre-y-el-cardenal-todos-van-por-igual',
+    id: 58648
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El poeta nace, no se hace',
     tags: [
-      'Oficios',
+      'Oficio',
       'Habilidad'
     ],
     meaning: 'El don de la poesía es en gran parte innato, pues no se adquiere con el trabajo sino que es fruto del genio. En general, se aplica a las artes que requieren poseer un don para ello.',
     usable: 'Poco usado',
     observations: 'La variante registrada por Sbarbi, El poeta nace, y el orador se hace, contrapone la genialidad del poeta con la perseverancia, el estudio y la práctica necesarias para convertirse en un buen orador.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58649&Lng=0',
-    id: '58649'
+    slug: 'el-poeta-nace-no-se-hace',
+    id: 58649
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9129,8 +9153,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58650&Lng=0',
-    id: '58650'
+    slug: 'el-primer-paso-es-el-que-cuesta',
+    id: 58650
   },
   {
     proverb_type: 'Refrán',
@@ -9143,8 +9167,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58651&Lng=0',
-    id: '58651'
+    slug: 'el-que-a-los-treinta-no-asesa-no-compra-dehesa',
+    id: 58651
   },
   {
     proverb_type: 'Refrán',
@@ -9157,8 +9181,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'También se emplea la forma Quien al cielo escupe, en la cara le cae.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59346&Lng=0',
-    id: '59346'
+    slug: 'el-que-al-cielo-escupe-en-la-cara-le-cae',
+    id: 59346
   },
   {
     proverb_type: 'Refrán',
@@ -9171,20 +9195,23 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58652&Lng=0',
-    id: '58652'
+    slug: 'el-que-algo-quiere-algo-le-cuesta',
+    id: 58652
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El que algo teme algo debe',
-    tags: [],
+    tags: [
+      'Precaución',
+      'Desconfianza'
+    ],
     meaning: 'Quien tiene la conciencia tranquila duerme o descansa con total tranquilidad. Se dice de quien no puede dormir por algún motivo o sin motivo aparente. También se aplica a quien se oculta para evitar represalias de la persona a quien ha podido perjudicar.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59648&Lng=0',
-    id: '59648'
+    slug: 'el-que-algo-teme-algo-debe',
+    id: 59648
   },
   {
     proverb_type: 'Refrán',
@@ -9197,8 +9224,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'También se emplea bastante la forma Quien avisa no es traidor.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58653&Lng=0',
-    id: '58653'
+    slug: 'el-que-avisa-no-es-traidor',
+    id: 58653
   },
   {
     proverb_type: 'Refrán',
@@ -9211,8 +9238,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Puede que el origen de esta paremia esté en el proverbio bíblico Pedid y recibiréis; buscad y hallaréis (San Mateo 7, 7).',
     comments: 'También se emplea la forma Quien busca halla.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59360&Lng=0',
-    id: '59360'
+    slug: 'el-que-busca-halla',
+    id: 59360
   },
   {
     proverb_type: 'Refrán',
@@ -9226,8 +9253,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Por lo general, se dice a los niños: En la mesa, no se canta.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58654&Lng=0',
-    id: '58654'
+    slug: 'el-que-come-y-canta-algun-sentido-le-falta',
+    id: 58654
   },
   {
     proverb_type: 'Refrán',
@@ -9241,34 +9268,36 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58655&Lng=0',
-    id: '58655'
+    slug: 'el-que-compra-y-miente-en-su-bolsa-lo-siente',
+    id: 58655
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
-    proverb: 'El que da lo que tiene no se le puede pedir más',
-    tags: [],
+    proverb: 'Al que da lo que tiene, no se le puede pedir más',
+    tags: [
+      'Generosidad'
+    ],
     meaning: '',
     usable: 'En desuso',
     observations: '',
-    comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59643&Lng=0',
-    id: '59643'
+    comments: '«Tú no te preocupes Gasol, que en mi casa no te va a faltar un chusco de pan, y una cama para dormir; de uno ochenta, eso sí, se te van a enfriar las pantorrillas. Oye, que al que da lo que tiene no se le puede pedir más. Yo creo que entre todos, a nada que arrimemos el hombro, damos cobijo a todas las plantillas, por lo menos hasta que arregléis lo vuestro. [...]» (Óscar Terol, «NBA», en «Pan para hoy», El Correo, 18/11/2011).',
+    slug: 'al-que-da-lo-que-tiene-no-se-le-puede-pedir-mas',
+    id: 59643
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'El que desecha la yegua ése la lleva',
     tags: [
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Es astucia común del comprador no mostrar interés por lo que de verdad desea, con el fin de obtener mejor precio.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58656&Lng=0',
-    id: '58656'
+    slug: 'el-que-desecha-la-yegua-ese-la-lleva',
+    id: 58656
   },
   {
     proverb_type: 'Refrán',
@@ -9281,8 +9310,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Otros refranes anuncian lo que puede suceder a quien dice la verdad: Quien dice la verdad, cobra odio. A quien dice la verdad luego le dicen que rabia.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58657&Lng=0',
-    id: '58657'
+    slug: 'el-que-dice-la-verdad-ni-peca-ni-miente',
+    id: 58657
   },
   {
     proverb_type: 'Refrán',
@@ -9295,8 +9324,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58658&Lng=0',
-    id: '58658'
+    slug: 'el-que-en-casarse-acierta-en-nada-yerra',
+    id: 58658
   },
   {
     proverb_type: 'Refrán',
@@ -9309,8 +9338,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Hay múltiples paremias sobre los peligros de la confianza, lo específico de esta es la advertencia contra la confianza en uno mismo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58659&Lng=0',
-    id: '58659'
+    slug: 'el-que-en-si-confia-yerra-cada-dia',
+    id: 58659
   },
   {
     proverb_type: 'Refrán',
@@ -9323,8 +9352,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '«Mensaje que mucho tarda, a muchos hombres demuele» (Libro de Buen Amor 712).',
     comments: 'También se emplea la forma Quien espera, desespera',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59393&Lng=0',
-    id: '59393'
+    slug: 'el-que-espera-desespera',
+    id: 59393
   },
   {
     proverb_type: 'Refrán',
@@ -9337,8 +9366,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'Se emplea también la forma Quien la hace la paga, pero su frecuencia de uso es menor. Con motivo de los políticos corruptos, se dijo este refrán (octubre de 2014).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58660&Lng=0',
-    id: '58660'
+    slug: 'el-que-la-hace-la-paga',
+    id: 58660
   },
   {
     proverb_type: 'Refrán',
@@ -9351,8 +9380,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'A veces la excesiva constancia se aproxima a la pesadez o a la importunidad, como señalan los refranes siguientes: La maza de Fraga, saca polvo debajo del agua. Pobre importuno saca mendrugo. Romero hito saca zatico. Este último refrán aparece en Libro del Buen Amor 869 y en Seniloquium 444;  lo citan también Santillana 631,  Vallés 3701, Valdés 155, Núñez 7246.',
     comments: 'También se emplea bastante la forma: Quien la sigue, la consigue.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58661&Lng=0',
-    id: '58661'
+    slug: 'el-que-la-sigue-la-consigue',
+    id: 58661
   },
   {
     proverb_type: 'Refrán',
@@ -9365,8 +9394,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien las sabe las tañe (La Celestina V 194; El Quijote II 59).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58662&Lng=0',
-    id: '58662'
+    slug: 'el-que-las-sabe-las-tane',
+    id: 58662
   },
   {
     proverb_type: 'Refrán',
@@ -9379,8 +9408,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Enunciado sentencioso atribuido a Miguel de Cervantes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58663&Lng=0',
-    id: '58663'
+    slug: 'el-que-lee-mucho-y-anda-mucho-ve-mucho-y-sabe-mucho',
+    id: 58663
   },
   {
     proverb_type: 'Refrán',
@@ -9393,8 +9422,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58664&Lng=0',
-    id: '58664'
+    slug: 'el-que-ley-establece-guardarla-debe',
+    id: 58664
   },
   {
     proverb_type: 'Refrán',
@@ -9407,8 +9436,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58665&Lng=0',
-    id: '58665'
+    slug: 'el-que-mucho-corre-pronto-para',
+    id: 58665
   },
   {
     proverb_type: 'Refrán',
@@ -9421,8 +9450,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Existe la forma Quien no corre, vuela, pero su uso es menor.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58666&Lng=0',
-    id: '58666'
+    slug: 'el-que-no-corre-vuela',
+    id: 58666
   },
   {
     proverb_type: 'Refrán',
@@ -9430,14 +9459,15 @@ export const PROVERBS_DATA = [
     proverb: 'El que no duda, no sabe cosa alguna',
     tags: [
       'Aprendizaje',
+      'Sabiduría',
       'Incertidumbre'
     ],
     meaning: 'No conviene creer en algo sin haberlo examinado con calma primero. Por otra parte, plantearse dudas es esencial para adquirir conocimientos.',
     usable: 'En desuso',
     observations: 'El mensaje sentencioso de este refrán se mueve en la misma línea que esta conocida cita: «Siempre que enseñes, enseña a la vez a dudar de lo que enseñas» (José Ortega y Gasset, «Prólogo para franceses», La rebelión de las masas, 1937).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58667&Lng=0',
-    id: '58667'
+    slug: 'el-que-no-duda-no-sabe-cosa-alguna',
+    id: 58667
   },
   {
     proverb_type: 'Refrán',
@@ -9451,8 +9481,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Recuérdese Quien no corre, vuela, refrán que posee un sentido irónico ya que se refiere irónicamente a cómo todo el mundo se mueve por sus intereses.',
     comments: 'También se emplea la forma Quien no llora, no mama',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58668&Lng=0',
-    id: '58668'
+    slug: 'el-que-no-llora-no-mama',
+    id: 58668
   },
   {
     proverb_type: 'Refrán',
@@ -9465,8 +9495,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Alude a la trilla, a la operación agrícola de quebrantar la mies para separar el grano de su envoltura mediante un trillo, lo que produce polvo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58669&Lng=0',
-    id: '58669'
+    slug: 'el-que-no-quiera-polvo-que-no-vaya-a-la-era',
+    id: 58669
   },
   {
     proverb_type: 'Refrán',
@@ -9480,8 +9510,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'También se emplea bastante la forma Quien no se consuela es porque no quiere.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58670&Lng=0',
-    id: '58670'
+    slug: 'el-que-no-se-consuela-es-porque-no-quiere',
+    id: 58670
   },
   {
     proverb_type: 'Refrán',
@@ -9494,8 +9524,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese la cita «El que no trabaje, que no coma» (Epístola a los Tesalonicenses, 3, 10).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58671&Lng=0',
-    id: '58671'
+    slug: 'el-que-no-trabaja-no-come',
+    id: 58671
   },
   {
     proverb_type: 'Refrán',
@@ -9509,8 +9539,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'La forma estable del refrán puede verse alterada por la inclusión de la modalidad negativa: El que parte y reparte no siempre se queda con la mejor parte. Existe la forma Quien parte y reparte se queda con la mejor parte, pero se emplea mucho menos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58672&Lng=0',
-    id: '58672'
+    slug: 'el-que-parte-y-reparte-se-queda-con-la-mejor-parte',
+    id: 58672
   },
   {
     proverb_type: 'Refrán',
@@ -9524,8 +9554,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58673&Lng=0',
-    id: '58673'
+    slug: 'el-que-por-mentiroso-es-tenido-aunque-diga-verdad-no-es-creido',
+    id: 58673
   },
   {
     proverb_type: 'Refrán',
@@ -9538,8 +9568,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58674&Lng=0',
-    id: '58674'
+    slug: 'el-que-pregunta-no-yerra-si-la-pregunta-no-es-necia',
+    id: 58674
   },
   {
     proverb_type: 'Refrán',
@@ -9553,8 +9583,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Jesús Cantera2005a lo relaciona con el aforismo de Séneca Bis dat, qui cita dat.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58675&Lng=0',
-    id: '58675'
+    slug: 'el-que-primero-llega-ese-la-calza',
+    id: 58675
   },
   {
     proverb_type: 'Refrán',
@@ -9567,8 +9597,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'También se emplea con la misma frecuencia de uso la forma Quien quiera peces, que se moje el culo',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59458&Lng=0',
-    id: '59458'
+    slug: 'el-que-quiera-peces-que-se-moje-el-culo',
+    id: 59458
   },
   {
     proverb_type: 'Refrán',
@@ -9581,8 +9611,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58676&Lng=0',
-    id: '58676'
+    slug: 'el-que-regala-bien-vende-si-el-que-recibe-lo-entiende',
+    id: 58676
   },
   {
     proverb_type: 'Refrán',
@@ -9595,8 +9625,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'También se dice Quien ríe el último, ríe mejor',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59462&Lng=0',
-    id: '59462'
+    slug: 'el-que-rie-el-ultimo-rie-mejor',
+    id: 59462
   },
   {
     proverb_type: 'Refrán',
@@ -9609,8 +9639,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58677&Lng=0',
-    id: '58677'
+    slug: 'el-que-rompe-paga',
+    id: 58677
   },
   {
     proverb_type: 'Refrán',
@@ -9623,8 +9653,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán No hay hombre sin hombre expresa la dificultad de actuar sin la ayuda de otra persona.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58678&Lng=0',
-    id: '58678'
+    slug: 'el-que-solo-come-su-gallo-solo-ensilla-su-caballo',
+    id: 58678
   },
   {
     proverb_type: 'Refrán',
@@ -9637,8 +9667,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Existe también la forma Quien tiene boca, se equivoca. Puede enunciarse sólo la primera parte: El que tiene boca.... Puede tener adiciones, como: Quien tiene boca, se equivoca, y quien tiene culo, sopla.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59478&Lng=0',
-    id: '59478'
+    slug: 'el-que-tiene-boca-se-equivoca',
+    id: 59478
   },
   {
     proverb_type: 'Refrán',
@@ -9651,8 +9681,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58679&Lng=0',
-    id: '58679'
+    slug: 'el-que-tiene-capa-escapa',
+    id: 58679
   },
   {
     proverb_type: 'Refrán',
@@ -9666,8 +9696,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien tiene tejado de birlo, no es bien bolee al de su vecino (La Pícara Justina II 17). Este refrán guarda relación con el personaje folclórico del Diablo Cojuelo, que en la novela homónima de Vélez de Guevara (1641) tiene la capacidad de levantar los tejados y ver lo que sucede en casa.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58680&Lng=0',
-    id: '58680'
+    slug: 'el-que-tiene-el-tejado-de-vidrio-no-tire-piedras-al-de-su-vecino',
+    id: 58680
   },
   {
     proverb_type: 'Refrán',
@@ -9680,8 +9710,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Véase la forma Quien no tiene padrino, no se bautiza en este mismo Refranero multilingüe.',
     comments: 'La forma Quien tiene padrino, se bautiza tiene menor frecuencia de uso. Puede tener una adición proporcionada por la informante Pilar García Blanco: El que tiene padrino, se bautiza, y el que no, se queda moro.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58681&Lng=0',
-    id: '58681'
+    slug: 'el-que-tiene-padrino-se-bautiza',
+    id: 58681
   },
   {
     proverb_type: 'Refrán',
@@ -9694,8 +9724,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El refrán alude a la localidad de Alcalá de Henares (Madrid). Existe también la frase Buen jubón me tengo en Francia, con el mismo sentido: «burlarse de quien se jacta de tener algo que en realidad no le puede servir» (DLE). Existen distintas explicaciones sobre su origen. Según Pancracio Celdrán Gomariz (Diccionario de frases y dichos populares, 2004), se empleaba en los XVI y XVII, cuando los padres recomendaban a los hijos que iban a iniciar los estudios universitarios visitar a personas influyentes y terminaban la recomendación con la coletilla «Y no olvide visitar a su tío», si bien era inexistente en la mayoría de las veces. De este modo, se indicaba la conveniencia de tener contactos. Por otra parte, puede que en su difusión haya contribuido el sainete de Carlos Arniches titulado El tío de Alcalá (1901).',
     comments: 'Este refrán es bastante conocido entre los alcalaínos. En Granada, se conoce la forma Quien tiene un tío en Graná, ni tiene tío ni tiene ná.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58682&Lng=0',
-    id: '58682'
+    slug: 'el-que-tiene-un-tio-en-alcala-ni-tiene-tio-ni-tiene-na',
+    id: 58682
   },
   {
     proverb_type: 'Refrán',
@@ -9708,8 +9738,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58683&Lng=0',
-    id: '58683'
+    slug: 'el-que-tropieza-y-no-cae-adelanta-camino',
+    id: 58683
   },
   {
     proverb_type: 'Refrán',
@@ -9723,8 +9753,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'También se emplea bastante la forma Quien tuvo, retuvo. Este refrán puede tener una tercera parte: El que tuvo, retuvo y guardó para la vejez.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58684&Lng=0',
-    id: '58684'
+    slug: 'el-que-tuvo-retuvo',
+    id: 58684
   },
   {
     proverb_type: 'Refrán',
@@ -9738,8 +9768,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58685&Lng=0',
-    id: '58685'
+    slug: 'el-que-va-para-martillo-del-cielo-le-caen-clavos',
+    id: 58685
   },
   {
     proverb_type: 'Refrán',
@@ -9752,8 +9782,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'La forma Quien venga detrás, que arree tiene una frecuencia de uso mucho menor.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58686&Lng=0',
-    id: '58686'
+    slug: 'el-que-venga-detras-que-arree',
+    id: 58686
   },
   {
     proverb_type: 'Refrán',
@@ -9766,8 +9796,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58687&Lng=0',
-    id: '58687'
+    slug: 'el-rosario-al-cuello-y-el-diablo-en-el-cuerpo',
+    id: 58687
   },
   {
     proverb_type: 'Refrán',
@@ -9780,8 +9810,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58688&Lng=0',
-    id: '58688'
+    slug: 'el-ruin-cuanto-mas-le-ruegan-mas-se-ensancha',
+    id: 58688
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9794,8 +9824,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El saber no embota la lanza (Covarrubias)',
     comments: 'Existen varias formas irónicas, como El saber no ocupa lugar, pero pesa, al referirse a los libros que contienen el saber.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58689&Lng=0',
-    id: '58689'
+    slug: 'el-saber-no-ocupa-lugar',
+    id: 58689
   },
   {
     proverb_type: 'Proverbio',
@@ -9809,8 +9839,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La adquisición de conocimientos nuevos mediante el estudio figura en refranes como el siguiente: No diga ninguno no puedo aprender: tanto hace el hombre cuanto quiere hacer (Autoridades «aprender»).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58690&Lng=0',
-    id: '58690'
+    slug: 'el-sabio-siempre-quiere-aprender-el-ignorante-siempre-quiere-ensenar',
+    id: 58690
   },
   {
     proverb_type: 'Refrán',
@@ -9823,8 +9853,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58691&Lng=0',
-    id: '58691'
+    slug: 'el-salir-de-la-posada-es-la-mejor-jornada',
+    id: 58691
   },
   {
     proverb_type: 'Refrán',
@@ -9838,8 +9868,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58692&Lng=0',
-    id: '58692'
+    slug: 'el-sastre-del-campillo-que-cosia-de-balde-y-ponia-el-hilo',
+    id: 58692
   },
   {
     proverb_type: 'Refrán',
@@ -9852,8 +9882,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existen múltiples ejemplos en los que sueño y dormir se emplean metafóricamente para referirse a la muerte. El eufemismo es la razón de este empleo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58693&Lng=0',
-    id: '58693'
+    slug: 'el-sueno-y-la-muerte-hermanos-parecen',
+    id: 58693
   },
   {
     proverb_type: 'Refrán',
@@ -9866,8 +9896,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58694&Lng=0',
-    id: '58694'
+    slug: 'el-tiempo-cura-al-enfermo-que-no-el-unguento',
+    id: 58694
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9882,8 +9912,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Un refrán de estructura más compleja explica el sentido de la frase proverbial El tiempo es oro: El tiempo no es oro, pero vale más que el oro; se recobra el oro que se perdió; pero el tiempo perdido, no. Este refrán es propio de las culturas modernas en que el tiempo y el espacio son de los bienes más apreciados.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58695&Lng=0',
-    id: '58695'
+    slug: 'el-tiempo-es-oro',
+    id: 58695
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9896,8 +9926,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58696&Lng=0',
-    id: '58696'
+    slug: 'el-tiempo-lo-dira',
+    id: 58696
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9911,8 +9941,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58697&Lng=0',
-    id: '58697'
+    slug: 'el-tiempo-perdido-no-se-recupera',
+    id: 58697
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9925,8 +9955,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58698&Lng=0',
-    id: '58698'
+    slug: 'el-tiempo-pone-a-cada-uno-en-su-sitio',
+    id: 58698
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9941,8 +9971,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58699&Lng=0',
-    id: '58699'
+    slug: 'el-tiempo-todo-lo-cura',
+    id: 58699
   },
   {
     proverb_type: 'Frase proverbial',
@@ -9955,8 +9985,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se basa en una creencia según la cual los monos cruzan un río colocándose uno en un árbol cerca de la orilla y formando cadena, pero el que ha ayudado a los demás no suele conseguir lanzarse con impulso suficiente para alcanzar también él el otro lado de la corriente.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58700&Lng=0',
-    id: '58700'
+    slug: 'el-ultimo-mono-es-el-que-se-ahoga',
+    id: 58700
   },
   {
     proverb_type: 'Refrán',
@@ -9969,8 +9999,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58701&Lng=0',
-    id: '58701'
+    slug: 'el-vicio-turba-el-juicio',
+    id: 58701
   },
   {
     proverb_type: 'Refrán',
@@ -9983,8 +10013,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58702&Lng=0',
-    id: '58702'
+    slug: 'en-arca-abierta-el-justo-peca',
+    id: 58702
   },
   {
     proverb_type: 'Refrán',
@@ -9997,8 +10027,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Paremia probablemente de origen arábigo-andaluz, pues está atestiguado en refraneros arábigo-andaluces del siglo XIV.',
     comments: 'En ocasiones, se altera la forma clásica para conseguir efectos cómicos: En boca escarchada no entran moscas es el titular de una noticia fechada el 12 de enero de 2009, con motivo del caos aeroportuario provocado por una nevada en Madrid (Nueva Tribuna, informativo digital).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58703&Lng=0',
-    id: '58703'
+    slug: 'en-boca-cerrada-no-entran-moscas',
+    id: 58703
   },
   {
     proverb_type: 'Refrán',
@@ -10011,8 +10041,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58704&Lng=0',
-    id: '58704'
+    slug: 'en-buenas-manos-esta-el-pandero',
+    id: 58704
   },
   {
     proverb_type: 'Refrán',
@@ -10026,38 +10056,38 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en El Quijote II 9',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58705&Lng=0',
-    id: '58705'
+    slug: 'en-cada-tierra-su-uso',
+    id: 58705
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'En casa del gaitero, todos son danzantes',
     tags: [
-      'Oficios',
+      'Oficio',
       'Influencia'
     ],
     meaning: 'Se aplica a quien sigue las costumbres o el oficio de sus progenitores o señores. Puede emplearse en sentido negativo, cuando alguien tiene un vicio y, por su influencia, quienes están con él.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58706&Lng=0',
-    id: '58706'
+    slug: 'en-casa-del-gaitero-todos-son-danzantes',
+    id: 58706
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'En casa del herrero, cuchillo de palo',
     tags: [
-      'Oficios',
+      'Oficio',
       'Influencia'
     ],
     meaning: 'Advierte que suele faltar alguna cosa en el lugar donde es natural o fácil hacerla o conseguirla. También se emplea cuando los hijos no siguen la misma vía profesional de sus progenitores.',
     usable: 'De uso actual',
     observations: 'Gloria Estefan lo incluye en su canción Refranes.',
     comments: 'Algunos hablantes dicen En casa del herrero, cuchara de palo, variante heredada de sus ascendientes y que constituye una ultracorrección popular, por no considerar lógico que un cuchillo sea de palo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58707&Lng=0',
-    id: '58707'
+    slug: 'en-casa-del-herrero-cuchillo-de-palo',
+    id: 58707
   },
   {
     proverb_type: 'Refrán',
@@ -10071,8 +10101,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Núñez registra el sustantivo alegría precedido del artículo el: En casa del tahur, poco dura el alegría.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58708&Lng=0',
-    id: '58708'
+    slug: 'en-casa-del-pobre-dura-poco-la-alegria',
+    id: 58708
   },
   {
     proverb_type: 'Refrán',
@@ -10085,8 +10115,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en El Quijote II 30 y 43. En casa llena, presto se adereza la cena (La Celestina VIII 17).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58709&Lng=0',
-    id: '58709'
+    slug: 'en-casa-llena-presto-se-guisa-la-cena',
+    id: 58709
   },
   {
     proverb_type: 'Refrán',
@@ -10100,8 +10130,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58710&Lng=0',
-    id: '58710'
+    slug: 'en-comunidad-no-muestres-tu-habilidad',
+    id: 58710
   },
   {
     proverb_type: 'Refrán',
@@ -10114,8 +10144,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58711&Lng=0',
-    id: '58711'
+    slug: 'en-diciembre-lena-y-duerme',
+    id: 58711
   },
   {
     proverb_type: 'Refrán',
@@ -10128,8 +10158,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58712&Lng=0',
-    id: '58712'
+    slug: 'en-el-justo-medio-esta-la-virtud',
+    id: 58712
   },
   {
     proverb_type: 'Refrán',
@@ -10142,8 +10172,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58713&Lng=0',
-    id: '58713'
+    slug: 'en-el-mejor-vino-hay-heces',
+    id: 58713
   },
   {
     proverb_type: 'Refrán',
@@ -10156,8 +10186,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Gloria Estefan lo incluye en su canción Refranes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58714&Lng=0',
-    id: '58714'
+    slug: 'en-el-pais-de-los-ciegos-el-tuerto-es-rey',
+    id: 58714
   },
   {
     proverb_type: 'Refrán',
@@ -10170,8 +10200,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58715&Lng=0',
-    id: '58715'
+    slug: 'en-el-pecado-lleva-la-penitencia',
+    id: 58715
   },
   {
     proverb_type: 'Refrán',
@@ -10184,8 +10214,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58716&Lng=0',
-    id: '58716'
+    slug: 'en-el-rio-que-no-hay-peces-por-demas-es-echar-redes',
+    id: 58716
   },
   {
     proverb_type: 'Refrán',
@@ -10198,8 +10228,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58717&Lng=0',
-    id: '58717'
+    slug: 'en-febrero-busca-la-sombra-el-perro',
+    id: 58717
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -10212,8 +10242,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58718&Lng=0',
-    id: '58718'
+    slug: 'en-hora-buena-vengais-mayo-el-mejor-mes-de-todo-el-ano',
+    id: 58718
   },
   {
     proverb_type: 'Refrán',
@@ -10226,8 +10256,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58719&Lng=0',
-    id: '58719'
+    slug: 'en-la-barba-del-necio-todos-aprenden-a-rapar',
+    id: 58719
   },
   {
     proverb_type: 'Refrán',
@@ -10240,8 +10270,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58720&Lng=0',
-    id: '58720'
+    slug: 'en-la-boca-del-discreto-lo-publico-es-secreto',
+    id: 58720
   },
   {
     proverb_type: 'Aforismo',
@@ -10255,22 +10285,22 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58721&Lng=0',
-    id: '58721'
+    slug: 'en-la-guerra-y-en-el-amor-todo-vale',
+    id: 58721
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'En la mesa de San Francisco, donde comen cuatro comen cinco',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Se emplea para señalar que, cuando hace falta, se debe repartir lo que se tiene. También se dice para convencer a alguien para que se quede a comer, aun cuando no se la esperaba.',
     usable: 'Poco usado',
     observations: '',
     comments: 'También se emplea solo la segunda parte: donde comen cuatro comen cinco.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58722&Lng=0',
-    id: '58722'
+    slug: 'en-la-mesa-de-san-francisco-donde-comen-cuatro-comen-cinco',
+    id: 58722
   },
   {
     proverb_type: 'Refrán',
@@ -10283,8 +10313,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58723&Lng=0',
-    id: '58723'
+    slug: 'en-la-mesa-y-en-el-juego-se-conoce-al-caballero',
+    id: 58723
   },
   {
     proverb_type: 'Refrán',
@@ -10297,8 +10327,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En las adversidades se prueban y conocen los amigos, y saben las poridades (Correas 1782).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58724&Lng=0',
-    id: '58724'
+    slug: 'en-la-mucha-necesidad-se-conoce-al-amigo-de-verdad',
+    id: 58724
   },
   {
     proverb_type: 'Refrán',
@@ -10311,8 +10341,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58725&Lng=0',
-    id: '58725'
+    slug: 'en-la-tardanza-esta-el-peligro',
+    id: 58725
   },
   {
     proverb_type: 'Refrán',
@@ -10325,8 +10355,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'La falta de variedad puede llevar a la hartura, como señala la paremia Cada día gallina, amarga la cocina.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58726&Lng=0',
-    id: '58726'
+    slug: 'en-la-variedad-esta-el-gusto',
+    id: 58726
   },
   {
     proverb_type: 'Refrán',
@@ -10339,8 +10369,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58727&Lng=0',
-    id: '58727'
+    slug: 'en-lo-que-no-te-va-ni-te-viene-ni-salgas-ni-entres',
+    id: 58727
   },
   {
     proverb_type: 'Refrán',
@@ -10353,8 +10383,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en El Quijote II 74 (es el último refrán que aparece en esta obra). Los pájaros y los nidos se encuentran en otra paremia citada por El Quijote: No haber hallado nidos donde pensó hallar pájaros (El Quijote II 15), que alude a lo vanas que han salido las esperanzas de lo que se buscaba o se pretendía.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58728&Lng=0',
-    id: '58728'
+    slug: 'en-los-nidos-de-antano-no-hay-pajaros-hogano',
+    id: 58728
   },
   {
     proverb_type: 'Refrán',
@@ -10368,8 +10398,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Como el martes estaba consagrado a Marte, el dios de la guerra en la mitología latina, se consideraba día de mal agüero para emprender algo importante. A esa superstición aluden también los refranes En todas partes tiene cada semana su martes y Para un hombre desgraciado, todos los días son martes. En otras culturas, como la egipcia o la turca, era considerado asimismo día aciago. Algunos historiadores españoles relacionaban esta superstición con el hecho de que en martes se produjeron algunas importantes derrotas de los moros a las tropas cristianas. En otros países, el día aciago es el viernes. Este refrán es uno de los pocos refranes supersticiosos que se dicen en la actualidad. Puede aparecer alterada su forma: En tiempos de crisis... /ni te casas ni te embarcas (Arancha Cuéllar, Qué, 11 de diciembre de 2008, p. 2). La periodista ha optado por jugar con la forma clásica del refrán para llamar la atención del lector sobre esta noticia: la influencia de la crisis económica en el aplazamiento de las bodas, la elección de menús más económicos o la reducción de la lista de invitados.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58729&Lng=0',
-    id: '58729'
+    slug: 'en-martes-ni-te-cases-ni-te-embarques',
+    id: 58729
   },
   {
     proverb_type: 'Refrán',
@@ -10382,8 +10412,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58730&Lng=0',
-    id: '58730'
+    slug: 'en-navidad-al-balcon-en-pascua-al-fogon',
+    id: 58730
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -10396,22 +10426,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58731&Lng=0',
-    id: '58731'
+    slug: 'en-octubre-el-hogar-de-lena-cubre',
+    id: 58731
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'En octubre, la tierra estercola y cubre',
     tags: [
-      'Temporal'
+      'Oportunidad'
     ],
     meaning: 'Se alude a una labor agrícola oportuna en el mes de octubre.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58732&Lng=0',
-    id: '58732'
+    slug: 'en-octubre-la-tierra-estercola-y-cubre',
+    id: 58732
   },
   {
     proverb_type: 'Refrán',
@@ -10424,8 +10454,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58733&Lng=0',
-    id: '58733'
+    slug: 'en-su-casa-hasta-el-culo-descansa',
+    id: 58733
   },
   {
     proverb_type: 'Refrán',
@@ -10438,8 +10468,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58734&Lng=0',
-    id: '58734'
+    slug: 'en-tiempo-de-higos-no-hay-amigos',
+    id: 58734
   },
   {
     proverb_type: 'Refrán temporal',
@@ -10453,22 +10483,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58735&Lng=0',
-    id: '58735'
+    slug: 'en-tiempo-de-melones-cortos-los-sermones',
+    id: 58735
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'En tierra ajena, la vaca al buey acornea',
     tags: [
-      'Inferioridad'
+      'Poder'
     ],
     meaning: 'Cuando alguien está fuera de su espacio habitual, pierde su autoridad, está desprotegido, hasta el punto de que cualquiera, aun siendo inferior, se atreve a atacarlo.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58736&Lng=0',
-    id: '58736'
+    slug: 'en-tierra-ajena-la-vaca-al-buey-acornea',
+    id: 58736
   },
   {
     proverb_type: 'Frase proverbial',
@@ -10481,8 +10511,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Las habas constituía un alimento de personas humildes y también de animales.',
     comments: 'Existe una adición muy empleada, citada por Cervantes: En todas casas cuecen habas; y en la mía, a calderadas (El Quijote II 13). Se emplea esta adición (y en la mía a calderadas) para señalar que en nuestro ámbito los problemas son aún mayores. Se cita bastante esta paremia con la adición, como lo muestra que tenga variantes: y en la nuestra a calderadas, y en mi casa a calderadas.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58737&Lng=0',
-    id: '58737'
+    slug: 'en-todas-partes-cuecen-habas',
+    id: 58737
   },
   {
     proverb_type: 'Locución proverbial',
@@ -10496,8 +10526,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58738&Lng=0',
-    id: '58738'
+    slug: 'encender-una-vela-a-dios-y-otra-al-diablo',
+    id: 58738
   },
   {
     proverb_type: 'Refrán',
@@ -10510,8 +10540,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58739&Lng=0',
-    id: '58739'
+    slug: 'encuentranse-los-hombres-y-no-los-montes',
+    id: 58739
   },
   {
     proverb_type: 'Refrán',
@@ -10524,8 +10554,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58740&Lng=0',
-    id: '58740'
+    slug: 'enemigos-excusados-llamamos-a-los-criados',
+    id: 58740
   },
   {
     proverb_type: 'Refrán',
@@ -10538,8 +10568,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58741&Lng=0',
-    id: '58741'
+    slug: 'entre-amigos-y-soldados-cumplimientos-son-excusados',
+    id: 58741
   },
   {
     proverb_type: 'Refrán',
@@ -10552,8 +10582,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en La Celestina VI 204, La Lozana Andaluza 266, por Valdés 83.',
     comments: 'Se puede encontrar en el discurso con la forma alterada, como la escuchada en marzo de 2008: «No te preocupes, que entre col y col, puede salir una lechuguita».',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58742&Lng=0',
-    id: '58742'
+    slug: 'entre-col-y-col-lechuga',
+    id: 58742
   },
   {
     proverb_type: 'Refrán',
@@ -10561,14 +10591,14 @@ export const PROVERBS_DATA = [
     proverb: 'Entre dos amigos, un notario y dos testigos',
     tags: [
       'Amistad',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Existe una serie de formalidades ineludibles en asuntos o negocios, aunque en ellos estén implicados amigos o familiares, por lo que no deben tomarse como signo de desconfianza en la amistad, sino como una forma de mantenerla sin discordia.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58743&Lng=0',
-    id: '58743'
+    slug: 'entre-dos-amigos-un-notario-y-dos-testigos',
+    id: 58743
   },
   {
     proverb_type: 'Refrán',
@@ -10583,8 +10613,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Entre dos muelas cordales, nunca pongas tus pulgares (El Quijote II 43).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58744&Lng=0',
-    id: '58744'
+    slug: 'entre-dos-muelas-cordales-nunca-metas-tus-pulgares',
+    id: 58744
   },
   {
     proverb_type: 'Refrán',
@@ -10597,8 +10627,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58745&Lng=0',
-    id: '58745'
+    slug: 'entre-dos-que-se-quieran-con-uno-que-coma-basta',
+    id: 58745
   },
   {
     proverb_type: 'Refrán',
@@ -10612,8 +10642,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El cuco es uno de los animales que anuncian la primavera.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58746&Lng=0',
-    id: '58746'
+    slug: 'entre-mayo-y-abril-o-viene-el-cuco-o-viene-la-fin',
+    id: 58746
   },
   {
     proverb_type: 'Refrán',
@@ -10627,8 +10657,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58747&Lng=0',
-    id: '58747'
+    slug: 'entre-padres-e-hijos-hay-litigios',
+    id: 58747
   },
   {
     proverb_type: 'Refrán',
@@ -10643,8 +10673,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El refrán La pintura y la pelea, desde lejos me la otea se sitúa en un plano más genérico, al recomendar no mezclarse en cualquier tipo de discusión o pelea ajenas. El refrán Quien desparte lleva la peor parte advierte de lo que puede suceder a los mediadores.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58748&Lng=0',
-    id: '58748'
+    slug: 'entre-padres-y-hermanos-no-metas-las-manos',
+    id: 58748
   },
   {
     proverb_type: 'Refrán',
@@ -10659,8 +10689,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58749&Lng=0',
-    id: '58749'
+    slug: 'entre-santa-y-santo-pared-de-cal-y-canto',
+    id: 58749
   },
   {
     proverb_type: 'Refrán',
@@ -10673,8 +10703,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'En ocasiones, se emplea solo la primera parte.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58750&Lng=0',
-    id: '58750'
+    slug: 'entre-todos-la-mataron-y-ella-sola-se-murio',
+    id: 58750
   },
   {
     proverb_type: 'Refrán',
@@ -10688,8 +10718,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58751&Lng=0',
-    id: '58751'
+    slug: 'envidia-del-vivo-de-los-muertos-olvido',
+    id: 58751
   },
   {
     proverb_type: 'Dialogismo',
@@ -10698,14 +10728,14 @@ export const PROVERBS_DATA = [
     tags: [
       'Exceso',
       'Perjuicio',
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Se emplea cuando hay demasiadas personas en un lugar y llegan más. En un sentido más amplio, se aplica cuando hay exceso de algo malo y todavía aumenta en perjuicio de uno.',
     usable: 'Poco usado',
     observations: 'No cabemos el fuego y parió mi suegra (Santillana 500).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58752&Lng=0',
-    id: '58752'
+    slug: 'eramos-pocos-y-pario-la-abuela',
+    id: 58752
   },
   {
     proverb_type: 'Refrán',
@@ -10718,8 +10748,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Este refrán contiene una homonimia (errar-herrar).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58753&Lng=0',
-    id: '58753'
+    slug: 'errando-se-aprende-a-herrar',
+    id: 58753
   },
   {
     proverb_type: 'Refrán',
@@ -10732,8 +10762,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58754&Lng=0',
-    id: '58754'
+    slug: 'es-buena-noticia-el-que-no-las-haya',
+    id: 58754
   },
   {
     proverb_type: 'Refrán',
@@ -10746,8 +10776,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'En 2012 y 2013, se juega con la forma del refrán para la campaña publicitaria de un producto alimenticio: Es de bien nacido zamparse cada semana un cocido (marca LITORAL).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58755&Lng=0',
-    id: '58755'
+    slug: 'es-de-bien-nacidos-ser-agradecidos',
+    id: 58755
   },
   {
     proverb_type: 'Locución proverbial',
@@ -10760,8 +10790,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58756&Lng=0',
-    id: '58756'
+    slug: 'es-la-gota-que-desborda-el-vaso',
+    id: 58756
   },
   {
     proverb_type: 'Locución proverbial',
@@ -10774,8 +10804,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58757&Lng=0',
-    id: '58757'
+    slug: 'es-lavar-la-cabeza-del-asno-perder-la-lejia-y-el-trabajo',
+    id: 58757
   },
   {
     proverb_type: 'Proverbio',
@@ -10788,8 +10818,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Paremia de origen bíblico (San Marcos 10, 25).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58758&Lng=0',
-    id: '58758'
+    slug: 'es-mas-facil-que-un-camello-entre-por-el-ojo-de-una-aguja-que-el-que-un-rico-entre-en-el-reino-de-dios',
+    id: 58758
   },
   {
     proverb_type: 'Frase proverbial',
@@ -10803,8 +10833,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'Existe la forma Peor es el remedio que la enfermedad, pero su uso es menor. Puede emplearse adoptando la forma de una locución: Va a ser peor el remedio que la enfermedad (informante oral, junio de 2013).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58759&Lng=0',
-    id: '58759'
+    slug: 'es-peor-el-remedio-que-la-enfermedad',
+    id: 58759
   },
   {
     proverb_type: 'Locución proverbial',
@@ -10817,8 +10847,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58760&Lng=0',
-    id: '58760'
+    slug: 'escape-del-trueno-y-di-en-el-relampago',
+    id: 58760
   },
   {
     proverb_type: 'Refrán',
@@ -10831,8 +10861,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58761&Lng=0',
-    id: '58761'
+    slug: 'escoba-nueva-barre-bien',
+    id: 58761
   },
   {
     proverb_type: 'Refrán',
@@ -10845,8 +10875,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58762&Lng=0',
-    id: '58762'
+    slug: 'escucha-al-agujero-y-oiras-tu-mal-y-del-ajeno',
+    id: 58762
   },
   {
     proverb_type: 'Refrán',
@@ -10860,8 +10890,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58763&Lng=0',
-    id: '58763'
+    slug: 'ese-es-rico-de-vero-que-con-lo-suyo-esta-contento',
+    id: 58763
   },
   {
     proverb_type: 'Refrán',
@@ -10875,8 +10905,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58765&Lng=0',
-    id: '58765'
+    slug: 'ese-tiene-ventura-que-la-procura',
+    id: 58765
   },
   {
     proverb_type: 'Refrán',
@@ -10889,8 +10919,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Espantóse la muerta de la degollada (El Quijote II 43).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58766&Lng=0',
-    id: '58766'
+    slug: 'espantose-la-muerta-de-la-degollada-cuando-la-vio-tan-desgrenada',
+    id: 58766
   },
   {
     proverb_type: 'Refrán',
@@ -10903,8 +10933,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58767&Lng=0',
-    id: '58767'
+    slug: 'esto-y-nada-todo-es-nada',
+    id: 58767
   },
   {
     proverb_type: 'Refrán',
@@ -10917,8 +10947,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58768&Lng=0',
-    id: '58768'
+    slug: 'falso-por-natura-cabello-negro-la-barba-rubia',
+    id: 58768
   },
   {
     proverb_type: 'Refrán',
@@ -10931,8 +10961,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58769&Lng=0',
-    id: '58769'
+    slug: 'febrerillo-loco-con-sus-dias-veintiocho',
+    id: 58769
   },
   {
     proverb_type: 'Refrán',
@@ -10945,22 +10975,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Lo beneficiosa que es la luvia de febrero queda de manifiesto en otros refranes, como Cuando llueve en febrero, todo el año ha tempero. Agua de febrero, mejor que de enero. Cuando no llueve en febrero, no hay buen prado ni centeneo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58770&Lng=0',
-    id: '58770'
+    slug: 'febrero-cebadero',
+    id: 58770
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Formajo, pero y pan, pasto de villán',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Las tres cosas constituyeron en otros tiempos la alimentación de la gente sencilla.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58771&Lng=0',
-    id: '58771'
+    slug: 'formajo-pero-y-pan-pasto-de-villan',
+    id: 58771
   },
   {
     proverb_type: 'Refrán',
@@ -10973,8 +11003,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58772&Lng=0',
-    id: '58772'
+    slug: 'galgo-que-muchas-liebres-levanta-ninguna-mata',
+    id: 58772
   },
   {
     proverb_type: 'Refrán',
@@ -10988,8 +11018,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58773&Lng=0',
-    id: '58773'
+    slug: 'gallina-que-no-come-no-pone',
+    id: 58773
   },
   {
     proverb_type: 'Refrán',
@@ -11002,8 +11032,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58916&Lng=0',
-    id: '58916'
+    slug: 'gallina-vieja-hace-buen-caldo',
+    id: 58916
   },
   {
     proverb_type: 'Refrán',
@@ -11016,8 +11046,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58774&Lng=0',
-    id: '58774'
+    slug: 'gallo-que-no-canta-algo-tiene-en-la-garganta',
+    id: 58774
   },
   {
     proverb_type: 'Refrán',
@@ -11030,8 +11060,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58775&Lng=0',
-    id: '58775'
+    slug: 'gana-tenia-de-tronchos-quien-besaba-al-hortelano',
+    id: 58775
   },
   {
     proverb_type: 'Refrán',
@@ -11044,8 +11074,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58776&Lng=0',
-    id: '58776'
+    slug: 'ganan-buenos-para-ruines-herederos',
+    id: 58776
   },
   {
     proverb_type: 'Refrán',
@@ -11058,8 +11088,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58777&Lng=0',
-    id: '58777'
+    slug: 'ganar-sin-ahorrar-casi-es-no-ganar',
+    id: 58777
   },
   {
     proverb_type: 'Refrán',
@@ -11072,8 +11102,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58778&Lng=0',
-    id: '58778'
+    slug: 'gato-con-guantes-no-caza-ratones',
+    id: 58778
   },
   {
     proverb_type: 'Refrán',
@@ -11087,8 +11117,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El refrán Quien del alacrán está picado, la sombra le espanta tiene otras variantes, como Quien de la culebra está mordido, de la sombra se espanta. Al espantado, la sombra le espanta. En La Celestina (II 126) aparece la paremia Nunca más perro a molino, registrada también por Correas (Nunca más perro al molino, 1420), para indicar que uno suele proponerse no volver a repetir una experiencia desagradable.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58779&Lng=0',
-    id: '58779'
+    slug: 'gato-escaldado-del-agua-fria-huye',
+    id: 58779
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -11101,8 +11131,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58780&Lng=0',
-    id: '58780'
+    slug: 'gaviotas-en-tierra-anuncian-temporal-fuera',
+    id: 58780
   },
   {
     proverb_type: 'Refrán',
@@ -11115,8 +11145,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'De uso actual, se suele emplear enunciando sólo la primera parte: Genio y figura...',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58781&Lng=0',
-    id: '58781'
+    slug: 'genio-y-figura-hasta-la-sepultura',
+    id: 58781
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -11129,8 +11159,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58782&Lng=0',
-    id: '58782'
+    slug: 'golondrina-que-con-el-ala-roza-la-tierra-lluvia-recela',
+    id: 58782
   },
   {
     proverb_type: 'Refrán',
@@ -11143,8 +11173,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Gota a gota, la mar se apoca (La Dorotea III 229).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58783&Lng=0',
-    id: '58783'
+    slug: 'gota-a-gota-la-mar-se-agota',
+    id: 58783
   },
   {
     proverb_type: 'Refrán',
@@ -11157,22 +11187,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58784&Lng=0',
-    id: '58784'
+    slug: 'gota-a-gota-se-llena-la-bota',
+    id: 58784
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Gran tocado y chico recado',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Recrimina a quien quiere disimular con el ornato exterior su escasa valía o su poco poder. Se dice también cuando se trae algo insignificante con mucho boato.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58785&Lng=0',
-    id: '58785'
+    slug: 'gran-tocado-y-chico-recado',
+    id: 58785
   },
   {
     proverb_type: 'Refrán',
@@ -11185,8 +11215,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58786&Lng=0',
-    id: '58786'
+    slug: 'grano-a-grano-hinche-la-gallina-el-papo',
+    id: 58786
   },
   {
     proverb_type: 'Refrán',
@@ -11199,8 +11229,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58787&Lng=0',
-    id: '58787'
+    slug: 'guardate-del-hombre-que-no-habla-y-del-can-que-no-ladra',
+    id: 58787
   },
   {
     proverb_type: 'Refrán',
@@ -11213,8 +11243,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58788&Lng=0',
-    id: '58788'
+    slug: 'guerra-caza-y-amores-por-un-placer-mil-dolores',
+    id: 58788
   },
   {
     proverb_type: 'Refrán',
@@ -11227,8 +11257,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58789&Lng=0',
-    id: '58789'
+    slug: 'gusta-lo-ajeno-mas-por-ajeno-que-por-bueno',
+    id: 58789
   },
   {
     proverb_type: 'Refrán',
@@ -11241,8 +11271,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Al ruin, cuando lo mientan, luego viene (Valdés 20).',
     comments: 'Suele citarse solo la primera parte.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58790&Lng=0',
-    id: '58790'
+    slug: 'hablando-del-rey-de-roma-por-la-puerta-asoma',
+    id: 58790
   },
   {
     proverb_type: 'Refrán',
@@ -11255,8 +11285,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58791&Lng=0',
-    id: '58791'
+    slug: 'hablando-se-entiende-la-gente',
+    id: 58791
   },
   {
     proverb_type: 'Dialogismo',
@@ -11269,8 +11299,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58792&Lng=0',
-    id: '58792'
+    slug: 'hablo-el-buey-y-dijo-mu',
+    id: 58792
   },
   {
     proverb_type: 'Refrán',
@@ -11284,8 +11314,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Haceos miel, y papaos han moscas (El Quijote II 43). Haceos miel y comeros han moscas (El Quijote II 49).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58793&Lng=0',
-    id: '58793'
+    slug: 'haceos-de-miel-y-os-comeran-las-moscas',
+    id: 58793
   },
   {
     proverb_type: 'Proverbio',
@@ -11298,8 +11328,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado por La Dorotea II 230.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58794&Lng=0',
-    id: '58794'
+    slug: 'hacer-bien-nunca-se-pierde',
+    id: 58794
   },
   {
     proverb_type: 'Refrán',
@@ -11307,14 +11337,14 @@ export const PROVERBS_DATA = [
     proverb: 'Hacienda, tu amo te atienda',
     tags: [
       'Bienes',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Para que vaya bien un negocio o un bien, el propietario debe cuidar de él personalmente y no dejarlo al cuidado de otro.',
     usable: 'En desuso',
     observations: 'El refrán Quien tiene tienda, que la atienda posee también una forma trimembre: Quien tiene tienda, que la atienda, y si no, que la venda. Otro refrán, No puede todo ser, dormir y guardar las eras, señala que requiere mucha vigilancia el mantenimiento de la hacienda.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58795&Lng=0',
-    id: '58795'
+    slug: 'hacienda-tu-amo-te-atienda',
+    id: 58795
   },
   {
     proverb_type: 'Refrán',
@@ -11327,8 +11357,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58796&Lng=0',
-    id: '58796'
+    slug: 'hagase-el-milagro-y-hagalo-el-diablo',
+    id: 58796
   },
   {
     proverb_type: 'Refrán',
@@ -11341,8 +11371,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58797&Lng=0',
-    id: '58797'
+    slug: 'hambre-que-espera-hartura-no-es-hambre-pura',
+    id: 58797
   },
   {
     proverb_type: 'Refrán',
@@ -11355,8 +11385,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58798&Lng=0',
-    id: '58798'
+    slug: 'harto-ayuna-quien-mal-come',
+    id: 58798
   },
   {
     proverb_type: 'Refrán',
@@ -11369,8 +11399,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se emplea cuando hace frío en junio, esto es de año en año. Se menciona mucho en la televisión, en la sección de los informativos dedicada a la meteorología.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58799&Lng=0',
-    id: '58799'
+    slug: 'hasta-el-cuarenta-de-mayo-no-te-quites-el-sayo',
+    id: 58799
   },
   {
     proverb_type: 'Refrán',
@@ -11384,8 +11414,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58800&Lng=0',
-    id: '58800'
+    slug: 'hasta-el-rabo-todo-es-toro',
+    id: 58800
   },
   {
     proverb_type: 'Refrán',
@@ -11398,8 +11428,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58801&Lng=0',
-    id: '58801'
+    slug: 'hasta-la-muerte-todo-es-vida',
+    id: 58801
   },
   {
     proverb_type: 'Refrán',
@@ -11412,8 +11442,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58802&Lng=0',
-    id: '58802'
+    slug: 'hasta-los-gatos-quieren-zapatos',
+    id: 58802
   },
   {
     proverb_type: 'Refrán',
@@ -11428,8 +11458,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Es más frecuente el refrán El bien no es conocido hasta que es perdido.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58803&Lng=0',
-    id: '58803'
+    slug: 'hasta-que-es-padecido-el-mal-no-es-conocido',
+    id: 58803
   },
   {
     proverb_type: 'Locución proverbial',
@@ -11443,8 +11473,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58804&Lng=0',
-    id: '58804'
+    slug: 'hay-mas-dias-que-longanizas',
+    id: 58804
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -11457,8 +11487,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58806&Lng=0',
-    id: '58806'
+    slug: 'hayamos-paz-y-moriremos-viejos',
+    id: 58806
   },
   {
     proverb_type: 'Proverbio',
@@ -11471,8 +11501,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Existe la forma irónica Haz el mal y no mires a cuál. Según Correas 295: «La otra parte: «haz mal, y guarte», aunque está en imperativo por concordar con lo primero, aquí es condicional, y quiere decir: sihicieres mal, guárdate [...]».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58807&Lng=0',
-    id: '58807'
+    slug: 'haz-bien-y-no-mires-a-quien',
+    id: 58807
   },
   {
     proverb_type: 'Refrán',
@@ -11485,8 +11515,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58808&Lng=0',
-    id: '58808'
+    slug: 'haz-buena-harina-y-no-toques-bocina',
+    id: 58808
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -11499,8 +11529,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado por Valdés 90, El Quijote II 29',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58809&Lng=0',
-    id: '58809'
+    slug: 'haz-lo-que-tu-amo-te-manda-y-sientate-con-el-a-la-mesa',
+    id: 58809
   },
   {
     proverb_type: 'Refrán',
@@ -11513,8 +11543,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58810&Lng=0',
-    id: '58810'
+    slug: 'hermano-bebe-que-la-vida-es-breve',
+    id: 58810
   },
   {
     proverb_type: 'Refrán',
@@ -11528,8 +11558,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Según el refranero, resulta difícil encontrar talento y belleza en una misma persona: Talento y belleza, todo en una pieza, gran rareza. Ciertamente, el tema de la belleza física aparece con frecuencia en el refranero. La belleza física debe ir acompañada de la bondad: Vana es la beldad si con ella no hay bondad. En ocasiones se compara con la fealdad: La suerte de la fea, la bonita la desea. El refrán siguiente advierte que la belleza sola no sirve para nada: Más vale hombre feo con buen arreo, que mozo bonito sin un pito (Sbarbi, «hombre»). En este caso, la fealdad carece de importancia si quien la posee es rico. Asimismo se advierte que Más tiene el  saber que la hermosura, que él cada día crece y ella no dura.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58811&Lng=0',
-    id: '58811'
+    slug: 'hermosura-sin-talento-gallardia-de-jumento',
+    id: 58811
   },
   {
     proverb_type: 'Refrán',
@@ -11542,8 +11572,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58812&Lng=0',
-    id: '58812'
+    slug: 'hijo-de-mi-hija-nieto-ser-hijo-de-mi-hijo-no-saber',
+    id: 58812
   },
   {
     proverb_type: 'Refrán',
@@ -11556,8 +11586,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58813&Lng=0',
-    id: '58813'
+    slug: 'hijo-eres-y-padre-seras-cual-hicieres-tal-habras',
+    id: 58813
   },
   {
     proverb_type: 'Dialogismo',
@@ -11570,8 +11600,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58814&Lng=0',
-    id: '58814'
+    slug: 'hijo-no-tenemos-y-nombre-le-ponemos',
+    id: 58814
   },
   {
     proverb_type: 'Refrán',
@@ -11585,8 +11615,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58815&Lng=0',
-    id: '58815'
+    slug: 'hijo-sin-dolor-madre-sin-amor',
+    id: 58815
   },
   {
     proverb_type: 'Refrán',
@@ -11600,8 +11630,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58816&Lng=0',
-    id: '58816'
+    slug: 'hijos-criados-trabajos-doblados',
+    id: 58816
   },
   {
     proverb_type: 'Refrán',
@@ -11614,8 +11644,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58817&Lng=0',
-    id: '58817'
+    slug: 'hombre-lisonjero-falso-y-embustero',
+    id: 58817
   },
   {
     proverb_type: 'Refrán',
@@ -11630,8 +11660,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58818&Lng=0',
-    id: '58818'
+    slug: 'hombre-pobre-con-poco-se-alegra-y-socorre',
+    id: 58818
   },
   {
     proverb_type: 'Refrán',
@@ -11644,8 +11674,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Hombre apercibido, medio combatido (El Quijote II 17). El hombre apericibido, medio combatido (La Celestina XII 83 y La Lozana Andaluza 327).',
     comments: 'Se emplea con frecuencia la primera parte e indistintamente Hombre prevenido... y Hombre precavido.... Se puede aplicar también a la mujer: Mujer prevenida vale por dos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58819&Lng=0',
-    id: '58819'
+    slug: 'hombre-prevenido-vale-por-dos',
+    id: 58819
   },
   {
     proverb_type: 'Refrán',
@@ -11659,8 +11689,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58820&Lng=0',
-    id: '58820'
+    slug: 'hombre-viejo-cada-dia-un-duelo-nuevo',
+    id: 58820
   },
   {
     proverb_type: 'Refrán',
@@ -11673,8 +11703,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Bien haya quien a los suyos se parece (Valdés 32).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58821&Lng=0',
-    id: '58821'
+    slug: 'honra-merece-quien-a-los-suyos-se-parece',
+    id: 58821
   },
   {
     proverb_type: 'Refrán',
@@ -11688,8 +11718,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58822&Lng=0',
-    id: '58822'
+    slug: 'honra-y-provecho-no-caben-bajo-el-mismo-techo',
+    id: 58822
   },
   {
     proverb_type: 'Refrán',
@@ -11703,8 +11733,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'En latín, corresponde a la paremia Hodie mihi, cras tibi.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58823&Lng=0',
-    id: '58823'
+    slug: 'hoy-por-ti-manana-por-mi',
+    id: 58823
   },
   {
     proverb_type: 'Locución proverbial',
@@ -11717,8 +11747,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58824&Lng=0',
-    id: '58824'
+    slug: 'hui-del-perejil-y-naciome-en-la-frente',
+    id: 58824
   },
   {
     proverb_type: 'Locución proverbial',
@@ -11731,8 +11761,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Las locuciones proverbiales que siguen el esquema salir de...y caer/entrar dan a entender que, tras superar alguien un peligro o una situación enojosa, se enfrenta a otra peor.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58825&Lng=0',
-    id: '58825'
+    slug: 'huir-del-fuego-para-caer-en-las-brasas',
+    id: 58825
   },
   {
     proverb_type: 'Refrán',
@@ -11745,8 +11775,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58826&Lng=0',
-    id: '58826'
+    slug: 'humo-y-mala-cara-sacan-a-la-gente-de-casa',
+    id: 58826
   },
   {
     proverb_type: 'Refrán',
@@ -11760,8 +11790,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58827&Lng=0',
-    id: '58827'
+    slug: 'huye-del-malo-que-trae-dano',
+    id: 58827
   },
   {
     proverb_type: 'Locución proverbial',
@@ -11775,8 +11805,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Citado por Valdés 94. Yendo por lana, habéis tornado trasquilado (Valdés 94). Muchos van por lana y vuelven tresquilados [sic] (El Quijote I 7). Tal suele venir por lana que vuelve tresquilado [sic] (El Quijote II 14). Vendrán por lana y volverán trasquilados (El Quijote II 43). No querría que fuese por lana y volviese trasquilada (El Quijote II 67). No hay encubierta [fraude] que a mal no revierta (Libro de Buen Amor 542). Citado anteriormente en el Poema de Fernán González y enLa Celestina. Posiblemente proceda de los casos en que un carnero entra en rebaño ajeno.',
     comments: 'Suele emplearse con estos tiempos verbales: Fue por lana y volvió trasquilado',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58828&Lng=0',
-    id: '58828'
+    slug: 'ir-por-lana-y-volver-trasquilado',
+    id: 58828
   },
   {
     proverb_type: 'Refrán',
@@ -11790,8 +11820,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58829&Lng=0',
-    id: '58829'
+    slug: 'ira-de-hermanos-ira-de-diablos',
+    id: 58829
   },
   {
     proverb_type: 'Refrán',
@@ -11804,8 +11834,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58830&Lng=0',
-    id: '58830'
+    slug: 'jaula-nueva-pajaro-muerto',
+    id: 58830
   },
   {
     proverb_type: 'Refrán',
@@ -11819,8 +11849,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El herrero de Arganda, que él se lo fuella y él se lo macha, y él se lo lleva a vender a la plaza (Covarrubias).',
     comments: 'Se suele emplear sólo una parte de la paremia, una forma comparativa (Como Juan Palomo) o simplemente es suficiente con mencionar a Juan Palomo para que el interlocutor piense en la paremia completa o se anime a terminarla (yo me lo guiso y yo me lo como).\nSe ha empleado para la campaña publicitaria de una marca de sopas preparadas, lo que ha contribuido a que aumente su uso.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58831&Lng=0',
-    id: '58831'
+    slug: 'juan-palomo-yo-me-lo-guiso-y-yo-me-lo-como',
+    id: 58831
   },
   {
     proverb_type: 'Refrán',
@@ -11833,8 +11863,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58832&Lng=0',
-    id: '58832'
+    slug: 'juego-y-bebida-casa-perdida',
+    id: 58832
   },
   {
     proverb_type: 'Refrán',
@@ -11847,8 +11877,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58833&Lng=0',
-    id: '58833'
+    slug: 'la-amistad-conocerla-mas-no-perderla',
+    id: 58833
   },
   {
     proverb_type: 'Frase proverbial',
@@ -11861,8 +11891,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58834&Lng=0',
-    id: '58834'
+    slug: 'la-ausencia-causa-olvido',
+    id: 58834
   },
   {
     proverb_type: 'Frase proverbial',
@@ -11875,8 +11905,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Esta frase proverbial parte de la imagen de un ladrón que iba poniendo en un saco cuanto robaba y cuando, para que la cupiera más, apretó lo que iba dentro, el saco se rompió. La codicia rompe el saco es una forma más antigua que La avarica rompe el saco, como lo muestra su presencia en obras como La Lozana Andaluza 252, El Guzmán de Alfarache, El Quijote I 20, II 13 y 26. Una forma sinónima aparece en El Criticón: Por no perder un bocado, se pierden ciento (Véase en Contextos).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58835&Lng=0',
-    id: '58835'
+    slug: 'la-avaricia-rompe-el-saco',
+    id: 58835
   },
   {
     proverb_type: 'Refrán',
@@ -11890,8 +11920,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58836&Lng=0',
-    id: '58836'
+    slug: 'la-boda-de-los-pobres-toda-es-voces',
+    id: 58836
   },
   {
     proverb_type: 'Refrán',
@@ -11905,8 +11935,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se empleaba con frecuencia el cuero para fabricar bolsas, en las que se guardaba el dinero o viandas para el camino.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58837&Lng=0',
-    id: '58837'
+    slug: 'la-bolsa-sin-dinero-digola-cuero',
+    id: 58837
   },
   {
     proverb_type: 'Refrán',
@@ -11919,8 +11949,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58838&Lng=0',
-    id: '58838'
+    slug: 'la-buena-obra-a-quien-la-hace-se-torna',
+    id: 58838
   },
   {
     proverb_type: 'Refrán',
@@ -11933,8 +11963,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58839&Lng=0',
-    id: '58839'
+    slug: 'la-buena-vida-padre-y-madre-olvida',
+    id: 58839
   },
   {
     proverb_type: 'Frase proverbial',
@@ -11947,8 +11977,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'En España, la ganadería es una actividad importante, como la explotación de caprino en la zona de la Sierra del Segura (Murcia).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58840&Lng=0',
-    id: '58840'
+    slug: 'la-cabra-siempre-tira-al-monte',
+    id: 58840
   },
   {
     proverb_type: 'Refrán',
@@ -11961,8 +11991,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58841&Lng=0',
-    id: '58841'
+    slug: 'la-cama-es-buen-prado-si-no-se-duerme-se-esta-echado',
+    id: 58841
   },
   {
     proverb_type: 'Refrán',
@@ -11975,8 +12005,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58842&Lng=0',
-    id: '58842'
+    slug: 'la-cana-engana-el-diente-miente-la-arruga-no-deja-duda',
+    id: 58842
   },
   {
     proverb_type: 'Frase proverbial',
@@ -11990,8 +12020,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Frase de Cicerón. Existe una segunda parte: y los ojos sus delatores.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58843&Lng=0',
-    id: '58843'
+    slug: 'la-cara-es-el-espejo-del-alma',
+    id: 58843
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12004,35 +12034,37 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En la misma línea, se encuentra un refrán citado en La Lozana Andaluza 167: Allégate a la peña, mas no te despeña.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58844&Lng=0',
-    id: '58844'
+    slug: 'la-caridad-bien-entendida-empieza-por-uno-mismo',
+    id: 58844
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'La carne sobre el hueso reluce como un espejo',
-    tags: [],
+    tags: [
+      'Físico'
+    ],
     meaning: 'Recrimina la delgadez',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59637&Lng=0',
-    id: '59637'
+    slug: 'la-carne-sobre-el-hueso-reluce-como-un-espejo',
+    id: 59637
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'La casa se arruina por la cocina',
     tags: [
-      'Alimentos',
+      'Alimento',
       'Economía'
     ],
     meaning: 'La economía de una casa depende en su mayor parte de los gastos en alimentación.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58845&Lng=0',
-    id: '58845'
+    slug: 'la-casa-se-arruina-por-la-cocina',
+    id: 58845
   },
   {
     proverb_type: 'Refrán',
@@ -12045,8 +12077,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58846&Lng=0',
-    id: '58846'
+    slug: 'la-comida-reposada-y-la-cena-paseada',
+    id: 58846
   },
   {
     proverb_type: 'Refrán',
@@ -12059,8 +12091,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Covarrubias registra un sinónimo parcial: Costumbre buena, costumbre mala, el villano quiere que valga.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58847&Lng=0',
-    id: '58847'
+    slug: 'la-costumbre-hace-ley',
+    id: 58847
   },
   {
     proverb_type: 'Refrán',
@@ -12073,8 +12105,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58848&Lng=0',
-    id: '58848'
+    slug: 'la-critica-es-facil-y-el-arte-dificil',
+    id: 58848
   },
   {
     proverb_type: 'Locución proverbial',
@@ -12089,8 +12121,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Aparece citado en una obra considerada uno de los refraneros literarios, El Quijote (II 66): La culpa del asno no se ha de echar a la albarda. \nExiste la locución Echar una albarda a alguien, con el significado: «Abusar de su paciencia haciéndole aguantar lo que no debe» (DRAE).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58849&Lng=0',
-    id: '58849'
+    slug: 'la-culpa-del-asno-echarla-a-la-albarda',
+    id: 58849
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12103,8 +12135,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'En un programa televisivo (septiembre de 2014) se juega con la forma clásica para adaptarlo a una situación concreta. Se dice La curiosidad multó al gato, para sentenciar la actitud de un conductor que sufrió un accidente de tráfico al ver a una mujer desnuda. El conductor pretendía que la mujer lo indemnizara por haberle distraído y, por consiguiente, haber tenido el accidente.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58850&Lng=0',
-    id: '58850'
+    slug: 'la-curiosidad-mato-al-gato',
+    id: 58850
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12118,22 +12150,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La diligencia es madre de buena ventura (El Quijote I 46 y II 43).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58851&Lng=0',
-    id: '58851'
+    slug: 'la-diligencia-es-la-madre-de-la-buena-ventura',
+    id: 58851
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'La ensalada, poco vinagre y bien aceitada',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Aconseja que la ensalada reúna estos requisitos para que esté sabrosa, en especial que se aderece generosamente con aceite.',
     usable: 'En desuso',
     observations: 'Resulta muy frecuente tomar ensalada para acompañar la carne o el pescado, en especial en los países mediterráneos. Los ingredientes más comunes de la ensalada son: lechuga, tomate y cebolla, aceite de oliva y vinagre. Se puede añadir atún, aceitunas, huevo duro, espárragos blancos; la denominada «ensalada mixta» en los restaurantes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58852&Lng=0',
-    id: '58852'
+    slug: 'la-ensalada-poco-vinagre-y-bien-aceitada',
+    id: 58852
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12146,8 +12178,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58853&Lng=0',
-    id: '58853'
+    slug: 'la-esperanza-es-lo-ultimo-que-se-pierde',
+    id: 58853
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12160,8 +12192,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58854&Lng=0',
-    id: '58854'
+    slug: 'la-excepcion-confirma-la-regla',
+    id: 58854
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12175,8 +12207,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'La experiencia, madre de las ciencias (El Quijote I 21).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58855&Lng=0',
-    id: '58855'
+    slug: 'la-experiencia-es-la-madre-de-la-ciencia',
+    id: 58855
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12189,8 +12221,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58856&Lng=0',
-    id: '58856'
+    slug: 'la-fe-mueve-montanas',
+    id: 58856
   },
   {
     proverb_type: 'Refrán',
@@ -12203,8 +12235,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58857&Lng=0',
-    id: '58857'
+    slug: 'la-gallina-de-mi-vecina-mas-huevos-pone-que-la-mia',
+    id: 58857
   },
   {
     proverb_type: 'Refrán',
@@ -12218,22 +12250,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58858&Lng=0',
-    id: '58858'
+    slug: 'la-gordura-no-es-hermosura-pero-muchos-defectos-disimula',
+    id: 58858
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'La guerra engendra guerra',
     tags: [
-      'Violencia'
+      'Venganza'
     ],
     meaning: 'Rechaza todo tipo de violencia.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58859&Lng=0',
-    id: '58859'
+    slug: 'la-guerra-engendra-guerra',
+    id: 58859
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12246,8 +12278,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58860&Lng=0',
-    id: '58860'
+    slug: 'la-hermosura-poco-dura',
+    id: 58860
   },
   {
     proverb_type: 'Refrán',
@@ -12260,8 +12292,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58861&Lng=0',
-    id: '58861'
+    slug: 'la-hija-de-la-cabra-que-ha-de-ser-sino-cabrita',
+    id: 58861
   },
   {
     proverb_type: 'Refrán',
@@ -12275,8 +12307,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58862&Lng=0',
-    id: '58862'
+    slug: 'la-hogaza-no-embaraza',
+    id: 58862
   },
   {
     proverb_type: 'Aforismo',
@@ -12290,8 +12322,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Empleado en lenguaje jurídico y poco en lengua familiar.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58863&Lng=0',
-    id: '58863'
+    slug: 'la-ignorancia-de-la-ley-no-excusa-su-cumplimiento',
+    id: 58863
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12304,8 +12336,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Paremia muy utilizada en el ámbito político, pues se puede aplicar «al control de los entresijos ocultos de quienes ejercen de rivales en una u otra pugna» (Público, 23 de enero de 2009).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58864&Lng=0',
-    id: '58864'
+    slug: 'la-informacion-es-poder',
+    id: 58864
   },
   {
     proverb_type: 'Refrán',
@@ -12319,8 +12351,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58865&Lng=0',
-    id: '58865'
+    slug: 'la-juventud-tiene-la-fuerza-y-la-vejez-la-prudencia',
+    id: 58865
   },
   {
     proverb_type: 'Refrán',
@@ -12333,8 +12365,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58866&Lng=0',
-    id: '58866'
+    slug: 'la-lengua-larga-es-senal-de-mano-escasa',
+    id: 58866
   },
   {
     proverb_type: 'Refrán',
@@ -12347,8 +12379,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Se llama a la lengua familiarmente la sin hueso.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58867&Lng=0',
-    id: '58867'
+    slug: 'la-lengua-no-tiene-hueso-pero-corta-lo-mas-grueso',
+    id: 58867
   },
   {
     proverb_type: 'Refrán',
@@ -12362,8 +12394,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado en El Quijote II 36.',
     comments: 'Esta frase proverbial puede ver alterada su forma clásica. Así, para anunciar un festival internacional de música, se hace un juego de palabras : «La letra con música entra» (Qué!, 4 de abril de 2008, p. 19). Además de las formas alteradas, existen réplicas, como la siguiente: La letra con sangre entra; pero con dulzura y amor se enseña mejor.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58868&Lng=0',
-    id: '58868'
+    slug: 'la-letra-con-sangre-entra',
+    id: 58868
   },
   {
     proverb_type: 'Refrán',
@@ -12376,8 +12408,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58869&Lng=0',
-    id: '58869'
+    slug: 'la-lima-lima-a-la-lima',
+    id: 58869
   },
   {
     proverb_type: 'Refrán',
@@ -12390,8 +12422,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58870&Lng=0',
-    id: '58870'
+    slug: 'la-lisonja-causa-amigos-y-la-verdad-enemigos',
+    id: 58870
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12404,22 +12436,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'La variante Mala hierba nunca muere aparece, en el año 2008, en un anuncio publicitario de un producto contra los hongos de los pies.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58871&Lng=0',
-    id: '58871'
+    slug: 'la-mala-hierba-crece-mucho',
+    id: 58871
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'La manzana podrida pierde a su compañía',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Advierte del peligro que acarrean el trato y la conversación con personas malvadas.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58872&Lng=0',
-    id: '58872'
+    slug: 'la-manzana-podrida-pierde-a-su-compania',
+    id: 58872
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12432,8 +12464,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58873&Lng=0',
-    id: '58873'
+    slug: 'la-mas-ruin-oveja-se-ensucia-en-la-colodra',
+    id: 58873
   },
   {
     proverb_type: 'Refrán',
@@ -12446,8 +12478,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58874&Lng=0',
-    id: '58874'
+    slug: 'la-mayor-riqueza-es-la-voluntad-contenta',
+    id: 58874
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12460,8 +12492,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58875&Lng=0',
-    id: '58875'
+    slug: 'la-mejor-palabra-siempre-es-la-que-queda-por-decir',
+    id: 58875
   },
   {
     proverb_type: 'Refrán',
@@ -12474,8 +12506,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58876&Lng=0',
-    id: '58876'
+    slug: 'la-mejor-salsa-el-apetito',
+    id: 58876
   },
   {
     proverb_type: 'Refrán',
@@ -12488,8 +12520,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58877&Lng=0',
-    id: '58877'
+    slug: 'la-mentira-presto-es-vencida',
+    id: 58877
   },
   {
     proverb_type: 'Refrán',
@@ -12504,8 +12536,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe un grupo de refranes que advierten del hastío que puede provocar la excesiva confianza: A casa de tu tía, mas no cada día. A casa de tu hermano no irás cada serano. Adonde te quieren mucho no vayas a menudo. Al amigo y al caballo, no apretarlo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58878&Lng=0',
-    id: '58878'
+    slug: 'la-mucha-confianza-es-causa-de-menosprecio',
+    id: 58878
   },
   {
     proverb_type: 'Refrán',
@@ -12518,8 +12550,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Participa de la misma línea temática la copla 14 a la muerte de su padre escrita por Jorge Manrique: «Esos reyes poderosos/ que vemos por escrituras/ ya pasadas,/ con casos tristes, llorosos,/ fueron sus buenas venturas/ trastornadas;/así que no hay cosa fuerte,/ que a papas y emperadores y prelados,/ así los trata la muerte como a los pobres pastores/ de ganados»  (Edición consultada: Coplas de Jorge Manrique, ed. Amparo Medina-Bocos. Buenos Aires: Edaf, 2003, p. 91).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58879&Lng=0',
-    id: '58879'
+    slug: 'la-muerte-todo-lo-barre-todo-lo-iguala-y-todo-lo-ataja',
+    id: 58879
   },
   {
     proverb_type: 'Refrán',
@@ -12532,8 +12564,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58880&Lng=0',
-    id: '58880'
+    slug: 'la-mujer-compuesta-a-su-marido-quita-de-puerta-ajena',
+    id: 58880
   },
   {
     proverb_type: 'Proverbio',
@@ -12546,8 +12578,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Esta paremia nace de un suceso cuya protagonista fue Pompeya, la nieta de Sila. César la repudió para evitar suspicacias con respecto a una fiesta en la solo debían participar mujeres y asistió un hombre a escondidas sin recibir invitación alguna. Fue descubierto, pero él no recibió castigo alguno.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59635&Lng=0',
-    id: '59635'
+    slug: 'la-mujer-del-cesar-ademas-de-ser-honesta-debe-parecerlo',
+    id: 59635
   },
   {
     proverb_type: 'Refrán',
@@ -12560,8 +12592,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El «Elogio de la mujer chica» de Juan Ruiz, Arcipreste de Hita (Libro de buen amor, 1330-1343) participa de esta misma línea temática. Del poema son estos versos: «En pequeño jacinto yace gran resplandor,/ en azúcar muy poco yace mucho dulzor,/ en la mujer pequeña yace muy gran amor,/ pocas palabras bastan al buen entendedor» (edición consultada, Madrid: Cátedra, 1992).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58881&Lng=0',
-    id: '58881'
+    slug: 'la-mujer-menudita-siempre-pollita',
+    id: 58881
   },
   {
     proverb_type: 'Refrán',
@@ -12576,8 +12608,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese Los niños y los locos dicen las verdades',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58882&Lng=0',
-    id: '58882'
+    slug: 'la-mujer-y-el-nino-solo-callan-lo-que-no-han-sabido',
+    id: 58882
   },
   {
     proverb_type: 'Refrán',
@@ -12591,8 +12623,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58883&Lng=0',
-    id: '58883'
+    slug: 'la-mujer-y-el-oro-lo-pueden-todo',
+    id: 58883
   },
   {
     proverb_type: 'Refrán',
@@ -12605,8 +12637,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58884&Lng=0',
-    id: '58884'
+    slug: 'la-mujer-y-el-vidrio-siempre-estan-en-peligro',
+    id: 58884
   },
   {
     proverb_type: 'Refrán',
@@ -12619,8 +12651,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'La mujer y el vino hacen a los hombres renegar (La Celestina I 47 y 50).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58885&Lng=0',
-    id: '58885'
+    slug: 'la-mujer-y-el-vino-sacan-al-hombre-de-tino',
+    id: 58885
   },
   {
     proverb_type: 'Refrán',
@@ -12633,8 +12665,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El «Elogio de la mujer chica» de Juan Ruiz, Arcipreste de Hita (Libro de buen amor, 1330-1343) participa de esta misma línea temática. Del poema son estos versos: «En pequeño jacinto yace gran resplandor,/ en azúcar muy poco yace mucho dulzor,/ en la mujer pequeña yace muy gran amor,/ pocas palabras bastan al buen entendedor» (edición consultada, Madrid: Cátedra, 1992).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58886&Lng=0',
-    id: '58886'
+    slug: 'la-mujer-y-la-sardina-pequenina',
+    id: 58886
   },
   {
     proverb_type: 'Refrán',
@@ -12647,8 +12679,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Con idéntico sentido, las madres de la época porfiriana en México aconsejaban a su hijas: Date a deseo y olerás a poleo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58887&Lng=0',
-    id: '58887'
+    slug: 'la-mujer-rogada-y-la-olla-reposada',
+    id: 58887
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12661,8 +12693,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se puede alterar la forma para cambiar el significado y aludir a las consecuencias de una música estridente: La música enfurece a las fieras (www.elmundo.es, 20 de julio de 2006). Esta paremia ya está presente en el mito griego de Orfeo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58888&Lng=0',
-    id: '58888'
+    slug: 'la-musica-amansa-las-fieras',
+    id: 58888
   },
   {
     proverb_type: 'Refrán',
@@ -12675,8 +12707,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58889&Lng=0',
-    id: '58889'
+    slug: 'la-necesidad-hace-a-la-vieja-trotar',
+    id: 58889
   },
   {
     proverb_type: 'Refrán',
@@ -12689,8 +12721,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58890&Lng=0',
-    id: '58890'
+    slug: 'la-noche-para-pensar-el-dia-para-obrar',
+    id: 58890
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12703,8 +12735,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58891&Lng=0',
-    id: '58891'
+    slug: 'la-ocasion-hace-al-ladron',
+    id: 58891
   },
   {
     proverb_type: 'Refrán',
@@ -12717,8 +12749,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'En la mitología grecorromana, la diosa Ocasión era representada sin pelo, excepto por encima de la frente. De esa forma se simbolizaba la dificultad de no perder la oportunidad de algo cuando se presenta de frente y cómo resulta prácticamente imposible detener su curso. También se alude a la diosa Ocasión en la locución adverbial «por los pelos», que se aplica para indicar el escaso margen existente a veces para conseguir o perder algo (v.g.: «aprobó el curso por los pelos»; «perdió el autobús por los pelos»). Cevantes cita esta paremia (El Quijote II 31), refiriéndose a Sancho.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58079&Lng=0',
-    id: '58079'
+    slug: 'la-ocasion-la-pintan-calva',
+    id: 58079
   },
   {
     proverb_type: 'Refrán',
@@ -12732,8 +12764,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58892&Lng=0',
-    id: '58892'
+    slug: 'la-oveja-mansa-cada-cordero-la-mama',
+    id: 58892
   },
   {
     proverb_type: 'Refrán',
@@ -12746,8 +12778,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58893&Lng=0',
-    id: '58893'
+    slug: 'la-oveja-que-ha-de-ser-para-el-lobo-es-fuerza-que-lo-sea',
+    id: 58893
   },
   {
     proverb_type: 'Refrán',
@@ -12760,8 +12792,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58894&Lng=0',
-    id: '58894'
+    slug: 'la-palabra-convence-el-ejemplo-arrastra',
+    id: 58894
   },
   {
     proverb_type: 'Refrán',
@@ -12774,8 +12806,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese el refrán En boca cerrada no entran moscas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58895&Lng=0',
-    id: '58895'
+    slug: 'la-palabra-es-plata-y-el-silencio-es-oro',
+    id: 58895
   },
   {
     proverb_type: 'Refrán',
@@ -12788,8 +12820,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58896&Lng=0',
-    id: '58896'
+    slug: 'la-palabra-que-sale-de-la-boca-nunca-torna',
+    id: 58896
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12802,8 +12834,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58897&Lng=0',
-    id: '58897'
+    slug: 'la-peor-gallina-es-la-que-mas-cacarea',
+    id: 58897
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12816,8 +12848,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58898&Lng=0',
-    id: '58898'
+    slug: 'la-perseverancia-todo-lo-alcanza',
+    id: 58898
   },
   {
     proverb_type: 'Refrán',
@@ -12830,8 +12862,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58899&Lng=0',
-    id: '58899'
+    slug: 'la-pimienta-es-chica-pero-pica',
+    id: 58899
   },
   {
     proverb_type: 'Refrán',
@@ -12845,8 +12877,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Sbarbi («primavera») registra la expresión Ser más alegre y sereno que una primavera, en desuso hoy día. La primavera es la época más propicia para aparearse los animales salvajes y también repercute en el ser humano aumentando la fuerza del instinto básico, si bien, a diferencia de la mayoría de los animales superiores, como las aves o los restantes mamíferos, carece de época de celo, poque vive en celo permanente.',
     comments: 'De uso muy actual, se puede encontrar la forma alterada: La primavera el disco duro altera (titular de un artículo aparecido en www.lavanguardia.es, 24/03/2009).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58900&Lng=0',
-    id: '58900'
+    slug: 'la-primavera-la-sangre-altera',
+    id: 58900
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12859,8 +12891,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El refrán Lágrimas y suspiros mucho desenconan el corazón dolorido (La Celestina I 38 y Correas 1018) enseña que el dolor físico o el sufrimiento se alivian exteriorizándolos.',
     comments: 'Una alteración de la forma clásica está obteniendo gran fortuna. Se dice mucho La profesión va por dentro. para referirse a alguien cuya imagen no encaja con la profesión que realiza. También se utiliza cuando, pese a tener un trabajo precario y mal pagado, se mantiene ua actitud y un semblante positivos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58901&Lng=0',
-    id: '58901'
+    slug: 'la-procesion-va-por-dentro',
+    id: 58901
   },
   {
     proverb_type: 'Refrán',
@@ -12874,8 +12906,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58902&Lng=0',
-    id: '58902'
+    slug: 'la-respuesta-mansa-la-ira-quebranta',
+    id: 58902
   },
   {
     proverb_type: 'Refrán',
@@ -12888,8 +12920,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Otro refrán sigue este mismo esquema: El bien no es conocido hasta que es perdido.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58903&Lng=0',
-    id: '58903'
+    slug: 'la-salud-no-es-conocida-hasta-que-es-perdida',
+    id: 58903
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12902,8 +12934,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58904&Lng=0',
-    id: '58904'
+    slug: 'la-sangre-sin-fuego-hierve',
+    id: 58904
   },
   {
     proverb_type: 'Refrán',
@@ -12911,15 +12943,15 @@ export const PROVERBS_DATA = [
     proverb: 'La suegra y el doctor, cuanto más lejos, mejor',
     tags: [
       'Familia',
-      'Oficios',
+      'Oficio',
       'Rechazo'
     ],
     meaning: 'Tanto la suegra como el médico no son visitas que resulten agradables.',
     usable: 'En desuso',
     observations: 'La difícil convivencia que se da en muchos casos entre nueras y suegras se ha vuelto proverbial. En Correas (S949) encontramos el siguiente refrán:Suegra, ninguna buena; hícela de azúcar y amargóme; hícela de barro y descalabróme.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58905&Lng=0',
-    id: '58905'
+    slug: 'la-suegra-y-el-doctor-cuanto-mas-lejos-mejor',
+    id: 58905
   },
   {
     proverb_type: 'Refrán',
@@ -12933,8 +12965,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Aunque generalmente se aplica a una mujer, en ocasiones se trastoca la forma clásica para decirse de un hombre: La suerte del feo, el guapo lo desea (diciembe de 2015)',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58906&Lng=0',
-    id: '58906'
+    slug: 'la-suerte-de-la-fea-la-bonita-la-desea',
+    id: 58906
   },
   {
     proverb_type: 'Aforismo',
@@ -12947,22 +12979,22 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Se atribuye esta frase a Julio César, cuando dijo Alea iacta est en el momento de pasar el Rubicón.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58907&Lng=0',
-    id: '58907'
+    slug: 'la-suerte-esta-echada',
+    id: 58907
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'La traición aplace, mas no el que la hace',
     tags: [
-      'Desprecio'
+      'Desconfianza'
     ],
     meaning: 'Se desconfía del traidor, incluso aquel a quien beneficia la traición porque puede suponer una amenaza.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58908&Lng=0',
-    id: '58908'
+    slug: 'la-traicion-aplace-mas-no-el-que-la-hace',
+    id: 58908
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12975,8 +13007,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58909&Lng=0',
-    id: '58909'
+    slug: 'la-union-hace-la-fuerza',
+    id: 58909
   },
   {
     proverb_type: 'Frase proverbial',
@@ -12989,8 +13021,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se pueden añadir elementos en la forma clásica del refrán: «La venganza y el cangrejo de río, se sirven en plato frío».',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58910&Lng=0',
-    id: '58910'
+    slug: 'la-venganza-es-un-plato-que-se-sirve-frio',
+    id: 58910
   },
   {
     proverb_type: 'Refrán',
@@ -13003,8 +13035,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese la frase de Tito Livio Veritas laborare potest, vinci non potest (Cantera2005a).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58911&Lng=0',
-    id: '58911'
+    slug: 'la-verdad-adelgaza-pero-no-quiebra',
+    id: 58911
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13018,8 +13050,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58912&Lng=0',
-    id: '58912'
+    slug: 'la-verdad-es-amarga',
+    id: 58912
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13032,8 +13064,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La verdad siempre anda sobre la mentira; como el aceite sobre el agua (El Quijote II 10). La verdad es la que he dicho, y es la que ha de andar siempre sobre al mentira, como el aceite sobre el agua (El Quijote II 50).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58913&Lng=0',
-    id: '58913'
+    slug: 'la-verdad-es-hija-del-tiempo',
+    id: 58913
   },
   {
     proverb_type: 'Refrán',
@@ -13046,8 +13078,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58914&Lng=0',
-    id: '58914'
+    slug: 'la-verdad-como-el-aceite-quedan-encima-siempre',
+    id: 58914
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13061,8 +13093,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58915&Lng=0',
-    id: '58915'
+    slug: 'la-vida-no-es-un-camino-de-rosas',
+    id: 58915
   },
   {
     proverb_type: 'Refrán',
@@ -13076,15 +13108,15 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58917&Lng=0',
-    id: '58917'
+    slug: 'la-vina-y-el-potro-crielos-otro',
+    id: 58917
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'La viuda rica hace que llora y repica',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Interés',
       'Matrimonio',
       'Amor'
@@ -13093,8 +13125,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Las campanadas de la iglesia han constituido un lenguaje hasta no hace mucho: cuando no había bomberos, se anunciaba la existencia de fuego con un toque de alarma. En algunos pueblos, todavía hoy se indica con un determinado toque el fallecimiento de un vecino o la celebración del funeral, así como la celebración de festejos (bodas, la misa mayor).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58918&Lng=0',
-    id: '58918'
+    slug: 'la-viuda-rica-hace-que-llora-y-repica',
+    id: 58918
   },
   {
     proverb_type: 'Refrán',
@@ -13102,29 +13134,29 @@ export const PROVERBS_DATA = [
     proverb: 'Labrador chuchero, nunca buen apero',
     tags: [
       'Pereza',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Se refiere al labrador que no avanza en las tareas agrícolas por distraerse con la caza. De modo más general, señala que resulta difícil hacer compatible la diversión y el trabajo.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58919&Lng=0',
-    id: '58919'
+    slug: 'labrador-chuchero-nunca-buen-apero',
+    id: 58919
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Labrador de capa negra, poco medra',
     tags: [
-      'Oficios',
-      'Despilfarro'
+      'Oficio',
+      'Ostentación'
     ],
     meaning: 'Quien vive por encima de sus posibilidades, especialmente en su atuendo, difícilmente prosperará, más bien se arruinará.',
     usable: 'En desuso',
     observations: 'En otro tiempo la capa negra era signo de distinción y propia de la gente cortesana. La gente sencilla la llevaba de color pardo, menos costosa y menos delicada para conservar bien durante las labores del campo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58920&Lng=0',
-    id: '58920'
+    slug: 'labrador-de-capa-negra-poco-medra',
+    id: 58920
   },
   {
     proverb_type: 'Refrán',
@@ -13132,15 +13164,15 @@ export const PROVERBS_DATA = [
     proverb: 'Labradores nuevos, mal para los sembrados',
     tags: [
       'Perjuicio',
-      'Oficios',
+      'Oficio',
       'Inexperiencia'
     ],
     meaning: 'Alude al perjuicio que puede causar alguien inexperto en una actividad laboral.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58921&Lng=0',
-    id: '58921'
+    slug: 'labradores-nuevos-mal-para-los-sembrados',
+    id: 58921
   },
   {
     proverb_type: 'Refrán',
@@ -13153,8 +13185,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58922&Lng=0',
-    id: '58922'
+    slug: 'labrandera-buena-hebra-pequena-labrandera-mala-hebra-de-a-vara',
+    id: 58922
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -13167,8 +13199,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58923&Lng=0',
-    id: '58923'
+    slug: 'ladreme-el-perro-y-no-me-muerda',
+    id: 58923
   },
   {
     proverb_type: 'Refrán',
@@ -13181,36 +13213,37 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58924&Lng=0',
-    id: '58924'
+    slug: 'lagrimas-quebrantan-penas',
+    id: 58924
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'Las apariencias engañan',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'El exterior de personas y cosas contribuye a hacerse una opiniónpor lo general equivocada, por lo que no se debe juzgar a las personas sólo por su apariencia.',
     usable: 'Muy usado',
     observations: '',
     comments: 'Se puede utilizar en modalidad negativa: Las apariencias no engañan tanto (fuente oral, junio de 2013).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58925&Lng=0',
-    id: '58925'
+    slug: 'las-apariencias-enganan',
+    id: 58925
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Las armas de fuego, cuanto más lejos, mejor',
     tags: [
-      'Peligro'
+      'Peligro',
+      'Rechazo'
     ],
     meaning: 'Advierte de la peligrosidad de las armas de fuego si las manejas alguien inexperto o si su uso lleva a las consiguientes desgraciadas consecuencias.',
     usable: 'Poco usado',
     observations: 'Otro refrán relaciona las armas y el dinero: Armas y dineros, buenas manos quieren (Sbarbi, «arma»).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58926&Lng=0',
-    id: '58926'
+    slug: 'las-armas-de-fuego-cuanto-mas-lejos-mejor',
+    id: 58926
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13223,8 +13256,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58927&Lng=0',
-    id: '58927'
+    slug: 'las-burlas-se-vuelven-veras',
+    id: 58927
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13237,22 +13270,22 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Toda comparación es odiosa (La Celestina IX 35). Las comparaciones son siempre odiosas (El Quijote II 23). Toda comparación es odiosa (El Quijote II 23).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58928&Lng=0',
-    id: '58928'
+    slug: 'las-comparaciones-son-odiosas',
+    id: 58928
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Las cosas de palacio van despacio',
     tags: [
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Denota la lentitud con que se realiza algo, en especial los trámites burocráticos de la Administración.',
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58929&Lng=0',
-    id: '58929'
+    slug: 'las-cosas-de-palacio-van-despacio',
+    id: 58929
   },
   {
     proverb_type: 'Refrán',
@@ -13260,14 +13293,14 @@ export const PROVERBS_DATA = [
     proverb: 'Las cuentas claras, y el chocolate espeso',
     tags: [
       'Amistad',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'No conviene mezclar la amistad con los negocios, pues se puede correr el riesgo de perderla.',
     usable: 'De uso actual',
     observations: '',
     comments: 'En bastantes ocasiones, un interlocutor dice solo la primera parte (Las cuentas claras) y, en algunas ocasiones, otro interlocutor responde con el final del refrán (y el chocolate espeso).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58930&Lng=0',
-    id: '58930'
+    slug: 'las-cuentas-claras-y-el-chocolate-espeso',
+    id: 58930
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13280,8 +13313,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Un mal llama a otro (El Quijote I 28).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58931&Lng=0',
-    id: '58931'
+    slug: 'las-desgracias-nunca-vienen-solas',
+    id: 58931
   },
   {
     proverb_type: 'Refrán',
@@ -13296,8 +13329,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58932&Lng=0',
-    id: '58932'
+    slug: 'las-madres-hacendosas-hacen-las-hijas-perezosas',
+    id: 58932
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13310,8 +13343,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58933&Lng=0',
-    id: '58933'
+    slug: 'las-malas-noticias-vuelan',
+    id: 58933
   },
   {
     proverb_type: 'Refrán',
@@ -13324,23 +13357,23 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58934&Lng=0',
-    id: '58934'
+    slug: 'las-mananitas-de-abril-son-muy-dulces-de-dormir',
+    id: 58934
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Las palabras vuelan, y lo escrito permanece',
     tags: [
-      'Negocios',
+      'Negocio',
       'Promesa'
     ],
     meaning: 'Recomienda poner por escrito cualquier acuerdo establecido con otra persona, por ser la forma más eficaz de demostrar que tal acuerdo existe. Advierte, pues, contra quienes no cumplen su palabra.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58935&Lng=0',
-    id: '58935'
+    slug: 'las-palabras-vuelan-y-lo-escrito-permanece',
+    id: 58935
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13353,8 +13386,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado en El Quijote II 48. Esta paremia sirvió de título a una comedia de Juan Ruiz de Alarcón y Mendoza (1628).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58936&Lng=0',
-    id: '58936'
+    slug: 'las-paredes-oyen',
+    id: 58936
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13367,8 +13400,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se oye en una canción de 2009 ([...] que las prisas no son buenas). Puede producirse un cambio en el tiempo: Las prisa nunca fueron buenas.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58937&Lng=0',
-    id: '58937'
+    slug: 'las-prisas-nunca-son-buenas',
+    id: 58937
   },
   {
     proverb_type: 'Refrán',
@@ -13382,8 +13415,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refranero alude al estudio realizado por la noche, en particular en víspera de exámenes: Lección dormida, lección aprendida (Sbarbi, «lección»).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58938&Lng=0',
-    id: '58938'
+    slug: 'leccion-bien-aprendida-tarde-o-nunca-se-olvida',
+    id: 58938
   },
   {
     proverb_type: 'Refrán',
@@ -13397,8 +13430,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en La Dorotea I 61.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58939&Lng=0',
-    id: '58939'
+    slug: 'libro-cerrado-no-saca-letrado',
+    id: 58939
   },
   {
     proverb_type: 'Refrán',
@@ -13411,8 +13444,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58940&Lng=0',
-    id: '58940'
+    slug: 'libro-prestado-libro-perdido',
+    id: 58940
   },
   {
     proverb_type: 'Refrán',
@@ -13425,8 +13458,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58941&Lng=0',
-    id: '58941'
+    slug: 'llagas-viejas-tarde-sanan',
+    id: 58941
   },
   {
     proverb_type: 'Refrán',
@@ -13441,8 +13474,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58942&Lng=0',
-    id: '58942'
+    slug: 'llora-el-nino-por-su-bien-mas-el-viejo-por-su-mal',
+    id: 58942
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13456,8 +13489,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58943&Lng=0',
-    id: '58943'
+    slug: 'lo-barato-sale-caro',
+    id: 58943
   },
   {
     proverb_type: 'Refrán',
@@ -13471,8 +13504,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58944&Lng=0',
-    id: '58944'
+    slug: 'lo-bien-hecho-bien-parece',
+    id: 58944
   },
   {
     proverb_type: 'Refrán',
@@ -13486,8 +13519,8 @@ export const PROVERBS_DATA = [
     usable: '',
     observations: 'Nunca lo bueno fue mucho (El Quijote I 6).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58945&Lng=0',
-    id: '58945'
+    slug: 'lo-bueno-poco-dura',
+    id: 58945
   },
   {
     proverb_type: 'Aforismo',
@@ -13500,8 +13533,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Frase muy popularizada escrita por Baltasar Gracián en el Oráculo manual y arte de prudencia (Huesca: Juan Nogues, 1647), quien añadía: «Y aun lo malo, si poco, no tan malo». Esta obra literaria pertenece a la prosa didáctica de Gracián; comprende trescientos aforismos comentados, los cuales constituyen un conjunto de normas para triunfar en la sociedad contemporánea a Gracián, el Barroco.\nEn muchas ocasiones, se dice: Lo breve, si bueno, dos veces bueno.',
     comments: 'Con fecuencia se dice solo la primera parte: Lo bueno, si breve.....',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58946&Lng=0',
-    id: '58946'
+    slug: 'lo-bueno-si-breve-dos-veces-bueno',
+    id: 58946
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13514,8 +13547,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58947&Lng=0',
-    id: '58947'
+    slug: 'lo-comido-es-lo-seguro',
+    id: 58947
   },
   {
     proverb_type: 'Locución proverbial',
@@ -13528,8 +13561,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Existe la locución Irse frutos por pensión.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58948&Lng=0',
-    id: '58948'
+    slug: 'lo-comido-por-lo-servido',
+    id: 58948
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13542,8 +13575,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58949&Lng=0',
-    id: '58949'
+    slug: 'lo-cortes-no-quita-lo-valiente',
+    id: 58949
   },
   {
     proverb_type: 'Refrán',
@@ -13556,8 +13589,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58950&Lng=0',
-    id: '58950'
+    slug: 'lo-fiado-rara-vez-pagado',
+    id: 58950
   },
   {
     proverb_type: 'Refrán',
@@ -13570,8 +13603,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58951&Lng=0',
-    id: '58951'
+    slug: 'lo-hallado-no-es-hurtado',
+    id: 58951
   },
   {
     proverb_type: 'Refrán',
@@ -13584,8 +13617,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58952&Lng=0',
-    id: '58952'
+    slug: 'lo-heredado-es-regalado-y-lo-comprado-sudado',
+    id: 58952
   },
   {
     proverb_type: 'Refrán',
@@ -13598,8 +13631,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58953&Lng=0',
-    id: '58953'
+    slug: 'lo-mas-encomendado-lleva-el-gato',
+    id: 58953
   },
   {
     proverb_type: 'Refrán',
@@ -13612,8 +13645,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58954&Lng=0',
-    id: '58954'
+    slug: 'lo-mio-mio-y-lo-tuyo-de-entrambos',
+    id: 58954
   },
   {
     proverb_type: 'Refrán',
@@ -13626,8 +13659,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58955&Lng=0',
-    id: '58955'
+    slug: 'lo-olvidado-ni-agradecido-ni-pagado',
+    id: 58955
   },
   {
     proverb_type: 'Refrán',
@@ -13640,8 +13673,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58956&Lng=0',
-    id: '58956'
+    slug: 'lo-poco-agrada-lo-mucho-enfada',
+    id: 58956
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13654,8 +13687,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El refrán Cosa prometida es medio debida conoce una versión más larga: Cosa prometida es medio debida; y debida enteramente si quien promete no miente. El refrán Ni al niño el bollo, ni al santo el voto recurre a referentes concretos para enseñar que se debe cumplir todo lo que se promete.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58957&Lng=0',
-    id: '58957'
+    slug: 'lo-prometido-es-deuda',
+    id: 58957
   },
   {
     proverb_type: 'Refrán',
@@ -13669,8 +13702,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58958&Lng=0',
-    id: '58958'
+    slug: 'lo-que-a-unos-mata-a-otros-sana',
+    id: 58958
   },
   {
     proverb_type: 'Refrán',
@@ -13683,8 +13716,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58959&Lng=0',
-    id: '58959'
+    slug: 'lo-que-abunda-no-dana',
+    id: 58959
   },
   {
     proverb_type: 'Refrán',
@@ -13697,8 +13730,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58960&Lng=0',
-    id: '58960'
+    slug: 'lo-que-bien-empieza-bien-acaba',
+    id: 58960
   },
   {
     proverb_type: 'Frase proverbial',
@@ -13712,8 +13745,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58961&Lng=0',
-    id: '58961'
+    slug: 'lo-que-cuesta-poco-se-estima-en-menos',
+    id: 58961
   },
   {
     proverb_type: 'Refrán',
@@ -13726,8 +13759,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58962&Lng=0',
-    id: '58962'
+    slug: 'lo-que-de-noche-se-hace-a-la-manana-parece',
+    id: 58962
   },
   {
     proverb_type: 'Refrán',
@@ -13741,8 +13774,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58963&Lng=0',
-    id: '58963'
+    slug: 'lo-que-el-nino-oyo-en-el-hogar-eso-dice-en-el-portal',
+    id: 58963
   },
   {
     proverb_type: 'Refrán',
@@ -13756,8 +13789,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58964&Lng=0',
-    id: '58964'
+    slug: 'lo-que-en-la-leche-se-mama-en-la-mortaja-se-derrama',
+    id: 58964
   },
   {
     proverb_type: 'Refrán',
@@ -13770,8 +13803,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58965&Lng=0',
-    id: '58965'
+    slug: 'lo-que-en-los-libros-no-esta-la-vida-te-lo-ensenara',
+    id: 58965
   },
   {
     proverb_type: 'Refrán',
@@ -13784,8 +13817,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58966&Lng=0',
-    id: '58966'
+    slug: 'lo-que-es-comun-es-de-ningun',
+    id: 58966
   },
   {
     proverb_type: 'Refrán',
@@ -13798,8 +13831,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58967&Lng=0',
-    id: '58967'
+    slug: 'lo-que-es-moda-no-incomoda',
+    id: 58967
   },
   {
     proverb_type: 'Refrán',
@@ -13812,8 +13845,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La fuerza es vencida del arte (El Quijote II 19).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58968&Lng=0',
-    id: '58968'
+    slug: 'lo-que-fuerza-no-puede-ingenio-lo-ve',
+    id: 58968
   },
   {
     proverb_type: 'Refrán',
@@ -13826,8 +13859,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58969&Lng=0',
-    id: '58969'
+    slug: 'lo-que-la-loba-hace-al-lobo-le-place',
+    id: 58969
   },
   {
     proverb_type: 'Refrán',
@@ -13840,8 +13873,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58970&Lng=0',
-    id: '58970'
+    slug: 'lo-que-la-naturaleza-da-nadie-lo-borrara',
+    id: 58970
   },
   {
     proverb_type: 'Refrán',
@@ -13854,8 +13887,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58971&Lng=0',
-    id: '58971'
+    slug: 'lo-que-mucho-vale-mucho-cuesta',
+    id: 58971
   },
   {
     proverb_type: 'Proverbio',
@@ -13868,8 +13901,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El 14 de febrero de 2008, en un programa informativo, se jugó con la forma de este refrán para aludir al paso de los años del protagonista de una serie de películas de acción. El resultado fue el siguiente: Lo que la naturaleza no da, la tecnología lo presta. En Salamanca se encuentra una de las universidades españolas más pestigiosas y la primera de Europa que tuvo el título de Universidad y que contaba con biblioteca pública. Por sus aulas pasaron profesores y alumnos muy conocidos, como Fray Luis de León, Fernando de Rojas, San Juan de la Cruz, Antonio de Nebrija, Hernán Cortés, Mateo Alemán, Luis de Góngora, Calderón de la Barca.',
     comments: 'El refrán completo es Lo que no da naturaleza, no lo da Salamanca y menos Baeza, ya que en 1533 también había una universidad en la localidad de Baeza. Fue suprimida en 1824 y convertida en Instituto de Enseñanza Secundaria en 1875.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58972&Lng=0',
-    id: '58972'
+    slug: 'lo-que-natura-no-da-salamanca-no-presta',
+    id: 58972
   },
   {
     proverb_type: 'Refrán',
@@ -13882,8 +13915,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58973&Lng=0',
-    id: '58973'
+    slug: 'lo-que-no-acaece-en-un-ano-sucede-en-un-rato',
+    id: 58973
   },
   {
     proverb_type: 'Refrán',
@@ -13896,22 +13929,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58974&Lng=0',
-    id: '58974'
+    slug: 'lo-que-no-has-de-comer-dejalo-cocer',
+    id: 58974
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Lo que no mata, engorda',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Se emplea cuando se está comiendo algo de calidad dudosa, pero se va a comer todas formas.',
     usable: 'De uso actual',
     observations: 'Antes el estar de buen ver equivalía a estar sano. Como en la actualidad, ya no es así, en ocasiones, se dice otra variante: Lo que no te mata, te hace más fuerte.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58975&Lng=0',
-    id: '58975'
+    slug: 'lo-que-no-mata-engorda',
+    id: 58975
   },
   {
     proverb_type: 'Refrán',
@@ -13924,8 +13957,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En el refranero, se recurre con frecuencia a mis dientes para referirse a uno mismo: Más cerca están mis dientes que mis parientes. Antes son mis dientes que mis parientes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58976&Lng=0',
-    id: '58976'
+    slug: 'lo-que-no-quieras-para-tus-dientes-no-lo-quieras-para-tus-parientes',
+    id: 58976
   },
   {
     proverb_type: 'Refrán',
@@ -13938,8 +13971,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58977&Lng=0',
-    id: '58977'
+    slug: 'lo-que-no-quieres-para-ti-no-lo-quieras-para-mi',
+    id: 58977
   },
   {
     proverb_type: 'Refrán',
@@ -13952,20 +13985,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58978&Lng=0',
-    id: '58978'
+    slug: 'lo-que-no-se-comienza-nunca-se-acaba',
+    id: 58978
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Lo que no se llevan los ladrones, aparece por los rincones',
-    tags: [],
+    tags: [
+      'Pérdida'
+    ],
     meaning: 'Se dice cuando finalmente se encuentra algo que se ha buscado durante mucho tiempo sin éxito.',
     usable: '',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59632&Lng=0',
-    id: '59632'
+    slug: 'lo-que-no-se-llevan-los-ladrones-aparece-por-los-rincones',
+    id: 59632
   },
   {
     proverb_type: 'Refrán',
@@ -13979,8 +14014,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58979&Lng=0',
-    id: '58979'
+    slug: 'lo-que-no-va-en-lagrimas-va-en-suspiros',
+    id: 58979
   },
   {
     proverb_type: 'Refrán',
@@ -13993,8 +14028,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58980&Lng=0',
-    id: '58980'
+    slug: 'lo-que-otro-suda-a-mi-poco-me-dura',
+    id: 58980
   },
   {
     proverb_type: 'Refrán',
@@ -14008,8 +14043,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58981&Lng=0',
-    id: '58981'
+    slug: 'lo-que-poco-cuesta-poco-se-aprecia',
+    id: 58981
   },
   {
     proverb_type: 'Refrán',
@@ -14023,22 +14058,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58982&Lng=0',
-    id: '58982'
+    slug: 'lo-que-se-aprende-en-la-cuna-siempre-dura',
+    id: 58982
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'Lo que sea sonará',
     tags: [
-      'Aprobación'
+      'Conformidad'
     ],
     meaning: 'Se dice para expresar conformidad ante una situación. No debe uno preocuparse por lo que todavía no ha sucedido y, por consiguiente, debe esperar el resultado con calma.',
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58983&Lng=0',
-    id: '58983'
+    slug: 'lo-que-sea-sonara',
+    id: 58983
   },
   {
     proverb_type: 'Refrán',
@@ -14051,22 +14086,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58984&Lng=0',
-    id: '58984'
+    slug: 'lo-que-uno-desecha-a-otro-aprovecha',
+    id: 58984
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'Lobo a lobo no se muerden',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Las personas con intereses idénticos disimulan mutuamente sus defectos.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58985&Lng=0',
-    id: '58985'
+    slug: 'lobo-a-lobo-no-se-muerden',
+    id: 58985
   },
   {
     proverb_type: 'Refrán',
@@ -14080,8 +14115,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58986&Lng=0',
-    id: '58986'
+    slug: 'loca-es-la-oveja-que-al-lobo-se-confiesa',
+    id: 58986
   },
   {
     proverb_type: 'Refrán',
@@ -14095,8 +14130,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58987&Lng=0',
-    id: '58987'
+    slug: 'loco-que-sabe-callar-por-cuerdo-es-tenido',
+    id: 58987
   },
   {
     proverb_type: 'Refrán',
@@ -14109,8 +14144,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58988&Lng=0',
-    id: '58988'
+    slug: 'los-amigos-de-mis-amigos-son-mis-amigos',
+    id: 58988
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14123,8 +14158,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58989&Lng=0',
-    id: '58989'
+    slug: 'los-anos-no-pasan-en-balde',
+    id: 58989
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14137,8 +14172,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58990&Lng=0',
-    id: '58990'
+    slug: 'los-arboles-no-dejan-ver-el-bosque',
+    id: 58990
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14151,8 +14186,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Del peligro de los celos advierte el refrán Los celos, a las veces, despiertan a quien duerme (Correas L1477).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58991&Lng=0',
-    id: '58991'
+    slug: 'los-celos-son-malos-consejeros',
+    id: 58991
   },
   {
     proverb_type: 'Refrán',
@@ -14165,8 +14200,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58992&Lng=0',
-    id: '58992'
+    slug: 'los-dineros-del-sacristan-cantando-se-vienen-cantando-se-van',
+    id: 58992
   },
   {
     proverb_type: 'Refrán',
@@ -14180,8 +14215,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Los duelos con pan son buenos (La Lozana Andaluza 81). El Quijote II 13). Todos los duelos con pan son buenos (Valdés 166 y El Quijote II 55). Duelos con pan son buenos (La Pícara Justina II 243).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58993&Lng=0',
-    id: '58993'
+    slug: 'los-duelos-con-pan-son-menos',
+    id: 58993
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14194,8 +14229,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58994&Lng=0',
-    id: '58994'
+    slug: 'los-extremos-se-tocan',
+    id: 58994
   },
   {
     proverb_type: 'Refrán',
@@ -14209,8 +14244,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58995&Lng=0',
-    id: '58995'
+    slug: 'los-hombres-ganan-la-hacienda-y-las-mujeres-la-conservan',
+    id: 58995
   },
   {
     proverb_type: 'Refrán',
@@ -14223,8 +14258,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58996&Lng=0',
-    id: '58996'
+    slug: 'los-huespedes-mucho-gusto-dan-pero-cuando-se-van',
+    id: 58996
   },
   {
     proverb_type: 'Refrán',
@@ -14238,22 +14273,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58997&Lng=0',
-    id: '58997'
+    slug: 'los-malos-tragos-hay-que-pasarlos-pronto',
+    id: 58997
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'Los negocios son los negocios',
     tags: [
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'En cuestiones económicas no se puede tener en cuenta la amistad.',
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58998&Lng=0',
-    id: '58998'
+    slug: 'los-negocios-son-los-negocios',
+    id: 58998
   },
   {
     proverb_type: 'Refrán',
@@ -14267,8 +14302,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Los locos son los que dicen las verdades (La Lozana Andaluza 278). Sobre su origen resulta interesante la explicación de Martín Sarmiento en el siglo XVIII: «El Adagio Español, Los niños, y los locos dicen las verdades, anda en voca de muchos; pero su origen, è inteligencia no se estudia en los corrillos, ni en las narrativas adagiales de Sancho Panza. El Adagio es tomado de los Romanos: estos lo tomaron de los Griegos; y el Latino, In vino veritas» (Martín Sarmiento, Demostración critico apologética del theatro critico universal. Madrid: Imprenta Real de la Gazeta, 1779, tercera impresión, tomo II, p. 63).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58999&Lng=0',
-    id: '58999'
+    slug: 'los-ninos-y-los-locos-dicen-las-verdades',
+    id: 58999
   },
   {
     proverb_type: 'Aforismo',
@@ -14281,8 +14316,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se suele emplear la locución No casarse con nadie con el sujeto al que se refiere la situación.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59000&Lng=0',
-    id: '59000'
+    slug: 'los-reyes-y-los-jueces-no-se-casan-con-nadie',
+    id: 59000
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14295,8 +14330,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59001&Lng=0',
-    id: '59001'
+    slug: 'los-tiempos-cambian',
+    id: 59001
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14309,8 +14344,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Relacionada formalmente con este refrán, hay una locución: Ver los toros desde la barrera. Existen también las locuciones Ver los toros desde talanquera, Ver los toros desde una ventana (Sbarbi, «toro»). Refrán taurino que ha adquirido un sentido general para referirse al peligro en general.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59002&Lng=0',
-    id: '59002'
+    slug: 'los-toros-se-ven-mejor-desde-la-barrera',
+    id: 59002
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14323,8 +14358,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se emplea con frecuencia para aludir a la violencia de género.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59003&Lng=0',
-    id: '59003'
+    slug: 'los-trapos-sucios-se-lavan-en-casa',
+    id: 59003
   },
   {
     proverb_type: 'Proverbio',
@@ -14337,8 +14372,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59654&Lng=0',
-    id: '59654'
+    slug: 'los-ultimos-seran-los-primeros',
+    id: 59654
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -14351,8 +14386,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59004&Lng=0',
-    id: '59004'
+    slug: 'luna-con-cerco-lluvia-y-viento',
+    id: 59004
   },
   {
     proverb_type: 'Refrán',
@@ -14365,8 +14400,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59005&Lng=0',
-    id: '59005'
+    slug: 'madrastra-madre-aspera-ni-de-cera-ni-de-pasta',
+    id: 59005
   },
   {
     proverb_type: 'Refrán',
@@ -14379,8 +14414,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Refrán muy utilizado, lo que se aprecia en el hecho de que con frecuencia se emplea sólo una parte: unas veces la primera (Mal de muchos), otras la segunda (consuelo de tontos). En ocasiones, se altera la forma clásica: Mal para muchos y beneficio para pocos, con motivo de la nueva factura eléctrica mensual que perjudica a 400.000 hogares (adn, viernes 6 de marzo de 2009, p. 3).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59006&Lng=0',
-    id: '59006'
+    slug: 'mal-de-muchos-consuelo-de-tontos',
+    id: 59006
   },
   {
     proverb_type: 'Refrán',
@@ -14394,8 +14429,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59007&Lng=0',
-    id: '59007'
+    slug: 'mal-me-quieren-mis-comadres-porque-les-digo-las-verdades',
+    id: 59007
   },
   {
     proverb_type: 'Refrán',
@@ -14408,8 +14443,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59008&Lng=0',
-    id: '59008'
+    slug: 'mal-para-quien-calla-y-peor-para-quien-habla',
+    id: 59008
   },
   {
     proverb_type: 'Refrán',
@@ -14422,8 +14457,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59009&Lng=0',
-    id: '59009'
+    slug: 'malas-son-de-guardar-las-vinas-en-septiembre-y-las-doncellas-siempre',
+    id: 59009
   },
   {
     proverb_type: 'Frase proverbial',
@@ -14437,8 +14472,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'La forma Mañana será otro día, y verá el tuerto los espárragos se enmarca dentro de la categoría paremiológica de dialogismo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59014&Lng=0',
-    id: '59014'
+    slug: 'manana-sera-otro-dia',
+    id: 59014
   },
   {
     proverb_type: 'Refrán',
@@ -14451,8 +14486,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59015&Lng=0',
-    id: '59015'
+    slug: 'mananita-de-niebla-tarde-de-paseo',
+    id: 59015
   },
   {
     proverb_type: 'Refrán',
@@ -14465,8 +14500,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59010&Lng=0',
-    id: '59010'
+    slug: 'mandar-no-quiere-par',
+    id: 59010
   },
   {
     proverb_type: 'Refrán',
@@ -14479,8 +14514,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59011&Lng=0',
-    id: '59011'
+    slug: 'manitas-que-no-dais-que-esperais',
+    id: 59011
   },
   {
     proverb_type: 'Refrán',
@@ -14493,8 +14528,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59012&Lng=0',
-    id: '59012'
+    slug: 'manos-duchas-comen-truchas',
+    id: 59012
   },
   {
     proverb_type: 'Refrán',
@@ -14507,8 +14542,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59013&Lng=0',
-    id: '59013'
+    slug: 'manos-frias-corazon-caliente',
+    id: 59013
   },
   {
     proverb_type: 'Refrán',
@@ -14522,8 +14557,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59016&Lng=0',
-    id: '59016'
+    slug: 'marido-celoso-no-tiene-reposo',
+    id: 59016
   },
   {
     proverb_type: 'Refrán',
@@ -14536,8 +14571,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'En la misma línea, hay otros refranes alusivos al mes de marzo: Marzo pardo, señal de buen año.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59017&Lng=0',
-    id: '59017'
+    slug: 'marzo-ventoso-y-abril-lluvioso-sacan-a-mayo-florido-y-hermoso',
+    id: 59017
   },
   {
     proverb_type: 'Refrán',
@@ -14550,8 +14585,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59018&Lng=0',
-    id: '59018'
+    slug: 'mas-ablanda-el-dinero-que-palabras-de-caballero',
+    id: 59018
   },
   {
     proverb_type: 'Refrán',
@@ -14564,8 +14599,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59019&Lng=0',
-    id: '59019'
+    slug: 'mas-caga-un-buey-que-cien-golondrinos',
+    id: 59019
   },
   {
     proverb_type: 'Refrán',
@@ -14580,8 +14615,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59020&Lng=0',
-    id: '59020'
+    slug: 'mas-corre-el-cojo-que-el-sano',
+    id: 59020
   },
   {
     proverb_type: 'Refrán',
@@ -14594,8 +14629,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En otro tiempo, se practicaba la sangría para curar la congestión producida por el exceso de comida.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58424&Lng=0',
-    id: '58424'
+    slug: 'mas-cura-la-dieta-que-la-lanceta',
+    id: 58424
   },
   {
     proverb_type: 'Refrán',
@@ -14609,8 +14644,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59021&Lng=0',
-    id: '59021'
+    slug: 'mas-dano-hacen-amigos-necios-que-enemigos-descubiertos',
+    id: 59021
   },
   {
     proverb_type: 'Refrán',
@@ -14624,8 +14659,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59022&Lng=0',
-    id: '59022'
+    slug: 'mas-discurre-un-hambriento-que-cien-letrados',
+    id: 59022
   },
   {
     proverb_type: 'Refrán',
@@ -14638,8 +14673,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El lobo es un animal salvaje muy presente e importante en el ámbito rural, donde se utilizaban comúnmente refranes, por lo que constituye un referente habitual en el refranero.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59023&Lng=0',
-    id: '59023'
+    slug: 'mas-hace-el-lobo-callando-que-el-perro-ladrando',
+    id: 59023
   },
   {
     proverb_type: 'Refrán',
@@ -14652,8 +14687,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59024&Lng=0',
-    id: '59024'
+    slug: 'mas-hace-el-que-quiere-que-el-que-puede',
+    id: 59024
   },
   {
     proverb_type: 'Refrán',
@@ -14667,8 +14702,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Avicena fue un reputado médico y filósofo árabe (980-1037). Existe otro refrán que relaciona Avicena con la cena: Más vale un no cena que cien Avicenas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59025&Lng=0',
-    id: '59025'
+    slug: 'mas-mato-la-cena-que-sano-avicena',
+    id: 59025
   },
   {
     proverb_type: 'Refrán',
@@ -14681,8 +14716,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59026&Lng=0',
-    id: '59026'
+    slug: 'mas-moscas-se-cogen-con-miel-que-con-hiel',
+    id: 59026
   },
   {
     proverb_type: 'Refrán',
@@ -14696,8 +14731,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59027&Lng=0',
-    id: '59027'
+    slug: 'mas-quiero-libertad-con-pobreza-que-prision-con-riqueza',
+    id: 59027
   },
   {
     proverb_type: 'Refrán',
@@ -14711,8 +14746,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'En esta misma línea temática se encuentra la paremia No quiero saber por diablo lo que por viejo se me escapa (Melendi), recogida, por ejemplo, en la canción «Canción de amor caducada»: «No quiero cantos de sirenas / no quiero nudos de garganta / no quiero bailar con la pena / porque me da miedo pisarla / no quiero saber de lo que hablo / no quiero andarme por las ramas / no quiero saber por diablo / lo que por viejo se me escapa».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59028&Lng=0',
-    id: '59028'
+    slug: 'mas-sabe-el-diablo-por-viejo-que-por-diablo',
+    id: 59028
   },
   {
     proverb_type: 'Refrán',
@@ -14725,22 +14760,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Más sabe el necio en su casa que el cuerdo en la ajena (El Quijote II 43).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59029&Lng=0',
-    id: '59029'
+    slug: 'mas-sabe-el-loco-en-su-casa-que-el-cuerdo-en-la-ajena',
+    id: 59029
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Más se consigue lamiendo que mordiendo',
     tags: [
-      'Adulación'
+      'Afabilidad'
     ],
     meaning: 'Con amabilidad y adulación se obtienen más cosas que por la fuerza.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59085&Lng=0',
-    id: '59085'
+    slug: 'mas-se-consigue-lamiendo-que-mordiendo',
+    id: 59085
   },
   {
     proverb_type: 'Refrán',
@@ -14753,8 +14788,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Aparece en El Quijote I 18. Don Quijote lo emplea después del descalabro que sufre en la aventura con los pastores. Del valor de los dientes tratan otros refranes, como Antes son mis dientes que mis parientes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59030&Lng=0',
-    id: '59030'
+    slug: 'mas-se-ha-de-estimar-un-diente-que-un-diamante',
+    id: 59030
   },
   {
     proverb_type: 'Refrán',
@@ -14767,8 +14802,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59031&Lng=0',
-    id: '59031'
+    slug: 'mas-tira-moza-que-soga',
+    id: 59031
   },
   {
     proverb_type: 'Refrán',
@@ -14781,8 +14816,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Más vale a quien Dios ayuda que a quien mucho madruga (La Celestina VIII 15). Más vale al que Dios ayuda que al que mucho madruga (El Quijote II 34). Recuérdese el refrán A quien madruga, Dios le ayuda.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59032&Lng=0',
-    id: '59032'
+    slug: 'mas-vale-a-quien-dios-ayuda-que-a-quien-mucho-madruga',
+    id: 59032
   },
   {
     proverb_type: 'Refrán',
@@ -14795,8 +14830,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59033&Lng=0',
-    id: '59033'
+    slug: 'mas-vale-agua-del-cielo-que-todo-el-riego',
+    id: 59033
   },
   {
     proverb_type: 'Refrán',
@@ -14809,8 +14844,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en El Quijote I 21. El refrán Mejor es pan duro que ninguno tiene una variante más larga: Al pan duro, duro, duro; que más vale lo duro que ninguno.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59034&Lng=0',
-    id: '59034'
+    slug: 'mas-vale-algo-que-nada',
+    id: 59034
   },
   {
     proverb_type: 'Refrán',
@@ -14823,8 +14858,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59035&Lng=0',
-    id: '59035'
+    slug: 'mas-vale-amigos-en-la-plaza-que-dineros-en-el-arca',
+    id: 59035
   },
   {
     proverb_type: 'Refrán',
@@ -14837,8 +14872,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Relacionada con la discreción en el hablar existe la siguiente máxima: Eres dueño de lo que callas y esclavo de lo que dices.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59036&Lng=0',
-    id: '59036'
+    slug: 'mas-vale-buen-callar-que-mal-hablar',
+    id: 59036
   },
   {
     proverb_type: 'Refrán',
@@ -14852,8 +14887,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59037&Lng=0',
-    id: '59037'
+    slug: 'mas-vale-buen-vecino-que-pariente-ni-primo',
+    id: 59037
   },
   {
     proverb_type: 'Refrán',
@@ -14866,8 +14901,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en El Quijote II 65. Existe una variante recogida en El Quijote II 7: Vale más buena esperanza que ruin posesión.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59038&Lng=0',
-    id: '59038'
+    slug: 'mas-vale-buena-esperanza-que-ruin-posesion',
+    id: 59038
   },
   {
     proverb_type: 'Refrán',
@@ -14880,8 +14915,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Más vale el buen nombre que las muchas riquezas (El Quijote II 33).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59039&Lng=0',
-    id: '59039'
+    slug: 'mas-vale-buena-fama-que-dorada-cama',
+    id: 59039
   },
   {
     proverb_type: 'Refrán',
@@ -14894,8 +14929,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59040&Lng=0',
-    id: '59040'
+    slug: 'mas-vale-burro-sano-que-sabio-enfermo',
+    id: 59040
   },
   {
     proverb_type: 'Refrán',
@@ -14908,8 +14943,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Un informante señala que se dice esta paremia para expresar de manera resignada que, «cuando otros forman un buen concepto de alguien (caer en gracia), se lleva ventaja con respecto al que de verdad posee dones que le harían merecedor de una buena acogida y valoración». Otros informantes, basándose en la segunda acepción de «gracioso» («chistoso»), emplean esta paremia para indicar que resulta más ventajoso causar buena impresión que ser un chistoso.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59041&Lng=0',
-    id: '59041'
+    slug: 'mas-vale-caer-en-gracia-que-ser-gracioso',
+    id: 59041
   },
   {
     proverb_type: 'Refrán',
@@ -14922,23 +14957,23 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59042&Lng=0',
-    id: '59042'
+    slug: 'mas-vale-dar-algo-que-prestar-largo',
+    id: 59042
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Más vale estar solo que mal acompañado',
     tags: [
-      'Compañías',
+      'Compañía',
       'Libertad'
     ],
     meaning: 'Manifiesta que es preferible la soledad a una mala compañía.',
     usable: 'De uso actual',
     observations: 'Valiera más solo que mal acompañado (La Celestina II 123). Más vale señero que con ruin compañero (Correas 635). Del refrán Más vale solo andar que mal casar existe también la variante Más vale soltero que mal casar. En una canción escuchada en 2008 aparece la variante Solo mejor que mal acompañado.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59043&Lng=0',
-    id: '59043'
+    slug: 'mas-vale-estar-solo-que-mal-acompanado',
+    id: 59043
   },
   {
     proverb_type: 'Refrán',
@@ -14951,8 +14986,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59044&Lng=0',
-    id: '59044'
+    slug: 'mas-vale-gastar-en-pan-que-en-botica',
+    id: 59044
   },
   {
     proverb_type: 'Refrán',
@@ -14965,8 +15000,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Del bien acuchillado se hace el buen cirujano (Covarrubias). Es más cierto médico el experimentado que el letrado (La Celestina V 195).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59045&Lng=0',
-    id: '59045'
+    slug: 'mas-vale-la-practica-que-la-gramatica',
+    id: 59045
   },
   {
     proverb_type: 'Refrán',
@@ -14979,8 +15014,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59046&Lng=0',
-    id: '59046'
+    slug: 'mas-vale-la-salsa-que-los-caracoles',
+    id: 59046
   },
   {
     proverb_type: 'Refrán',
@@ -14993,8 +15028,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59047&Lng=0',
-    id: '59047'
+    slug: 'mas-vale-llegar-a-tiempo-que-rondar-un-ano',
+    id: 59047
   },
   {
     proverb_type: 'Refrán',
@@ -15007,8 +15042,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59048&Lng=0',
-    id: '59048'
+    slug: 'mas-vale-malo-conocido-que-bueno-por-conocer',
+    id: 59048
   },
   {
     proverb_type: 'Refrán',
@@ -15021,8 +15056,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59049&Lng=0',
-    id: '59049'
+    slug: 'mas-vale-mana-que-fuerza',
+    id: 59049
   },
   {
     proverb_type: 'Refrán',
@@ -15035,8 +15070,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59050&Lng=0',
-    id: '59050'
+    slug: 'mas-vale-morir-con-honra-que-vivir-con-deshonra',
+    id: 59050
   },
   {
     proverb_type: 'Refrán',
@@ -15050,8 +15085,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59051&Lng=0',
-    id: '59051'
+    slug: 'mas-vale-onza-de-sangre-que-libra-de-amistad',
+    id: 59051
   },
   {
     proverb_type: 'Refrán',
@@ -15065,8 +15100,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Más vale pájaro en mano que buitre volando (El Quijote I 31 y II 12).  [Más vale] el pájaro en la mano que el buitre volando (El Quijote II 71). No dejes lo ganado por lo que has de ganar (Libro de Buen Amor 994). El refrán Haced poleadas y ahorraréis hogazas aconseja conformarse con algo mediano cuando no se puede aspirar a algo mejor.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59052&Lng=0',
-    id: '59052'
+    slug: 'mas-vale-pajaro-en-mano-que-ciento-volando',
+    id: 59052
   },
   {
     proverb_type: 'Refrán',
@@ -15079,8 +15114,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Más quiero cardos en paz, que no salsa con agraz (Santillana 417). Más quiero roer haba seguro y en paz, que comer mil manjares corrido y sin solaz (Libro de Buen Amor 1381). Más vale migaja de pan con paz que toda la casa llena de viandas (La Celestina IX 45). Más vale carnero en paz, que no pollo con agraz (La Pícara Justina I 178).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59053&Lng=0',
-    id: '59053'
+    slug: 'mas-vale-pan-con-amor-que-gallina-con-dolor',
+    id: 59053
   },
   {
     proverb_type: 'Refrán',
@@ -15093,8 +15128,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Antes se ha de pecar por carta de más que por carta de menos (El Quijote II 17). En las cortesías antes se ha de perder por carta de más que de menos (El Quijote II 33). No pierdas por carta de más ni menos (El Quijote II 71). Tanto se pierde por carta de más como por carta de menos (El Quijote II 37). Existe también el refrán Por carta de más o de menos se pierden los juegos y la expresión Pecar por carta de m´s o por carta de menos, recogida ésta por Covarrubias («carta») y aplicada al situación en la que se excede o no se llegó al término justo. Covarrubias indica que procede del juego del quince o del veintiuno.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59054&Lng=0',
-    id: '59054'
+    slug: 'mas-vale-pecar-por-carta-de-mas-que-por-carta-de-menos',
+    id: 59054
   },
   {
     proverb_type: 'Refrán',
@@ -15107,8 +15142,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'También se emplea la variante Más vale pedir que robar.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59055&Lng=0',
-    id: '59055'
+    slug: 'mas-vale-pedir-que-hurtar',
+    id: 59055
   },
   {
     proverb_type: 'Refrán',
@@ -15121,8 +15156,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59056&Lng=0',
-    id: '59056'
+    slug: 'mas-vale-perder-que-mas-perder',
+    id: 59056
   },
   {
     proverb_type: 'Refrán',
@@ -15135,8 +15170,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Más vale que digno de aquí huyó, que aquí murió (Covarrubias).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59057&Lng=0',
-    id: '59057'
+    slug: 'mas-vale-perderse-el-hombre-que-si-es-bueno-perder-el-nombre',
+    id: 59057
   },
   {
     proverb_type: 'Refrán',
@@ -15150,8 +15185,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Paremia de origen bíbico (Eclesiastés 9, 4).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59058&Lng=0',
-    id: '59058'
+    slug: 'mas-vale-perro-vivo-que-leon-muerto',
+    id: 59058
   },
   {
     proverb_type: 'Refrán',
@@ -15164,8 +15199,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Más vale cáscara de camuesa, que meollo de bellota (Covarrubias).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59059&Lng=0',
-    id: '59059'
+    slug: 'mas-vale-poco-y-bueno-que-mucho-y-malo',
+    id: 59059
   },
   {
     proverb_type: 'Refrán',
@@ -15178,8 +15213,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59060&Lng=0',
-    id: '59060'
+    slug: 'mas-vale-ponerse-una-vez-colora-d-o-que-ciento-amarillo',
+    id: 59060
   },
   {
     proverb_type: 'Refrán',
@@ -15193,8 +15228,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59061&Lng=0',
-    id: '59061'
+    slug: 'mas-vale-preguntar-viejo-que-morir-necio',
+    id: 59061
   },
   {
     proverb_type: 'Refrán',
@@ -15208,8 +15243,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'En diciembre de 2013 se utilizó en un anuncio de champú con la forma Más vale pevenir que cortar.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59062&Lng=0',
-    id: '59062'
+    slug: 'mas-vale-prevenir-que-curar',
+    id: 59062
   },
   {
     proverb_type: 'Refrán',
@@ -15223,8 +15258,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59063&Lng=0',
-    id: '59063'
+    slug: 'mas-vale-que-digan-de-aqui-huyo-que-aqui-murio',
+    id: 59063
   },
   {
     proverb_type: 'Refrán',
@@ -15237,8 +15272,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Actualmente se emplea con frecuencia una forma con una estructura más simplificada: Más vale que sobre que falte.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59064&Lng=0',
-    id: '59064'
+    slug: 'mas-vale-que-sobre-que-no-que-falte',
+    id: 59064
   },
   {
     proverb_type: 'Refrán',
@@ -15251,8 +15286,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Recuérdese el refrán De grandes cenas están las sepulturas llenas.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59065&Lng=0',
-    id: '59065'
+    slug: 'mas-vale-quedar-con-gana-que-caer-en-la-cama',
+    id: 59065
   },
   {
     proverb_type: 'Refrán',
@@ -15265,8 +15300,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59066&Lng=0',
-    id: '59066'
+    slug: 'mas-vale-saber-que-haber',
+    id: 59066
   },
   {
     proverb_type: 'Refrán',
@@ -15279,8 +15314,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59067&Lng=0',
-    id: '59067'
+    slug: 'mas-vale-ser-amo-de-cabana-que-mozo-de-campana',
+    id: 59067
   },
   {
     proverb_type: 'Refrán',
@@ -15288,14 +15323,14 @@ export const PROVERBS_DATA = [
     proverb: 'Más vale ser arriero que borrico',
     tags: [
       'Autoridad',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Es preferible ser el jefe que el subordinado.',
     usable: 'En desuso',
     observations: 'El arriero era quien transportaba mercancías de un pueblo a otro sirviéndose de caballerías, como las mulas o los burros.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59068&Lng=0',
-    id: '59068'
+    slug: 'mas-vale-ser-arriero-que-borrico',
+    id: 59068
   },
   {
     proverb_type: 'Refrán',
@@ -15308,8 +15343,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59069&Lng=0',
-    id: '59069'
+    slug: 'mas-vale-ser-cabeza-de-raton-que-cola-de-leon',
+    id: 59069
   },
   {
     proverb_type: 'Refrán',
@@ -15322,8 +15357,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59070&Lng=0',
-    id: '59070'
+    slug: 'mas-vale-ser-envidiado-que-compadecido',
+    id: 59070
   },
   {
     proverb_type: 'Refrán',
@@ -15336,8 +15371,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59071&Lng=0',
-    id: '59071'
+    slug: 'mas-vale-soltero-andar-que-mal-casar',
+    id: 59071
   },
   {
     proverb_type: 'Refrán',
@@ -15350,8 +15385,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59072&Lng=0',
-    id: '59072'
+    slug: 'mas-vale-sudar-que-estornudar',
+    id: 59072
   },
   {
     proverb_type: 'Refrán',
@@ -15364,8 +15399,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: 'En 2013, la primera parte del refrán dio nombre a un programa televisivo: Más vale tarde.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59073&Lng=0',
-    id: '59073'
+    slug: 'mas-vale-tarde-que-nunca',
+    id: 59073
   },
   {
     proverb_type: 'Refrán',
@@ -15378,8 +15413,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59074&Lng=0',
-    id: '59074'
+    slug: 'mas-vale-tener-que-desear',
+    id: 59074
   },
   {
     proverb_type: 'Refrán',
@@ -15393,8 +15428,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59075&Lng=0',
-    id: '59075'
+    slug: 'mas-vale-tuerto-que-ciego',
+    id: 59075
   },
   {
     proverb_type: 'Refrán',
@@ -15408,8 +15443,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59076&Lng=0',
-    id: '59076'
+    slug: 'mas-vale-un-buen-amigo-que-un-ruin-pariente',
+    id: 59076
   },
   {
     proverb_type: 'Refrán',
@@ -15422,20 +15457,23 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Cállate y callemos, que sendas nos tenemos (Covarrubias).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59077&Lng=0',
-    id: '59077'
+    slug: 'mas-vale-un-mal-arreglo-que-un-buen-pleito',
+    id: 59077
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: "Más vale un 'toma' que dos 'te daré'",
-    tags: [],
+    tags: [
+      'Conformismo',
+      'Certeza'
+    ],
     meaning: 'Es preferible disfrutar lo que se tiene en el presente a esperar algo mejor, pero en un futuro y la mayoría de las veces incierto.',
     usable: 'Poco usado',
     observations: "Citado en El Quijote (II 7 y II 35). Más valía un 'toma' que dos 'te daré' (El Quijote II 71). Más vale 'taque taque' que 'Dios os salve' (Núñez 4546). Este refrán prácticamente ya no se emplea hoy día.",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59078&Lng=0',
-    id: '59078'
+    slug: 'mas-vale-un-toma-que-dos-te-dare',
+    id: 59078
   },
   {
     proverb_type: 'Refrán',
@@ -15448,8 +15486,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59079&Lng=0',
-    id: '59079'
+    slug: 'mas-valen-dos-bocados-de-vaca-que-siete-de-patata',
+    id: 59079
   },
   {
     proverb_type: 'Refrán',
@@ -15462,8 +15500,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59080&Lng=0',
-    id: '59080'
+    slug: 'mas-ven-cuatro-ojos-que-dos',
+    id: 59080
   },
   {
     proverb_type: 'Refrán',
@@ -15477,8 +15515,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59081&Lng=0',
-    id: '59081'
+    slug: 'matrimonio-y-mortaja-del-cielo-bajan',
+    id: 59081
   },
   {
     proverb_type: 'Refrán',
@@ -15491,23 +15529,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59082&Lng=0',
-    id: '59082'
+    slug: 'mayo-frio-mucho-trigo',
+    id: 59082
   },
   {
     proverb_type: 'Proverbio',
     language: 'Español',
     proverb: 'Médico, cúrate a ti mismo',
     tags: [
-      'Oficios',
+      'Oficio',
       'Vigilancia'
     ],
     meaning: 'Se dice a quienes se ocupan de la salud humana para que vigilen también su estado de salud. En general, recomienda verse tal como uno es, con sus virtudes y defectos.',
     usable: 'En desuso',
     observations: 'Frase latina Cura te ipsum o Medice cura te ipsum. Se hizo famosa con motivo de la traducción de la Vulgata latina por Eusebius Sophronius Hieronymus. Frase proferida por Jesucristo y recogida en la Biblia (San Lucas 4, 23). San Lucas fue médico.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59083&Lng=0',
-    id: '59083'
+    slug: 'medico-curate-a-ti-mismo',
+    id: 59083
   },
   {
     proverb_type: 'Refrán',
@@ -15521,8 +15559,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Parece que es resonancia de Hechos 20 35.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59084&Lng=0',
-    id: '59084'
+    slug: 'mejor-dar-que-recibir',
+    id: 59084
   },
   {
     proverb_type: 'Refrán',
@@ -15535,8 +15573,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59086&Lng=0',
-    id: '59086'
+    slug: 'mejor-es-pan-duro-que-ninguno',
+    id: 59086
   },
   {
     proverb_type: 'Refrán',
@@ -15549,8 +15587,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59087&Lng=0',
-    id: '59087'
+    slug: 'mejor-se-enciende-un-horno-viejo-que-uno-nuevo',
+    id: 59087
   },
   {
     proverb_type: 'Refrán',
@@ -15563,8 +15601,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59088&Lng=0',
-    id: '59088'
+    slug: 'menea-la-cola-el-can-no-por-ti-sino-por-el-pan',
+    id: 59088
   },
   {
     proverb_type: 'Aforismo',
@@ -15577,8 +15615,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Mente sana en cuerpo sano es la tradución de una paremia de origen clásico, presente en latín: Mens sana in corpore sano (Juvenal), y en griego antiguo. La educación griega de época clásica se basaba en esta divisa (cf. Platón, República 376e). Véase el contexto en la ficha en griego antiguo. En español no resulta extraño citar esta paremia en latín.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59089&Lng=0',
-    id: '59089'
+    slug: 'mente-sana-en-cuerpo-sano',
+    id: 59089
   },
   {
     proverb_type: 'Locución proverbial',
@@ -15592,8 +15630,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59090&Lng=0',
-    id: '59090'
+    slug: 'meter-aguja-y-sacar-reja',
+    id: 59090
   },
   {
     proverb_type: 'Refrán',
@@ -15601,15 +15639,15 @@ export const PROVERBS_DATA = [
     proverb: 'Mi marido es tamborilero, Dios me lo dio y así me lo quiero',
     tags: [
       'Conformismo',
-      'Oficios',
+      'Oficio',
       'Música'
     ],
     meaning: 'Conviene estar contento con su suerte.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59091&Lng=0',
-    id: '59091'
+    slug: 'mi-marido-es-tamborilero-dios-me-lo-dio-y-asi-me-lo-quiero',
+    id: 59091
   },
   {
     proverb_type: 'Refrán',
@@ -15622,8 +15660,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59092&Lng=0',
-    id: '59092'
+    slug: 'mientras-dura-vida-y-dulzura',
+    id: 59092
   },
   {
     proverb_type: 'Refrán',
@@ -15636,8 +15674,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59093&Lng=0',
-    id: '59093'
+    slug: 'mientras-el-necio-piensa-hace-el-sabio-la-hacienda',
+    id: 59093
   },
   {
     proverb_type: 'Refrán',
@@ -15651,8 +15689,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59094&Lng=0',
-    id: '59094'
+    slug: 'mientras-en-mi-casa-estoy-rey-me-soy',
+    id: 59094
   },
   {
     proverb_type: 'Refrán',
@@ -15665,8 +15703,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Véase Eclesiastés 9, 4-6. Hasta la muerte, todo es vida (El Quijote II 59).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59095&Lng=0',
-    id: '59095'
+    slug: 'mientras-hay-vida-hay-esperanza',
+    id: 59095
   },
   {
     proverb_type: 'Refrán',
@@ -15680,23 +15718,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59096&Lng=0',
-    id: '59096'
+    slug: 'mientras-se-gana-algo-no-se-pierde-nada',
+    id: 59096
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Moneda falsa, de noche pasa',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Engaño'
     ],
     meaning: 'Resulta más fácil el engaño si se lleva a cabo con luz escasa.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59097&Lng=0',
-    id: '59097'
+    slug: 'moneda-falsa-de-noche-pasa',
+    id: 59097
   },
   {
     proverb_type: 'Refrán',
@@ -15709,22 +15747,22 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59098&Lng=0',
-    id: '59098'
+    slug: 'mucho-donaire-causa-desaire',
+    id: 59098
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Mucho ruido y pocas nueces',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'En ocasiones, se concede mucha importancia a algo que no la tiene. También se dice cuando se hace mucha propaganda para algo insignificante.',
     usable: 'Muy usado',
     observations: 'Esta paremia constituye el título de la comedia de Shakespeare Much ado about notihng.',
     comments: 'Se puede alterar la forma clásica para conseguir efectos cómicos: Mucho Marketing, pocas nueces, con el objeto de criticar la promoción de una compañía aérea de bajo coste.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59099&Lng=0',
-    id: '59099'
+    slug: 'mucho-ruido-y-pocas-nueces',
+    id: 59099
   },
   {
     proverb_type: 'Refrán',
@@ -15738,8 +15776,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Si sabe mucho la raposa, más el que la toma (La Celestina XIX 190).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59100&Lng=0',
-    id: '59100'
+    slug: 'mucho-sabe-la-zorra-pero-mas-el-que-la-toma',
+    id: 59100
   },
   {
     proverb_type: 'Refrán',
@@ -15752,8 +15790,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59101&Lng=0',
-    id: '59101'
+    slug: 'muchos-ajos-en-un-mortero-mal-los-maja-el-majadero',
+    id: 59101
   },
   {
     proverb_type: 'Frase proverbial',
@@ -15761,14 +15799,14 @@ export const PROVERBS_DATA = [
     proverb: 'Muchos cocineros estropean el caldo',
     tags: [
       'Intromisión',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'No conviene que intervengan muchas personas en un asunto, porque puede provocar desorden o desconcierto, al haber pareceres diversos.',
     usable: 'Poco usado',
     observations: 'Muchas maestras cohonden la novia (Santillana 413).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59102&Lng=0',
-    id: '59102'
+    slug: 'muchos-cocineros-estropean-el-caldo',
+    id: 59102
   },
   {
     proverb_type: 'Refrán',
@@ -15781,8 +15819,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'De pequeños principios resultan grandes fines (El Guzmán de Alfarache III 78).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59103&Lng=0',
-    id: '59103'
+    slug: 'muchos-pocos-hacen-un-mucho',
+    id: 59103
   },
   {
     proverb_type: 'Proverbio',
@@ -15795,8 +15833,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado por Santillana 437. Los llamados han de ser muchos; los escogidos, pocos (El Guzmán de Alfarache IV 96). Esta sentencia, de origen bíblico (San Mateo 20, 16), señala que el número de los predestinados a la gloria es menor que el de los que reciben la llamada divina.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59104&Lng=0',
-    id: '59104'
+    slug: 'muchos-son-los-llamados-y-pocos-los-escogidos',
+    id: 59104
   },
   {
     proverb_type: 'Refrán',
@@ -15809,8 +15847,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán Crecerá el membrillo y mudará el pelillo se basa en la imagen de la pelusa del mebrillo que se desprende de esta fruta cuando está madura, para dar a entender que algunas cosas mudan, se perfeccionan con el tiempo.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59105&Lng=0',
-    id: '59105'
+    slug: 'muda-el-lobo-los-dientes-mas-no-las-mientes',
+    id: 59105
   },
   {
     proverb_type: 'Refrán',
@@ -15824,8 +15862,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Muera Marta, y muera harta (El Quijote II 59).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59106&Lng=0',
-    id: '59106'
+    slug: 'muera-marta-muera-harta',
+    id: 59106
   },
   {
     proverb_type: 'Refrán',
@@ -15838,8 +15876,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59107&Lng=0',
-    id: '59107'
+    slug: 'muerta-es-la-abeja-que-daba-la-miel-y-la-cera',
+    id: 59107
   },
   {
     proverb_type: 'Refrán',
@@ -15852,8 +15890,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59108&Lng=0',
-    id: '59108'
+    slug: 'muerte-de-suegra-dolor-de-codo-que-duele-mucho-y-dura-poco',
+    id: 59108
   },
   {
     proverb_type: 'Refrán',
@@ -15866,8 +15904,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59109&Lng=0',
-    id: '59109'
+    slug: 'muerto-el-perro-se-acabo-la-rabia',
+    id: 59109
   },
   {
     proverb_type: 'Refrán',
@@ -15880,8 +15918,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59110&Lng=0',
-    id: '59110'
+    slug: 'mujer-enferma-mujer-eterna',
+    id: 59110
   },
   {
     proverb_type: 'Refrán',
@@ -15894,8 +15932,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán Al que tiene mujer hermosa, nunca le falta guerra tiene variantes como las siguientes: Al que tiene castillo en frontera, nunca le falta guerra. Al que tiene villa en carrea, nunca le falta guerra.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59111&Lng=0',
-    id: '59111'
+    slug: 'mujer-hermosa-vina-e-higueral-muy-malas-son-de-guardar',
+    id: 59111
   },
   {
     proverb_type: 'Refrán',
@@ -15910,8 +15948,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59112&Lng=0',
-    id: '59112'
+    slug: 'mujer-muerta-casa-deshecha',
+    id: 59112
   },
   {
     proverb_type: 'Refrán',
@@ -15924,8 +15962,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59113&Lng=0',
-    id: '59113'
+    slug: 'mujer-viento-tiempo-y-fortuna-presto-se-muda',
+    id: 59113
   },
   {
     proverb_type: 'Refrán',
@@ -15938,8 +15976,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59114&Lng=0',
-    id: '59114'
+    slug: 'mundo-redondo-quien-no-sabe-nadar-vase-al-fondo',
+    id: 59114
   },
   {
     proverb_type: 'Proverbio',
@@ -15952,8 +15990,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'No hay cosa nueva debajo del sol (La Lozana Andaluza 246). Esta paremia ya aparece en un libro bíblico: Nihil novum sub sole (Eclesiastés 1, 10).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59115&Lng=0',
-    id: '59115'
+    slug: 'nada-nuevo-bajo-el-sol',
+    id: 59115
   },
   {
     proverb_type: 'Refrán',
@@ -15966,8 +16004,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59116&Lng=0',
-    id: '59116'
+    slug: 'nadar-y-nadar-y-ahogarse-a-la-orilla',
+    id: 59116
   },
   {
     proverb_type: 'Frase proverbial',
@@ -15980,8 +16018,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Ninguno da lo que no tiene (La Celestina XVIII 179).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59117&Lng=0',
-    id: '59117'
+    slug: 'nadie-da-lo-que-no-tiene',
+    id: 59117
   },
   {
     proverb_type: 'Proverbio',
@@ -15995,8 +16033,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59118&Lng=0',
-    id: '59118'
+    slug: 'nadie-deje-de-sembrar-por-miedo-de-gorriones',
+    id: 59118
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16010,8 +16048,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59119&Lng=0',
-    id: '59119'
+    slug: 'nadie-es-perfecto',
+    id: 59119
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16025,8 +16063,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Se trata de una paremia de origen bíblico (San Lucas 4, 24).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59120&Lng=0',
-    id: '59120'
+    slug: 'nadie-es-profeta-en-su-tierra',
+    id: 59120
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16039,8 +16077,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59121&Lng=0',
-    id: '59121'
+    slug: 'nadie-esta-contento-con-su-suerte',
+    id: 59121
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16053,8 +16091,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59122&Lng=0',
-    id: '59122'
+    slug: 'nadie-esta-obligado-a-hacer-mas-de-lo-que-sabe-y-puede',
+    id: 59122
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16068,8 +16106,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Nadie nace enseñado, si no es a llorar (La Pícara Justina II 14). Se alude al llanto, por ser una de las primeras manifestaciones de la vida.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59123&Lng=0',
-    id: '59123'
+    slug: 'nadie-nace-ensenado',
+    id: 59123
   },
   {
     proverb_type: 'Aforismo',
@@ -16083,8 +16121,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59124&Lng=0',
-    id: '59124'
+    slug: 'nadie-puede-ser-juez-y-parte',
+    id: 59124
   },
   {
     proverb_type: 'Proverbio',
@@ -16097,8 +16135,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Se trata de una paremia de origen bíblico (Mateo 6, 24: Nadie puede servir a dos señores, porque aborrecerá a uno y amará al otro, o bien se entregará a uno y despreciará al otro. No podéis servir a Dios y al Dinero. Véase igualmente Lucas, 16 13).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59125&Lng=0',
-    id: '59125'
+    slug: 'nadie-puede-servir-a-dos-senores',
+    id: 59125
   },
   {
     proverb_type: 'Refrán',
@@ -16112,8 +16150,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se dice también con forma de locución: Acordarse de Santa Bárbara cuando truena.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59126&Lng=0',
-    id: '59126'
+    slug: 'nadie-se-acuerda-de-santa-barbara-hasta-que-truena',
+    id: 59126
   },
   {
     proverb_type: 'Refrán',
@@ -16126,8 +16164,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59127&Lng=0',
-    id: '59127'
+    slug: 'nadie-se-alabe-hasta-que-acabe',
+    id: 59127
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16140,8 +16178,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'En la actualidad, se emplea más No te metas donde no te llaman.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59128&Lng=0',
-    id: '59128'
+    slug: 'nadie-se-meta-donde-no-le-llamen',
+    id: 59128
   },
   {
     proverb_type: 'Refrán',
@@ -16154,8 +16192,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59129&Lng=0',
-    id: '59129'
+    slug: 'necios-y-porfiados-hacen-ricos-a-los-letrados',
+    id: 59129
   },
   {
     proverb_type: 'Refrán',
@@ -16169,8 +16207,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59130&Lng=0',
-    id: '59130'
+    slug: 'ni-a-rico-debas-ni-a-pobre-prometas',
+    id: 59130
   },
   {
     proverb_type: 'Refrán',
@@ -16183,8 +16221,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59131&Lng=0',
-    id: '59131'
+    slug: 'ni-boda-sin-canto-ni-mortuorio-sin-llanto',
+    id: 59131
   },
   {
     proverb_type: 'Refrán',
@@ -16197,8 +16235,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Ni en burlas ni en veras, es bueno partir peras con los santos (La Pícara Justina I 38). Quien con su mayor burló, primero riyó y después lloró (Valdés 140).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59132&Lng=0',
-    id: '59132'
+    slug: 'ni-en-burlas-ni-en-veras-con-tu-amo-partas-peras',
+    id: 59132
   },
   {
     proverb_type: 'Refrán',
@@ -16211,8 +16249,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59133&Lng=0',
-    id: '59133'
+    slug: 'ni-en-la-cama-ni-en-la-mesa-es-util-la-verguenza',
+    id: 59133
   },
   {
     proverb_type: 'Refrán',
@@ -16225,8 +16263,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59134&Lng=0',
-    id: '59134'
+    slug: 'ni-espero-ni-creo-mas-de-lo-que-veo',
+    id: 59134
   },
   {
     proverb_type: 'Refrán',
@@ -16239,8 +16277,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59135&Lng=0',
-    id: '59135'
+    slug: 'ni-fia-ni-porfia-ni-entres-en-cofradia',
+    id: 59135
   },
   {
     proverb_type: 'Refrán',
@@ -16253,8 +16291,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En la época en la que nació este refrán, había que tener sumo cuidado con beber agua de cuya potabilidad se tenía total certeza, para evitar un gran número de enfermedades.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59136&Lng=0',
-    id: '59136'
+    slug: 'ni-firmes-carta-que-no-leas-ni-bebas-agua-que-no-veas',
+    id: 59136
   },
   {
     proverb_type: 'Refrán',
@@ -16267,8 +16305,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59137&Lng=0',
-    id: '59137'
+    slug: 'ni-mandes-a-quien-mando-ni-sirvas-a-quien-sirvio',
+    id: 59137
   },
   {
     proverb_type: 'Refrán',
@@ -16282,8 +16320,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59138&Lng=0',
-    id: '59138'
+    slug: 'ni-mesa-sin-pan-ni-ejercito-sin-capitan',
+    id: 59138
   },
   {
     proverb_type: 'Refrán',
@@ -16297,8 +16335,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Resulta extrema la afirmación sobre la ausencia de hermosura en la vejez, en especial en la sociedad actual ya que la gente cuida mucho su físico. Por otra parte, conviene recordar el refrán Quien tuvo, retuvo y guardó para la vejez.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59139&Lng=0',
-    id: '59139'
+    slug: 'ni-moza-fea-ni-vieja-hermosa',
+    id: 59139
   },
   {
     proverb_type: 'Refrán',
@@ -16312,8 +16350,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán tiene por referente al doctor de la Iglesia, San Agustín, cuya autoridad se citaba con frecuencia en los sermones. En la gastronomía española, existe un plato llamado olla podrida, que se refiere a la comida preparada con carne, tocino y legumbres, y además con abundante jamón, aves y embutidos.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59140&Lng=0',
-    id: '59140'
+    slug: 'ni-olla-sin-tocino-ni-sermon-sin-agustino',
+    id: 59140
   },
   {
     proverb_type: 'Refrán',
@@ -16326,8 +16364,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59141&Lng=0',
-    id: '59141'
+    slug: 'ni-pidas-a-quien-pidio-ni-sirvas-a-quien-sirvio',
+    id: 59141
   },
   {
     proverb_type: 'Refrán',
@@ -16340,8 +16378,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59142&Lng=0',
-    id: '59142'
+    slug: 'ni-sabado-sin-sol-ni-mocita-sin-amor',
+    id: 59142
   },
   {
     proverb_type: 'Dialogismo',
@@ -16354,8 +16392,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59143&Lng=0',
-    id: '59143'
+    slug: 'ni-se-muere-padre-ni-cenamos',
+    id: 59143
   },
   {
     proverb_type: 'Refrán',
@@ -16368,8 +16406,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59144&Lng=0',
-    id: '59144'
+    slug: 'ni-son-todos-los-que-estan-ni-estan-todos-los-que-son',
+    id: 59144
   },
   {
     proverb_type: 'Refrán',
@@ -16382,8 +16420,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59145&Lng=0',
-    id: '59145'
+    slug: 'ni-tomes-cohecho-ni-pierdas-derecho',
+    id: 59145
   },
   {
     proverb_type: 'Refrán',
@@ -16396,8 +16434,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59146&Lng=0',
-    id: '59146'
+    slug: 'ni-tras-pared-ni-tras-seto-digas-tu-secreto',
+    id: 59146
   },
   {
     proverb_type: 'Refrán',
@@ -16410,8 +16448,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59147&Lng=0',
-    id: '59147'
+    slug: 'ni-virtud-en-la-juventud-ni-en-la-vejez-salud',
+    id: 59147
   },
   {
     proverb_type: 'Refrán',
@@ -16424,8 +16462,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59148&Lng=0',
-    id: '59148'
+    slug: 'ni-yerba-en-el-trigo-ni-sospecha-en-el-amigo',
+    id: 59148
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16438,8 +16476,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'También se dice de alquien que no ve su propia joroba.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59149&Lng=0',
-    id: '59149'
+    slug: 'ningun-jorobado-ve-su-joroba',
+    id: 59149
   },
   {
     proverb_type: 'Refrán',
@@ -16452,8 +16490,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59150&Lng=0',
-    id: '59150'
+    slug: 'ninguna-maravilla-dura-mas-de-tres-dias-luego-con-otra-se-olvida',
+    id: 59150
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16466,23 +16504,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'Se emplea más la forma Nadie escarmienta en cabeza ajena.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59151&Lng=0',
-    id: '59151'
+    slug: 'ninguno-escarmienta-en-cabeza-ajena',
+    id: 59151
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'No basta ser bueno sino parecerlo',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Bondad'
     ],
     meaning: 'Recomienda ser realmente bondadoso.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59152&Lng=0',
-    id: '59152'
+    slug: 'no-basta-ser-bueno-sino-parecerlo',
+    id: 59152
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16495,8 +16533,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59153&Lng=0',
-    id: '59153'
+    slug: 'no-cantan-dos-gallos-en-un-gallinero',
+    id: 59153
   },
   {
     proverb_type: 'Refrán',
@@ -16510,8 +16548,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El refrán Al fin se canta la victoria da a entender que no se puede enjuiciar de modo cabal algo hasta que no haya concluido. También señala que el premio llega después del trabajo.',
     comments: 'Se utiliza más No cantes victoria antes de tiempo, que procede de cantar victoria antes de tiempo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59154&Lng=0',
-    id: '59154'
+    slug: 'no-cantes-gloria-hasta-el-fin-de-la-victoria',
+    id: 59154
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16524,22 +16562,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59155&Lng=0',
-    id: '59155'
+    slug: 'no-cojas-la-pera-hasta-que-este-madura',
+    id: 59155
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'No comer por haber comido no es tiempo perdido',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Comentario que se hace ante quien declina comer por haber comido ya.',
     usable: 'Poco usado',
     observations: '',
     comments: 'Cuando se emplea, se suele decir sólo la primera parte: No comer por no haber comido...',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59156&Lng=0',
-    id: '59156'
+    slug: 'no-comer-por-haber-comido-no-es-tiempo-perdido',
+    id: 59156
   },
   {
     proverb_type: 'Refrán',
@@ -16548,14 +16586,14 @@ export const PROVERBS_DATA = [
     tags: [
       'Familia',
       'Costumbre',
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'En lo que se refiere a las costumbres, hacen más las compañías que el linaje y la crianza.',
     usable: 'En desuso',
     observations: 'No donde naces, sino con quien paces (La Lozana Andaluza 239). En la actualidad, se oye, si bien no con mucha frecuencia. Algunos usuarios emplean la forma: Uno es de donde pace, no de donde nace.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59157&Lng=0',
-    id: '59157'
+    slug: 'no-con-quien-naces-sino-con-quien-paces',
+    id: 59157
   },
   {
     proverb_type: 'Refrán',
@@ -16568,8 +16606,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59158&Lng=0',
-    id: '59158'
+    slug: 'no-da-quien-quiere-sino-quien-tiene-y-quiere',
+    id: 59158
   },
   {
     proverb_type: 'Refrán',
@@ -16584,8 +16622,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59159&Lng=0',
-    id: '59159'
+    slug: 'no-dejes-lo-ganado-por-lo-que-has-de-ganar',
+    id: 59159
   },
   {
     proverb_type: 'Refrán',
@@ -16598,8 +16636,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: "Antes hoy que mañana (El Quijote II 50). Otros refranes retoman la palabra «mañana» para crear enunciados muy originales: Por la calle de 'mañana' se llega a la plaza de 'Nunca'. Siempre 'mañana', y nunca mañanamos.",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59160&Lng=0',
-    id: '59160'
+    slug: 'no-dejes-para-manana-lo-que-puedas-hacer-hoy',
+    id: 59160
   },
   {
     proverb_type: 'Proverbio',
@@ -16613,23 +16651,23 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Paremia de origen bíblico (San Mateo 7, 6). En estómago villano, no cabe el pavo (La Pícara Justina II 7).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59161&Lng=0',
-    id: '59161'
+    slug: 'no-echeis-margaritas-a-los-cerdos',
+    id: 59161
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'No es lo mismo ser que parecer',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Imposibilidad'
     ],
     meaning: 'Denota la gran distancia existente entre lo que uno quiere ser y lo que uno es realmente.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59163&Lng=0',
-    id: '59163'
+    slug: 'no-es-lo-mismo-ser-que-parecer',
+    id: 59163
   },
   {
     proverb_type: 'Refrán',
@@ -16642,8 +16680,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59164&Lng=0',
-    id: '59164'
+    slug: 'no-es-mas-limpio-el-que-mas-limpia-sino-el-que-menos-ensucia',
+    id: 59164
   },
   {
     proverb_type: 'Refrán',
@@ -16657,8 +16695,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59165&Lng=0',
-    id: '59165'
+    slug: 'no-es-mas-rico-quien-mas-tiene-sino-el-que-menos-necesita',
+    id: 59165
   },
   {
     proverb_type: 'Refrán',
@@ -16672,8 +16710,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59166&Lng=0',
-    id: '59166'
+    slug: 'no-es-menos-saber-guardar-que-saber-ganar',
+    id: 59166
   },
   {
     proverb_type: 'Refrán',
@@ -16686,37 +16724,37 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59167&Lng=0',
-    id: '59167'
+    slug: 'no-es-mucho-perder-un-boqueron-para-pescar-un-salmon',
+    id: 59167
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'No es oro todo lo que reluce',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Recomienda desconfiar de las apariencias, pues no todo lo que parece bueno lo es realmente.',
     usable: 'Muy usado',
     observations: 'Citado en El Quijote (II 33 y II 48). No ha de ser oro cuanto reluce (La Celestina XII 105). En la tina, todo lo blanco no es harina (Correas 1771). El referente de esta paremia es el oro, algo de mucho valor.',
     comments: 'Puede utilizarse cuando un negocio, una relación o una oportunidad es sorprendentemente buena y no lo es. Se dice cuando se descubre la realidad.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59168&Lng=0',
-    id: '59168'
+    slug: 'no-es-oro-todo-lo-que-reluce',
+    id: 59168
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'No es tan bravo el león como lo pintan',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Miedo'
     ],
     meaning: 'Se dice cuando se comprueba que una persona no es tan temible o desagradable como se creía en un principio. También se puede aplicar a un negocio que se tenía por más difícil de lo que ha sido en realidad.',
     usable: 'De uso actual',
     observations: '',
     comments: 'En la actualidad, se emplea más la forma No es tan fiero el león como lo pintan.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59169&Lng=0',
-    id: '59169'
+    slug: 'no-es-tan-bravo-el-leon-como-lo-pintan',
+    id: 59169
   },
   {
     proverb_type: 'Refrán',
@@ -16730,8 +16768,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59170&Lng=0',
-    id: '59170'
+    slug: 'no-hay-amor-feo-si-es-querido-con-deseo',
+    id: 59170
   },
   {
     proverb_type: 'Refrán',
@@ -16744,8 +16782,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59171&Lng=0',
-    id: '59171'
+    slug: 'no-hay-atajo-sin-trabajo',
+    id: 59171
   },
   {
     proverb_type: 'Refrán',
@@ -16758,8 +16796,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59172&Lng=0',
-    id: '59172'
+    slug: 'no-hay-boda-sin-tornaboda',
+    id: 59172
   },
   {
     proverb_type: 'Refrán',
@@ -16773,8 +16811,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59173&Lng=0',
-    id: '59173'
+    slug: 'no-hay-caballo-por-bueno-que-sea-que-no-tropiece',
+    id: 59173
   },
   {
     proverb_type: 'Refrán',
@@ -16789,8 +16827,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59174&Lng=0',
-    id: '59174'
+    slug: 'no-hay-carne-sin-hueso',
+    id: 59174
   },
   {
     proverb_type: 'Refrán',
@@ -16803,8 +16841,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59175&Lng=0',
-    id: '59175'
+    slug: 'no-hay-cerradura-segura-si-es-de-oro-la-ganzua',
+    id: 59175
   },
   {
     proverb_type: 'Refrán',
@@ -16819,8 +16857,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59176&Lng=0',
-    id: '59176'
+    slug: 'no-hay-cielo-sin-nubes-ni-paraiso-sin-serpiente',
+    id: 59176
   },
   {
     proverb_type: 'Refrán',
@@ -16833,8 +16871,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59177&Lng=0',
-    id: '59177'
+    slug: 'no-hay-contento-sin-su-descuento',
+    id: 59177
   },
   {
     proverb_type: 'Refrán',
@@ -16847,8 +16885,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59178&Lng=0',
-    id: '59178'
+    slug: 'no-hay-cosa-mas-barata-que-la-que-se-compra',
+    id: 59178
   },
   {
     proverb_type: 'Refrán',
@@ -16861,8 +16899,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59179&Lng=0',
-    id: '59179'
+    slug: 'no-hay-dia-sin-acedia',
+    id: 59179
   },
   {
     proverb_type: 'Refrán',
@@ -16875,8 +16913,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59180&Lng=0',
-    id: '59180'
+    slug: 'no-hay-don-sin-din',
+    id: 59180
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16890,8 +16928,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59181&Lng=0',
-    id: '59181'
+    slug: 'no-hay-enemigo-pequeno',
+    id: 59181
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16904,8 +16942,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59182&Lng=0',
-    id: '59182'
+    slug: 'no-hay-felicidad-completa',
+    id: 59182
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16919,8 +16957,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59183&Lng=0',
-    id: '59183'
+    slug: 'no-hay-harina-sin-salvado',
+    id: 59183
   },
   {
     proverb_type: 'Refrán',
@@ -16933,8 +16971,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59184&Lng=0',
-    id: '59184'
+    slug: 'no-hay-hermosura-sin-ayuda',
+    id: 59184
   },
   {
     proverb_type: 'Frase proverbial',
@@ -16947,8 +16985,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El refrán Donde fuego se hace, humo sale da a entender que siempre afloan las cosas, por muy ocultas que se hagan.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59185&Lng=0',
-    id: '59185'
+    slug: 'no-hay-humo-sin-fuego',
+    id: 59185
   },
   {
     proverb_type: 'Refrán',
@@ -16962,8 +17000,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Este refrán puede tener una tercera parte: No hay mal que cien años dure, ni cuerpo que lo resista, con la que también juega el usuario para conseguir efectos cómicos: No hay mal que cien años dure ni cuernos que lo aguanten. También se puede adaptar esta forma trimembre a las circunstancias: No hay mal que dure cien años ni enfermo que lo resista. Se está empleando bastante este refrán al aludir a la crisis económica en los primeros meses de 2012.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59186&Lng=0',
-    id: '59186'
+    slug: 'no-hay-mal-que-cien-anos-dure',
+    id: 59186
   },
   {
     proverb_type: 'Refrán',
@@ -16976,8 +17014,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'No hay mal que no venga por bien (El Criticón III 206). No hay mal tan malo de que no resulte algo bueno (El Guzmán de Alfarache I 173). Juan Ruiz de Alarcón y Mendoza )1580-1639) es autor de una obra titulada No hay mal que por bien no venga, es rita probablemente antes de 1630. Recuérdese también el refrán Si me quebré el pie, fue por bien (La Celestina VII 245), citado también en El Guzmán de Alfarache: Quebréme un pie, quizás por mejor (III 173) y Si me quebré la pierna, quizá por mejor (IV 73). Este refrán está vigente, figura también en canciones.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59187&Lng=0',
-    id: '59187'
+    slug: 'no-hay-mal-que-por-bien-no-venga',
+    id: 59187
   },
   {
     proverb_type: 'Refrán',
@@ -16990,8 +17028,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Con motivo de las críticas humorísticas hechas en un programa televisivo francés a los deportistas españoles y basadas en la idea de que consiguen el éxito dopándose, el Presidente del Gobierno español, Mariano Rajoy, dijo El mayor desprecio es no hacer aprecio  para no abordar la cuestión en una recepción a los tenistas españoles el 14 de febrero de 2012. La escena en la que se cita este refrán apareció en los medios de comunicación españoles (prensa, televisión). En la televisión, al repetir la noticia en los informativos, había un subtítulo en letra muy grande: El mayor desprecio.... En algunos periódicos, ocupó el titular del artículo. El empleo del refrán por un personaje conocido ha servido para reavivar el empleo de esta paremia.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59188&Lng=0',
-    id: '59188'
+    slug: 'no-hay-mayor-desprecio-que-no-hacer-aprecio',
+    id: 59188
   },
   {
     proverb_type: 'Refrán',
@@ -17004,8 +17042,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59189&Lng=0',
-    id: '59189'
+    slug: 'no-hay-mayor-dificultad-que-la-poca-voluntad',
+    id: 59189
   },
   {
     proverb_type: 'Refrán',
@@ -17018,8 +17056,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59190&Lng=0',
-    id: '59190'
+    slug: 'no-hay-mejor-ahorrar-que-poco-gastar',
+    id: 59190
   },
   {
     proverb_type: 'Refrán',
@@ -17034,8 +17072,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se puede emplear sin la última parte: No hay mejor lotería que el trabajo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59191&Lng=0',
-    id: '59191'
+    slug: 'no-hay-mejor-loteria-que-el-trabajo-y-la-economia',
+    id: 59191
   },
   {
     proverb_type: 'Refrán',
@@ -17049,8 +17087,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59192&Lng=0',
-    id: '59192'
+    slug: 'no-hay-mejor-maestra-que-el-hambre',
+    id: 59192
   },
   {
     proverb_type: 'Refrán',
@@ -17063,8 +17101,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Relacionado con el mundo de las abejas, existe el refrán El favo [panal de miel] es dulce, mas pica la abeja para aludir al placer que lleva aparejado un gran dolor. En un sentido más amplio, destaca que todo tiene su parte buena y su parte mala. Por otra parte, la oposición miel-hiel aparece en otros refranes, como: Poca hiel hace amarga mucha miel. Quien te dio la hiel, te dará la miel.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59193&Lng=0',
-    id: '59193'
+    slug: 'no-hay-miel-sin-hiel',
+    id: 59193
   },
   {
     proverb_type: 'Refrán',
@@ -17077,8 +17115,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59194&Lng=0',
-    id: '59194'
+    slug: 'no-hay-mula-sin-tacha-alguna',
+    id: 59194
   },
   {
     proverb_type: 'Refrán',
@@ -17091,23 +17129,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59195&Lng=0',
-    id: '59195'
+    slug: 'no-hay-necesidad-de-ensenar-al-gato-a-aranar',
+    id: 59195
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'No hay novia fea',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Belleza'
     ],
     meaning: 'El día de la boda la novia se pone sus mejores galas para estar lo mejor posible y disimular sus defectos.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59196&Lng=0',
-    id: '59196'
+    slug: 'no-hay-novia-fea',
+    id: 59196
   },
   {
     proverb_type: 'Refrán',
@@ -17121,8 +17159,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59197&Lng=0',
-    id: '59197'
+    slug: 'no-hay-nublado-que-dure-un-ano',
+    id: 59197
   },
   {
     proverb_type: 'Refrán',
@@ -17136,8 +17174,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Citado en La Dorotea III 228.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59198&Lng=0',
-    id: '59198'
+    slug: 'no-hay-olla-tan-fea-que-no-tenga-su-cobertera',
+    id: 59198
   },
   {
     proverb_type: 'Refrán',
@@ -17150,8 +17188,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'No hay mala palabra si no es a mal tenida (Libro de Buen Amor 95).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59199&Lng=0',
-    id: '59199'
+    slug: 'no-hay-palabra-mal-dicha-si-no-fuese-mal-entendida',
+    id: 59199
   },
   {
     proverb_type: 'Refrán',
@@ -17164,8 +17202,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59200&Lng=0',
-    id: '59200'
+    slug: 'no-hay-pan-sin-afan',
+    id: 59200
   },
   {
     proverb_type: 'Refrán',
@@ -17178,8 +17216,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59201&Lng=0',
-    id: '59201'
+    slug: 'no-hay-peor-astilla-que-la-de-la-misma-madera',
+    id: 59201
   },
   {
     proverb_type: 'Refrán',
@@ -17192,8 +17230,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'No hay peor sordo que el que no quiere oír (El Criticón III 209). No hay peor desentendido que el que no quiere entender (El Criticón II 183).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59202&Lng=0',
-    id: '59202'
+    slug: 'no-hay-peor-ciego-que-el-que-no-quiere-ver',
+    id: 59202
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17207,8 +17245,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59203&Lng=0',
-    id: '59203'
+    slug: 'no-hay-peor-sordo-que-el-que-no-quiere-oir',
+    id: 59203
   },
   {
     proverb_type: 'Refrán',
@@ -17221,8 +17259,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59204&Lng=0',
-    id: '59204'
+    slug: 'no-hay-placer-do-no-hay-comer',
+    id: 59204
   },
   {
     proverb_type: 'Refrán',
@@ -17235,8 +17273,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59205&Lng=0',
-    id: '59205'
+    slug: 'no-hay-plazo-que-no-llegue-ni-deuda-que-no-se-pague',
+    id: 59205
   },
   {
     proverb_type: 'Refrán',
@@ -17249,8 +17287,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59206&Lng=0',
-    id: '59206'
+    slug: 'no-hay-pocos-anos-feos-ni-muchos-hermosos',
+    id: 59206
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17263,8 +17301,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59207&Lng=0',
-    id: '59207'
+    slug: 'no-hay-predicador-como-fray-ejemplo',
+    id: 59207
   },
   {
     proverb_type: 'Refrán',
@@ -17277,8 +17315,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59208&Lng=0',
-    id: '59208'
+    slug: 'no-hay-primavera-sin-flores-ni-verano-sin-calores',
+    id: 59208
   },
   {
     proverb_type: 'Locución proverbial',
@@ -17292,8 +17330,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se usa la variante No hay que empezar la casa por la chimenea para acentuar aúm más, si cabe, el grado de contradicción de la situación por la que se dice esta locución.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59209&Lng=0',
-    id: '59209'
+    slug: 'no-hay-que-empezar-la-casa-por-el-tejado',
+    id: 59209
   },
   {
     proverb_type: 'Refrán',
@@ -17307,22 +17345,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59210&Lng=0',
-    id: '59210'
+    slug: 'no-hay-que-extender-la-pierna-mas-que-lo-que-da-de-si-la-sabana',
+    id: 59210
   },
   {
     proverb_type: 'Locución proverbial',
     language: 'Español',
     proverb: 'No hay que fiarse de las apariencias',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Recomienda ser cautos y desconfiar de las apariencias engañosas.',
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59211&Lng=0',
-    id: '59211'
+    slug: 'no-hay-que-fiarse-de-las-apariencias',
+    id: 59211
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17335,8 +17373,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59212&Lng=0',
-    id: '59212'
+    slug: 'no-hay-que-llorar-al-muerto-sino-al-vivo',
+    id: 59212
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17349,8 +17387,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '¿Dónde hallastes vos ser bueno el nombrar la soga en casa del ahorcado? (El Quijote II 28).',
     comments: 'Esta frase proverbial se encuentra en uso. En ocasiones se juega con la forma clásica para hacer hincapié en la indiscreción que ha cometido el interlocutor: Ustedes han nombrado la soga en la casa del ahorcado (Frase proferida en abril de 2009). Asimismo se puede usar con forma de locución: Mentar la soga en casa del ahorcado.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59213&Lng=0',
-    id: '59213'
+    slug: 'no-hay-que-mentar-la-soga-en-casa-del-ahorcado',
+    id: 59213
   },
   {
     proverb_type: 'Locución proverbial',
@@ -17363,8 +17401,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El referente elegido en el refranero procede del mundo ovino, en el que la lana de las ovejas merinas es más apreciada que la de las churras, porque la lana de estas últimas es más basta. El desconocimiento del referente puede llevar a alterar la forma: Mezclar churros con merinos.',
     comments: 'Se usa también como locución: Mezclar churras con merinas. En ocasiones, se dice churros en vez de churras por desconocimiento de lo que es este vocablo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59214&Lng=0',
-    id: '59214'
+    slug: 'no-hay-que-mezclar-churras-con-merinas',
+    id: 59214
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17377,8 +17415,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Esta unidad lingüística se encuentra en la frontera de las paremias y las locuciones. Por la forma lexicalizada negativa y el mensaje sentencioso, estaría en el mundo de las paremias.',
     comments: 'Existe la locución: Vender la piel del oso antes de cazarlo / haberlo cazado, y se emplea también su forma negativa: No vendas la piel del oso antes de cazarlo / haberlo cazado.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59215&Lng=0',
-    id: '59215'
+    slug: 'no-hay-que-vender-la-piel-del-oso-antes-de-haberlo-cazado',
+    id: 59215
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17391,8 +17429,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59216&Lng=0',
-    id: '59216'
+    slug: 'no-hay-regla-sin-excepcion',
+    id: 59216
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17407,8 +17445,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59217&Lng=0',
-    id: '59217'
+    slug: 'no-hay-rosa-sin-espinas',
+    id: 59217
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17421,8 +17459,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59218&Lng=0',
-    id: '59218'
+    slug: 'no-hay-tesoro-como-la-salud',
+    id: 59218
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17438,8 +17476,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59219&Lng=0',
-    id: '59219'
+    slug: 'no-hay-vida-sin-muerte-ni-placer-sin-pesar',
+    id: 59219
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -17452,8 +17490,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Puede tener una tercera parte, a modo de réplica: No la hagas y no la temas, ... y nunca hizo la cama (Sbarbi, «hacer»).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59220&Lng=0',
-    id: '59220'
+    slug: 'no-la-hagas-y-no-la-temas',
+    id: 59220
   },
   {
     proverb_type: 'Refrán',
@@ -17467,8 +17505,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El asno, sufre la carga, mas no la sobrecarga (El Quijote II 71).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59221&Lng=0',
-    id: '59221'
+    slug: 'no-mata-la-carga-sino-la-sobrecarga',
+    id: 59221
   },
   {
     proverb_type: 'Locución proverbial',
@@ -17481,8 +17519,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59222&Lng=0',
-    id: '59222'
+    slug: 'no-muerdas-la-mano-que-te-da-de-comer',
+    id: 59222
   },
   {
     proverb_type: 'Refrán',
@@ -17495,8 +17533,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59223&Lng=0',
-    id: '59223'
+    slug: 'no-ofende-quien-quiere-sino-quien-puede',
+    id: 59223
   },
   {
     proverb_type: 'Refrán',
@@ -17509,8 +17547,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Por mucho que madrugue no amanece más aína (La Celestina XIV 139). Por mucho madrugar no amanece más aína (La Lozana Andaluza 62). Gloria Estefan lo incluye en su canción Refranes. En ocasiones, los hablantes juegan con la forma clásica y crean variantes, como No por mucho madrugar, la cola será más corta, con el objetivo de producir un efecto cómico.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59224&Lng=0',
-    id: '59224'
+    slug: 'no-por-mucho-madrugar-amanece-mas-temprano',
+    id: 59224
   },
   {
     proverb_type: 'Refrán',
@@ -17524,8 +17562,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59650&Lng=0',
-    id: '59650'
+    slug: 'no-sabes-lo-que-tienes-hasta-que-lo-pierdes',
+    id: 59650
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17538,8 +17576,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59225&Lng=0',
-    id: '59225'
+    slug: 'no-se-acuerda-el-cura-de-cuando-fue-sacristan',
+    id: 59225
   },
   {
     proverb_type: 'Refrán',
@@ -17552,8 +17590,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59226&Lng=0',
-    id: '59226'
+    slug: 'no-se-gana-el-pan-sin-afan',
+    id: 59226
   },
   {
     proverb_type: 'Refrán',
@@ -17568,8 +17606,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En una hora no se ganó Zamora (La Celestina VI 221). Esta paremia alude al largo sitio que sufrió la ciudad de Zamora durante siete meses por parte de Sancho el Bravo en el año 1072, con el objeto de arrebatársela a su hermana doña Urraca.',
     comments: 'De este refrán se suele decir la primera parte: No se ganó Zamora en una hora(, ni Roma se fundó luego toda).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59227&Lng=0',
-    id: '59227'
+    slug: 'no-se-gano-zamora-en-una-hora',
+    id: 59227
   },
   {
     proverb_type: 'Proverbio',
@@ -17582,8 +17620,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'No es la miel para la boca del asno (El Quijote I 52). No es la miel... etcétera (El Quijote II 28).',
     comments: 'Se puede cambiar el tiempo de la forma verbal: No se ha hecho la miel para la boca del asno.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59228&Lng=0',
-    id: '59228'
+    slug: 'no-se-hizo-la-miel-para-la-boca-del-asno',
+    id: 59228
   },
   {
     proverb_type: 'Refrán',
@@ -17596,8 +17634,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'No se toman truchas... (La Celestina VII 233; El Quijote II 71).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59229&Lng=0',
-    id: '59229'
+    slug: 'no-se-pescan-truchas-a-bragas-enjutas',
+    id: 59229
   },
   {
     proverb_type: 'Locución proverbial',
@@ -17610,8 +17648,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59230&Lng=0',
-    id: '59230'
+    slug: 'no-se-puede-chiflar-y-beber-agua',
+    id: 59230
   },
   {
     proverb_type: 'Locución proverbial',
@@ -17624,8 +17662,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se dice también sin la fórmula introductoria: Estar en misa y repicando.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59231&Lng=0',
-    id: '59231'
+    slug: 'no-se-puede-estar-en-misa-y-repicando',
+    id: 59231
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17638,8 +17676,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59232&Lng=0',
-    id: '59232'
+    slug: 'no-se-puede-hacer-tortilla-sin-romper-los-huevos',
+    id: 59232
   },
   {
     proverb_type: 'Locución proverbial',
@@ -17652,8 +17690,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59233&Lng=0',
-    id: '59233'
+    slug: 'no-se-puede-satisfacer-y-agradar-a-todos',
+    id: 59233
   },
   {
     proverb_type: 'Refrán',
@@ -17666,8 +17704,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59234&Lng=0',
-    id: '59234'
+    slug: 'no-seais-hornera-si-teneis-la-cabeza-de-cera',
+    id: 59234
   },
   {
     proverb_type: 'Proverbio',
@@ -17680,8 +17718,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'La escena bíblica completa es la siguiente: «En pleno desierto, el diablo tentó a Jesús haciéndole una mala propuesta: "Si eres el Hijo de Dios, di que estas piedras se conviertan en pan". Y Jesús le respondió: "Está escrito: ‘No sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios"» (San Mateo, 4, 3-4).',
     comments: 'Puede ver alterada la forma clásica: No sólo de pasteles vive el hombre, No solo del cocido viven los garbanzos. Aparece citado en tres ocasiones en la canción Tortura de Shakira, de la que transcribimos las tres estrofas: «Yo sé que no he sido un santo / Pero lo puedo arreglar, amor / No solo de pan vive el hombre / Y no de excusas vivo yo [...] Pero lo puedo arreglar, amor / No solo de pan vive el hombre / Y no de excusas vivo yo / Solo de errores se aprende ». En la misma canción figura otro refrán: A otro perro con ese hueso [...] Yo sé que no soy un santo / Y es que estoy hecho de cartón / No solo de pan vive el hombre / Y no de excusas vivo yo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59235&Lng=0',
-    id: '59235'
+    slug: 'no-solo-de-pan-vive-el-hombre',
+    id: 59235
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17694,8 +17732,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Son los dedos en las manos, pero no son todos parejos (Libro de Buen Amor 666).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59236&Lng=0',
-    id: '59236'
+    slug: 'no-son-todos-los-dedos-de-la-mano-iguales',
+    id: 59236
   },
   {
     proverb_type: 'Refrán',
@@ -17708,8 +17746,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59237&Lng=0',
-    id: '59237'
+    slug: 'no-te-rias-del-mal-de-vecino-que-el-tuyo-viene-de-camino',
+    id: 59237
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17723,8 +17761,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59238&Lng=0',
-    id: '59238'
+    slug: 'no-toda-palabra-requiere-respuesta',
+    id: 59238
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17737,8 +17775,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59239&Lng=0',
-    id: '59239'
+    slug: 'no-todas-las-verdades-son-para-dichas',
+    id: 59239
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17746,14 +17784,14 @@ export const PROVERBS_DATA = [
     proverb: 'No todo el monte es orégano',
     tags: [
       'Esfuerzo',
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Da a entender que, en cualquier asunto, no todo es fácil ni placentero. Se dice esta frase proverbial cuando queremos expresar que a veces no todo es fácil ni bueno ni ventajoso, sino que también hay cosas difíciles o trabas que impiden que podamos hacer las cosas con facilidad. Se emplea también para indicar que algo no es como lo imaginábamos.',
     usable: 'De uso actual',
     observations: 'El orégano es una planta aromática empleada como condimento. El orégano figura como referencia de facilidad, de ventaja, de algo bueno porque antiguamente se utilizaba como remedio para muchos males. Su etimología es griega y significa «planta que alegra el monte».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59240&Lng=0',
-    id: '59240'
+    slug: 'no-todo-el-monte-es-oregano',
+    id: 59240
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17766,8 +17804,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59241&Lng=0',
-    id: '59241'
+    slug: 'no-todo-sale-como-uno-quiere',
+    id: 59241
   },
   {
     proverb_type: 'Refrán',
@@ -17780,8 +17818,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'La forma Mi gozo en el pozo figura en el Portacuentos de Timoneda, escritor valenciano del siglo XVI. La temática está en cierto modo relacionada con otro cuento, El cuento de la lechera. El referente del pozo no resulta extraño, pues resulta frecuente verlos en tierras españolas, ya sea en espacios abiertos como cerrados. Todavía quedan edificios con pozos en su interior, como castillos, conventos, casas particulares, huertas. A modo de ejemplo, citamos el pozo del castillo de Sigüenza o el del castillo de Burgos. Asimismo, casas manchegas poseen un pozo en el interior de la casa, junto a la cocina, además de un aljibe en el patio para recoger el agua de lluvia.',
     comments: 'Suele emplearse con la primera persona, ya sea en plural o en singular: Mi/Nuestro gozo en un pozo.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59242&Lng=0',
-    id: '59242'
+    slug: 'nuestro-gozo-en-un-pozo',
+    id: 59242
   },
   {
     proverb_type: 'Refrán',
@@ -17795,8 +17833,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59243&Lng=0',
-    id: '59243'
+    slug: 'nuevo-rey-nueva-ley',
+    id: 59243
   },
   {
     proverb_type: 'Proverbio',
@@ -17809,8 +17847,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59244&Lng=0',
-    id: '59244'
+    slug: 'nunca-des-consejo-al-que-no-te-lo-pide',
+    id: 59244
   },
   {
     proverb_type: 'Refrán',
@@ -17824,8 +17862,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Ninguno no diga, de esta agua no beberé (Valdés 115). No diga ninguno, de esta agua no beberé (Valdés 115). Nadie diga «desta agua no beberé» (El Quijote II 55).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59245&Lng=0',
-    id: '59245'
+    slug: 'nunca-digas-de-esta-agua-no-bebere',
+    id: 59245
   },
   {
     proverb_type: 'Refrán',
@@ -17838,8 +17876,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59246&Lng=0',
-    id: '59246'
+    slug: 'nunca-es-tarde-si-la-dicha-es-buena',
+    id: 59246
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17853,8 +17891,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Existe la expresión Sirve/Vale igual para un roto que para un descosido, para aludir a quien resulta muy útil por sus habilidades, `por lo que puede desempeñar funciones o actividades muy diversas.',
     comments: 'También existe la forma afirmativa Siempre hay un roto para un descosido.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59247&Lng=0',
-    id: '59247'
+    slug: 'nunca-falta-un-roto-para-un-descosido',
+    id: 59247
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17868,8 +17906,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59248&Lng=0',
-    id: '59248'
+    slug: 'nunca-llueve-a-gusto-de-todos',
+    id: 59248
   },
   {
     proverb_type: 'Frase proverbial',
@@ -17882,8 +17920,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: "Frase proverbial a partir de la difusión del Quijote, probablemente. Es sentencia que pronuncia el Bachiller Sansón Carrasco cuando habla con Sancho sobre la novela en que aparecen: \"algunos dicen: 'Nunca segundas partes fueron buenas'» (El Quijote II 4). En la actualidad, se emplea bastante para aludir al fracaso de la segunda parte de una película, una tercera o una cuarta, pues en los últimos años han proliferado las continuaciones de las películas, hasta tal punto que algunas tienen una al año. También se emplea en obras literarias y en toda obra artística.",
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59249&Lng=0',
-    id: '59249'
+    slug: 'nunca-segundas-partes-fueron-buenas',
+    id: 59249
   },
   {
     proverb_type: 'Refrán',
@@ -17896,8 +17934,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59250&Lng=0',
-    id: '59250'
+    slug: 'obra-empezada-medio-acabada',
+    id: 59250
   },
   {
     proverb_type: 'Refrán',
@@ -17911,8 +17949,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59251&Lng=0',
-    id: '59251'
+    slug: 'obra-hecha-venta-espera',
+    id: 59251
   },
   {
     proverb_type: 'Refrán',
@@ -17926,8 +17964,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Obras son amores (La Dorotea IV 309)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59252&Lng=0',
-    id: '59252'
+    slug: 'obras-son-amores-que-no-buenas-razones',
+    id: 59252
   },
   {
     proverb_type: 'Refrán',
@@ -17940,8 +17978,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La palabra ochavo se encuentra presente en otros refranes, como El que nace para ochavo, no puede llegar a cuarto, que señala lo difícil que resulta para los humildes salir de su condición.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59253&Lng=0',
-    id: '59253'
+    slug: 'ochavo-a-ochavo-se-junta-un-ducado',
+    id: 59253
   },
   {
     proverb_type: 'Refrán',
@@ -17955,8 +17993,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59254&Lng=0',
-    id: '59254'
+    slug: 'oficio-bueno-o-malo-da-de-comer-a-su-amo',
+    id: 59254
   },
   {
     proverb_type: 'Refrán',
@@ -17969,8 +18007,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En la actualidad, se dice sólo la primera parte (Oír, ver y callar) a modo de norma de conducta.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59255&Lng=0',
-    id: '59255'
+    slug: 'oir-ver-y-callar-recias-cosas-son-de-obrar',
+    id: 59255
   },
   {
     proverb_type: 'Proverbio',
@@ -17983,8 +18021,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59256&Lng=0',
-    id: '59256'
+    slug: 'ojo-por-ojo-diente-por-diente',
+    id: 59256
   },
   {
     proverb_type: 'Refrán',
@@ -17999,8 +18037,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Ojos que no veen [sic], corazón que no quiebra (El Quijote II 67). Terreros registra también la forma Lo que ojos no ven corazón no quiebra.',
     comments: 'La paremia puede sufrir alteraciones formales para conseguir un efecto cómico: Ojos que no ven, tortazo que te pegas (Fuente oral).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59257&Lng=0',
-    id: '59257'
+    slug: 'ojos-que-no-ven-corazon-que-no-siente',
+    id: 59257
   },
   {
     proverb_type: 'Refrán',
@@ -18013,8 +18051,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59258&Lng=0',
-    id: '59258'
+    slug: 'ojos-verdes-duques-y-reyes',
+    id: 59258
   },
   {
     proverb_type: 'Refrán',
@@ -18027,8 +18065,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59259&Lng=0',
-    id: '59259'
+    slug: 'olivo-y-aceituno-todo-es-uno',
+    id: 59259
   },
   {
     proverb_type: 'Refrán',
@@ -18041,8 +18079,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59260&Lng=0',
-    id: '59260'
+    slug: 'olla-que-mucho-hierve-sabor-pierde',
+    id: 59260
   },
   {
     proverb_type: 'Refrán',
@@ -18055,8 +18093,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La sal se convierte en un elemento muy preciado en la Edad Media.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59261&Lng=0',
-    id: '59261'
+    slug: 'olla-sin-sal-haz-cuenta-que-no-tienes-manjar',
+    id: 59261
   },
   {
     proverb_type: 'Refrán',
@@ -18069,8 +18107,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59262&Lng=0',
-    id: '59262'
+    slug: 'oracion-de-perro-no-va-al-cielo',
+    id: 59262
   },
   {
     proverb_type: 'Refrán',
@@ -18084,8 +18122,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59263&Lng=0',
-    id: '59263'
+    slug: 'otro-vendra-que-bueno-me-hara',
+    id: 59263
   },
   {
     proverb_type: 'Refrán',
@@ -18098,22 +18136,22 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El refrán En el juego y en la mesa, el hablar pesa alude a quienes no advierten que, mientras hablan, sus compañeros de mesa dejan las fuentes y los platos vacíos.',
     comments: 'La forma de uso general ha suprimido una parte del refrán. En las variantes está registrada la forma original con rima: Oveja que bala en prado verde, bocado que pierde y existente en el habla de una población burgalesa (Sandoval de la Reina, localidad de Burgos - España) (Julio Alonso Asenjo, El habla de Sandoval de la Reina, http://www.sandovaldelareina.com/castellano/el_habla/expresiones-locuciones-etc.htm#oveja)',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59264&Lng=0',
-    id: '59264'
+    slug: 'oveja-que-bala-bocado-que-pierde',
+    id: 59264
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Ovejas bobas, por do va una van todas',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Denota el poder que puede ejercer el ejemplo y las malas compañías.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59265&Lng=0',
-    id: '59265'
+    slug: 'ovejas-bobas-por-do-va-una-van-todas',
+    id: 59265
   },
   {
     proverb_type: 'Refrán',
@@ -18127,8 +18165,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59266&Lng=0',
-    id: '59266'
+    slug: 'paciencia-y-barajar',
+    id: 59266
   },
   {
     proverb_type: 'Refrán',
@@ -18136,14 +18174,14 @@ export const PROVERBS_DATA = [
     proverb: 'Padre comerciante, hijo caballero, nieto pordiosero',
     tags: [
       'Bienes',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Los bienes adquiridos con tesón por una generación no siempren se mantienen en las generaciones siguientes. En un sentido más general, se puede emplear para significar que, con frecuencia la generación siguiente adopta una actitud contraria.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59267&Lng=0',
-    id: '59267'
+    slug: 'padre-comerciante-hijo-caballero-nieto-pordiosero',
+    id: 59267
   },
   {
     proverb_type: 'Refrán',
@@ -18156,8 +18194,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59268&Lng=0',
-    id: '59268'
+    slug: 'pajarilla-que-en-erial-se-cria-siempre-por-el-pia',
+    id: 59268
   },
   {
     proverb_type: 'Refrán',
@@ -18170,8 +18208,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59269&Lng=0',
-    id: '59269'
+    slug: 'palabra-y-piedra-suelta-no-tienen-vuelta',
+    id: 59269
   },
   {
     proverb_type: 'Refrán',
@@ -18184,8 +18222,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59270&Lng=0',
-    id: '59270'
+    slug: 'palabras-sin-obras-se-venden-barato',
+    id: 59270
   },
   {
     proverb_type: 'Refrán',
@@ -18198,8 +18236,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'En la actualidad, se emplea la forma Las palabras se las lleva el viento. Con motivo del nacimiento del primer número del periódico Buenas noticias elaborado por universitarios en diciembre de 2012, el comentarista televisivo dijo: las palabras, se las lleva el viento de la crisis. Más recientemente, en mayo de 2013, un futbolista dijo en una rueda de prensa: las palabras, se las puede llevar el viento. Tanto los periodistas como el texto subtitulado retomaron esta paremia, pero sin la alteración formal, esto es, utilizaron la forma más repetida: las palabras, se las lleva el viento.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59271&Lng=0',
-    id: '59271'
+    slug: 'palabras-y-plumas-el-viento-las-lleva',
+    id: 59271
   },
   {
     proverb_type: 'Refrán',
@@ -18213,8 +18251,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59272&Lng=0',
-    id: '59272'
+    slug: 'pan-ajeno-caro-cuesta',
+    id: 59272
   },
   {
     proverb_type: 'Refrán',
@@ -18227,8 +18265,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El pan está muy presente en el refranero, por ser un alimento habitual: Mesa sin pan es como mesa sin galán; Las penas con pan son menos;  Contigo, pan y cebolla; Al buen amigo, dale tu pan y dale tu vino; A falta de pan, buenas son tortas. E incluso se resalta su estima en refranes como: Pan que sobre, carne que baste y vino que falte; Pan y pan con ello y pan para comello. Recuérdese, por otra parte y con un propósito espiritual, la frase evangélica: No solo de pan vive el hombre.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59273&Lng=0',
-    id: '59273'
+    slug: 'pan-con-pan-comida-de-tontos',
+    id: 59273
   },
   {
     proverb_type: 'Refrán',
@@ -18242,8 +18280,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Es pan para hoy y hambre para mañana (2 de junio de 2010). Se ha empleado este refrán para criticar medidas económicas que son soluciones a muy corto plazo. Esta paremia se empleó con mucha frecuencia en 2008 y 2009 con motivo de la crisis económica. En 2013, se empleó para aludir a los recortes del Gobierno: Rajoy para hoy... hambre para mañana.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59274&Lng=0',
-    id: '59274'
+    slug: 'pan-para-hoy-y-hambre-para-manana',
+    id: 59274
   },
   {
     proverb_type: 'Refrán',
@@ -18256,8 +18294,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'Se emplea más la frase proverbial El amor no tiene edad',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59275&Lng=0',
-    id: '59275'
+    slug: 'para-el-amor-no-hay-edad',
+    id: 59275
   },
   {
     proverb_type: 'Refrán',
@@ -18272,8 +18310,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59276&Lng=0',
-    id: '59276'
+    slug: 'para-el-mal-oficial-no-hay-herramienta-buena',
+    id: 59276
   },
   {
     proverb_type: 'Refrán',
@@ -18287,8 +18325,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59277&Lng=0',
-    id: '59277'
+    slug: 'para-enfermedad-de-anos-no-hay-medicina',
+    id: 59277
   },
   {
     proverb_type: 'Refrán',
@@ -18301,8 +18339,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El martes es considerado un dia aciago en determinadas culturas, y el viernes, en otras. A diferencia de otros muchos refranes de los que se dice sólo la primera parte, de esta paremia se cita la segunda parte: Todos los días son martes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59278&Lng=0',
-    id: '59278'
+    slug: 'para-los-desgraciados-todos-los-dias-son-martes',
+    id: 59278
   },
   {
     proverb_type: 'Refrán',
@@ -18315,8 +18353,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59279&Lng=0',
-    id: '59279'
+    slug: 'para-muestra-un-boton',
+    id: 59279
   },
   {
     proverb_type: 'Refrán',
@@ -18330,8 +18368,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Padecí cochura por hermosura (La Pícara Justina I 66). Existe una variante citada por Santillana y Vallés: Sufrir cochura por hermosura (Santillana 668; Vallés 3912).',
     comments: 'Se dice sobre todo referido a la vestimenta. Por ejemplo, cuando se va a una moda y los zapatos con tacón molestan.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59280&Lng=0',
-    id: '59280'
+    slug: 'para-presumir-hay-que-sufrir',
+    id: 59280
   },
   {
     proverb_type: 'Refrán',
@@ -18344,8 +18382,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Antes era habitual dar propinas en el mundo de la hostelería, principalmente a los camareros, y en diferentes tipos de servicios, como la peluquería. La llegada del euro y su conseguiente encarecimiento de la vida ha reducido considerablemente la costumbre de dejar propinas. La costumbre de dejar propinas constituye un gesto de agradecimiento por parte del cliente ante el buen servicio prestado. En España, la cantidad de esta gratificación depende totalmente del consumidor. En otros países, está estipulado el 10% de lo consumido, como sucede en Estados Unidos. En Japón, en cambio, se considera un signo de mala educación. Las guías turísticas suelen explicar si el país en cuestión tiene este hábito (véase www.viajeros.com). Curiosamente, lo habitual es darla después del servicio y no antes.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59281&Lng=0',
-    id: '59281'
+    slug: 'para-que-el-ciego-cante-la-propina-por-delante',
+    id: 59281
   },
   {
     proverb_type: 'Refrán',
@@ -18358,20 +18396,25 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59283&Lng=0',
-    id: '59283'
+    slug: 'parientes-y-trastos-viejos-pocos-y-lejos',
+    id: 59283
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Parto largo y parto malo, hija al cabo',
-    tags: [],
+    tags: [
+      'Familia',
+      'Conformidad',
+      'Optimismo',
+      'Paciencia'
+    ],
     meaning: 'Recomienda soportar con resignación los malos momentos por los que pasa un familiar.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59284&Lng=0',
-    id: '59284'
+    slug: 'parto-largo-y-parto-malo-hija-al-cabo',
+    id: 59284
   },
   {
     proverb_type: 'Refrán',
@@ -18385,8 +18428,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Se dice también Piano, piano, se va lontano, refrán basado en la paremia italiana Chi va piano, va lontano [Quien va despacio, va lejos].',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59285&Lng=0',
-    id: '59285'
+    slug: 'paso-a-paso-se-va-lejos',
+    id: 59285
   },
   {
     proverb_type: 'Refrán',
@@ -18399,8 +18442,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59286&Lng=0',
-    id: '59286'
+    slug: 'pecado-confesado-medio-perdonado',
+    id: 59286
   },
   {
     proverb_type: 'Refrán',
@@ -18413,8 +18456,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59287&Lng=0',
-    id: '59287'
+    slug: 'pelean-los-ladrones-y-descubrense-los-hurtos',
+    id: 59287
   },
   {
     proverb_type: 'Refrán',
@@ -18428,8 +18471,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59288&Lng=0',
-    id: '59288'
+    slug: 'peligro-pasado-el-cobarde-es-esforzado',
+    id: 59288
   },
   {
     proverb_type: 'Refrán',
@@ -18442,23 +18485,23 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59289&Lng=0',
-    id: '59289'
+    slug: 'peor-es-la-recaida-que-la-caida',
+    id: 59289
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Perro ladrador, poco mordedor',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Presunción'
     ],
     meaning: 'Se dice cuando quienes amenazan y se muestran coléricos no son los más peligrosos, pues hacen poco o sólo bravatas.',
     usable: 'De uso actual',
     observations: 'Cuando hay certeza de que no se cumplirán las amenazas, se dice también un refrán registrado por Santillana 377: Ládreme el perro, y no me muerda.',
     comments: 'En 2012 un titular periodístico llamaba la atención del lector jugando con dos refranes: Perro flaco, ladrador y... mordedor, con motivo de la exporopiación de YPF en Argentina. En el texto, se justifica este uso: «Lo ocurrido en Argentina es la prueba fehaciente de la plaga de pulgas que invaden a todo perro flaco y España debe demostrar que llegado el caso no sólo sirve ladrar sino que también sabe morder» (José Antonio Navas,  «Perro flaco, ladrador y... mordedor», ABC, 18 de abril de 2012, p. 25',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59290&Lng=0',
-    id: '59290'
+    slug: 'perro-ladrador-poco-mordedor',
+    id: 59290
   },
   {
     proverb_type: 'Refrán',
@@ -18471,8 +18514,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59291&Lng=0',
-    id: '59291'
+    slug: 'persona-envidiosa-no-puede-ser-dichosa',
+    id: 59291
   },
   {
     proverb_type: 'Refrán',
@@ -18480,14 +18523,14 @@ export const PROVERBS_DATA = [
     proverb: 'Pescador que pesca un pez, pescador es',
     tags: [
       'Conformismo',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Se dice a modo de consuelo a quien consigue con diligencia alguna parte de lo que solicita.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59292&Lng=0',
-    id: '59292'
+    slug: 'pescador-que-pesca-un-pez-pescador-es',
+    id: 59292
   },
   {
     proverb_type: 'Refrán',
@@ -18501,8 +18544,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Piedra movediza, nunca moho no la cobija (La Celestina XV 154).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59293&Lng=0',
-    id: '59293'
+    slug: 'piedra-movediza-moho-no-cobija',
+    id: 59293
   },
   {
     proverb_type: 'Refrán',
@@ -18515,8 +18558,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se cree el ladrón que es de su misma condición es una variante procedente de un informante andaluz, malagueño concretamente (enero de 2008).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59294&Lng=0',
-    id: '59294'
+    slug: 'cree-el-ladron-que-todos-son-de-su-condicion',
+    id: 59294
   },
   {
     proverb_type: 'Refrán',
@@ -18529,8 +18572,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59295&Lng=0',
-    id: '59295'
+    slug: 'piensa-mal-y-acertaras',
+    id: 59295
   },
   {
     proverb_type: 'Refrán',
@@ -18543,8 +18586,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59296&Lng=0',
-    id: '59296'
+    slug: 'placer-y-alegria-tan-pronto-ida-como-venida',
+    id: 59296
   },
   {
     proverb_type: 'Refrán',
@@ -18557,8 +18600,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59297&Lng=0',
-    id: '59297'
+    slug: 'pleitos-tengas-y-los-ganes',
+    id: 59297
   },
   {
     proverb_type: 'Refrán',
@@ -18571,8 +18614,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59298&Lng=0',
-    id: '59298'
+    slug: 'pobreza-no-es-vileza',
+    id: 59298
   },
   {
     proverb_type: 'Refrán',
@@ -18585,8 +18628,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Este refrán alude al hilado realizado con rueca. El mechón de lana, hilo o algodón se hilaba despacio en la rueca.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59299&Lng=0',
-    id: '59299'
+    slug: 'poco-a-poco-hila-la-vieja-el-copo',
+    id: 59299
   },
   {
     proverb_type: 'Refrán',
@@ -18599,8 +18642,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La acción de «hilar» está relacionada con la mujer y muchos refraneros aluden a la oposición entre «hilar» y «mirar» (por la ventana) para representar el trabajo y el ocio: Dueña que mucho mira, poco hila (Correas D722, Mal Lara IV 3, Santillana 240). Dueña que mucho mira, poco fila (Seniloquium 95).  La mujer que mucho mira, poco hila (Fadrique de Basilea I, Espinosa). La mujer que mucho mira: poco hila (Vallés 2147). En ocasiones, la oposición se realiza no entre acciones sino con objetos concretos, la «rueca» y el «ojo»: Mi hija Marihuela, la mano en la rueca y el ojo en la puerta (Núñez 4852).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59300&Lng=0',
-    id: '59300'
+    slug: 'poco-se-gana-a-hilar-pero-menos-a-mirar',
+    id: 59300
   },
   {
     proverb_type: 'Refrán',
@@ -18613,8 +18656,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59301&Lng=0',
-    id: '59301'
+    slug: 'pocos-y-mal-avenidos',
+    id: 59301
   },
   {
     proverb_type: 'Refrán',
@@ -18627,8 +18670,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Francisco de Quevedo es autor de la letrilla satírica Poderoso caballero es don dinero. La paremia aparece también cerrando cada estrofa a modo de estribillo, como se lee en la última estrofa: «Más valen en cualquier tierra, / (Mirad si es harto sagaz) / Sus escudos en la paz / Que rodelas en la guerra. / Y pues al pobre le entierra / Y hace propio al forastero, / Poderoso Caballero / Es don Dinero».',
     comments: 'Se hizo un uso individual del refrán en enero de 2013 para referirse a un tema muy alejado del dinero, el tiempo, con motiivo de las fuertes nevadas habidas: Poderoso caballero es don Invierno.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59302&Lng=0',
-    id: '59302'
+    slug: 'poderoso-caballero-es-don-dinero',
+    id: 59302
   },
   {
     proverb_type: 'Refrán',
@@ -18642,8 +18685,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59303&Lng=0',
-    id: '59303'
+    slug: 'pon-lo-tuyo-en-concejo-y-unos-diran-que-es-blanco-y-otros-que-es-negro',
+    id: 59303
   },
   {
     proverb_type: 'Refrán',
@@ -18656,8 +18699,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59304&Lng=0',
-    id: '59304'
+    slug: 'por-bien-estar-mucho-se-ha-de-andar',
+    id: 59304
   },
   {
     proverb_type: 'Refrán',
@@ -18671,8 +18714,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59305&Lng=0',
-    id: '59305'
+    slug: 'por-dar-limosna-no-se-venda-la-bolsa',
+    id: 59305
   },
   {
     proverb_type: 'Refrán',
@@ -18686,8 +18729,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'A veces otro interlocutor añade: y por pan, si se lo das.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59306&Lng=0',
-    id: '59306'
+    slug: 'por-dinero-baila-el-perro',
+    id: 59306
   },
   {
     proverb_type: 'Refrán',
@@ -18700,8 +18743,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59307&Lng=0',
-    id: '59307'
+    slug: 'por-el-canto-se-conoce-el-pajaro',
+    id: 59307
   },
   {
     proverb_type: 'Refrán',
@@ -18714,8 +18757,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado en El Quijote I 4. Por el hilo sacaremos el ovillo (El Quijote II 12). Por el hilo del gitano sacó el ovillo de su asno (El Quijote I 30). Que por ese hilo que está ahí se saque el ovillo de todo (El Quijote I 23).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59308&Lng=0',
-    id: '59308'
+    slug: 'por-el-hilo-se-saca-el-ovillo',
+    id: 59308
   },
   {
     proverb_type: 'Refrán',
@@ -18728,8 +18771,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59309&Lng=0',
-    id: '59309'
+    slug: 'por-el-humo-se-sabe-donde-esta-el-fuego',
+    id: 59309
   },
   {
     proverb_type: 'Refrán',
@@ -18743,8 +18786,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59310&Lng=0',
-    id: '59310'
+    slug: 'por-el-interes-te-quiero-andres',
+    id: 59310
   },
   {
     proverb_type: 'Refrán',
@@ -18758,8 +18801,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59311&Lng=0',
-    id: '59311'
+    slug: 'por-eso-se-vende-la-vaca-porque-uno-come-la-pierna-y-otro-la-falda',
+    id: 59311
   },
   {
     proverb_type: 'Refrán',
@@ -18772,8 +18815,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59312&Lng=0',
-    id: '59312'
+    slug: 'por-hablar-poco-nada-se-pierde',
+    id: 59312
   },
   {
     proverb_type: 'Refrán',
@@ -18786,8 +18829,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'En una canción de 2007 de Fito Cabrales (Fito & Fitipaldis), muy escuchada en 2008, se recurre a la forma alterada de este refrán para crear el título: Por la boca vive el pez. Esta forma alterada aparece también dentro de la canción precedida por la fórmula «Alguien dijo alguna vez»: «Tu eres aire, yo papel, / donde vayas yo me iré, / si me quedo a oscuras / luz de la locura ven y alumbrame. / Alguien dijo alguna vez / por la boca vive el pez / y yo lo estoy diciendo, \nte lo estoy diciendo otra vez».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59313&Lng=0',
-    id: '59313'
+    slug: 'por-la-boca-muere-el-pez',
+    id: 59313
   },
   {
     proverb_type: 'Refrán',
@@ -18800,8 +18843,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'La peste, una enfermedad contagiosa y grave que causa gran mortandad tanto en seres humanos como en los animales, era un referente muy cercano a los hablantes de la sociedad medieval en la que nació este refrán. A mediados del siglo XIV Europa vio diezmada su población por una terrible epidemia conocida como la «peste negra» y citada en la crónica del rey de Castilla Alfonso XI. El vocablo peste pervive en otras unidades lingüísticas estables, como la expresión echar pestes de alguien, para referirse a decir palabras de enojo o amenaza.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59314&Lng=0',
-    id: '59314'
+    slug: 'por-la-caridad-entra-la-peste',
+    id: 59314
   },
   {
     proverb_type: 'Refrán',
@@ -18814,8 +18857,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Por la muestra podréis juzgar de la color del paño (Valdés 127).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59315&Lng=0',
-    id: '59315'
+    slug: 'por-la-muestra-se-conoce-el-pano',
+    id: 59315
   },
   {
     proverb_type: 'Refrán',
@@ -18828,8 +18871,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59316&Lng=0',
-    id: '59316'
+    slug: 'por-la-peana-se-adora-al-santo',
+    id: 59316
   },
   {
     proverb_type: 'Refrán',
@@ -18842,8 +18885,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59317&Lng=0',
-    id: '59317'
+    slug: 'por-los-santos-la-nieve-en-los-altos-por-san-andres-la-nieve-en-los-pies',
+    id: 59317
   },
   {
     proverb_type: 'Refrán',
@@ -18856,20 +18899,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59318&Lng=0',
-    id: '59318'
+    slug: 'por-mal-vecino-no-deshagas-tu-nido',
+    id: 59318
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Por mi puerta pasarás y la vida penarás',
-    tags: [],
+    tags: [
+      'Perjuicio'
+    ],
     meaning: 'Se dice este refrán para indicar a alguien que, como no ha querido hacer lo que le pedimos, no espere que lo ayudemos cuando nos necesite.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59629&Lng=0',
-    id: '59629'
+    slug: 'por-mi-puerta-pasaras-y-la-vida-penaras',
+    id: 59629
   },
   {
     proverb_type: 'Refrán',
@@ -18882,8 +18927,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59319&Lng=0',
-    id: '59319'
+    slug: 'por-mucho-trigo-nunca-es-mal-ano',
+    id: 59319
   },
   {
     proverb_type: 'Refrán',
@@ -18896,8 +18941,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Este refrán empieza a perder su referente, pues, con el cambio climático que estamos sufriendo, estas aves migratorias empiezan a permanecer todo el año en nuestro país.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59320&Lng=0',
-    id: '59320'
+    slug: 'por-san-blas-la-ciguena-veras',
+    id: 59320
   },
   {
     proverb_type: 'Refrán',
@@ -18910,20 +18955,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59321&Lng=0',
-    id: '59321'
+    slug: 'por-san-blas-una-hora-mas',
+    id: 59321
   },
   {
     proverb_type: 'Refrán temporal',
     language: 'Español',
     proverb: 'Por San Matías se iguala la noche al día',
-    tags: [],
-    meaning: '',
+    tags: [
+      'Tiempo'
+    ],
+    meaning: 'Se refiere a que, el 24 de Febrero, el día y la noche tienen la misma duración.',
     usable: '',
     observations: '',
-    comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59640&Lng=0',
-    id: '59640'
+    comments: 'Antiguo dictado el de San Matías, el 24 de febrero, día en que antiguamente se igualaban las noches con los días.La paremia ha ido creciendo entre los pastores de nuestras sierras de tal manera que del simple «iguala las noches con los días» se ha convertido en un romancillo en el que la oveja pronostica al pastor el futuro de su ganado en función del lugar al que la lleve a pastar.',
+    slug: 'por-san-matias-se-iguala-la-noche-al-dia',
+    id: 59640
   },
   {
     proverb_type: 'Refrán',
@@ -18936,8 +18983,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59322&Lng=0',
-    id: '59322'
+    slug: 'por-ser-leal-padezco-mal',
+    id: 59322
   },
   {
     proverb_type: 'Refrán',
@@ -18950,8 +18997,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Por su mal le nacieron alas a la hormiga (El Quijote II, 33). Existen muchas variantes de los refranes sinónimos, como las incluidas a continuación: Da Dios alas a la hormiga para morir más aína (Autoridades, DRAE, «ala»). Da Dios alas a la hormiga para que muera más aína (Sbarbi, «hormiga»). Naciéronle alas a la hormiga para perderse (Covarrubias «ala»). Nascen alas a la hormiga, para que se pierda más aýna (Núñez 5012)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59323&Lng=0',
-    id: '59323'
+    slug: 'por-su-mal-le-nacieron-alas-a-la-hormiga',
+    id: 59323
   },
   {
     proverb_type: 'Proverbio',
@@ -18964,8 +19011,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Esta paremia es de origen bíblico (San Mateo 7, 16). La variante Por sus frutos se conoce el árbol también figura en la Biblia (San Lucas 6,44). Por sus obras los conoceréis se emplea también en sentido irónico, para aludir a los fallos de alguien.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59324&Lng=0',
-    id: '59324'
+    slug: 'por-sus-frutos-los-conocereis',
+    id: 59324
   },
   {
     proverb_type: 'Refrán',
@@ -18978,8 +19025,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59325&Lng=0',
-    id: '59325'
+    slug: 'por-un-clavo-se-pierde-una-herradura',
+    id: 59325
   },
   {
     proverb_type: 'Refrán',
@@ -18992,8 +19039,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59326&Lng=0',
-    id: '59326'
+    slug: 'por-un-garbanzo-no-se-descompone-la-olla',
+    id: 59326
   },
   {
     proverb_type: 'Locución proverbial',
@@ -19006,8 +19053,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'En Sbarbi: Entrar [algo] por un oído y salir/salirse por el otro (Sbarbi, «oído»). Se dice también sin artículo determinado el. En el DRAE figura entrar /entrarle (a alguien algo) por un ~, y salir / salirle, por el otro',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59327&Lng=0',
-    id: '59327'
+    slug: 'por-un-oido-me-entra-y-por-otro-me-sale',
+    id: 59327
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -19020,8 +19067,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59328&Lng=0',
-    id: '59328'
+    slug: 'por-un-perro-que-mate-mataperros-me-llamaron',
+    id: 59328
   },
   {
     proverb_type: 'Refrán',
@@ -19034,8 +19081,8 @@ export const PROVERBS_DATA = [
     usable: '',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59329&Lng=0',
-    id: '59329'
+    slug: 'por-un-punto-ruin-perdio-su-asno-martin',
+    id: 59329
   },
   {
     proverb_type: 'Refrán',
@@ -19048,8 +19095,8 @@ export const PROVERBS_DATA = [
     usable: '',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59330&Lng=0',
-    id: '59330'
+    slug: 'porfia-mata-la-caza',
+    id: 59330
   },
   {
     proverb_type: 'Refrán',
@@ -19062,8 +19109,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59331&Lng=0',
-    id: '59331'
+    slug: 'preguntando-se-va-a-roma',
+    id: 59331
   },
   {
     proverb_type: 'Frase proverbial',
@@ -19076,8 +19123,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59332&Lng=0',
-    id: '59332'
+    slug: 'principio-quieren-las-cosas',
+    id: 59332
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -19090,8 +19137,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59333&Lng=0',
-    id: '59333'
+    slug: 'promete-poco-y-cumplelo-pronto',
+    id: 59333
   },
   {
     proverb_type: 'Refrán',
@@ -19104,8 +19151,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59334&Lng=0',
-    id: '59334'
+    slug: 'prometer-y-no-cumplir-mil-veces-lo-vi',
+    id: 59334
   },
   {
     proverb_type: 'Refrán',
@@ -19118,8 +19165,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59335&Lng=0',
-    id: '59335'
+    slug: 'pronto-y-bien-rara-vez-juntos-se-ven',
+    id: 59335
   },
   {
     proverb_type: 'Refrán',
@@ -19132,8 +19179,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59336&Lng=0',
-    id: '59336'
+    slug: 'puerco-fiado-grune-todo-el-ano',
+    id: 59336
   },
   {
     proverb_type: 'Refrán',
@@ -19146,23 +19193,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59337&Lng=0',
-    id: '59337'
+    slug: 'puerta-abierta-al-santo-tienta',
+    id: 59337
   },
   {
     proverb_type: 'Refrán dialogado',
     language: 'Español',
     proverb: 'Pues ara el rocín, ensillemos al buey',
     tags: [
-      'Oficios',
+      'Oficio',
       'Orden'
     ],
     meaning: 'Del mismo modo que no es propio del caballo arar sino llevar silla ni del buey ensillarlo sino arar, aconseja no trastocar las ocupaciones sino que cada uno haga lo que sabe, pues no se puede esperar nada bueno si las cosas van al revés.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59338&Lng=0',
-    id: '59338'
+    slug: 'pues-ara-el-rocin-ensillemos-al-buey',
+    id: 59338
   },
   {
     proverb_type: 'Refrán',
@@ -19175,8 +19222,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en El Quijote II 13.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59339&Lng=0',
-    id: '59339'
+    slug: 'pues-tenemos-hogazas-no-busquemos-tortas',
+    id: 59339
   },
   {
     proverb_type: 'Refrán',
@@ -19189,8 +19236,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58764&Lng=0',
-    id: '58764'
+    slug: 'quien-es-tu-enemigo-el-que-es-de-tu-oficio',
+    id: 58764
   },
   {
     proverb_type: 'Frase proverbial',
@@ -19203,8 +19250,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'De origen literario, esta frase proverbial procede de la fábula de los ratones (Esopo), en la que estos proponían poner un cascabel al gato para saber cuándo se acercaba y tener así tiempo de huir.',
     comments: 'Puede ir introducida por A ver.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58031&Lng=0',
-    id: '58031'
+    slug: 'quien-le-pone-el-cascabel-al-gato',
+    id: 58031
   },
   {
     proverb_type: 'Proverbio',
@@ -19217,8 +19264,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59340&Lng=0',
-    id: '59340'
+    slug: 'que-no-vea-tu-mano-derecha-lo-que-hace-tu-mano-izquierda',
+    id: 59340
   },
   {
     proverb_type: 'Aforismo',
@@ -19231,8 +19278,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59341&Lng=0',
-    id: '59341'
+    slug: 'querer-es-poder',
+    id: 59341
   },
   {
     proverb_type: 'Refrán',
@@ -19246,8 +19293,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Valdés 132. Quien a buen árbol se arrima... (La Celestina VIII 15).',
     comments: 'Se emplean también otras formas, como El que a buen árbol se arrima buena sombra le cobija, Al que a buen árbol se arrima buena sombra le cobija, A quien buen árbol se arrima, buena sombra le cobija.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59342&Lng=0',
-    id: '59342'
+    slug: 'quien-a-buen-arbol-se-arrima-buena-sombra-le-cobija',
+    id: 59342
   },
   {
     proverb_type: 'Proverbio',
@@ -19260,8 +19307,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Sentencia de origen bíblico (San Mateo 26 52). Citado en La Dorotea V 390.',
     comments: 'Se puede jugar con el refrán. Asi, se dijo en cierta ocasión en el ámbito futbolístico, cuando un jugador hizo un penalty sobre Fernando Hierro y este lo transformó.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59343&Lng=0',
-    id: '59343'
+    slug: 'quien-a-hierro-mata-a-hierro-muere',
+    id: 59343
   },
   {
     proverb_type: 'Refrán',
@@ -19274,8 +19321,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien matar quisier su can, achaque [culpa] le levanta porque no le dé del pan (Libro de Buen Amor 93).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59344&Lng=0',
-    id: '59344'
+    slug: 'quien-a-su-can-quiere-matar-rabia-le-ha-de-levantar',
+    id: 59344
   },
   {
     proverb_type: 'Refrán',
@@ -19288,8 +19335,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59345&Lng=0',
-    id: '59345'
+    slug: 'quien-adelante-no-mira-atras-se-queda',
+    id: 59345
   },
   {
     proverb_type: 'Refrán',
@@ -19302,8 +19349,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Quien busca el peligro perece en él (El Quijote I 20).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59347&Lng=0',
-    id: '59347'
+    slug: 'quien-ama-el-peligro-en-el-perece',
+    id: 59347
   },
   {
     proverb_type: 'Refrán',
@@ -19316,8 +19363,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59348&Lng=0',
-    id: '59348'
+    slug: 'quien-anda-por-la-mar-aprende-a-rezar',
+    id: 59348
   },
   {
     proverb_type: 'Refrán',
@@ -19330,8 +19377,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59349&Lng=0',
-    id: '59349'
+    slug: 'quien-antes-nace-antes-pace',
+    id: 59349
   },
   {
     proverb_type: 'Refrán',
@@ -19344,22 +19391,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59350&Lng=0',
-    id: '59350'
+    slug: 'quien-aprisa-sube-aprisa-se-hunde',
+    id: 59350
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Quien bebe vino sin tasa, no tiene mordaza',
     tags: [
-      'Moderación'
+      'Moderación',
+      'Bebida'
     ],
     meaning: 'La mesura en el beber es precisa, si no se quiere perder la discreción en el hablar.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59351&Lng=0',
-    id: '59351'
+    slug: 'quien-bebe-vino-sin-tasa-no-tiene-mordaza',
+    id: 59351
   },
   {
     proverb_type: 'Refrán',
@@ -19372,8 +19420,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán Lo que natura no da, Salamanca no presta tiene una variante un poco más larga: Lo que no da naturaleza, no lo da Salamanca y menos Baeza.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59352&Lng=0',
-    id: '59352'
+    slug: 'quien-bestia-va-a-roma-bestia-retorna',
+    id: 59352
   },
   {
     proverb_type: 'Refrán',
@@ -19386,22 +19434,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59353&Lng=0',
-    id: '59353'
+    slug: 'quien-bien-ama-tarde-olvida',
+    id: 59353
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Quien bien ata, bien desata',
     tags: [
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Quien emprende con conocimiento un negocio lo llevará a buen término.',
     usable: 'En desuso',
     observations: 'Citado por Valdés 136.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59354&Lng=0',
-    id: '59354'
+    slug: 'quien-bien-ata-bien-desata',
+    id: 59354
   },
   {
     proverb_type: 'Refrán',
@@ -19415,8 +19463,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59355&Lng=0',
-    id: '59355'
+    slug: 'quien-bien-esta-no-se-mude',
+    id: 59355
   },
   {
     proverb_type: 'Refrán',
@@ -19429,8 +19477,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado por Valdés 137. Quien bien quiere a Beltrán, a todas sus cosas ama (La Celestina XVII 171). El refrán Si quieres la col,  quieres las hojas de alrededor conoce una variante en tercera persona: El que quiere la col, quiere las hojas de alrededor.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59356&Lng=0',
-    id: '59356'
+    slug: 'quien-bien-quiere-a-beltran-bien-quiere-a-su-can',
+    id: 59356
   },
   {
     proverb_type: 'Refrán',
@@ -19443,8 +19491,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59357&Lng=0',
-    id: '59357'
+    slug: 'quien-bien-quiere-a-la-rosa-aunque-se-pinche-no-se-enoja',
+    id: 59357
   },
   {
     proverb_type: 'Refrán',
@@ -19457,8 +19505,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Siembra buenas obras, cogerás fruto de ellas (El Guzmán de Alfarache II 68).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59358&Lng=0',
-    id: '59358'
+    slug: 'quien-bien-siembra-bien-recoge',
+    id: 59358
   },
   {
     proverb_type: 'Refrán',
@@ -19472,8 +19520,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Ése te quiere bien que te hace llorar (El Quijote I 20).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59359&Lng=0',
-    id: '59359'
+    slug: 'quien-bien-te-quiere-te-hara-llorar',
+    id: 59359
   },
   {
     proverb_type: 'Refrán',
@@ -19487,8 +19535,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se puede decir enunciando sólo la primera parte: Quien calla.... También se emplea El que calla, otorga.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59361&Lng=0',
-    id: '59361'
+    slug: 'quien-calla-otorga',
+    id: 59361
   },
   {
     proverb_type: 'Refrán',
@@ -19502,8 +19550,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59362&Lng=0',
-    id: '59362'
+    slug: 'quien-caminando-lleva-priesa-en-camino-llano-tropieza',
+    id: 59362
   },
   {
     proverb_type: 'Refrán',
@@ -19516,8 +19564,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Citado en El Qujote I 22. La variante El que canta su mal espanta aparece citado en una canción escuchada en 2007 y 2008 precedido por la fómrula dicen que.',
     comments: 'Se emplea también la forma El que canta, sus males espanta.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59363&Lng=0',
-    id: '59363'
+    slug: 'quien-canta-sus-males-espanta',
+    id: 59363
   },
   {
     proverb_type: 'Refrán',
@@ -19530,8 +19578,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien come la carne, que roya el huesso (Autoridades «carne»):  .',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59364&Lng=0',
-    id: '59364'
+    slug: 'quien-come-la-carne-que-roa-el-hueso',
+    id: 59364
   },
   {
     proverb_type: 'Refrán',
@@ -19544,8 +19592,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59365&Lng=0',
-    id: '59365'
+    slug: 'quien-come-la-vaca-del-rey-a-cien-anos-paga-los-huesos',
+    id: 59365
   },
   {
     proverb_type: 'Refrán',
@@ -19559,8 +19607,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'En la actualidad, se utiliza más la locución Estar a las duras y a las maduras y la fórmula de obligación Hay que estar a las duras y a las maduras.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59366&Lng=0',
-    id: '59366'
+    slug: 'quien-come-las-maduras-coma-las-duras',
+    id: 59366
   },
   {
     proverb_type: 'Refrán',
@@ -19573,8 +19621,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien guarda y condesa, dos veces pone mesa (Valdés 143).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59367&Lng=0',
-    id: '59367'
+    slug: 'quien-come-y-condesa-dos-veces-pone-la-mesa',
+    id: 59367
   },
   {
     proverb_type: 'Refrán',
@@ -19587,8 +19635,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se emplea también solo la primera parte: Quien con fuego juega... y la forma El que con fueho juega, se quema.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59368&Lng=0',
-    id: '59368'
+    slug: 'quien-con-fuego-juega-se-quema',
+    id: 59368
   },
   {
     proverb_type: 'Refrán',
@@ -19601,22 +19649,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59369&Lng=0',
-    id: '59369'
+    slug: 'quien-con-la-ropa-de-otro-se-viste-en-la-calle-le-desnudan',
+    id: 59369
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Quien con lobos anda, a aullar se enseña',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Alude a la poderosa influencia de las malas compañías, por lo que conviene huir de ellas.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59370&Lng=0',
-    id: '59370'
+    slug: 'quien-con-lobos-anda-a-aullar-se-ensena',
+    id: 59370
   },
   {
     proverb_type: 'Refrán',
@@ -19624,15 +19672,15 @@ export const PROVERBS_DATA = [
     proverb: 'Quien con niños se acuesta mojado amanece',
     tags: [
       'Niñez',
-      'Compañías',
+      'Compañía',
       'Inexperiencia'
     ],
     meaning: 'No conviene confiar el manejo de los negocios a personas ineptas o de poco seso, pues seguramente no obtendrá beneficio alguno.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59371&Lng=0',
-    id: '59371'
+    slug: 'quien-con-ninos-se-acuesta-mojado-amanece',
+    id: 59371
   },
   {
     proverb_type: 'Refrán',
@@ -19645,8 +19693,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59372&Lng=0',
-    id: '59372'
+    slug: 'quien-con-un-cojo-va-al-cabo-del-ano-cojeara',
+    id: 59372
   },
   {
     proverb_type: 'Refrán',
@@ -19659,8 +19707,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59373&Lng=0',
-    id: '59373'
+    slug: 'quien-da-lo-suyo-antes-de-su-muerte-merece-que-le-den-con-un-mazo-en-la-frente',
+    id: 59373
   },
   {
     proverb_type: 'Refrán',
@@ -19673,8 +19721,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En la forma actual de este refrán, se han omitido los artículos.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59374&Lng=0',
-    id: '59374'
+    slug: 'quien-da-pan-a-perro-ajeno-pierde-pan-y-pierde-perro',
+    id: 59374
   },
   {
     proverb_type: 'Refrán',
@@ -19687,8 +19735,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El que luego da, da dos veces (El Quijote I 34). La presta dádiva hace su efecto doblado (Covarrubias). Este refrán es de origen culto, pues se atribuye a Publilio Siro, del siglo I a.C. Su forma latina completa es inopi beneficium bis dat qui cito dat [al pobre da dos veces quien da pronto] (véase Fernando García Romero, «Sobre un proverbio que se le olvidó decir a Sancho», P. Fernández Martín y M. A. Sardelli [eds.], Estudios lingüísticos y literarios de las unidades fraseológicas en las obras cervantinas. Bari: Les Flâneurs edizioni, 2019, pp. 24-25.',
     comments: 'También se emplea El que da primero da dos veces.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59375&Lng=0',
-    id: '59375'
+    slug: 'quien-da-primero-da-dos-veces',
+    id: 59375
   },
   {
     proverb_type: 'Refrán',
@@ -19703,8 +19751,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59376&Lng=0',
-    id: '59376'
+    slug: 'quien-de-joven-no-trabaja-de-viejo-duerme-en-la-paja',
+    id: 59376
   },
   {
     proverb_type: 'Refrán',
@@ -19717,8 +19765,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59377&Lng=0',
-    id: '59377'
+    slug: 'quien-de-lejanas-tierras-viene-miente-como-quiere',
+    id: 59377
   },
   {
     proverb_type: 'Refrán',
@@ -19731,8 +19779,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59378&Lng=0',
-    id: '59378'
+    slug: 'quien-de-los-suyos-se-aleja-dios-le-deja',
+    id: 59378
   },
   {
     proverb_type: 'Refrán',
@@ -19745,8 +19793,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59379&Lng=0',
-    id: '59379'
+    slug: 'quien-debe-y-paga-no-debe-nada',
+    id: 59379
   },
   {
     proverb_type: 'Refrán',
@@ -19759,8 +19807,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59380&Lng=0',
-    id: '59380'
+    slug: 'quien-deja-de-ser-amigo-no-lo-fue-nunca',
+    id: 59380
   },
   {
     proverb_type: 'Refrán',
@@ -19773,8 +19821,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59381&Lng=0',
-    id: '59381'
+    slug: 'quien-deja-el-camino-real-por-la-vereda-piensa-atajar-y-rodea',
+    id: 59381
   },
   {
     proverb_type: 'Refrán',
@@ -19787,8 +19835,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Antes era muy frecuente jugar a las cartas en el bar con los amigos, en casa con la familia y no ha dejado de serlo. Existe un juego de naipes que recibe el nombre de baraja española. Está compuesta por 40 naipes o cartas, clasificados en 4 palos (oros, copas, espadas y bastos) y numerados del 1 al 12, pero faltan los ochos y los nueves. Algunos mazos los incluyen, con lo que se llega a 48 cartas. Los números 10, 11 y 12 tienen figuras: sota, caballo y rey respectivamente. Se dieferencia de la baraja francesa porque aparecen de cuerpo entero. Los naipes más conocidos en España, los fabrica en la actualidad Heraclio Fournier, antes en Vitoria y hoy día en Villarreal de Álava.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59382&Lng=0',
-    id: '59382'
+    slug: 'quien-destaja-no-baraja',
+    id: 59382
   },
   {
     proverb_type: 'Refrán',
@@ -19801,8 +19849,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59383&Lng=0',
-    id: '59383'
+    slug: 'quien-dice-lo-que-quiere-oye-lo-que-no-quiere',
+    id: 59383
   },
   {
     proverb_type: 'Refrán',
@@ -19815,8 +19863,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59384&Lng=0',
-    id: '59384'
+    slug: 'quien-dos-liebres-sigue-tal-vez-caza-una-y-muchas-veces-ninguna',
+    id: 59384
   },
   {
     proverb_type: 'Refrán',
@@ -19829,8 +19877,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59385&Lng=0',
-    id: '59385'
+    slug: 'quien-duerme-come',
+    id: 59385
   },
   {
     proverb_type: 'Refrán',
@@ -19843,8 +19891,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59386&Lng=0',
-    id: '59386'
+    slug: 'quien-el-aceite-mesura-las-manos-se-unta',
+    id: 59386
   },
   {
     proverb_type: 'Refrán',
@@ -19858,8 +19906,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59387&Lng=0',
-    id: '59387'
+    slug: 'quien-en-mentira-es-cogido-aunque-diga-verdad-no-es-creido',
+    id: 59387
   },
   {
     proverb_type: 'Refrán',
@@ -19872,8 +19920,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59388&Lng=0',
-    id: '59388'
+    slug: 'quien-en-necio-confia-necedad-recibe',
+    id: 59388
   },
   {
     proverb_type: 'Refrán',
@@ -19886,8 +19934,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59389&Lng=0',
-    id: '59389'
+    slug: 'quien-en-su-mal-consiente-a-nadie-se-queje',
+    id: 59389
   },
   {
     proverb_type: 'Refrán',
@@ -19900,8 +19948,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59390&Lng=0',
-    id: '59390'
+    slug: 'quien-en-tiempo-huye-en-tiempo-acude',
+    id: 59390
   },
   {
     proverb_type: 'Refrán',
@@ -19915,8 +19963,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59391&Lng=0',
-    id: '59391'
+    slug: 'quien-enferma-de-locura-no-tiene-cura',
+    id: 59391
   },
   {
     proverb_type: 'Aforismo',
@@ -19929,8 +19977,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se oye especialmente con motivo de la elección de un nuevo Papa, a veces con alguna alteración formal: Quien al Cónclave va Papa, sale cardenal o Quien entra Papa en el Cónclave sale cardenal. Esta última forma fue titular publicado durante la celebración del Cónclave para de la elección del sucesor de Juan Pablo II en http://www.periodistadigital.com, consultado el 12 de octubre de 2008). Durante la elección papal, se trata de adivinar quién será el nuevo Papa y quién tiene más posibilidades de serlo, pero no siempre sale elegido el candidato previsto. En el caso de la elección del alemán Joseph Ratzinger en 2005 como nuevo Papa (Benedicto XVI), la paremia no se cumplió porque era uno de los candidatos cuyo nombre sonaba más fuerte en los últimos días del Cónclave. En el caso de la elección de Francisco I (2013), sí sucedió, pues no se encontraba entre los candidatos previstos en un principio. De nuevo, se volvió a escuchar esta paremia.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58805&Lng=0',
-    id: '58805'
+    slug: 'quien-entra-papa-sale-cardenal',
+    id: 58805
   },
   {
     proverb_type: 'Refrán',
@@ -19943,8 +19991,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59392&Lng=0',
-    id: '59392'
+    slug: 'quien-escucha-su-mal-oye',
+    id: 59392
   },
   {
     proverb_type: 'Refrán',
@@ -19957,8 +20005,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59394&Lng=0',
-    id: '59394'
+    slug: 'quien-esperar-puede-alcanza-lo-que-quiere',
+    id: 59394
   },
   {
     proverb_type: 'Proverbio',
@@ -19971,8 +20019,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Paremia de origen bíblico (San Juan 8,7).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59395&Lng=0',
-    id: '59395'
+    slug: 'quien-este-libre-de-culpa-que-tire-la-primera-piedra',
+    id: 59395
   },
   {
     proverb_type: 'Refrán',
@@ -19986,23 +20034,23 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59396&Lng=0',
-    id: '59396'
+    slug: 'quien-feo-ama-hermoso-le-parece',
+    id: 59396
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Quien fía o promete en deuda se mete',
     tags: [
-      'Negocios',
+      'Negocio',
       'Promesa'
     ],
     meaning: 'Se refiere a la fuerza de la promesa, pues quien la hace queda obligado a cumplirla.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59397&Lng=0',
-    id: '59397'
+    slug: 'quien-fia-o-promete-en-deuda-se-mete',
+    id: 59397
   },
   {
     proverb_type: 'Refrán',
@@ -20015,23 +20063,23 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: 'Este refrán está basado en un hecho histórico: durante el reinado de Enrique IV (1454-1474), rey de Castilla, se concedió el arzobispado de Santiago de Compostela a un sobrino del arzobispo de Sevilla, Alonso de Fonseca. Dado que la ciudad de Santiago estaba un poco revuelta, el sobrino pidió a su tío que ocupara él el arzobispado de Santiago para apaciguarlo, mientras él se quedaba en el arzobispado del tío, en Sevilla. Y así fue hasta que Alonso de Fonseca, una vez pacificada Santiago de Compostela, quiso volver a Sevilla. Como su sobrino se negaba a abandonar Sevilla, hubo que recurrir a un mandamiento papal a la intervención del rey castellano y al ahorcamiento de algunos de sus partidarios.',
     comments: 'Este refrán tiene adiciones, de las cuales la más difundida es la siguiente: Quien fue a Sevilla, perdió su silla, y quien fue a Aragón se la encontró.Otras adiciones son las siguientes:Quien fue a Sevilla, perdió su silla, y quien fue a Jerez, la perdió otra vez; Quien fue a Sevilla, perdió su silla; quien fue y volvió, a garrotazos se la quitó. Algunas carecen de referencia geográfica: Quien fue a Sevilla, perdió su silla; quien fue y volvió, la recobró/encontró. Esta adición cambia también en función de la zona geográfica: Quien fue a Sevilla, perdió su silla, y quien fue a Morón, perdió su sillón. Asimismo, este refrán conoce muchas adaptaciones, en función de la zona geográfica en la que se emplee: Quien fue a Padrón [Galicia], perdió su sillón.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59398&Lng=0',
-    id: '59398'
+    slug: 'quien-fue-a-sevilla-perdio-su-silla',
+    id: 59398
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Quien fue cocinero antes que fraile, lo que pasa en la cocina bien sabe',
     tags: [
-      'Oficios',
+      'Oficio',
       'Experiencia'
     ],
     meaning: 'La experiencia ayuda a hacer las cosas con acierto y a prever lo que suele ocurrir. Resulta difícil engañar a quien ha vivido bastante.',
     usable: 'Poco usado',
     observations: '',
     comments: 'Se puede emplear la forma abreviada y alterada: Este ha sido cocinero. Lo sé, porque, como he sido concinero antes que fraile,... (junio de 2013).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59399&Lng=0',
-    id: '59399'
+    slug: 'quien-fue-cocinero-antes-que-fraile-lo-que-pasa-en-la-cocina-bien-sabe',
+    id: 59399
   },
   {
     proverb_type: 'Refrán',
@@ -20044,8 +20092,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'También existe un refrán que sitúa la acción verbal en un determinado período de la vida: Guarda de mozo, y hallarás cuando seas viejo.',
     comments: 'También se emplea la forma El que guarda, halla. Este refrán conoce una adición, a modo de réplica: Quien guarda, halla, si la guarda no es mal, pues si se vuelve algo vicioso, se puede añadir: y guardaba una cascarria.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59400&Lng=0',
-    id: '59400'
+    slug: 'quien-guarda-halla',
+    id: 59400
   },
   {
     proverb_type: 'Refrán',
@@ -20058,8 +20106,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Cuando este refrán se aplica en sentido negativo, se relaciona semánticamente con refranes como Ladroncillo de agujeta, después sube a barjuleta. Esta paremia se aplica a los ladrones que empiezan con hurtos pequeños y acaban haciendo hurtos importantes. La agujeta es la correa o cinta acabada en un herrete en cada punta, que se emplea para ajustar diferentes prendas de vestir. La barjuleta es la bolsa grande de cuero o tela que llevaban los caminantes a la espalda.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59401&Lng=0',
-    id: '59401'
+    slug: 'quien-ha-jugado-jugara',
+    id: 59401
   },
   {
     proverb_type: 'Refrán',
@@ -20068,14 +20116,14 @@ export const PROVERBS_DATA = [
     tags: [
       'Beneficio',
       'Esfuerzo',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Alude al provecho que obtiene quien vive de su trabajo, la utilidad que reporta el trabajo. Sin embargo, el refrán Afanar, afanar y nunca medrar señala que no siempre el trabajo se ve recompensado.',
     usable: 'En desuso',
     observations: 'Otro refrán alude también a la importancia de tener un oficio: El dinero tiene poco valor, el oficio es preferible; si el dinero se acaba, el oficio queda.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59402&Lng=0',
-    id: '59402'
+    slug: 'quien-ha-oficio-ha-beneficio',
+    id: 59402
   },
   {
     proverb_type: 'Refrán',
@@ -20088,8 +20136,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59403&Lng=0',
-    id: '59403'
+    slug: 'quien-hace-lo-que-puede-no-esta-obligado-a-mas',
+    id: 59403
   },
   {
     proverb_type: 'Refrán',
@@ -20103,8 +20151,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Quien hace un cesto, hará ciento (Valdés 145). El que hace un vaso hermoso también puede hacer dos, y tres, y ciento (El Quijote II 30).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59404&Lng=0',
-    id: '59404'
+    slug: 'quien-hace-un-cesto-hace-ciento',
+    id: 59404
   },
   {
     proverb_type: 'Refrán',
@@ -20118,8 +20166,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59405&Lng=0',
-    id: '59405'
+    slug: 'quien-hambre-tiene-con-pan-suena',
+    id: 59405
   },
   {
     proverb_type: 'Refrán',
@@ -20132,8 +20180,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Existe también la forma El que hizo la ley hizo la trampa, pero su uso es menor.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59406&Lng=0',
-    id: '59406'
+    slug: 'quien-hizo-la-ley-hizo-la-trampa',
+    id: 59406
   },
   {
     proverb_type: 'Refrán',
@@ -20146,8 +20194,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59407&Lng=0',
-    id: '59407'
+    slug: 'quien-la-vio-y-la-ve-ahora-cual-es-el-corazon-que-no-llora',
+    id: 59407
   },
   {
     proverb_type: 'Refrán',
@@ -20160,8 +20208,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59408&Lng=0',
-    id: '59408'
+    slug: 'quien-lazo-me-armo-en-el-cayo',
+    id: 59408
   },
   {
     proverb_type: 'Refrán',
@@ -20174,8 +20222,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59409&Lng=0',
-    id: '59409'
+    slug: 'quien-lejos-va-a-casar-o-va-enganado-o-va-a-enganar',
+    id: 59409
   },
   {
     proverb_type: 'Refrán',
@@ -20188,8 +20236,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59410&Lng=0',
-    id: '59410'
+    slug: 'quien-llega-tarde-ni-oye-misa-ni-come-carne',
+    id: 59410
   },
   {
     proverb_type: 'Refrán',
@@ -20202,8 +20250,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59411&Lng=0',
-    id: '59411'
+    slug: 'quien-los-labios-se-muerde-mas-gana-que-pierde',
+    id: 59411
   },
   {
     proverb_type: 'Refrán',
@@ -20216,8 +20264,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59412&Lng=0',
-    id: '59412'
+    slug: 'quien-mal-adquiere-mal-tiene',
+    id: 59412
   },
   {
     proverb_type: 'Refrán',
@@ -20232,8 +20280,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Juan Ruiz de Alarcón y Mendoza )1580-1639) es autor de una obra titulada Quien mal anda en mal acaba, publicada a mediados del siglo XVIII.',
     comments: 'Existe también al forma El que mal anda, mal acaba, pero su uso es menor.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59413&Lng=0',
-    id: '59413'
+    slug: 'quien-mal-anda-mal-acaba',
+    id: 59413
   },
   {
     proverb_type: 'Refrán',
@@ -20246,8 +20294,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59414&Lng=0',
-    id: '59414'
+    slug: 'quien-mala-cama-hace-en-ella-se-yace',
+    id: 59414
   },
   {
     proverb_type: 'Refrán',
@@ -20260,8 +20308,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59415&Lng=0',
-    id: '59415'
+    slug: 'quien-malas-manas-ha-tarde-o-nunca-las-perdera',
+    id: 59415
   },
   {
     proverb_type: 'Refrán',
@@ -20274,8 +20322,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59416&Lng=0',
-    id: '59416'
+    slug: 'quien-malos-pasos-anda-malos-polvos-levanta',
+    id: 59416
   },
   {
     proverb_type: 'Refrán',
@@ -20288,8 +20336,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59417&Lng=0',
-    id: '59417'
+    slug: 'quien-mas-pone-mas-pierde',
+    id: 59417
   },
   {
     proverb_type: 'Refrán',
@@ -20302,8 +20350,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El hecho de que refraneros clásicos como el de Gonzalo Correas (1627) cite por separado los refranes El avaro, cuanto más tiene, más quiere y Quien más tiene, más quiere nos ha llevado a citarlos también por separado.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59418&Lng=0',
-    id: '59418'
+    slug: 'quien-mas-tiene-mas-quiere',
+    id: 59418
   },
   {
     proverb_type: 'Refrán',
@@ -20316,8 +20364,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59419&Lng=0',
-    id: '59419'
+    slug: 'quien-menos-vale-mas-presume',
+    id: 59419
   },
   {
     proverb_type: 'Refrán',
@@ -20330,8 +20378,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Quien mucho abarca, poco suele apretar (La Celestina XII, 104).',
     comments: 'Al ser de uso actual, se puede citar sólo la primera parte.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59420&Lng=0',
-    id: '59420'
+    slug: 'quien-mucho-abarca-poco-aprieta',
+    id: 59420
   },
   {
     proverb_type: 'Refrán',
@@ -20344,8 +20392,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59421&Lng=0',
-    id: '59421'
+    slug: 'quien-mucho-duerme-poco-aprende',
+    id: 59421
   },
   {
     proverb_type: 'Refrán',
@@ -20359,8 +20407,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El refrán antónimo tiene una variante: Habla poco, escucha más, y no errarás.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59422&Lng=0',
-    id: '59422'
+    slug: 'quien-mucho-habla-mucho-yerra',
+    id: 59422
   },
   {
     proverb_type: 'Refrán',
@@ -20373,8 +20421,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59423&Lng=0',
-    id: '59423'
+    slug: 'quien-mucho-ofrece-poco-da',
+    id: 59423
   },
   {
     proverb_type: 'Refrán',
@@ -20387,8 +20435,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59424&Lng=0',
-    id: '59424'
+    slug: 'quien-mucho-se-baja-el-culo-ensena',
+    id: 59424
   },
   {
     proverb_type: 'Refrán',
@@ -20401,8 +20449,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59425&Lng=0',
-    id: '59425'
+    slug: 'quien-muda-estado-muda-cuidado',
+    id: 59425
   },
   {
     proverb_type: 'Refrán',
@@ -20415,8 +20463,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59426&Lng=0',
-    id: '59426'
+    slug: 'quien-nace-lechon-muere-cochino',
+    id: 59426
   },
   {
     proverb_type: 'Refrán',
@@ -20429,8 +20477,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59427&Lng=0',
-    id: '59427'
+    slug: 'quien-no-acude-a-gotera-acude-a-la-casa-entera',
+    id: 59427
   },
   {
     proverb_type: 'Refrán',
@@ -20443,8 +20491,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59428&Lng=0',
-    id: '59428'
+    slug: 'quien-no-avanza-retrocede',
+    id: 59428
   },
   {
     proverb_type: 'Refrán',
@@ -20457,8 +20505,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59429&Lng=0',
-    id: '59429'
+    slug: 'quien-no-barbecha-no-cosecha',
+    id: 59429
   },
   {
     proverb_type: 'Refrán',
@@ -20471,8 +20519,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59430&Lng=0',
-    id: '59430'
+    slug: 'quien-no-cojea-renquea',
+    id: 59430
   },
   {
     proverb_type: 'Refrán',
@@ -20485,8 +20533,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59431&Lng=0',
-    id: '59431'
+    slug: 'quien-no-come-gallina-come-sardinas',
+    id: 59431
   },
   {
     proverb_type: 'Refrán',
@@ -20499,8 +20547,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'La paremia sigue un esquema cuyos elementos cambian en función de la localidad elogiada:Quien no ha visto Granada, no ha vistoa na [nada]. Quien no ha visto Barcelona, no ha visto cosa bona.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59432&Lng=0',
-    id: '59432'
+    slug: 'quien-no-ha-visto-sevilla-no-ha-visto-maravilla',
+    id: 59432
   },
   {
     proverb_type: 'Refrán',
@@ -20513,8 +20561,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59433&Lng=0',
-    id: '59433'
+    slug: 'quien-no-oye-consejo-no-llega-a-viejo',
+    id: 59433
   },
   {
     proverb_type: 'Refrán',
@@ -20527,8 +20575,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59434&Lng=0',
-    id: '59434'
+    slug: 'quien-no-parece-perece',
+    id: 59434
   },
   {
     proverb_type: 'Refrán',
@@ -20541,8 +20589,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59435&Lng=0',
-    id: '59435'
+    slug: 'quien-no-pueda-andar-que-corra',
+    id: 59435
   },
   {
     proverb_type: 'Refrán',
@@ -20555,8 +20603,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59436&Lng=0',
-    id: '59436'
+    slug: 'quien-no-puede-dar-en-el-asno-da-en-la-albarda',
+    id: 59436
   },
   {
     proverb_type: 'Refrán',
@@ -20569,8 +20617,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59437&Lng=0',
-    id: '59437'
+    slug: 'quien-no-puede-morder-que-no-ensene-los-dientes',
+    id: 59437
   },
   {
     proverb_type: 'Refrán',
@@ -20583,8 +20631,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59438&Lng=0',
-    id: '59438'
+    slug: 'quien-no-sabe-callar-no-sabe-hablar',
+    id: 59438
   },
   {
     proverb_type: 'Refrán',
@@ -20597,8 +20645,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La alabanza propia envilece (El Quijote I 16).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59439&Lng=0',
-    id: '59439'
+    slug: 'quien-no-se-alaba-de-ruin-muere',
+    id: 59439
   },
   {
     proverb_type: 'Refrán',
@@ -20612,8 +20660,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Quien no se arriesga, no gana nada (La Lozana Andaluza 283). Quien no aventura, no gana (Valdés 149)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59440&Lng=0',
-    id: '59440'
+    slug: 'quien-no-se-arriesga-no-pasa-la-mar',
+    id: 59440
   },
   {
     proverb_type: 'Refrán',
@@ -20627,8 +20675,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59441&Lng=0',
-    id: '59441'
+    slug: 'quien-no-se-aventura-no-ha-ventura',
+    id: 59441
   },
   {
     proverb_type: 'Refrán',
@@ -20642,8 +20690,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59442&Lng=0',
-    id: '59442'
+    slug: 'quien-no-siembra-no-recoge',
+    id: 59442
   },
   {
     proverb_type: 'Refrán',
@@ -20656,8 +20704,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59443&Lng=0',
-    id: '59443'
+    slug: 'quien-no-te-conoce-que-te-compre',
+    id: 59443
   },
   {
     proverb_type: 'Refrán',
@@ -20670,8 +20718,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59444&Lng=0',
-    id: '59444'
+    slug: 'quien-no-tenga-cabeza-que-tenga-pies',
+    id: 59444
   },
   {
     proverb_type: 'Refrán',
@@ -20684,8 +20732,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59445&Lng=0',
-    id: '59445'
+    slug: 'quien-no-tiene-casa-suya-de-cada-barrio-es-vecino',
+    id: 59445
   },
   {
     proverb_type: 'Refrán',
@@ -20699,8 +20747,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59446&Lng=0',
-    id: '59446'
+    slug: 'quien-no-tiene-hermano-no-tiene-pie-ni-mano',
+    id: 59446
   },
   {
     proverb_type: 'Refrán',
@@ -20713,8 +20761,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Véase la forma El que tiene padrino, se bautiza  en este mismo Refranero multilingüe.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59447&Lng=0',
-    id: '59447'
+    slug: 'quien-no-tiene-padrino-no-se-bautiza',
+    id: 59447
   },
   {
     proverb_type: 'Refrán',
@@ -20728,8 +20776,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59448&Lng=0',
-    id: '59448'
+    slug: 'quien-no-tiene-perder-no-puede',
+    id: 59448
   },
   {
     proverb_type: 'Refrán',
@@ -20742,8 +20790,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59449&Lng=0',
-    id: '59449'
+    slug: 'quien-nudo-no-dio-puntada-perdio',
+    id: 59449
   },
   {
     proverb_type: 'Refrán',
@@ -20756,8 +20804,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'En ocasiones se obtiene un efecto cómico añadiendo una réplica: Quien paga descansa... y quien cobra más, ... y quien cobra, echa panza.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59450&Lng=0',
-    id: '59450'
+    slug: 'quien-paga-descansa',
+    id: 59450
   },
   {
     proverb_type: 'Refrán',
@@ -20770,8 +20818,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59451&Lng=0',
-    id: '59451'
+    slug: 'quien-paga-manda',
+    id: 59451
   },
   {
     proverb_type: 'Refrán',
@@ -20784,8 +20832,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59452&Lng=0',
-    id: '59452'
+    slug: 'quien-pobreza-tiene-de-sus-deudos-es-desden-y-el-rico-sin-serlo-de-todos-es-deudo',
+    id: 59452
   },
   {
     proverb_type: 'Refrán',
@@ -20798,8 +20846,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Todo era predicar en el desierto y majar en hierro frío (El Quijote II 6). La locución predicar en el desierto es de origen bíblico; está basada en la expresión voz que clama en el desierto (Isaías 40, 3). Los cuatro evangelistas la citan (San Mateo 3, 3; San Marcos 1, 3; San Lucas 3, 4; San Juan 1, 23).',
     comments: 'En la actualidad se emplea más la expresión es como predicar en el desierto.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59453&Lng=0',
-    id: '59453'
+    slug: 'quien-predica-en-el-desierto-pierde-el-sermon',
+    id: 59453
   },
   {
     proverb_type: 'Refrán',
@@ -20807,14 +20855,14 @@ export const PROVERBS_DATA = [
     proverb: 'Quien presta al amigo, cobra un enemigo',
     tags: [
       'Amistad',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'No conviene tener asuntos económicos con los amigos, porque suele suceder que se pierda lo que se ha prestado al amigo e, incluso, la amistad, si se empeña en tratar de recuperar lo prestado.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59454&Lng=0',
-    id: '59454'
+    slug: 'quien-presta-al-amigo-cobra-un-enemigo',
+    id: 59454
   },
   {
     proverb_type: 'Refrán',
@@ -20827,8 +20875,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59455&Lng=0',
-    id: '59455'
+    slug: 'quien-primero-viene-primero-muele',
+    id: 59455
   },
   {
     proverb_type: 'Refrán',
@@ -20841,8 +20889,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59456&Lng=0',
-    id: '59456'
+    slug: 'quien-puede-lo-mas-puede-lo-menos',
+    id: 59456
   },
   {
     proverb_type: 'Refrán',
@@ -20857,8 +20905,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59457&Lng=0',
-    id: '59457'
+    slug: 'quien-puede-y-no-quiere-cuando-el-querra-no-podra',
+    id: 59457
   },
   {
     proverb_type: 'Refrán',
@@ -20871,8 +20919,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59459&Lng=0',
-    id: '59459'
+    slug: 'quien-quiere-sacar-beneficio-acomodese-con-su-oficio',
+    id: 59459
   },
   {
     proverb_type: 'Refrán',
@@ -20885,8 +20933,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59460&Lng=0',
-    id: '59460'
+    slug: 'quien-quisiere-vencer-aprenda-a-padecer',
+    id: 59460
   },
   {
     proverb_type: 'Refrán',
@@ -20899,8 +20947,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Quitando la causa, cesaría el efeto [sic] (El Quijote I 7). Quitada la causa, se quita el pecado (El Quijote II 67). En el siglo XX, surge una nueva variante al sustituir pecado por peligro: Quien quita la ocasión, quita el peligro.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59461&Lng=0',
-    id: '59461'
+    slug: 'quien-quita-la-ocasion-quita-el-pecado',
+    id: 59461
   },
   {
     proverb_type: 'Refrán',
@@ -20913,8 +20961,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Quien engaña al engañador... (La Celestina XIX 190). Quien hurta alladró gana cien días de perdón (La Pícara Justina I 203).',
     comments: 'También se emplea la forma El que roba a un ladrón, tiene cien años de perdón.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59463&Lng=0',
-    id: '59463'
+    slug: 'quien-roba-a-un-ladron-tiene-cien-anos-de-perdon',
+    id: 59463
   },
   {
     proverb_type: 'Refrán',
@@ -20928,8 +20976,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59464&Lng=0',
-    id: '59464'
+    slug: 'quien-ruin-es-en-su-tierra-ruin-es-fuera-de-ella',
+    id: 59464
   },
   {
     proverb_type: 'Refrán',
@@ -20942,8 +20990,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'En Derecho romano existe la máxima Excusation non petita, accusation manifesta [Excusa no pedida, acusación no manifiesta], para aludir a quien se está señalando como autor de una falta por disculparse de ella sin que nadie le haya pedido disculpa alguna.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59465&Lng=0',
-    id: '59465'
+    slug: 'quien-se-excusa-se-acusa',
+    id: 59465
   },
   {
     proverb_type: 'Refrán',
@@ -20956,8 +21004,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'El ajo era alimento que daba calor y fuerza a la gente del campo. No se consideraba propio de mesas refinadas, en cierta medida por el olor que deja en la boca. Junto con la cebolla, fue en la antigüedad la provisión básica de los soldados. Por otra parte, se decía de alguien que andaba «tieso como un ajo» que estaba fuerte y gozaba de buena salud.',
     comments: 'Este refrán puede tener  una ampliación: Quien se pica, ajos come y, si le pica que se rasque.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59466&Lng=0',
-    id: '59466'
+    slug: 'quien-se-pica-ajos-come',
+    id: 59466
   },
   {
     proverb_type: 'Refrán',
@@ -20970,8 +21018,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59467&Lng=0',
-    id: '59467'
+    slug: 'quien-se-pone-debajo-de-la-hoja-dos-veces-se-moja',
+    id: 59467
   },
   {
     proverb_type: 'Refrán',
@@ -20985,8 +21033,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59468&Lng=0',
-    id: '59468'
+    slug: 'quien-siembra-vientos-recoge-tempestades',
+    id: 59468
   },
   {
     proverb_type: 'Refrán',
@@ -20999,8 +21047,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59469&Lng=0',
-    id: '59469'
+    slug: 'quien-siembre-tarde-grano-no-aguarde',
+    id: 59469
   },
   {
     proverb_type: 'Refrán',
@@ -21013,8 +21061,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59470&Lng=0',
-    id: '59470'
+    slug: 'quien-tarde-llega-come-de-lo-que-queda',
+    id: 59470
   },
   {
     proverb_type: 'Refrán',
@@ -21027,8 +21075,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59471&Lng=0',
-    id: '59471'
+    slug: 'quien-tarde-se-levanta-todo-el-dia-trota',
+    id: 59471
   },
   {
     proverb_type: 'Refrán',
@@ -21042,8 +21090,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59472&Lng=0',
-    id: '59472'
+    slug: 'quien-te-da-un-hueso-no-te-quiere-ver-muerto',
+    id: 59472
   },
   {
     proverb_type: 'Refrán',
@@ -21056,8 +21104,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59473&Lng=0',
-    id: '59473'
+    slug: 'quien-te-regala-te-compra',
+    id: 59473
   },
   {
     proverb_type: 'Refrán',
@@ -21071,8 +21119,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59474&Lng=0',
-    id: '59474'
+    slug: 'quien-teme-el-peligro-no-vaya-a-la-mar',
+    id: 59474
   },
   {
     proverb_type: 'Refrán',
@@ -21085,8 +21133,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado por Valdés (153). Quien tiempo tiene y mejor le espera, tiempo viene que se arrepiente (La Celestina IX 40). Véase la paremia La ocasión, la pintan calva.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59475&Lng=0',
-    id: '59475'
+    slug: 'quien-tiempo-tiene-y-tiempo-atiende-tiempo-viene-que-se-arrepiente',
+    id: 59475
   },
   {
     proverb_type: 'Refrán',
@@ -21099,8 +21147,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59476&Lng=0',
-    id: '59476'
+    slug: 'quien-tiene-alforjas-y-asno-cuando-quiere-va-al-mercado',
+    id: 59476
   },
   {
     proverb_type: 'Refrán',
@@ -21114,8 +21162,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59477&Lng=0',
-    id: '59477'
+    slug: 'quien-tiene-arte-va-por-toda-parte',
+    id: 59477
   },
   {
     proverb_type: 'Refrán',
@@ -21128,8 +21176,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Quien ha buen vecino, ha buen maitino (Valdés 144).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59479&Lng=0',
-    id: '59479'
+    slug: 'quien-tiene-buen-vecino-tiene-buen-matino',
+    id: 59479
   },
   {
     proverb_type: 'Refrán',
@@ -21137,14 +21185,14 @@ export const PROVERBS_DATA = [
     proverb: 'Quien tiene dolencia, abra la bolsa y tenga paciencia',
     tags: [
       'Paciencia',
-      'Remedios'
+      'Remedio'
     ],
     meaning: 'Declara que algunas enfermedades sólo se curan tomando medicamentos y tomándolo con calma.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59480&Lng=0',
-    id: '59480'
+    slug: 'quien-tiene-dolencia-abra-la-bolsa-y-tenga-paciencia',
+    id: 59480
   },
   {
     proverb_type: 'Refrán',
@@ -21158,8 +21206,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59481&Lng=0',
-    id: '59481'
+    slug: 'quien-tiene-hijo-varon-no-de-voces-al-ladron',
+    id: 59481
   },
   {
     proverb_type: 'Refrán',
@@ -21173,8 +21221,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59482&Lng=0',
-    id: '59482'
+    slug: 'quien-tiene-ovejas-tiene-pellejas',
+    id: 59482
   },
   {
     proverb_type: 'Refrán',
@@ -21187,8 +21235,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Existe una película titulada Quien tiene un amigo tiene un tesoro (1981). Dirigida por Sergio Corbucci, está protagonizada por Terence Hill y Bud Spencer.',
     comments: 'Esta paremia sirvió de inspiración para la campaña de la ONCE en 2013: Quien tiene un cupón tiene un tesoro. El vocablo «amigo» suele sustituirse por otras palabras con el objeto de adaptarse al contexto en cuestión: Quien tiene un tejado tiene un tesoro. De esta forma se llama la atención sobre el ahorro que supone instalar placas solares (Clara Pinar, 20minutos.es, 20/3/2023).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59483&Lng=0',
-    id: '59483'
+    slug: 'quien-tiene-un-amigo-tiene-un-tesoro',
+    id: 59483
   },
   {
     proverb_type: 'Refrán',
@@ -21201,8 +21249,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Un mal vecino puede causar un gran daño: Por malas vecindades, se pierden heredades (Libro de Buen Amor 260).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59484&Lng=0',
-    id: '59484'
+    slug: 'quien-tiene-vecino-tiene-enemigo',
+    id: 59484
   },
   {
     proverb_type: 'Refrán',
@@ -21215,22 +21263,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59485&Lng=0',
-    id: '59485'
+    slug: 'quien-tiene-verguenza-ni-come-ni-almuerza',
+    id: 59485
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Quien todo lo niega, todo lo confiesa',
     tags: [
-      'Culpabilidad'
+      'Culpa'
     ],
     meaning: 'Si se tiene la certeza de que alguien ha participado en algo y lo niega todo, puede que sea porque es culpable y, por tanto, nace enseguida la sospecha de que lo sea.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59486&Lng=0',
-    id: '59486'
+    slug: 'quien-todo-lo-niega-todo-lo-confiesa',
+    id: 59486
   },
   {
     proverb_type: 'Refrán',
@@ -21243,8 +21291,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59487&Lng=0',
-    id: '59487'
+    slug: 'quien-todo-lo-quiere-todo-lo-pierde',
+    id: 59487
   },
   {
     proverb_type: 'Refrán',
@@ -21257,8 +21305,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59488&Lng=0',
-    id: '59488'
+    slug: 'quien-toma-a-dar-se-obliga',
+    id: 59488
   },
   {
     proverb_type: 'Refrán',
@@ -21272,8 +21320,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59489&Lng=0',
-    id: '59489'
+    slug: 'quien-trata-la-mercancia-y-no-la-entiende-sus-dineros-se-le-tornan-de-duende',
+    id: 59489
   },
   {
     proverb_type: 'Refrán',
@@ -21286,8 +21334,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59490&Lng=0',
-    id: '59490'
+    slug: 'quien-una-vez-hurta-fiel-nunca',
+    id: 59490
   },
   {
     proverb_type: 'Refrán',
@@ -21301,8 +21349,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La idea de salto» para indicar la adquisición de una posición elevada figura en otros refranes, como A gran salto, gran quebranto.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59491&Lng=0',
-    id: '59491'
+    slug: 'quiso-pegar-el-salto-y-cayo-en-el-charco',
+    id: 59491
   },
   {
     proverb_type: 'Refrán',
@@ -21315,8 +21363,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Al mur que no sabe sino un agujero, presto lo toma el gato (Valdés 18).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59492&Lng=0',
-    id: '59492'
+    slug: 'raton-que-no-sabe-mas-que-un-horado-presto-es-cazado',
+    id: 59492
   },
   {
     proverb_type: 'Proverbio',
@@ -21329,8 +21377,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Paremia empleada en el anuncio de una compañía de telefonía móvil en 2009.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59493&Lng=0',
-    id: '59493'
+    slug: 'rectificar-es-de-sabios',
+    id: 59493
   },
   {
     proverb_type: 'Refrán',
@@ -21343,8 +21391,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59494&Lng=0',
-    id: '59494'
+    slug: 'refran-viejo-nunca-miente',
+    id: 59494
   },
   {
     proverb_type: 'Refrán',
@@ -21357,8 +21405,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Se atribuye al filósofo y escritor Miguel de Unamuno la frase el progreso consiste en renovarse, que dio pie al pueblo para hacer suyo el refrán renovarse o morir.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59647&Lng=0',
-    id: '59647'
+    slug: 'renovarse-o-morir',
+    id: 59647
   },
   {
     proverb_type: 'Refrán',
@@ -21371,8 +21419,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59495&Lng=0',
-    id: '59495'
+    slug: 'rico-es-quien-nada-debe-y-se-pasa-como-puede',
+    id: 59495
   },
   {
     proverb_type: 'Refrán',
@@ -21385,8 +21433,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59496&Lng=0',
-    id: '59496'
+    slug: 'rinen-las-comadres-y-dicense-las-verdades',
+    id: 59496
   },
   {
     proverb_type: 'Refrán',
@@ -21400,8 +21448,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Pagan a las veces justos por pecadores (El Quijote I 7).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59497&Lng=0',
-    id: '59497'
+    slug: 'rinen-las-ovejas-y-perecieron-los-quesos',
+    id: 59497
   },
   {
     proverb_type: 'Refrán',
@@ -21414,8 +21462,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59498&Lng=0',
-    id: '59498'
+    slug: 'ruego-de-rey-mandato-es',
+    id: 59498
   },
   {
     proverb_type: 'Refrán',
@@ -21429,8 +21477,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59499&Lng=0',
-    id: '59499'
+    slug: 'sabio-es-el-que-poco-habla-y-mucho-sabe',
+    id: 59499
   },
   {
     proverb_type: 'Refrán',
@@ -21443,8 +21491,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59500&Lng=0',
-    id: '59500'
+    slug: 'saca-lo-tuyo-al-mercado-uno-dira-bueno-y-otro-dira-malo',
+    id: 59500
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -21457,8 +21505,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59501&Lng=0',
-    id: '59501'
+    slug: 'sali-de-mi-casa-y-me-avergonce-volvi-a-la-mia-y-me-remedie',
+    id: 59501
   },
   {
     proverb_type: 'Locución proverbial',
@@ -21471,8 +21519,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Salí de ladrón y di en ventero (El Guzmán de Alfarache III 287). Andar de zocos en colodros (Covarrubias).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59502&Lng=0',
-    id: '59502'
+    slug: 'salir-de-guatemala-y-entrar-en-guatepeor',
+    id: 59502
   },
   {
     proverb_type: 'Refrán',
@@ -21486,8 +21534,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59503&Lng=0',
-    id: '59503'
+    slug: 'sanan-cuchilladas-y-no-malas-palabras',
+    id: 59503
   },
   {
     proverb_type: 'Refrán',
@@ -21500,8 +21548,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se trata de una paremia utilizada sobre todo en el lenguaje infantil, si bien se escucha también en la lengua hablada cotidiana. En oasiones, es suficiente con iniciar el refrán: Santa Rita, pues el interlocutor conoce perfectamente la forma completa. En otras en cambio, se dice la segunda parte: Lo que se da no se quita.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59504&Lng=0',
-    id: '59504'
+    slug: 'santa-rita-rita-lo-que-se-da-no-se-quita',
+    id: 59504
   },
   {
     proverb_type: 'Refrán',
@@ -21514,8 +21562,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Esta paremia conoce una réplica: Sarna con gusto, no pica, pero mortifica; con esta réplica, se indica que siempre se produce algún daño o alguna inquietud.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59505&Lng=0',
-    id: '59505'
+    slug: 'sarna-con-gusto-no-pica',
+    id: 59505
   },
   {
     proverb_type: 'Refrán',
@@ -21528,8 +21576,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59506&Lng=0',
-    id: '59506'
+    slug: 'se-dice-el-pecado-pero-no-el-pecador',
+    id: 59506
   },
   {
     proverb_type: 'Refrán',
@@ -21542,8 +21590,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59507&Lng=0',
-    id: '59507'
+    slug: 'se-parecen-los-cascos-a-la-olla',
+    id: 59507
   },
   {
     proverb_type: 'Refrán',
@@ -21556,8 +21604,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59508&Lng=0',
-    id: '59508'
+    slug: 'seca-la-garganta-ni-grune-ni-canta',
+    id: 59508
   },
   {
     proverb_type: 'Refrán',
@@ -21570,8 +21618,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Lo que saben tres, sábelo toda res (Núñez, 4410; Correas S1391).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59509&Lng=0',
-    id: '59509'
+    slug: 'secreto-de-uno-de-ninguno-de-dos-sabelo-dios-de-tres-secreto-no-es',
+    id: 59509
   },
   {
     proverb_type: 'Refrán',
@@ -21584,8 +21632,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59510&Lng=0',
-    id: '59510'
+    slug: 'sembraras-cuando-podras-pero-en-junio-segaras',
+    id: 59510
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -21598,8 +21646,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59511&Lng=0',
-    id: '59511'
+    slug: 'septiembre-o-lleva-las-puentes-o-seca-las-fuentes',
+    id: 59511
   },
   {
     proverb_type: 'Refrán',
@@ -21612,8 +21660,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La cabra es un animal que causa bastante destrozo en los árboles que mordisquean; pueden acabar secos y sin frutos.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59512&Lng=0',
-    id: '59512'
+    slug: 'si-a-tu-vecino-quieres-mal-metele-las-cabras-en-el-olivar',
+    id: 59512
   },
   {
     proverb_type: 'Refrán',
@@ -21627,8 +21675,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59513&Lng=0',
-    id: '59513'
+    slug: 'si-agua-sola-es-tu-bebida-sera-mas-larga-tu-vida',
+    id: 59513
   },
   {
     proverb_type: 'Refrán',
@@ -21641,8 +21689,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59514&Lng=0',
-    id: '59514'
+    slug: 'si-bien-me-quieres-tratame-como-sueles',
+    id: 59514
   },
   {
     proverb_type: 'Refrán',
@@ -21655,8 +21703,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59515&Lng=0',
-    id: '59515'
+    slug: 'si-cantas-al-asno-te-respondera-a-coces',
+    id: 59515
   },
   {
     proverb_type: 'Refrán',
@@ -21669,8 +21717,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59516&Lng=0',
-    id: '59516'
+    slug: 'si-el-cielo-se-cae-quebrarse-han-las-ollas',
+    id: 59516
   },
   {
     proverb_type: 'Refrán',
@@ -21683,8 +21731,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59517&Lng=0',
-    id: '59517'
+    slug: 'si-el-grande-fuese-valiente-y-el-pequeno-paciente-y-el-bermejo-leal-todo-el-mundo-seria-igual',
+    id: 59517
   },
   {
     proverb_type: 'Refrán',
@@ -21697,8 +21745,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59518&Lng=0',
-    id: '59518'
+    slug: 'si-el-necio-no-fuese-al-mercado-no-se-venderia-lo-malo',
+    id: 59518
   },
   {
     proverb_type: 'Refrán',
@@ -21712,8 +21760,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59519&Lng=0',
-    id: '59519'
+    slug: 'si-el-nino-llorare-acallele-su-madre-y-si-no-quiere-callar-dejele-llorar',
+    id: 59519
   },
   {
     proverb_type: 'Refrán',
@@ -21726,8 +21774,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59520&Lng=0',
-    id: '59520'
+    slug: 'si-en-noviembre-oyes-que-truena-la-cosecha-sera-buena',
+    id: 59520
   },
   {
     proverb_type: 'Refrán',
@@ -21741,8 +21789,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59521&Lng=0',
-    id: '59521'
+    slug: 'si-fueres-bueno-para-ti-el-provecho-si-fueres-malo-para-ti-el-dano',
+    id: 59521
   },
   {
     proverb_type: 'Refrán',
@@ -21756,8 +21804,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59522&Lng=0',
-    id: '59522'
+    slug: 'si-haces-barato-venderas-mas-que-cuatro',
+    id: 59522
   },
   {
     proverb_type: 'Refrán',
@@ -21770,8 +21818,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59523&Lng=0',
-    id: '59523'
+    slug: 'si-la-envidia-fuera-tina-cuantos-tinosos-habria',
+    id: 59523
   },
   {
     proverb_type: 'Refrán',
@@ -21784,8 +21832,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59524&Lng=0',
-    id: '59524'
+    slug: 'si-la-montana-no-va-a-mahoma-mahoma-va-a-la-montana',
+    id: 59524
   },
   {
     proverb_type: 'Refrán',
@@ -21798,8 +21846,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59525&Lng=0',
-    id: '59525'
+    slug: 'si-la-pildora-bien-supiera-no-la-doraran-por-fuera',
+    id: 59525
   },
   {
     proverb_type: 'Refrán',
@@ -21812,8 +21860,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59526&Lng=0',
-    id: '59526'
+    slug: 'si-no-hace-viento-no-hace-mal-tiempo',
+    id: 59526
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -21826,8 +21874,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59527&Lng=0',
-    id: '59527'
+    slug: 'si-no-puedes-con-tu-enemigo-unete-a-el',
+    id: 59527
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -21840,8 +21888,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59529&Lng=0',
-    id: '59529'
+    slug: 'si-no-te-envidia-nadie-poco-vales',
+    id: 59529
   },
   {
     proverb_type: 'Refrán',
@@ -21854,8 +21902,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'No resulta raro ver una ermita en lugares altos cercanos a los puertos, de modo que los pescadores dirigen su oración hacia el lugar santo antes de entrar en el mar.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59530&Lng=0',
-    id: '59530'
+    slug: 'si-quieres-aprender-a-orar-entra-en-la-mar',
+    id: 59530
   },
   {
     proverb_type: 'Refrán',
@@ -21869,8 +21917,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59531&Lng=0',
-    id: '59531'
+    slug: 'si-quieres-buenos-nabos-en-julio-has-de-sembrarlos',
+    id: 59531
   },
   {
     proverb_type: 'Refrán',
@@ -21883,8 +21931,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59532&Lng=0',
-    id: '59532'
+    slug: 'si-quieres-el-huevo-sufre-la-gallina',
+    id: 59532
   },
   {
     proverb_type: 'Refrán',
@@ -21897,8 +21945,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59533&Lng=0',
-    id: '59533'
+    slug: 'si-quieres-la-col-quieres-las-hojas-de-alrededor',
+    id: 59533
   },
   {
     proverb_type: 'Refrán',
@@ -21911,8 +21959,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en La Dorotea III 229.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59534&Lng=0',
-    id: '59534'
+    slug: 'si-quieres-que-te-siga-el-can-dale-pan',
+    id: 59534
   },
   {
     proverb_type: 'Refrán',
@@ -21925,8 +21973,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59535&Lng=0',
-    id: '59535'
+    slug: 'si-quieres-ser-bien-servido-sirvete-a-ti-mismo',
+    id: 59535
   },
   {
     proverb_type: 'Refrán',
@@ -21939,8 +21987,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59536&Lng=0',
-    id: '59536'
+    slug: 'si-quieres-vivir-bien-da-y-ten',
+    id: 59536
   },
   {
     proverb_type: 'Refrán',
@@ -21953,8 +22001,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59537&Lng=0',
-    id: '59537'
+    slug: 'si-quieres-vivir-en-paz-oye-mira-y-taz',
+    id: 59537
   },
   {
     proverb_type: 'Refrán',
@@ -21968,8 +22016,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59538&Lng=0',
-    id: '59538'
+    slug: 'si-quieres-vivir-sano-hazte-viejo-temprano-y-la-ropa-de-invierno-traela-en-verano',
+    id: 59538
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -21983,8 +22031,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59539&Lng=0',
-    id: '59539'
+    slug: 'si-te-mandare-tu-mujer-arrojarte-de-un-tajo-ruega-a-dios-que-sea-bajo',
+    id: 59539
   },
   {
     proverb_type: 'Refrán',
@@ -21997,8 +22045,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59540&Lng=0',
-    id: '59540'
+    slug: 'siempre-que-ha-llovido-ha-escampado',
+    id: 59540
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22012,8 +22060,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59541&Lng=0',
-    id: '59541'
+    slug: 'siempre-quiebra-la-soga-por-lo-mas-delgado',
+    id: 59541
   },
   {
     proverb_type: 'Refrán',
@@ -22026,8 +22074,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59542&Lng=0',
-    id: '59542'
+    slug: 'siempre-sale-a-hablar-quien-tiene-por-que-callar',
+    id: 59542
   },
   {
     proverb_type: 'Refrán',
@@ -22040,8 +22088,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59543&Lng=0',
-    id: '59543'
+    slug: 'sientate-en-tu-lugar-y-no-te-haran-levantar',
+    id: 59543
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -22054,8 +22102,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59544&Lng=0',
-    id: '59544'
+    slug: 'sigue-la-hormiga-si-quieres-vivir-sin-fatiga',
+    id: 59544
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -22070,8 +22118,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59545&Lng=0',
-    id: '59545'
+    slug: 'sin-alas-con-que-alear-como-pretendes-volar',
+    id: 59545
   },
   {
     proverb_type: 'Refrán',
@@ -22084,8 +22132,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59546&Lng=0',
-    id: '59546'
+    slug: 'sin-pan-y-sin-vino-no-hay-amor-fino',
+    id: 59546
   },
   {
     proverb_type: 'Refrán',
@@ -22098,8 +22146,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Paremia originada por la sentencia latina De gustibus et coloribus non est disputandum. En ocasiones, se emplea una forma muy breve: Sobre gustos, los colores (utilizado en televisión, 12-01-2008). También se usa bastante en el discurso oral Para gustos, los colores.',
     comments: 'En la actualidad es muy frecuente la paremia Para gustos, los colores, en la que se han suprimido algunos elementos léxicos.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59547&Lng=0',
-    id: '59547'
+    slug: 'sobre-gustos-no-hay-nada-escrito',
+    id: 59547
   },
   {
     proverb_type: 'Refrán',
@@ -22112,8 +22160,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'El Quijote II 7. En el ponedero se dejaba un huevo falso hecho con yeso para enseñar a las gallinas jóvenes el lugar dónde debían poner los huevos y facilitar así su posterior recogida.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59548&Lng=0',
-    id: '59548'
+    slug: 'sobre-un-huevo-pone-la-gallina',
+    id: 59548
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -22127,8 +22175,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59549&Lng=0',
-    id: '59549'
+    slug: 'sol-de-invierno-sale-tarde-y-ponese-presto',
+    id: 59549
   },
   {
     proverb_type: 'Refrán',
@@ -22141,8 +22189,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Sol de marzo, que parece que sale y da mazada (La Pícara Justina II 213).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59550&Lng=0',
-    id: '59550'
+    slug: 'sol-de-marzo-hiere-como-mazo',
+    id: 59550
   },
   {
     proverb_type: 'Refrán',
@@ -22155,8 +22203,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59551&Lng=0',
-    id: '59551'
+    slug: 'sol-que-mucho-madruga-poco-dura',
+    id: 59551
   },
   {
     proverb_type: 'Proverbio',
@@ -22170,8 +22218,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59552&Lng=0',
-    id: '59552'
+    slug: 'solo-se-vive-una-vez',
+    id: 59552
   },
   {
     proverb_type: 'Refrán',
@@ -22184,8 +22232,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59553&Lng=0',
-    id: '59553'
+    slug: 'sonaba-el-ciego-que-veia-y-sonaba-lo-que-queria',
+    id: 59553
   },
   {
     proverb_type: 'Refrán',
@@ -22198,8 +22246,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59554&Lng=0',
-    id: '59554'
+    slug: 'soplar-y-sorber-no-puede-ser',
+    id: 59554
   },
   {
     proverb_type: 'Refrán',
@@ -22212,8 +22260,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'La relación entre la suegra y la nuera ha originado más de un refrán, como Aquella es bien casada, que ni tiene suegra ni cuñada (Sbarbi, suegra»). Fui nuera, y nunca tuve buena suegra; fui suegra, y nunca tuve buena nuera',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59555&Lng=0',
-    id: '59555'
+    slug: 'suegra-y-nuera-perro-y-gato-no-comen-en-el-mismo-plato',
+    id: 59555
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -22226,23 +22274,23 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59557&Lng=0',
-    id: '59557'
+    slug: 'sufro-y-callo-por-el-tiempo-en-que-me-hallo',
+    id: 59557
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Tal amo, tal criado',
     tags: [
-      'Oficios',
+      'Oficio',
       'Influencia'
     ],
     meaning: 'Según es el dueño de una casa, así son los que se encuentran a su servicio. En un sentido más amplio, se aplica a la influencia del jefe en sus subordinados.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59558&Lng=0',
-    id: '59558'
+    slug: 'tal-amo-tal-criado',
+    id: 59558
   },
   {
     proverb_type: 'Dialogismo',
@@ -22255,8 +22303,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Manuel Eduardo de Gorostiza es el autor de Tal para cual o las mugeres y los hombres. Comedia original en verso y en un acto (Madrid: Imprenta de Repullés, 1820). Con el seudónimo Adolfo García, Gustavo Adolfo Bécquer estrena en 1860 la zarzuela Tal para cual.',
     comments: 'La forma más usual es (Ser) tal para cual. Se puede añadir una segunda parte que rima con la primera, como la registrada por Sebastián de Covarrubias: Tal para cual, Pedro para Juan.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59559&Lng=0',
-    id: '59559'
+    slug: 'tal-para-cual-dijo-el-pardal',
+    id: 59559
   },
   {
     proverb_type: 'Refrán',
@@ -22269,8 +22317,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en La Celestina IV 170 y El Quijote II 7. La muerte también come cordero como carnero (El Quijote II 20). La muerte con igual pie pisaba las altas torres de los reyes como las humildes chozas de los pobres (El Qujote II 20).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59560&Lng=0',
-    id: '59560'
+    slug: 'tan-presto-se-va-el-cordero-como-el-carnero',
+    id: 59560
   },
   {
     proverb_type: 'Refrán',
@@ -22283,8 +22331,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Existe una forma muy similar recogida en Autoridades («escarbar»): Muchas veces el que escarva, lo que no querría hallar.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59561&Lng=0',
-    id: '59561'
+    slug: 'tanto-escarba-la-cabra-que-descubre-el-cuchillo-con-que-la-matan',
+    id: 59561
   },
   {
     proverb_type: 'Refrán',
@@ -22298,8 +22346,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59562&Lng=0',
-    id: '59562'
+    slug: 'tanto-peca-el-que-roba-la-huerta-como-el-queda-a-la-puerta',
+    id: 59562
   },
   {
     proverb_type: 'Refrán',
@@ -22314,8 +22362,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59563&Lng=0',
-    id: '59563'
+    slug: 'tanto-quiso-el-diablo-a-su-hijo-que-le-saco-un-ojo',
+    id: 59563
   },
   {
     proverb_type: 'Refrán',
@@ -22328,8 +22376,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Tanto vales, cuanto tienes (El  Quijote II 43). Tanto vales cuanto tienes y tanto tienes cuanto vales (El Quijote II 20). Este refrán se emplea todavía en el siglo XXI, incluso aparece en la letra de algunas canciones.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59564&Lng=0',
-    id: '59564'
+    slug: 'tanto-tienes-tanto-vales',
+    id: 59564
   },
   {
     proverb_type: 'Refrán',
@@ -22342,8 +22390,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Tantas veces va el cantarillo a la fuente [...]  y no digo más (El Quijote II 30).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59565&Lng=0',
-    id: '59565'
+    slug: 'tanto-va-el-cantaro-a-la-fuente-que-al-final-se-rompe',
+    id: 59565
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -22356,8 +22404,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59566&Lng=0',
-    id: '59566'
+    slug: 'ten-siempre-una-vela-encendida-por-si-otra-se-apaga',
+    id: 59566
   },
   {
     proverb_type: 'Locución proverbial',
@@ -22365,27 +22413,29 @@ export const PROVERBS_DATA = [
     proverb: 'Tirar la piedra y esconder la mano',
     tags: [
       'Hipocresía',
-      'Maldad',
-      'Ocultación'
+      'Maldad'
     ],
     meaning: 'Alude a quien hace alguna faena y, luego, se oculta, sin reconocer su culpa; se refiere a quien halaga por delante y ofende por detrás.',
     usable: 'De uso actual',
     observations: '',
     comments: 'Como las locuciones, se conjuga la forma verbal para insertarse en el discurso: tira la piedra y esconde la mano.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59567&Lng=0',
-    id: '59567'
+    slug: 'tirar-la-piedra-y-esconder-la-mano',
+    id: 59567
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Toda nube negra tiene su orilla de plata',
-    tags: [],
+    tags: [
+      'Esperanza',
+      'Paciencia'
+    ],
     meaning: 'Este refrán da a entender que las desgracias no son duraderas.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59641&Lng=0',
-    id: '59641'
+    slug: 'toda-nube-negra-tiene-su-orilla-de-plata',
+    id: 59641
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22399,8 +22449,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59568&Lng=0',
-    id: '59568'
+    slug: 'todo-llega-a-su-tiempo',
+    id: 59568
   },
   {
     proverb_type: 'Aforismo',
@@ -22413,8 +22463,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59569&Lng=0',
-    id: '59569'
+    slug: 'todo-llega-todo-cansa-todo-se-acaba',
+    id: 59569
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22427,8 +22477,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59570&Lng=0',
-    id: '59570'
+    slug: 'todo-lo-nuevo-agrada',
+    id: 59570
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22442,8 +22492,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59572&Lng=0',
-    id: '59572'
+    slug: 'todo-se-pega-menos-la-hermosura',
+    id: 59572
   },
   {
     proverb_type: 'Refrán',
@@ -22457,8 +22507,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59573&Lng=0',
-    id: '59573'
+    slug: 'todo-tiene-haz-y-enves',
+    id: 59573
   },
   {
     proverb_type: 'Refrán',
@@ -22472,8 +22522,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Para todo hay remedio si no es para la muerte (El Quijote II 43 y II 64). A todo hay remedio, sino a la muerte (La Lozana Andaluza 215).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59282&Lng=0',
-    id: '59282'
+    slug: 'todo-tiene-remedio-menos-la-muerte',
+    id: 59282
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22487,23 +22537,23 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'Se altera con frecuencia la forma de esta frase proverbial para adaptarla a las circunstancias. Así, en un concurso televisivo (en marzo de 2013), un concursante explicó su situación laboral diciendo: Todos los caminos llevan al paro.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59574&Lng=0',
-    id: '59574'
+    slug: 'todos-los-caminos-llevan-a-roma',
+    id: 59574
   },
   {
     proverb_type: 'Proverbio',
     language: 'Español',
     proverb: 'Todos somos hijos de Eva, sino que nos diferencia la seda',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Igualdad'
     ],
     meaning: 'Este refrán alude a la igualdad de todos los seres humanos como tales, salvo por la apariencia externa o por algo accidental. Pese a tener todos un mismo origen, las clases sociales se distinguen por la educación y las riquezas. Por otra parte, el refrán puede tener el sentido de que nadie debe sentirse superior a los demás porque la única diferencia es muy superficial, la vestimenta. Advierte que no nos fiemos de las apariencias porque las reacciones humanas no se dominan fácilmente y personas ilustres y distinguidas pueden cometer iniquidades como cualquiera',
     usable: 'En desuso',
     observations: 'La seda es tela fina y cara, de manera que al mencionarla se refiere indirectamente a quienes pueden usarla por su posición social o su buena situación económica.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59575&Lng=0',
-    id: '59575'
+    slug: 'todos-somos-hijos-de-eva-sino-que-nos-diferencia-la-seda',
+    id: 59575
   },
   {
     proverb_type: 'Refrán',
@@ -22516,8 +22566,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Tras cornudo, sañudo (MalLara II 212)',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59576&Lng=0',
-    id: '59576'
+    slug: 'tras-cornudo-apaleado',
+    id: 59576
   },
   {
     proverb_type: 'Refrán',
@@ -22530,8 +22580,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59578&Lng=0',
-    id: '59578'
+    slug: 'treinta-monjes-y-un-abad-no-pueden-hacer-beber-a-un-asno-contra-su-voluntad',
+    id: 59578
   },
   {
     proverb_type: 'Refrán',
@@ -22545,8 +22595,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59579&Lng=0',
-    id: '59579'
+    slug: 'tripa-llena-ni-bien-huye-ni-bien-pelea',
+    id: 59579
   },
   {
     proverb_type: 'Refrán',
@@ -22559,8 +22609,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59580&Lng=0',
-    id: '59580'
+    slug: 'tripa-vacia-corazon-sin-alegria',
+    id: 59580
   },
   {
     proverb_type: 'Refrán',
@@ -22574,8 +22624,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59581&Lng=0',
-    id: '59581'
+    slug: 'triste-esta-la-casa-donde-la-gallina-canta-y-el-gallo-calla',
+    id: 59581
   },
   {
     proverb_type: 'Refrán',
@@ -22589,8 +22639,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59582&Lng=0',
-    id: '59582'
+    slug: 'tu-secreto-ni-al-mas-discreto',
+    id: 59582
   },
   {
     proverb_type: 'Refrán',
@@ -22603,8 +22653,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59583&Lng=0',
-    id: '59583'
+    slug: 'un-agravio-consentido-otro-venido',
+    id: 59583
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22617,8 +22667,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59584&Lng=0',
-    id: '59584'
+    slug: 'un-asno-rasca-a-otro',
+    id: 59584
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22632,8 +22682,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Paremia procedente de un proverbio grecolatino, citado, entre otros autores, por Aristóteles (Política, 1314a). Este refrán, del que encontramos una variante en Lla Celestina (Un clavo a otro expele), se emplea todavía en el siglo XXI, incluso aparece en la letra de algunas canciones.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59585&Lng=0',
-    id: '59585'
+    slug: 'un-clavo-saca-otro-clavo',
+    id: 59585
   },
   {
     proverb_type: 'Dialogismo',
@@ -22646,8 +22696,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En la actualidad, se emplea sólo la primera parte: Un día es un día. Las legumbres, como los garbanzos, las judías o las lentejas, están presentes en los platos típicos de la dieta mediterránea. En el caso de la gastronomía española, las judías en la fabada asturiana y los garbanzos en el cocido madrileño, extremeño, cántabro o maragato.\nEl vocablo garbanzo puede aparecer en expresiones como «cuenta garbanzos», empleada en otros tiempos para referirse al miserable incluso en las cosas de su casa (Autoridades «garbanzo»), o «Días y ollas», también utilizada en otra época para indicar el paso del tiempo que, junto con el sustento, sirven para seguir adelante. Por ejemplo, se decía: Días y ollas darán al enfermo la salud (Autoridades «día»).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=58032&Lng=0',
-    id: '58032'
+    slug: 'un-dia-es-un-dia-penso-el-avaro-y-anadio-a-la-olla-un-garbanzo',
+    id: 58032
   },
   {
     proverb_type: 'Refrán',
@@ -22660,23 +22710,23 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59586&Lng=0',
-    id: '59586'
+    slug: 'un-grano-no-hace-granero-pero-ayuda-al-companero',
+    id: 59586
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Un médico cura, dos dudan, tres muerte segura',
     tags: [
-      'Oficios',
+      'Oficio',
       'Salud'
     ],
     meaning: 'Contiene un ataque directo contra los médicos. Se recomienda no ir mucho al médico.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59587&Lng=0',
-    id: '59587'
+    slug: 'un-medico-cura-dos-dudan-tres-muerte-segura',
+    id: 59587
   },
   {
     proverb_type: 'Refrán',
@@ -22690,8 +22740,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado por Valdés 169.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59588&Lng=0',
-    id: '59588'
+    slug: 'un-padre-para-cien-hijos-y-no-cien-hijos-para-un-padre',
+    id: 59588
   },
   {
     proverb_type: 'Aforismo',
@@ -22704,8 +22754,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59589&Lng=0',
-    id: '59589'
+    slug: 'un-pleito-trae-consigo-otros-ciento',
+    id: 59589
   },
   {
     proverb_type: 'Refrán',
@@ -22719,8 +22769,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59556&Lng=0',
-    id: '59556'
+    slug: 'un-tiempo-tras-otro-viene',
+    id: 59556
   },
   {
     proverb_type: 'Refrán',
@@ -22733,8 +22783,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59590&Lng=0',
-    id: '59590'
+    slug: 'un-tropezon-cualquiera-da-en-la-vida',
+    id: 59590
   },
   {
     proverb_type: 'Refrán',
@@ -22747,22 +22797,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: 'Existe la locución Buscar una aguja en un pajar para indicar la inutilidad de trabajar por conseguir algo imposible o muy difícil. Con frecuencia se dice: Eso es como buscar una aguja en un pajar o «Es más difícil que buscar una aguja en un pajar.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59591&Lng=0',
-    id: '59591'
+    slug: 'una-aguja-en-un-pajar-es-dificil-de-encontrar',
+    id: 59591
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Una buena capa, todo lo tapa',
     tags: [
-      'Apariencias'
+      'Apariencia'
     ],
     meaning: 'Se puede encubrir muchas faltas con una buena apariencia.',
     usable: 'Poco usado',
     observations: 'Todo lo cubre y tapa la gran capa (El Quijote II 8).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59592&Lng=0',
-    id: '59592'
+    slug: 'una-buena-capa-todo-lo-tapa',
+    id: 59592
   },
   {
     proverb_type: 'Refrán',
@@ -22776,8 +22826,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59593&Lng=0',
-    id: '59593'
+    slug: 'una-cosa-es-enhebrar-y-otra-dar-puntadas',
+    id: 59593
   },
   {
     proverb_type: 'Refrán',
@@ -22790,8 +22840,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Algunos refranes geográficos aluden al incumplimiento de la palabra dada: El escudero de Guadalajara, de lo que promete a la noche no hay nada a la mañana. Los de Peñaranda, lo que dicen a la no che no lo cumplen a la mañana.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59162&Lng=0',
-    id: '59162'
+    slug: 'una-cosa-es-predicar-y-otra-dar-trigo',
+    id: 59162
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22804,8 +22854,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: 'La pérdida de una parte del refrán hace que la forma empleada en la actualidad se encuentre en la categoría de frase proverbial. Paremia citada en La Celestina VII 256. Una golondrina sola no hace verano (El Quijote I 13).',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59594&Lng=0',
-    id: '59594'
+    slug: 'una-golondrina-no-hace-verano',
+    id: 59594
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22818,8 +22868,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59595&Lng=0',
-    id: '59595'
+    slug: 'una-imagen-vale-mas-que-mil-palabras',
+    id: 59595
   },
   {
     proverb_type: 'Frase proverbial',
@@ -22832,8 +22882,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Una mano lava la otra y entrambas la cara (El Guzmán de Alfarache IV 31).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59596&Lng=0',
-    id: '59596'
+    slug: 'una-mano-lava-a-la-otra-y-ambas-la-cara',
+    id: 59596
   },
   {
     proverb_type: 'Refrán',
@@ -22846,22 +22896,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59597&Lng=0',
-    id: '59597'
+    slug: 'una-manzana-cada-dia-de-medico-te-ahorraria',
+    id: 59597
   },
   {
     proverb_type: 'Frase proverbial',
     language: 'Español',
     proverb: 'Una oveja mala, el rebaño entero daña',
     tags: [
-      'Compañías'
+      'Compañía'
     ],
     meaning: 'Alude a la influencia negativa que ejercen las malas compañías.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59598&Lng=0',
-    id: '59598'
+    slug: 'una-oveja-mala-el-rebano-entero-dana',
+    id: 59598
   },
   {
     proverb_type: 'Refrán',
@@ -22874,8 +22924,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Sbarbi («pared») registra la forma Pared blanca, papel de necios para aludir a los cuidados y gastos que implica la conservación de las paredes blancas, al ensuciarse con suma facilidad.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59599&Lng=0',
-    id: '59599'
+    slug: 'una-pared-blanca-sirve-al-loco-de-carta',
+    id: 59599
   },
   {
     proverb_type: 'Refrán',
@@ -22888,8 +22938,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'En el libro del Arcipreste de Talavera conocido como El Corbacho se lee: «Si no escarmientas, ¿qué culpa tienen los otros?».',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59600&Lng=0',
-    id: '59600'
+    slug: 'una-vez-enganan-al-cuerdo-y-dos-al-necio',
+    id: 59600
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -22902,8 +22952,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59601&Lng=0',
-    id: '59601'
+    slug: 'una-vez-te-casaras-y-mil-te-arrepentiras',
+    id: 59601
   },
   {
     proverb_type: 'Refrán',
@@ -22912,14 +22962,14 @@ export const PROVERBS_DATA = [
     tags: [
       'Beneficio',
       'Esfuerzo',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Hay personas que consiguen el fruto del trabajo realizado por otros.',
     usable: 'En desuso',
     observations: 'Este refrán alude a las cacerías en las que uno se encargan del ojeo, con el objeto de ahuyentar la caza para que vaya adonde están los cazadores dispuestos a disparar sobre ella.',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59602&Lng=0',
-    id: '59602'
+    slug: 'uno-levanta-la-caza-y-otro-la-mata',
+    id: 59602
   },
   {
     proverb_type: 'Refrán',
@@ -22932,8 +22982,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Citado en La Celestina XX 190, por Valdés 170. Uno cuida el bayo y otro el que lo ensilla (Libro de Buen Amor 179).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59603&Lng=0',
-    id: '59603'
+    slug: 'uno-piensa-el-bayo-y-otro-el-que-lo-ensilla',
+    id: 59603
   },
   {
     proverb_type: 'Refrán',
@@ -22947,8 +22997,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59604&Lng=0',
-    id: '59604'
+    slug: 'uno-y-ninguno-todo-es-uno',
+    id: 59604
   },
   {
     proverb_type: 'Refrán',
@@ -22962,8 +23012,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: 'Otro cría las galinas y vos coméis los pollos (La Lozana Andaluza 220).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59605&Lng=0',
-    id: '59605'
+    slug: 'unos-crian-gallinas-y-otros-se-comen-los-pollos',
+    id: 59605
   },
   {
     proverb_type: 'Refrán',
@@ -22977,8 +23027,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59606&Lng=0',
-    id: '59606'
+    slug: 'unos-lo-siembran-y-otros-lo-siegan',
+    id: 59606
   },
   {
     proverb_type: 'Refrán',
@@ -22991,8 +23041,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se emplea también la locución nacer con (buena) estrella.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59607&Lng=0',
-    id: '59607'
+    slug: 'unos-nacen-con-estrella-y-otros-estrellados',
+    id: 59607
   },
   {
     proverb_type: 'Refrán',
@@ -23005,8 +23055,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: 'Con motivo de la crisis, se ha jugado con la forma del refrán para indicar que cada uno busca su beneficio: Cada uno barre la casa y la casa sin barrer (escuchado en la radio, 15 de mayo de 2009).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59608&Lng=0',
-    id: '59608'
+    slug: 'unos-por-otros-la-casa-sin-barrer',
+    id: 59608
   },
   {
     proverb_type: 'Refrán',
@@ -23019,8 +23069,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59609&Lng=0',
-    id: '59609'
+    slug: 'unos-sirven-para-vendimiar-y-otros-para-sacar-cestos',
+    id: 59609
   },
   {
     proverb_type: 'Refrán',
@@ -23034,8 +23084,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59610&Lng=0',
-    id: '59610'
+    slug: 'unos-tanto-y-otros-tan-poco',
+    id: 59610
   },
   {
     proverb_type: 'Refrán',
@@ -23050,8 +23100,8 @@ export const PROVERBS_DATA = [
     usable: 'De uso actual',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59611&Lng=0',
-    id: '59611'
+    slug: 'unos-tienen-la-fama-y-otros-cardan-la-lana',
+    id: 59611
   },
   {
     proverb_type: 'Refrán',
@@ -23064,22 +23114,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59612&Lng=0',
-    id: '59612'
+    slug: 'uso-hace-maestro',
+    id: 59612
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Uvas con queso saben a beso',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Recomienda comer juntos estos alimentos.',
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59613&Lng=0',
-    id: '59613'
+    slug: 'uvas-con-queso-saben-a-beso',
+    id: 59613
   },
   {
     proverb_type: 'Refrán',
@@ -23092,8 +23142,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59614&Lng=0',
-    id: '59614'
+    slug: 'vanse-los-amores-y-quedan-los-dolores',
+    id: 59614
   },
   {
     proverb_type: 'Refrán',
@@ -23101,14 +23151,14 @@ export const PROVERBS_DATA = [
     proverb: 'Vase el bien al bien, y las abejas a la miel',
     tags: [
       'Felicidad',
-      'Negocios'
+      'Negocio'
     ],
     meaning: 'Se aplica a quien es feliz y tiene una situación económica muy desahogada, a quien tiene medios y puede enriquecerse aún más, y también a quien tiene riqueza y le favorece la suerte.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59615&Lng=0',
-    id: '59615'
+    slug: 'vase-el-bien-al-bien-y-las-abejas-a-la-miel',
+    id: 59615
   },
   {
     proverb_type: 'Proverbio',
@@ -23121,8 +23171,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'El que vee [sic] la mota en el ojo ajeno, vea la viga en el suyo (El Quijote II 43). Se trata de una frase bíblica (San Mateo 7, 3-5; San Lucas 6, 41).',
     comments: 'Esta paremia puede adoptar la forma de una locución: ver la paja en el ojo ajeno.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59616&Lng=0',
-    id: '59616'
+    slug: 'vemos-la-paja-en-el-ojo-ajeno-y-no-vemos-la-viga-en-el-nuestro',
+    id: 59616
   },
   {
     proverb_type: 'Refrán',
@@ -23135,8 +23185,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59617&Lng=0',
-    id: '59617'
+    slug: 'vida-sin-amigos-muerte-sin-testigos',
+    id: 59617
   },
   {
     proverb_type: 'Refrán',
@@ -23149,8 +23199,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59618&Lng=0',
-    id: '59618'
+    slug: 'viejo-es-pedro-para-cabrero',
+    id: 59618
   },
   {
     proverb_type: 'Refrán',
@@ -23163,51 +23213,51 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59619&Lng=0',
-    id: '59619'
+    slug: 'viento-y-ventura-poco-dura',
+    id: 59619
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Vinagre y miel saben mal y hacen bien',
     tags: [
-      'Medicina popular'
+      'Remedio'
     ],
-    meaning: 'Algunos remedios no son del agrado del enfermo, pero ayudan a sanarlo.',
+    meaning: 'Algunos remedio no son del agrado del enfermo, pero ayudan a sanarlo.',
     usable: 'En desuso',
     observations: 'La miel y el vinagre son muy utilizados en medicina popular. Así para eliminar las durezas de los pies, se aconseja bañar los pies con agua caliente con sal, vinagre, arcilla; para la bronquitis viene bien una cataplasma de cebolla y miel (Véase el artículo de Josep Hernández Ortega, «Una aproximación a la medicina popular...», Culturas populares, 4, 2007).',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59620&Lng=0',
-    id: '59620'
+    slug: 'vinagre-y-miel-saben-mal-y-hacen-bien',
+    id: 59620
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Vino por el color, el pan por el olor y todo por el sabor',
     tags: [
-      'Alimentos'
+      'Alimento'
     ],
     meaning: 'Explica la cualidad que ayuda a conocer el pan y el vino y otros aspectos que entran en juego, como el sabor. La clave está en saborear los alimentos con varios sentidos.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59621&Lng=0',
-    id: '59621'
+    slug: 'vino-por-el-color-el-pan-por-el-olor-y-todo-por-el-sabor',
+    id: 59621
   },
   {
     proverb_type: 'Refrán',
     language: 'Español',
     proverb: 'Vistan un palo, y parecerá algo',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Belleza'
     ],
     meaning: 'Da a entender que, en ocasiones, el uso de adornos y una ropa adecuada contribuye a mejorar notablemente el aspecto físico. Dado que, con frecuencia se trata a las pesonas según se las ve, resulta importante una buena presentación.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59622&Lng=0',
-    id: '59622'
+    slug: 'vistan-un-palo-y-parecera-algo',
+    id: 59622
   },
   {
     proverb_type: 'Refrán',
@@ -23221,8 +23271,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59623&Lng=0',
-    id: '59623'
+    slug: 'visteme-despacio-que-tengo-prisa',
+    id: 59623
   },
   {
     proverb_type: 'Refrán',
@@ -23236,23 +23286,23 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59624&Lng=0',
-    id: '59624'
+    slug: 'viva-la-gallina-y-viva-con-su-pepita',
+    id: 59624
   },
   {
     proverb_type: 'Refrán dialogado',
     language: 'Español',
     proverb: 'Ya que no seas casto, sé cauto',
     tags: [
-      'Apariencias',
+      'Apariencia',
       'Discreción'
     ],
     meaning: 'Recomienda tratar de ser discreto o evitar el escándalo a quien posee algún defecto o no domina su lujuria.',
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59625&Lng=0',
-    id: '59625'
+    slug: 'ya-que-no-seas-casto-se-cauto',
+    id: 59625
   },
   {
     proverb_type: 'Refrán',
@@ -23265,8 +23315,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59626&Lng=0',
-    id: '59626'
+    slug: 'yegua-cansada-prado-halla',
+    id: 59626
   },
   {
     proverb_type: 'Refrán',
@@ -23275,14 +23325,14 @@ export const PROVERBS_DATA = [
     tags: [
       'Apreciación',
       'Intromisión',
-      'Oficios'
+      'Oficio'
     ],
     meaning: 'Cada uno debe ocuparse de sus asuntos, de su profesión y opinar sólo de lo que entiende, evitando meterse en lo que no le afecta ni entiende.',
     usable: 'Muy usado',
     observations: 'Al parecer, este refrán procede de una anécdota en la que participaron un zapatero y el pintor griego Apeles (siglo IV a. C.). A raíz de un comentario del zapatero, el pintor rectificó en uno de sus cuadros la hechura de una sandalia. Pero el pintor se vio obligado a acallar los comentarios posteriores del zapatero sobre la obra, pues aludían a cuestiones ajenas a su oficio, y recomendarle que se ocupara sólo de lo que entendía, los zapatos.',
     comments: 'En los súltimos años se ha aumentado su uso al coincidir el oficio con el apellido de un político.',
-    url: 'https://cvc.cervantes.es/lengua/refranero/ficha.aspx?Par=59627&Lng=0',
-    id: '59627'
+    slug: 'zapatero-a-tus-zapatos',
+    id: 59627
   },
   {
     proverb_type: 'Refrán',
@@ -23296,7 +23346,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '—Antes he yo oído decir —dijo don Quijote— que quien canta sus males espanta. —Acá es al revés —dijo el galeote—, que quien canta una vez llora toda la vida. —No lo entiendo —dijo don Quijote. (Capt. XXII)',
     comments: '',
-    id: '1'
+    slug: 'quien-canta-su-mal-espanta',
+    id: 1
   },
   {
     proverb_type: 'Refrán',
@@ -23309,7 +23360,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    id: '2'
+    slug: 'las-cosas-claras-y-el-chocolate-espeso',
+    id: 2
   },
   {
     proverb_type: 'Refrán dialogado',
@@ -23323,7 +23375,8 @@ export const PROVERBS_DATA = [
     usable: 'Muy usado',
     observations: '',
     comments: '',
-    id: '3'
+    slug: 'ni-tanto-ni-tan-calvo',
+    id: 3
   },
   {
     proverb_type: 'Refrán',
@@ -23338,7 +23391,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se puede decir enunciando sólo la primera parte: Cuando al soldado lo llaman de usted...',
-    id: '4'
+    slug: 'cuando-al-soldado-lo-llaman-de-usted-o-lo-han-jodido-o-lo-quieren-joder',
+    id: 4
   },
   {
     proverb_type: 'Refrán',
@@ -23352,7 +23406,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: '',
     comments: 'Se puede decir enunciando sólo la primera parte: Cuando las ganas de joder aprietan...',
-    id: '5'
+    slug: 'cuando-las-ganas-de-joder-aprietan-ni-el-culo-de-los-muertos-se-respeta',
+    id: 5
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -23365,7 +23420,8 @@ export const PROVERBS_DATA = [
     usable: 'Poco usado',
     observations: 'Mes muy frío y seco, de poco sol. Enero suele ser el mes del año con la temperatura media más baja, con fuertes heladas nocturnas.',
     comments: '',
-    id: '6'
+    slug: 'sol-de-enero-poco-duradero',
+    id: 6
   },
   {
     proverb_type: 'Refrán meteorológico',
@@ -23378,7 +23434,8 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    id: '7'
+    slug: 'en-diciembre-no-hay-valiente-que-no-tiemble',
+    id: 7
   },
   {
     proverb_type: 'Aforismo',
@@ -23392,18 +23449,22 @@ export const PROVERBS_DATA = [
     usable: 'En desuso',
     observations: '',
     comments: '',
-    id: '8'
+    slug: 'haz-el-bien-sin-mirar-a-quien',
+    id: 8
   },
   {
     proverb_type: 'Refrán dialogado',
     language: 'Español',
     proverb: 'Para lo que me queda en el convento, me cago dentro',
     tags: [
+      'Oportunidad',
+      'Osadía'
     ],
-    meaning: 'Se emplea para indicar que, cuando a uno le queda poco tiempo para disfrutar de algo, no le importa hacer lo que le apetece, aunque sea incorrecto.',
+    meaning: 'Se emplea para indicar que, cuando a uno le queda poco tiempo para disfrutar de algo, no le importa hacer lo que le apetece, aunque no sea lo correcto.',
     usable: 'Muy usado',
-    observations: '',
-    comments: 'Se puede decir enunciando sólo la primera parte: Para lo que me queda en el convento...',
-    id: '9'
+    observations: 'Se desconoce la autoría de tal expresión, pero cabe explicar que la vida dentro del convento no la soporta cualquiera, hay unas normas muy estrictas y adaptarse a ese estilo de vida puede resultar imposible para muchas personas, y de hecho, muchas de ellas se han acabado saliendo y otras han sido expulsadas por comportamientos deshonestos. Posiblemente esta frase se dijera por primera vez en una situación de este estilo.',
+    comments: 'Cuando llevas cierto tiempo en una empresa, en una oficina, en un vecindario, en un gimnasio o en cualquier tipo de organización y sabes que te queda poco tiempo para continuar en ese lugar, si no podías decir o hacer ciertas cosas por miedo a posibles consecuencias negativas, es el momento idóneo para relajarte o desahogarte, en ese momento dices: “para lo que me queda en el convento me cago dentro”, pero al ser una expresión tan grosera, normalmente lo acortamos diciendo “para lo que me queda en el convento…”',
+    slug: 'para-lo-que-me-queda-en-el-convento-me-cago-dentro',
+    id: 9
   }
 ]

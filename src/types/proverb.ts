@@ -8,7 +8,8 @@ export type Proverb = {
     observations: string;
     comments:     string;
     url:          string;
-    id:           string;
+    slug:         string;
+    id:           number;
 }
 
 export enum Language {

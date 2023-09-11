@@ -30,32 +30,28 @@ const links = [
 ]
 ---
 
-<header class="py-2 px-6 mx-auto max-w-3xl">
-    <div class="mx-auto text-center mb-9">
-        <section class="pt-20 pb-10">
-            <h2
-                class="mb-4 text-6xl tracking-tight font-extrabold text-stone-700"
-            >
-                Refranero Español
-            </h2>
-            <p class="font-light text-stone-500 text-sm lg:text-lg italic">
-                (refrain) m. Dicho agudo y sentencioso de uso común.
-            </p>
-        </section>
-
-        <nav class="mt-5 flex flex-row flex-wrap-reverse sm:flex-wrap items-center justify-center gap-4 w-full text-center" role="menu">
-            {links.map(({ href, text, classes }) => (
-                    <HeaderButton 
-                        href={href === '/aleatorio' && Astro.url.pathname === '/aleatorio' ? 'javascript:window.location.reload(true)' : href}} 
-                        classes={`${classes} ${Astro.url.pathname === href ? 'bg-stone-400/50' : ''}`}>
-                        {text}
-                    </HeaderButton>
-            ))}
-        </nav>
+<header class="py-2 px-6 mx-auto max-w-3xl text-center">
+    <div class="pt-20 pb-10">
+        <h1 class="mb-4 text-6xl tracking-tight font-extrabold text-stone-700">
+            Refranero Español
+        </h2>
+        <p class="font-light text-stone-500 text-sm lg:text-lg italic">
+            (refrain) m. Dicho agudo y sentencioso de uso común.
+        </p>
     </div>
 
+    <nav class="mt-5 flex flex-row flex-wrap-reverse sm:flex-wrap items-center justify-center gap-4 w-full text-center" role="menu">
+        {links.map(({ href, text, classes }) => (
+                <HeaderButton 
+                    href={href === '/aleatorio' && Astro.url.pathname === '/aleatorio' ? 'javascript:window.location.reload(true)' : href}} 
+                    classes={`${classes} ${Astro.url.pathname === href ? 'bg-stone-400/50' : ''}`}>
+                    {text}
+                </HeaderButton>
+        ))}
+    </nav>
+
     <!-- Separator -->
-    <div class="inline-flex items-center justify-center w-full mb-4">
+    <div class="inline-flex items-center justify-center w-full mb-4 mt-12" role="separator">
         <hr class="w-full h-1 bg-stone-300 border-0 rounded" />
         <div class="absolute px-4 -translate-x-1/2 bg-stone-200 rounded-full left-1/2">
             <svg class="w-4 h-4 text-stone-400 rotate-180" aria-hidden="true" fill="currentColor" viewBox="0 0 18 14">

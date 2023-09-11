@@ -6,6 +6,7 @@ import { PROVERBS_DATA } from "../../data/proverbs.js";
 
 const refranes = PROVERBS_DATA as Proverb[];
 const { letter } = Astro.params as { letter: string };
+export const alphabet = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ';
 
 const refranesByLetter = refranes.filter((refran) => {
     const firstLetter = refran.proverb.charAt(0).toUpperCase();
@@ -14,8 +15,7 @@ const refranesByLetter = refranes.filter((refran) => {
 
 // Generate static paths for all tags
 export function getStaticPaths() {
-    const alphabet = 'ABCDEFGHIJKLMNÑOPQRSTUVWXYZ'.split('');
-    return alphabet.map((character) => ({ params: { letter: character } }));
+    return alphabet.split('').map((character) => ({ params: { letter: character } }));
 }
 ---
 
@@ -39,7 +39,7 @@ export function getStaticPaths() {
             meaning={refran.meaning}
             type={refran.proverb_type}
             usable={refran.usable}
-            href={`/refran/${refran.id}`}>
+            href={`/refran/${refran.slug}`}>
 
             {refran.proverb}
 
