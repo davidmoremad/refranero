@@ -17,12 +17,3 @@
 ---
 
 Los refranes y proverbios se han obtenido mayoritariamente del [Centro Virtual del Instituto Cervantes (cvc.cervantes.es)](https://cvc.cervantes.es/lengua/refranero/) aunque se han añadido algunos más de otras fuentes.
-
-
-## API
-
-```
-https://refranero-mu.vercel.app/api/refranes.json
-https://refranero-mu.vercel.app/api/aleatorio.json
-https://refranero-mu.vercel.app/api/refranes/{id}.json
-```
