@@ -22,6 +22,7 @@ Los refranes y proverbios se han obtenido mayoritariamente del [Centro Virtual d
 ## API
 
 ```
-https://refranero-mu.vercel.app/api/refranes
-https://refranero-mu.vercel.app/api/refranes/{id}
+https://refranero-mu.vercel.app/api/refranes.json
+https://refranero-mu.vercel.app/api/aleatorio.json
+https://refranero-mu.vercel.app/api/refranes/{id}.json
 ```
