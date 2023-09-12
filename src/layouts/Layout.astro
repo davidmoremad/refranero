@@ -8,15 +8,19 @@ import BaseHead from "../components/BaseHead.astro";
 interface Props {
 	title?: string;
 	description?: string;
+	ogImage?: string;
 }
 
-const { title = "Refranero Español", description = "Listado de refranes y proverbios españoles" } = Astro.props;
+const {
+	title = "Refranero Español",
+	description = "Listado de refranes y proverbios españoles",
+	ogImage} = Astro.props;
 ---
 
 <!doctype html>
 <html lang="es">
 	<head>
-		<BaseHead title={title} description={description} />
+		<BaseHead title={title} description={description} ogimage={ogImage}/>
 		<ViewTransitions />
 	</head>
 	<body class="font-serif bg-stone-200">

@@ -8,7 +8,7 @@ import metaimage from '../public/metaimage.png';
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
-const { title, description} = Astro.props;
+const { title, description, ogimage} = Astro.props;
 ---
 <meta charset="UTF-8" />
 <meta name="description" content={description} />
@@ -34,12 +34,12 @@ const { title, description} = Astro.props;
 <meta property="og:title" content={title} />
 <meta property="og:type" content="article" />
 <meta property="og:url" content={`${Astro.url.origin}${Astro.url.pathname}`} />
-<meta property="og:image" content={`${Astro.url.origin}${metaimage.src}`} />
+<meta property="og:image" content={ ogimage ? `${Astro.url.origin}${ogimage}` : `${Astro.url.origin}${metaimage.src}`} />
 <meta property="og:description" content={description} />
 
-<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:site" content="@davidmoremad" />
-<meta name="twitter:image" content={`${Astro.url.origin}${metaimage.src}`} />
+<meta name="twitter:image" content={ ogimage ? `${Astro.url.origin}${ogimage}` : `${Astro.url.origin}${metaimage.src}`} />
 <meta name="twitter:image:alt" content="Imagen del sitio web Refranero Español" />

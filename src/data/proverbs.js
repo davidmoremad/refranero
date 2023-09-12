@@ -6550,7 +6550,7 @@ export const PROVERBS_DATA = [
       'Mentira',
       'Desconfianza'
     ],
-    meaning: 'El mentiroso provoca enfado y desconfianza',
+    meaning: 'El mentiroso provoca enfado y desconfianza.',
     usable: 'En desuso',
     observations: 'No se cree al mentiroso, incluso cuando dice la verdad, como advierte el refrán Quien siempre me miente, nunca me engaña.',
     comments: '',
@@ -12044,7 +12044,7 @@ export const PROVERBS_DATA = [
     tags: [
       'Físico'
     ],
-    meaning: 'Recrimina la delgadez',
+    meaning: 'Recrimina la delgadez.',
     usable: 'En desuso',
     observations: '',
     comments: '',
@@ -19501,7 +19501,7 @@ export const PROVERBS_DATA = [
     tags: [
       'Recompensa'
     ],
-    meaning: 'Quien obra bien suele recibir su recompensa',
+    meaning: 'Quien obra bien suele recibir su recompensa.',
     usable: 'En desuso',
     observations: 'Siembra buenas obras, cogerás fruto de ellas (El Guzmán de Alfarache II 68).',
     comments: '',
@@ -22548,7 +22548,7 @@ export const PROVERBS_DATA = [
       'Apariencia',
       'Igualdad'
     ],
-    meaning: 'Este refrán alude a la igualdad de todos los seres humanos como tales, salvo por la apariencia externa o por algo accidental. Pese a tener todos un mismo origen, las clases sociales se distinguen por la educación y las riquezas. Por otra parte, el refrán puede tener el sentido de que nadie debe sentirse superior a los demás porque la única diferencia es muy superficial, la vestimenta. Advierte que no nos fiemos de las apariencias porque las reacciones humanas no se dominan fácilmente y personas ilustres y distinguidas pueden cometer iniquidades como cualquiera',
+    meaning: 'Este refrán alude a la igualdad de todos los seres humanos como tales, salvo por la apariencia externa o por algo accidental. Pese a tener todos un mismo origen, las clases sociales se distinguen por la educación y las riquezas. Por otra parte, el refrán puede tener el sentido de que nadie debe sentirse superior a los demás porque la única diferencia es muy superficial, la vestimenta. Advierte que no nos fiemos de las apariencias porque las reacciones humanas no se dominan fácilmente y personas ilustres y distinguidas pueden cometer iniquidades como cualquiera.',
     usable: 'En desuso',
     observations: 'La seda es tela fina y cara, de manera que al mencionarla se refiere indirectamente a quienes pueden usarla por su posición social o su buena situación económica.',
     comments: '',

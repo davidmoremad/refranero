@@ -16,9 +16,11 @@ export function getStaticPaths() {
     const allSlugs = PROVERBS_DATA.map((refran) => refran.slug);
     return allSlugs.map((slug) => ({ params: { slug: slug } }));
 }
+
+const image = `/refran/${refran.slug}.png`;
 ---
 
-<Layout title={refran.proverb} description={refran.meaning}>
+<Layout title={refran.proverb} description={refran.meaning} ogImage={image}>
 <main class="container max-w-3xl mx-auto">
     <BigQuote
         tags={refran.tags}
