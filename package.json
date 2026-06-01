@@ -16,7 +16,7 @@
     "tailwindcss": "3.0.24"
   },
   "engines": {
-    "node": ">=24.x"
+    "node": "24.x"
   },
   "devDependencies": {
     "@types/node": "^20.6.0",
